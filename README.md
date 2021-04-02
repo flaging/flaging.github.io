@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 福来鸽的简介
 
-You can use the [editor on GitHub](https://github.com/flaging/flaging.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+福来鸽是一个入门一年的搬砖工程师，靠自己的努力一点一点进步着。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [这里](./not_found) 是我的简历。
 
-### Markdown
+### 博客更新
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+博客尚未迁移完成。
 
-```markdown
-Syntax highlighted code block
+### [每日书签](./bookmark/index.md)
 
-# Header 1
-## Header 2
-### Header 3
+书签是每日收藏的一些网址，里面包含一些有趣的或者工作生活中有用的信息。
 
-- Bulleted
-- List
+### [每日订阅](./feed/index.md)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flaging/flaging.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+每日订阅是自己订阅的一些信息源，每日书签里的内容大部分都是从这里来的。
