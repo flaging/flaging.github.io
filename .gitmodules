@@ -1,3 +1,6 @@
 [submodule "bookmark"]
 	path = bookmark
 	url = https://github.com/flaging/bookmark.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/flaging/blog.git
