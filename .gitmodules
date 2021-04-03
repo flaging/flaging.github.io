@@ -1,0 +1,3 @@
+[submodule "bookmark"]
+	path = bookmark
+	url = https://github.com/flaging/bookmark.git
