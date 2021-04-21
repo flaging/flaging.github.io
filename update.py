@@ -5,9 +5,9 @@ import sys
 import os
 import time
 import sqlite3
-def parse_url(str1,file):
+def parse_url(str1,file, folder):
   data = feedparser.parse(str1)
-  sql_path ='.database/'+argv[0]+'.sqlite3'
+  sql_path ='.database/'+folder+'.sqlite3'
   if os.path.exists(sql_path):
     conn = sqlite3.connect(sql_path)
     cur = conn.cursor()
@@ -54,17 +54,17 @@ def parse_url(str1,file):
 
 def main(argv):
   localtime = time.localtime(time.time())
-  file_name =argv[0]+'/'+str(localtime.tm_year)+"/"+str(localtime.tm_mon)+'-'+str(localtime.tm_mday)+".md"
+  file_name =argv[1]+'/'+str(localtime.tm_year)+"/"+str(localtime.tm_mon)+'-'+str(localtime.tm_mday)+".md"
   is_exists = os.path.exists(file_name)
   file=open(file_name,"a")
   if not is_exists:
     file.write("\n## "+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday))
-  url_list = open(argv[0]+'/list.txt','r').read().splitlines()
+  url_list = open(argv[1]+'/list.txt','r').read().splitlines()
   for url in url_list:
-    parse_url(url, file, argv[0])
+    parse_url(url, file, argv[1])
   file.close()
   if not is_exists:
-    readme = open(argv[0]+"/bookmark.md","a")
+    readme = open(argv[1]+"/bookmark.md","a")
     readme.writelines("\n\n["+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"]("+file_name[10:]+")")
     readme.close()
   
