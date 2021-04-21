@@ -59,12 +59,12 @@ def main(argv):
   file=open(file_name,"a")
   if not is_exists:
     file.write("\n## "+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday))
-  url_list = open(argv[0]'/list.txt','r').read().splitlines()
+  url_list = open(argv[0]+'/list.txt','r').read().splitlines()
   for url in url_list:
     parse_url(url, file, argv[0])
   file.close()
   if not is_exists:
-    readme = open("argv[0]/bookmark.md","a")
+    readme = open(argv[0]+"/bookmark.md","a")
     readme.writelines("\n\n["+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"]("+file_name[10:]+")")
     readme.close()
   
