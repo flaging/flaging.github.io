@@ -430,3 +430,6 @@
 ### [GitHub - abersheeran/index.py: An easy-to-use high-performance asynchronous web framework.](https://github.com/abersheeran/index.py)
 
 ### [Writing an RPC From Scratch · Caffeinspiration](https://alexanderell.is/posts/rpc-from-scratch/)
+## 2021-4-22
+
+### [How to install the NVIDIA drivers on Ubuntu 21.04 - LinuxConfig.org](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-21-04)
