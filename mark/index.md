@@ -433,3 +433,8 @@
 ## 2021-4-22
 
 ### [How to install the NVIDIA drivers on Ubuntu 21.04 - LinuxConfig.org](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-21-04)
+## 2021-4-22
+
+### [How to install the NVIDIA drivers on Ubuntu 21.04 - LinuxConfig.org](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-21-04)
+
+### [OpenStax](https://openstax.org/)
