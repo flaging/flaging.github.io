@@ -6789,3 +6789,7 @@ Google AI Blog: Flexible, Scalable, Differentiable Simulation of Recommender Sys
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=737)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kdf2RoPSR)
+
+### [Are managed switches necessary for a Fat tree network topology? : HPC](https://www.reddit.com/r/HPC/comments/mlwsxc/are_managed_switches_necessary_for_a_fat_tree/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdfeF2ceh)
