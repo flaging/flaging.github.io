@@ -6723,3 +6723,69 @@ rust 如何处理【程序崩溃 panic】 - Rust语言中文社区
 ### [科技爱好者周刊（第 151 期）：NFT 是什么，听说能赚钱 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)
 
 ### [科技爱好者周刊（第 150 期）：当音乐还是稀缺的时候 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
+
+### [
+Google AI Blog: Flexible, Scalable, Differentiable Simulation of Recommender Systems with RecSim NG
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/v7ZbFA6i_DY/flexible-scalable-differentiable.html)
+
+### [None](http://download.sdk.mob.com/70a/323/71e926a13e8a1764cdcc7387ab/3242.89.pdf)
+
+### [None](http://download.sdk.mob.com/d17/c75/fc631b2ffe69255e8d122340fc/3396.26.pdf)
+
+### [None](http://download.sdk.mob.com/a7c/7bb/3e12f2594890339a1e213ff84c/2052.78.pdf)
+
+### [None](http://download.sdk.mob.com/c11/18f/a34ce0092e7f2cbcb7b2ad13c1/2425.03.pdf)
+
+### [None](http://download.sdk.mob.com/6b4/7e4/3de97b5ac9e5f05215f6eb751f/2590.32.pdf)
+
+### [None](http://download.sdk.mob.com/2ea/cf3/b6a7e23b7d608434cee816af6d/4465.05.pdf)
+
+### [None](http://download.sdk.mob.com/4ac/e67/8b6b4e9670aa55eae49dfc5ab1/4641.57.pdf)
+
+### [None](http://download.sdk.mob.com/9e5/140/ebc80f4b7aa30fc531671059e0/2844.54.pdf)
+
+### [None](http://download.sdk.mob.com/a0c/162/2ba7f720ea3cffce55f9c34055/3225.21.pdf)
+
+### [None](http://download.sdk.mob.com/aee/ad6/f3d7ffac5b8b7c1427ecfa6f22/3876.96.pdf)
+
+### [None](http://download.sdk.mob.com/904/b2f/11a6c5e9988b3da517d214f1df/2070.57.pdf)
+
+### [None](http://download.sdk.mob.com/812/718/85e04399a1e12803861f65d883/3202.51.pdf)
+
+### [None](http://download.sdk.mob.com/f77/eb8/09f1a3321a921ef123ee1a9c1e/2113.8.pdf)
+
+### [None](http://download.sdk.mob.com/663/1da/24271b88dafab4ef206a0a7e89/2113.23.pdf)
+
+### [None](http://download.sdk.mob.com/883/08b/13248ad9e3f077ab2e03528581/1137.38.pdf)
+
+### [None](http://download.sdk.mob.com/0af/ebc/d3a9a54094e79bfe2875dcc258/1438.91.pdf)
+
+### [None](http://download.sdk.mob.com/530/55b/dde322f388b50cf6139f1deb4c/1608.39.pdf)
+
+### [None](http://download.sdk.mob.com/c82/189/dde2b7de2161651bf2caceff05/5314.35.pdf)
+
+### [None](http://download.sdk.mob.com/db5/1c7/9a098a7d96b4be10aa0d399202/5266.24.pdf)
+
+### [None](http://download.sdk.mob.com/e5a/531/aea9913d7c816c723d73789c6f/7170.15.pdf)
+
+### [Poorly Drawn Lines – Something Amazing](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/xUW1IXjuEF0/)
+
+### [Poorly Drawn Lines – Rumors of a Snake](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/dLKuMGl-HZs/)
+
+### [Poorly Drawn Lines – That Hat](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/zdp3L_YqX1A/)
+
+### [Poorly Drawn Lines – The Greatest](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/3yUH7W0KYtg/)
+
+### [Poorly Drawn Lines – Nineties Called](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/mdZMaahbipk/)
+
+### [Poorly Drawn Lines – We’re Off](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/FpXeQ5GUKF8/)
+
+### [大佬们，求建议！目前我有一个口头 Offer，月薪 24, 000 港币 - V2EX](https://www.v2ex.com/t/774193)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=551)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=832)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=737)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kdf2RoPSR)
