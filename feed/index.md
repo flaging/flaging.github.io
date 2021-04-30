@@ -129,3 +129,5 @@
 ### [基于Kubernetes Operator的网易数帆生产级云原生中间件实践](https://www.infoq.cn/article/6989f2c38f3471967e50e2367)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdhNr3wcy)
+
+### [Transformer升级之路：从Performer到线性Attention - 知乎](https://zhuanlan.zhihu.com/p/369052186)
