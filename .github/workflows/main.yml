@@ -52,7 +52,7 @@ jobs:
             cat 'mark/'$(date "+%Y/%-m-%-d.md") > mark/index.md
           fi
           if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then
-            cat 'feed/'$(date "+%Y/%-m-%-d.md") > mark/index.md
+            cat 'feed/'$(date "+%Y/%-m-%-d.md") > feed/index.md
           fi
           git add .
       - name: git commit
