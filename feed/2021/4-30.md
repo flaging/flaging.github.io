@@ -303,3 +303,29 @@ rust引入httpserver - Rust语言中文社区
 ### [2021年4月30日新闻联播文字版](http://www.xwlb.net.cn/19351.html)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdkWh8ykp)
+
+### [Understanding Lambda function : pytorch](https://www.reddit.com/r/pytorch/comments/n1v2qd/understanding_lambda_function/)
+
+### [21金融研究丨银行一季报全景：银行业绩全线分化，8家收入下降 - 21财经](https://m.21jingji.com/article/20210430/herald/54af57b5bebb8b51244bb6b2033a2ad2.html)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1148)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1146)
+
+### [airtag 收到了,但是精确定位的距离也太弱鸡了.. - V2EX](https://www.v2ex.com/t/774311)
+
+### [
+【Rust日报】2021-04-30  Rust 月刊《Rust  中文精选》第四期发布 - Rust语言中文社区
+](https://rustcc.cn/article?id=209e06bd-ac23-43cc-b4a9-8baeb51f6211)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kdlgpj5AZ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdlIXex9J)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdlwkadOB)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdlkBfy11)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kdl7Yexuy)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kdl1SBabk)
