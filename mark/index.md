@@ -68,3 +68,52 @@
 ### [5.1特辑|为何显示有票你却抢不到？技术揭秘12306如何保证车票不超卖](https://www.infoq.cn/article/01f936ee5d2bfc2cc4d3b5b61)
 
 ### [颠覆微服务认知：深入思考微服务的七个主流观点](https://www.infoq.cn/article/ea8b68754a242361ea9c8a866)
+
+### [美团无人配送新车落地运营，毫末智行助力量产制造 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-29-10)
+
+### [现在入行CV还有前途吗？AI青年学者这样看「未来五年的计算机视觉」 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-29-9)
+
+### [150页在线书「几何深度学习」上线：利用对称性和不变性解决机器学习问题 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-30-9)
+
+### [英伟达老黄曾扬言「摩尔定律已死」，真如此吗？AI为其注入新血液 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-30-8)
+
+### [橡树岭国家实验室：进化神经网络技术授权通用汽车商用，助力辅助驾驶 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-30-6)
+
+### [毕业季，送你一份论文格式调整指南 - 少数派](https://sspai.com/post/66140)
+
+### [夏天来了，你们都去哪家网店买 纯色 100%棉 无任何印花 的短袖的啊？ - V2EX](https://www.v2ex.com/t/774217)
+
+### [怎么感觉现在随便一个软件就是 electron 写的 - V2EX](https://www.v2ex.com/t/774103)
+
+### [
+数学和理论物理学家找到了投资市场泡沫破灭的标志](http://jandan.net/p/108868)
+
+### [
+就连股票也模因，你听说过meme stocks吗](http://jandan.net/p/108870)
+
+### [
+今日好价 210430](http://jandan.net/p/108886)
+
+### [较真查证:美国将推出治疗新冠的口服液，5天100％清除病毒？](https://vp.fact.qq.com/article?id=4ee056d43adda14abea48770767ccf0d)
+
+### [较真查证:大规模接种新冠疫苗会加速病毒变异，使疫苗失效？](https://vp.fact.qq.com/article?id=a5fee20fee97b9099652ce5c89a2927e)
+
+### [较真查证:新冠变异体逃逸细胞免疫，对抗病毒的“两只手”废了？](https://vp.fact.qq.com/article?id=e9bd9b4a4db72f2fd2ffff2cf6a42ba6)
+
+### [较真查证:比利时卫生部长假装打疫苗被抓包？](https://vp.fact.qq.com/article?id=7b6f5736b8c32a360121c8c0d054d904)
+
+### [较真查证:辉瑞承认研发疫苗不为终结疫情，而是将其变成流行病？](https://vp.fact.qq.com/article?id=00fe63d82ba01c814cd607109b722f1d)
+
+### [较真查证:中美5月1日通航，疫苗护照互认不用隔离？](https://vp.fact.qq.com/article?id=94707041159b782ab971b93a7af5f676)
+
+### [较真查证:mRNA新冠疫苗改变人类基因，会引发ADE致死？](https://vp.fact.qq.com/article?id=715e13df49839d1566ec7b576a6e7a49)
+
+### [较真查证:新冠疫苗保护期只有半年？](https://vp.fact.qq.com/article?id=f223d80bd719e36b00f3d1e56354c9a3)
+
+### [较真查证:来自意大利的“真相”：“新冠”不是病毒，而是细菌？](https://vp.fact.qq.com/article?id=c55d5a3f7418a7c767146629ddaa5451)
+
+### [较真查证:法国的新冠变异株能逃避核酸检测？](https://vp.fact.qq.com/article?id=d3c6698eea6e9a017b49512fc5a22b34)
+
+### [技术|使用 Linux 自动化工具提高生产率](https://linux.cn/article-13347-1.html?utm_source=rss&utm_medium=rss)
+
+### [@所有开发者，重塑云开发生产力的黑科技来了！-InfoQ](https://www.infoq.cn/article/5JENEcRKZzL2PGtExZJw)
