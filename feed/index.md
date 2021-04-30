@@ -255,3 +255,11 @@ rust引入httpserver - Rust语言中文社区
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=780)
 
 ### [Dependency Injection in iOS and Android Apps - The Pragmatic Engineer](http://feedproxy.google.com/~r/ThePragmaticEngineer/~3/89dA5gA_wLE/)
+
+### [本周看什么丨最近值得一看的 5 部作品 - 少数派](https://sspai.com/post/66384)
+
+### [【国家发展改革委有关负责同志就《新时代中央国家机关及有关单位对口支援赣南等原中央苏区工作方案》答记者问】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202104/t20210430_1279100.html)
+
+### [【国务院办公厅印发《新时代中央国家机关及有关单位对口支援赣南等原中央苏区工作方案》】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202104/t20210430_1279099.html)
+
+### [硬核观察|硬核观察|曾经苹果也想让 Flash 运行在 iPhone 上](https://linux.cn/article-13348-1.html?utm_source=rss&utm_medium=rss)
