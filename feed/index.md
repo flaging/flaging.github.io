@@ -153,3 +153,15 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KdizG3XtY)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kdiz5qrQS)
+
+### [programming PyTorch for Deep Learning book : pytorch](https://www.reddit.com/r/pytorch/comments/n1oiz7/programming_pytorch_for_deep_learning_book/)
+
+### [关于“快递员对我说：你以后别在 PDD 买东西了，还要送上门”再展开说下，大家一起探讨 - V2EX](https://www.v2ex.com/t/774227)
+
+### [offer 决赛圈，求大家给点意见 - V2EX](https://www.v2ex.com/t/774124)
+
+### [编程会有“历史终结”的一天吗？-InfoQ](https://www.infoq.cn/article/SGt1tflZINPS6TqafRQD)
+
+### [编写高质量可维护的代码：一目了然的注释-InfoQ](https://www.infoq.cn/article/xv598cj5XSaiydUhZAWA)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdiNVwP22)
