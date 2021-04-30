@@ -253,3 +253,5 @@ rust引入httpserver - Rust语言中文社区
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=810)
 
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=780)
+
+### [Dependency Injection in iOS and Android Apps - The Pragmatic Engineer](http://feedproxy.google.com/~r/ThePragmaticEngineer/~3/89dA5gA_wLE/)
