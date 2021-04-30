@@ -38,3 +38,29 @@
 ### [Android 设备音视频兼容性适配](https://www.infoq.cn/article/3efec5be3765c1c2ea55b4fb0)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdgCq9oJY)
+
+### [机器之心x蜂巢能源|「蜂巢能源产业智能+全球加速计划」正式启动 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-30-7)
+
+### [案例 | 保险智能平台：基于NLP技术构建智能坐席辅助工具 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-30-5)
+
+### [这家初创公司利用AI谈判系统帮沃尔玛等巨头省了数百万美元 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-30-4)
+
+### [保时捷将打造自研能源体系，追求更高性能及快充能力 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-30-3)
+
+### [多家车企认为「驾驶员监控设备」应成标配，呼吁特斯拉消除Autopilot误导性 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-30-2)
+
+### [是否可以利用 14 天无理由体验 AirPods pro，适合退了再在其他平台入手 - V2EX](https://www.v2ex.com/t/774244)
+
+### [百度搜索疯了! 搜索结果几十页全部都是百家号! 无一任何其他网站 - V2EX](https://www.v2ex.com/t/774118)
+
+### [这个五一的火车票是不是特别难抢啊。。。。 - V2EX](https://www.v2ex.com/t/774086)
+
+### [4月30日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0430/135103.shtml)
+
+### [Sina Visitor System](https://weibo.com/6543823943/Kdh2uvXms)
+
+### [技术|如何在 Linux 中删除分区](https://linux.cn/article-13346-1.html?utm_source=rss&utm_medium=rss)
+
+### [WebAssembly + Dapr = 下一代云原生运行时？](https://www.infoq.cn/article/c085397eec5172d2c1d95de11)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kdh0Pk0da)
