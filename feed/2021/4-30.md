@@ -131,3 +131,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KdhNr3wcy)
 
 ### [Transformer升级之路：从Performer到线性Attention - 知乎](https://zhuanlan.zhihu.com/p/369052186)
+
+### [前两天看见有人用 react 写了个网页版 Ubuntu，迫于不会用 react，我用 vue 写了个网页版 Deepin - V2EX](https://www.v2ex.com/t/774285)
+
+### [领域驱动设计（DDD）在百度爱番番的实践](https://www.infoq.cn/article/bf97ac8a495f9e8e9f8bb0d77)
+
+### [【译】让React组件如文档般展示的6大工具 - SegmentFault 思否](https://segmentfault.com/a/1190000020249771)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdibGyrL4)
