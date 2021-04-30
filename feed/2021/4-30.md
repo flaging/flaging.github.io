@@ -362,3 +362,5 @@ rust引入httpserver - Rust语言中文社区
 ### [Solving multidimensional PDEs in pytorch : pytorch](https://www.reddit.com/r/pytorch/comments/n21g4m/solving_multidimensional_pdes_in_pytorch/)
 
 ### [Extending multiprocessing to mpi4py in python : HPC](https://www.reddit.com/r/HPC/comments/n21j8u/extending_multiprocessing_to_mpi4py_in_python/)
+
+### [编写高质量可维护的代码：数据建模-InfoQ](https://www.infoq.cn/article/0XlXJ1LtwNLfmq5DyXMM)
