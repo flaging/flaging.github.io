@@ -293,3 +293,13 @@ rust引入httpserver - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KdkxQ4S6w)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KdkDFwjJg)
+
+### [iPad 选购指南 · 2021 年 4 月丨SoberStudio - 少数派](https://sspai.com/post/66364)
+
+### [In house versus cloud : HPC](https://www.reddit.com/r/HPC/comments/n1trdt/in_house_versus_cloud/)
+
+### [ի--ͼ20210430˵ıͨ](https://www.dapenti.com/blog/more.asp?name=xilei&id=156679)
+
+### [2021年4月30日新闻联播文字版](http://www.xwlb.net.cn/19351.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdkWh8ykp)
