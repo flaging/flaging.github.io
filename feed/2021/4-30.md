@@ -263,3 +263,33 @@ rust引入httpserver - Rust语言中文社区
 ### [【国务院办公厅印发《新时代中央国家机关及有关单位对口支援赣南等原中央苏区工作方案》】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202104/t20210430_1279099.html)
 
 ### [硬核观察|硬核观察|曾经苹果也想让 Flash 运行在 iPhone 上](https://linux.cn/article-13348-1.html?utm_source=rss&utm_medium=rss)
+
+### [碧梨新歌首发速递！《Your Power》 - 新片场](https://www.vmovier.com/62001)
+
+### [冲破黑暗 Out of Darkness - 新片场](https://www.vmovier.com/62000)
+
+### [超治愈！看完开心一整天《悬崖垂钓》 - 新片场](https://www.vmovier.com/61992)
+
+### [音乐究竟是什么？| 网易云音乐8周年 - 新片场](https://www.vmovier.com/61995)
+
+### [不正常人类脑洞合集2《非人哉》 - 新片场](https://www.vmovier.com/61961)
+
+### [日薪208万你酸了吗《关于“财富”》 - 新片场](https://www.vmovier.com/61983)
+
+### [相机装备库又添新品《最帅无人机测评》 - 新片场](https://www.vmovier.com/61963)
+
+### [超震撼延时摄影短片《极乐世界》 - 新片场](https://www.vmovier.com/61972)
+
+### [TED创始人亲授《演讲的4个秘诀》 - 新片场](https://www.vmovier.com/61949)
+
+### [该不该预购 iPad pro 呢 - V2EX](https://www.v2ex.com/t/774282)
+
+### [2021年4月30日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1872880.shtml)
+
+### [Sina Visitor System](https://weibo.com/6543823943/KdkIZ0XEI)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdkJCgG52)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdkxQ4S6w)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KdkDFwjJg)
