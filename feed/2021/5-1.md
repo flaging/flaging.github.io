@@ -36,3 +36,13 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/KdpPkhVrm)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KdpOGDNmR)
+
+### [免费开源图片压缩工具 Squoosh 离线版 - 小众软件](https://www.appinn.com/squoosh-desktop-app/)
+
+### [Benchmarking TCP/IP vs. RDMA : HPC](https://www.reddit.com/r/HPC/comments/n29o0t/benchmarking_tcpip_vs_rdma/)
+
+### [前端”程序媛“交流群，欢迎小姐姐加入 - V2EX](https://www.v2ex.com/t/774314)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KdqqL5Hl8)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kdqr7fm50)
