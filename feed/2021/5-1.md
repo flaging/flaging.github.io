@@ -46,3 +46,5 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KdqqL5Hl8)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kdqr7fm50)
+
+### [Faiss源码剖析：类结构分析](https://www.infoq.cn/article/dc677d44a32165d2d8a530486)
