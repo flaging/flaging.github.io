@@ -95,3 +95,5 @@
 ### [Gartner发布2021年八大安全和风险管理趋势](https://www.infoq.cn/article/6d42ee875b515940049bd519c)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdrChk6RQ)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5859/)
