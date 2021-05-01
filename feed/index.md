@@ -79,3 +79,5 @@
 ### [漫游语音识别技术——带你走进语音识别技术的世界](https://www.infoq.cn/article/626e64a43102e1309b02500a7)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdqPyfHUE)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdrdSFpFh)
