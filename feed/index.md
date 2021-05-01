@@ -81,3 +81,17 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KdqPyfHUE)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdrdSFpFh)
+
+### [小镇青年数据报告：41.2%的女性表示能够接受单身终老 - 21财经](https://m.21jingji.com/article/20210501/herald/5a8b64cbfc363816b3ac89fcdf61831b.html)
+
+### [想选学一门第二语言作为拓展用，我该选什么语言（主业是 Java ）？ - V2EX](https://www.v2ex.com/t/774461)
+
+### [AGA 在全国各地的电信都开始路由到新加坡了 - V2EX](https://www.v2ex.com/t/774456)
+
+### [
+这里为什么要Option，看完教程还是不懂？ - Rust语言中文社区
+](https://rustcc.cn/article?id=f396020a-5d43-4893-aaf1-807f5522302a)
+
+### [Gartner发布2021年八大安全和风险管理趋势](https://www.infoq.cn/article/6d42ee875b515940049bd519c)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdrChk6RQ)
