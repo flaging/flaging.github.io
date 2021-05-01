@@ -48,3 +48,34 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kdqr7fm50)
 
 ### [Faiss源码剖析：类结构分析](https://www.infoq.cn/article/dc677d44a32165d2d8a530486)
+
+### [iOS 的部分照片权限觉得很拉垮啊，非得 app 做好完美适配，不能默认所有照片可见，在选择确定之前都是系统控制范围内，确定后才让 app 可得已选照片么，现在都是一开始选好部分照片，后面有新照片繁琐的一批，逼得我开全部照片权限 - V2EX](https://www.v2ex.com/t/774450)
+
+### [最近准备养猫，应该去什么地方买呢，大家有推荐的宠物店吗?
+价格 1-2k 的普通猫就好了，最多不超过 3k， 不考虑领养。 - V2EX](https://www.v2ex.com/t/774433)
+
+### [搞了一个五秒盾方案，大伙帮忙看看都有哪些漏洞。 - V2EX](https://www.v2ex.com/t/774411)
+
+### [今天遇到了一个 curl 的问题，感觉有点坑 - V2EX](https://www.v2ex.com/t/774403)
+
+### [五年 PHP ，看了一下招聘行情，快要放弃最好的语言了 - V2EX](https://www.v2ex.com/t/774356)
+
+### [sim 卡语音通话端对端加密有没有搞头呢 - V2EX](https://www.v2ex.com/t/774350)
+
+### [青岛喝啤酒吃海鲜的推荐 - V2EX](https://www.v2ex.com/t/774341)
+
+### [
+今日好价：iPad pro](http://jandan.net/p/108892)
+
+### [
+奈飞3月份的纪录片宣称：2048年海洋里的鱼将被人类捕光](http://jandan.net/p/108890)
+
+### [新闻|Ubuntu MATE 21.04 更新，多项新功能来袭](https://linux.cn/article-13349-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+新人求助! 安装wasm-pack失败 - Rust语言中文社区
+](https://rustcc.cn/article?id=e7a487c0-20a0-48d5-8271-44b2d8e34665)
+
+### [漫游语音识别技术——带你走进语音识别技术的世界](https://www.infoq.cn/article/626e64a43102e1309b02500a7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdqPyfHUE)
