@@ -36,3 +36,5 @@
 ### [你在 GitHub 上看到过的最有意思的项目是什么？ - 知乎](https://www.zhihu.com/question/23498424/answer/48260405?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
 
 ### [Vision Transformer 超详细解读 (原理分析+代码解读) (十) - 知乎](https://zhuanlan.zhihu.com/p/367733889)
+
+### [What Is a Gradient in Machine Learning?](https://machinelearningmastery.com/gradient-in-machine-learning/)
