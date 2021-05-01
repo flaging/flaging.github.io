@@ -38,3 +38,9 @@
 ### [Vision Transformer 超详细解读 (原理分析+代码解读) (十) - 知乎](https://zhuanlan.zhihu.com/p/367733889)
 
 ### [What Is a Gradient in Machine Learning?](https://machinelearningmastery.com/gradient-in-machine-learning/)
+
+### [五折交叉验证/K折交叉验证， python代码到底怎么写](https://juejin.cn/post/6956209296564584462)
+
+### [Transformer升级之路：从Performer到线性Attention - 知乎](https://zhuanlan.zhihu.com/p/369052186)
+
+### [GitHub - bytedance/lightseq: LightSeq: A High-Performance Inference Library for Sequence Processing and Generation](https://github.com/bytedance/lightseq)
