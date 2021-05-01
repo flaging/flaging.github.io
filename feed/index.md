@@ -235,3 +235,14 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KdvlaF6Eb)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kdv9rexOj)
+
+### [
+高等教育不会延缓大脑的萎缩](http://jandan.net/p/108877)
+
+### [技术|使用 Apache Kafka 和 SigNoz 实现应用可观测性](https://linux.cn/article-13352-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdvW7kvwV)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdvJx1pBS)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdvxOomFC)
