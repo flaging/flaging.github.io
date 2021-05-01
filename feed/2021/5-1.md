@@ -147,3 +147,7 @@
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1150)
 
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1149)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdtMX03z7)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdtCFCixR)
