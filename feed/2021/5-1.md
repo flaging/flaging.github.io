@@ -97,3 +97,18 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KdrChk6RQ)
 
 ### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5859/)
+
+### [快乐飞旅行报告 01：广州的早茶可以从早喝到晚 - 少数派](https://sspai.com/post/66203)
+
+### [老婆创业，求一个珠宝品牌的名字(中英文)，被采纳 60 块红包 - V2EX](https://www.v2ex.com/t/774466)
+
+### [写前端真的想吐... - V2EX](https://www.v2ex.com/t/774387)
+
+### [
+南极冰层溶解导致海面的上升，比预想的严重](http://jandan.net/p/108895)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1066)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1065)
+
+### [Kubernetes 上如何控制容器的启动顺序？](https://www.infoq.cn/article/22a084f0fb95b3e7cf01a85b9)
