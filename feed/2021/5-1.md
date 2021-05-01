@@ -143,3 +143,7 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KdtkeEuin)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kdtwp4evD)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1150)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1149)
