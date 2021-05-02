@@ -180,3 +180,7 @@
 ### [工作十年，收入终于突破 1 狗了。我怕随着我技术越来越厉害，会不会越来越少公司能请得起我。 - V2EX](https://www.v2ex.com/t/774667)
 
 ### [关于 https 双向认证的细节 - V2EX](https://www.v2ex.com/t/774653)
+
+### [Can nn.RNN handle variable length inputs? : pytorch](https://www.reddit.com/r/pytorch/comments/n3f3ve/can_nnrnn_handle_variable_length_inputs/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdGW30HJL)
