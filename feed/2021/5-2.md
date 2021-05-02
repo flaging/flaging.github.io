@@ -87,3 +87,7 @@
 ### [我觉得我思路错了，我不幻想 macos 上 m1 iPad pro 了！ - V2EX](https://www.v2ex.com/t/774619)
 
 ### [想要自学 Python ，该从哪里入手比较快呢？ - V2EX](https://www.v2ex.com/t/774569)
+
+### [
+进化的 Http Server : 五 异步优雅停机优化 - Rust语言中文社区
+](https://rustcc.cn/article?id=16c181cb-dce2-4e0f-a0c1-d5ba1ed4d604)
