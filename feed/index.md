@@ -81,3 +81,9 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KdCdn54NF)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KdC1Zu7jp)
+
+### [我记故我在：数据化时代的自我管理 - 少数派](https://sspai.com/post/66293)
+
+### [我觉得我思路错了，我不幻想 macos 上 m1 iPad pro 了！ - V2EX](https://www.v2ex.com/t/774619)
+
+### [想要自学 Python ，该从哪里入手比较快呢？ - V2EX](https://www.v2ex.com/t/774569)
