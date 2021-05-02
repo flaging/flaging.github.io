@@ -139,3 +139,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KdDAC235V)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdEbAEHEX)
+
+### [硬核观察|硬核观察|AI 赢得填字游戏冠军](https://linux.cn/article-13354-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdEjFi0ek)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdEj7i0kz)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KdEjziZc4)
