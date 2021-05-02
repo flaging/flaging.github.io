@@ -22,3 +22,11 @@
 ### [扒一扒GES如何赋能互联网电商风控-云社区-华为云](https://bbs.huaweicloud.com/blogs/261502)
 
 ### [Faiss源码剖析：类结构分析](https://juejin.cn/post/6956781618405048351)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247555831&idx=2&sn=7aa502091bb919932cf2607edbaf27a4&chksm=fc86fbe4cbf172f2f0f96ee9dca894afba9cc614bb3142fd8f7981dd3f1160fff40b939411df#rd)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247555831&idx=6&sn=b6113614a59aa07f4e6b235772895016&chksm=fc86fbe4cbf172f22af9ed05382cd8842cb4fd2d9df6515601288320b84a4262b7bbe92e5f13#rd)
+
+### [GitHub - facebookresearch/dino: PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO](https://github.com/facebookresearch/dino)
