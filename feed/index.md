@@ -147,3 +147,21 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KdEj7i0kz)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KdEjziZc4)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1152)
+
+### [iPad Pro 11 寸 or12.9 寸，大家是怎么取舍的。 - V2EX](https://www.v2ex.com/t/774662)
+
+### [今年第一次接到诈骗电话，被报出个人信息，感觉很不爽 - V2EX](https://www.v2ex.com/t/774623)
+
+### [2021年5月2日新闻联播文字版](http://www.xwlb.net.cn/19379.html)
+
+### [
+为什么rust断定trait实现有可能重复？ - Rust语言中文社区
+](https://rustcc.cn/article?id=4a596c5c-f692-4778-ab57-8279ec3026ef)
+
+### [
+我对多线程清洗的官方教程有一个疑问。 - Rust语言中文社区
+](https://rustcc.cn/article?id=938ae25e-75ea-42c8-86eb-a3666a97f7de)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdEzU2B71)
