@@ -184,3 +184,5 @@
 ### [Can nn.RNN handle variable length inputs? : pytorch](https://www.reddit.com/r/pytorch/comments/n3f3ve/can_nnrnn_handle_variable_length_inputs/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdGW30HJL)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdH22DIMi)
