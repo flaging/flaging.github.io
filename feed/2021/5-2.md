@@ -53,3 +53,17 @@
 今日好价：罗技G304](http://jandan.net/p/108897)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdAEqrzle)
+
+### [封闭、缺少代码审查，硕士刚毕业的「老」工程师揭露ML残酷现状 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-02-3)
+
+### [脑机接口首次实现无线连接，「意念控制」走入现实 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-02-2)
+
+### [高光压制、清晰边界、任意场景，谷歌人像抠图新作！有了它，以后五一足不出户游世界 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-02)
+
+### [只做最纯净的稍后阅读器《Again》 - 小众软件](https://www.appinn.com/again-for-ios/)
+
+### [网络卡的时候连路由器管理页面都进不去是家用路由器的通病还是家用低端路由器的通病? - V2EX](https://www.v2ex.com/t/774596)
+
+### [Airtag 放车里不好用 - V2EX](https://www.v2ex.com/t/774545)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdB2KCYrO)
