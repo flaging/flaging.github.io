@@ -165,3 +165,14 @@
 ](https://rustcc.cn/article?id=938ae25e-75ea-42c8-86eb-a3666a97f7de)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdEzU2B71)
+
+### [Building a variational autoencoder (VAE) in PyTorch : pytorch](https://www.reddit.com/r/pytorch/comments/n39gpb/building_a_variational_autoencoder_vae_in_pytorch/)
+
+### [顶流私募800亿最新持股大曝光！冯柳、张磊、邓晓峰、葛卫东、杨东等大咖全来了 - 21财经](https://m.21jingji.com/article/20210502/herald/033989515a8305f58cdfc545022948fb.html)
+
+### [
+因为疫情，谷歌一年节省了10亿美元](http://jandan.net/p/108878)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdFmy4vbB)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdEYkrlaz)
