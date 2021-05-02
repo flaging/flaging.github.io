@@ -186,3 +186,9 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KdGW30HJL)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KdH22DIMi)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5860/)
+
+### [浅谈 React 中的 XSS 攻击-InfoQ](https://www.infoq.cn/article/yVgbxJCyJklf9eqg71cL)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdHk0E1z3)
