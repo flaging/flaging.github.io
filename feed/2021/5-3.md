@@ -195,3 +195,9 @@ AI也能写代码？](http://jandan.net/p/108902)
 ### [
 Google AI Blog: Google at ICLR 2021
 ](http://feedproxy.google.com/~r/blogspot/gJZg/~3/f9n_VLK8Jfg/google-at-iclr-2021.html)
+
+### [Blockchain: The Post I Didn’t Want to Write | Veit's Blog](https://blog.veitheller.de/Blockchain%3A_The_Post_I_Didnt_Want_to_Write.html)
+
+### [Our template to kickstart your pytorch projects, with list of best practices. Minimal boilerplate code. Leverages Lightning + Hydra. Focused on scalability, reproducibility and fast experimentation. : pytorch](https://www.reddit.com/r/pytorch/comments/n4638i/our_template_to_kickstart_your_pytorch_projects/)
+
+### [开发了个 VS Code 插件，可以增强编辑器的背景，提高前端开发效率 - V2EX](https://www.v2ex.com/t/774735)
