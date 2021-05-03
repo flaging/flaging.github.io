@@ -144,3 +144,7 @@ windows 上的 .cargo 目录下的 registry/src/github.com-********/ 下的包�
 ### [Sina Visitor System](https://weibo.com/1715118170/KdNAhhXf4)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdNvy7161)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdNVN6TUS)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdNVqC6Yo)
