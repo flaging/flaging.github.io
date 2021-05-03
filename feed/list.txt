@@ -77,7 +77,6 @@ http://feedex.net/feed/jandan.net/feed
 https://rsshub.app/telegram/channel/wxfanfou
 http://120.53.237.72:1200/zhihu/daily
 https://rsshub.app/factcheck
-http://120.53.237.72:1200/weibo/user/6543823943
 http://www.qingniantuzhai.com/feed
 https://rsshub.app/telegram/channel/computer_science_and_programming
 http://www.linuxjournal.com/node/feed
