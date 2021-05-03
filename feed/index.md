@@ -60,3 +60,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KdJGvvgZm)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdK4Rvm3S)
+
+### [MicKey - 快捷键切换麦克风开关[Windows] - 小众软件](https://www.appinn.com/mickey-toggle-the-microphone-for-windows/)
+
+### [最强打工人来了！2020年A股董事长“十大薪酬王”花落谁家？ - 21财经](https://m.21jingji.com/article/20210503/herald/de55de6cd3bcb1e86cdb6a26b08add7a.html)
+
+### [人均薪酬最高逾30万，11只股价翻倍最大涨逾3倍，最多赚467亿......2020年白酒之“最”来了 - 21财经](https://m.21jingji.com/article/20210503/herald/c586bafac0022afe82aa9942955cf445.html)
+
+### [失而复得的手机 - V2EX](https://www.v2ex.com/t/774698)
+
+### [
+windows 上的 .cargo 目录下的 registry/src/github.com-********/ 下的包文件怎么清理 - Rust语言中文社区
+](https://rustcc.cn/article?id=7b56776d-3c88-4034-a8c5-f3d6fe50dcfd)
