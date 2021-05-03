@@ -80,3 +80,29 @@ windows 上的 .cargo 目录下的 registry/src/github.com-********/ 下的包�
 ### [Tesla Road Detection : pytorch](https://www.reddit.com/r/pytorch/comments/n3t4a3/tesla_road_detection/)
 
 ### [4月股基红黑榜：光大创业板量化优选成黑马，军工类表现落后 - 21财经](https://m.21jingji.com/article/20210503/herald/77a47da8ac9b730f24232eb4712f1dbd.html)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1159)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1158)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1157)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1155)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1154)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1153)
+
+### [51 上班被调休了,还有三倍工资吗? - V2EX](https://www.v2ex.com/t/774721)
+
+### [B 站网页版直播上传在传啥东西？？有没有大佬解答一下 - V2EX](https://www.v2ex.com/t/774680)
+
+### [大佬们，求推荐哪里买台式机整机比较好？ - V2EX](https://www.v2ex.com/t/774664)
+
+### [硬核观察|硬核观察|火星直升机软件出现错误，但 NASA 觉得不用“重装试试”](https://linux.cn/article-13357-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【Rust日报】2021-05-03 Rust最不知名的贡献者 - Rust语言中文社区
+](https://rustcc.cn/article?id=1f06fcfb-c7a1-4b45-80ca-21fb79ebda06)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdMPn46jN)
