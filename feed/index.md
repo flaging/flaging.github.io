@@ -36,3 +36,5 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KdJhK7Kl4)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdJibFSXe)
+
+### [分享|爱了！3 个受欢迎的 U 盘 Linux 发行版](https://linux.cn/article-13355-1.html?utm_source=rss&utm_medium=rss)
