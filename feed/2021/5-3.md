@@ -191,3 +191,7 @@ AI也能写代码？](http://jandan.net/p/108902)
 ### [Sina Visitor System](https://weibo.com/1715118170/KdPbtmtgS)
 
 ### [[D] An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale - Vision Transformers explained! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/n43cs4/d_an_image_is_worth_16x16_words_transformers_for/)
+
+### [
+Google AI Blog: Google at ICLR 2021
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/f9n_VLK8Jfg/google-at-iclr-2021.html)
