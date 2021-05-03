@@ -148,3 +148,42 @@ windows 上的 .cargo 目录下的 registry/src/github.com-********/ 下的包�
 ### [Sina Visitor System](https://weibo.com/1402400261/KdNVN6TUS)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KdNVqC6Yo)
+
+### [Profiling OpenCL code : OpenCL](https://www.reddit.com/r/OpenCL/comments/n405eg/profiling_opencl_code/)
+
+### [Complex matrix multiplication OpenCL : OpenCL](https://www.reddit.com/r/OpenCL/comments/n41g0v/complex_matrix_multiplication_opencl/)
+
+### [Poorly Drawn Lines – Think](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/er1gGQ00nHw/)
+
+### [4k 屏相比 1080P 更护眼吗 - V2EX](https://www.v2ex.com/t/774776)
+
+### [假如 CPU 只有一个核心，使用 CAS 并发竞争的问题 - V2EX](https://www.v2ex.com/t/774722)
+
+### [ի--ͼ20210503ŮиСŮ](https://www.dapenti.com/blog/more.asp?name=xilei&id=156743)
+
+### [ի--ͼ20210502ɥࣻ룬](https://www.dapenti.com/blog/more.asp?name=xilei&id=156719)
+
+### [
+年轻时保持高水平的运动量并坚持到中年，可预防高血压](http://jandan.net/p/108860)
+
+### [
+如果你不爱喝咖啡，那或许说明你容易罹患高血压](http://jandan.net/p/108879)
+
+### [
+15分钟的低容量HIIT带来的收益和数公里的长跑相似](http://jandan.net/p/108882)
+
+### [
+今日好价：飞利浦 shp9500 耳机 [更新]](http://jandan.net/p/108899)
+
+### [
+AI也能写代码？](http://jandan.net/p/108902)
+
+### [桌面应用|Fedora Workstation 34 中的新变化](https://linux.cn/article-13359-1.html?utm_source=rss&utm_medium=rss)
+
+### [软件开发|用 Linux 命令玩一个有趣的数学游戏](https://linux.cn/article-13358-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdON7nv5x)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdOopcG2d)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KdO9Y9YYa)
