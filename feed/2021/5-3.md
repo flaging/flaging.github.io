@@ -74,3 +74,9 @@ windows 上的 .cargo 目录下的 registry/src/github.com-********/ 下的包�
 ](https://rustcc.cn/article?id=7b56776d-3c88-4034-a8c5-f3d6fe50dcfd)
 
 ### [请问大家有什么方法可以传输大文件到 ios 里面？ - V2EX](https://www.v2ex.com/t/774707)
+
+### [派评 | 近期值得关注的 App - 少数派](https://sspai.com/post/66413)
+
+### [Tesla Road Detection : pytorch](https://www.reddit.com/r/pytorch/comments/n3t4a3/tesla_road_detection/)
+
+### [4月股基红黑榜：光大创业板量化优选成黑马，军工类表现落后 - 21财经](https://m.21jingji.com/article/20210503/herald/77a47da8ac9b730f24232eb4712f1dbd.html)
