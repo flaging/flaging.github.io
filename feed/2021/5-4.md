@@ -149,3 +149,5 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1160)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KdVUYog1k)
+
+### [Facebook 和 Instagram 威胁要对 iOS 14.5 上的用户访问收取费用，除非你向他们提供隐私数据以允许跨网站追踪 - V2EX](https://www.v2ex.com/t/774864)
