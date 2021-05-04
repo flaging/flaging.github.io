@@ -68,3 +68,25 @@
 ### [
 LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ](https://rustcc.cn/article?id=1cae5232-0a89-4467-84e6-fb619c31722c)
+
+### [南航快乐飞旅行报告：武汉两日游 - 少数派](https://sspai.com/post/66285)
+
+### [Latest from Baidu researchers: Automatic video generation from audio or text : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/n4fn1e/latest_from_baidu_researchers_automatic_video/)
+
+### [Latest from Baidu researchers: Automatic video generation from audio or text : pytorch](https://www.reddit.com/r/pytorch/comments/n4fmag/latest_from_baidu_researchers_automatic_video/)
+
+### [入职深圳某第二梯度大厂一周后收到腾讯 offer,值得跑路么？ - V2EX](https://www.v2ex.com/t/774799)
+
+### [iMac2019 内存占用爆炸, 64G 也扛不住! - V2EX](https://www.v2ex.com/t/774791)
+
+### [
+今日好价：马应龙男士眼霜](http://jandan.net/p/108907)
+
+### [
+为什么男孩子也应该接种HPV疫苗](http://jandan.net/p/108893)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdT8hky8N)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdTuZiq4X)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdT6U90fU)
