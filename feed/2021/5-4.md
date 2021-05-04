@@ -90,3 +90,7 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KdTuZiq4X)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdT6U90fU)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5862/)
+
+### [这种前端反爬虫方案是否能阻止大多数新手破解？ - V2EX](https://www.v2ex.com/t/774807)
