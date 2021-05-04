@@ -216,3 +216,5 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [
 Google AI Blog: Do Wide and Deep Networks Learn the Same Things?
 ](http://feedproxy.google.com/~r/blogspot/gJZg/~3/rkMCax837Nk/do-wide-and-deep-networks-learn-same.html)
+
+### [有没有不需要访问网络即可获取本机外网 IP 地址的方法 - V2EX](https://www.v2ex.com/t/774884)
