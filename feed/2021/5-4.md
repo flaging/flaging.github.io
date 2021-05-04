@@ -180,3 +180,7 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KdX2llURK)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdWW2nwiL)
+
+### [联手华为卖车，这公司董事长只有32岁！“85后”执掌91家A股上市公司 - 21财经](https://m.21jingji.com/article/20210504/herald/4c5929e4eeb803ad26ccefadc91e420b.html)
+
+### [为什么现在网络上的很多技术博客必须扫描关注才能看 - V2EX](https://www.v2ex.com/t/774882)
