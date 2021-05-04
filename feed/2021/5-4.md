@@ -46,3 +46,17 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/KdS3SaKut)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KdS3vrFY5)
+
+### [From MIT and Nvidia researchers: A controllable neural simulator that can generate high-fidelity real-world scenes! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/n4eiz2/from_mit_and_nvidia_researchers_a_controllable/)
+
+### [微软 Teams bug 很多啊 - V2EX](https://www.v2ex.com/t/774801)
+
+### [事实证明，除了换路由器，换一个好点的光猫也能极大提升网络质量 - V2EX](https://www.v2ex.com/t/774765)
+
+### [
+返回泛型类型 - Rust语言中文社区
+](https://rustcc.cn/article?id=16ee44f6-dc10-4424-aec0-1362753df50e)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdSIGc21b)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdSkjjNM6)
