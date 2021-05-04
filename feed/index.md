@@ -206,3 +206,9 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [2021年5月4日新闻联播文字版](http://www.xwlb.net.cn/19411.html)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdXPhsC75)
+
+### [部门老大走了，毕业一年的我被委以重任 - V2EX](https://www.v2ex.com/t/774868)
+
+### [某山寨测试平台提供的宽带加速服务有点划算 - V2EX](https://www.v2ex.com/t/774842)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdYdBE0tT)
