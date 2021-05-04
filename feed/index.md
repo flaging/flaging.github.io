@@ -218,3 +218,9 @@ Google AI Blog: Do Wide and Deep Networks Learn the Same Things?
 ](http://feedproxy.google.com/~r/blogspot/gJZg/~3/rkMCax837Nk/do-wide-and-deep-networks-learn-same.html)
 
 ### [有没有不需要访问网络即可获取本机外网 IP 地址的方法 - V2EX](https://www.v2ex.com/t/774884)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdZLE3sgK)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdZJCtkdV)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdZN0hnmm)
