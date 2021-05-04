@@ -141,3 +141,11 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [外交部发言人汪文斌就菲律宾高层涉华言论答记者问 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1873313.shtml)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KdVvKlVkO)
+
+### [Ultimate Guide to Machine Learning with Python (e-books bundle) : pytorch](https://www.reddit.com/r/pytorch/comments/n4ll8a/ultimate_guide_to_machine_learning_with_python/)
+
+### [多大年龄算青年？你走到人生的哪个阶段？ - 21财经](https://m.21jingji.com/article/20210504/herald/e83abef818f425e5738748f71a92a3f4.html)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1160)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KdVUYog1k)
