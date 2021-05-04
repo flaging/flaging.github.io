@@ -212,3 +212,7 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [某山寨测试平台提供的宽带加速服务有点划算 - V2EX](https://www.v2ex.com/t/774842)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdYdBE0tT)
+
+### [
+Google AI Blog: Do Wide and Deep Networks Learn the Same Things?
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/rkMCax837Nk/do-wide-and-deep-networks-learn-same.html)
