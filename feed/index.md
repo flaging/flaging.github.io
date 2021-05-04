@@ -184,3 +184,19 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [联手华为卖车，这公司董事长只有32岁！“85后”执掌91家A股上市公司 - 21财经](https://m.21jingji.com/article/20210504/herald/4c5929e4eeb803ad26ccefadc91e420b.html)
 
 ### [为什么现在网络上的很多技术博客必须扫描关注才能看 - V2EX](https://www.v2ex.com/t/774882)
+
+### [法式纯欲复古片《大地蓝得像一颗橙子》 - 新片场](https://www.vmovier.com/62010)
+
+### [《重逢》共青团中央 X 知乎 - 新片场](https://www.vmovier.com/62016)
+
+### [一镜到底大范围移动延时《我的一天》 - 新片场](https://www.vmovier.com/61966)
+
+### [来冒险！《奥迪全电动公路旅行志》 - 新片场](https://www.vmovier.com/62009)
+
+### [
+【Rust日报】2021-05-04 - Rust语言中文社区
+](https://rustcc.cn/article?id=655c4f8e-3e44-49b0-a9d0-68005912e737)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdXqO6z17)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KdXdmtdzI)
