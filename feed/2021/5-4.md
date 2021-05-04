@@ -135,3 +135,9 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KdUICbEBt)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KdVhU01v9)
+
+### [感觉北京 Python 方向的不太行了，唉，不是做企业内部系统，就是做 toB，想学习高并发经验都找不到相关工作。 - V2EX](https://www.v2ex.com/t/774840)
+
+### [外交部发言人汪文斌就菲律宾高层涉华言论答记者问 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1873313.shtml)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KdVvKlVkO)
