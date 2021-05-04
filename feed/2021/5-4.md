@@ -60,3 +60,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KdSIGc21b)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdSkjjNM6)
+
+### [
+有序容器 ritelinked-0.3.0 - Rust语言中文社区
+](https://rustcc.cn/article?id=b5a965c8-0bff-4793-94d9-9fee86ee2ddf)
+
+### [
+LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
+](https://rustcc.cn/article?id=1cae5232-0a89-4467-84e6-fb619c31722c)
