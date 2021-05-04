@@ -224,3 +224,5 @@ Google AI Blog: Do Wide and Deep Networks Learn the Same Things?
 ### [Sina Visitor System](https://weibo.com/1402400261/KdZJCtkdV)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KdZN0hnmm)
+
+### [各位 AppleWatch 5 月挑战是什么？ - V2EX](https://www.v2ex.com/t/774912)
