@@ -94,3 +94,13 @@ LeetCode2.两数相加通过后的疑问 - Rust语言中文社区
 ### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5862/)
 
 ### [这种前端反爬虫方案是否能阻止大多数新手破解？ - V2EX](https://www.v2ex.com/t/774807)
+
+### [请不要把 Flask 和 FastAPI 放到一起比较 - V2EX](https://www.v2ex.com/t/774831)
+
+### [北京的朋友们，你们坐公交地铁用什么方式支付？ - V2EX](https://www.v2ex.com/t/774819)
+
+### [关于软件工程师制作模型飞机的可行性讨论 - V2EX](https://www.v2ex.com/t/774806)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdUlindG6)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KdTTX3zu9)
