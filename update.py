@@ -52,8 +52,8 @@ def parse_url(str1,file, folder):
       
 def update_cal(path, localtime):
   readme = open(path+"/bookmark.md","a")
-  readme.write(" ["+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"](./"+str(localtime.tm_year)+"/"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+".md) |"
-  if (localtime.tm_wday == 6):
+  readme.write(" ["+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"](./"+str(localtime.tm_year)+"/"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+".md) |")
+  if localtime.tm_wday == 6:
     readme.write("\n|")
 
 def main(argv):
