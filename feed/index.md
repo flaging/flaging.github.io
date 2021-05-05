@@ -223,3 +223,7 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Ke7fO2QeG)
 
 ### [What we’ve been reading in April | Interrupt](https://interrupt.memfault.com/blog/april-2021-roundup)
+
+### [
+Google AI Blog: Introducing FELIX: Flexible Text Editing Through Tagging and Insertion
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/zas_y2qD0Us/introducing-felix-flexible-text-editing.html)
