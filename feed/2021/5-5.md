@@ -259,3 +259,13 @@ Google AI Blog: Introducing FELIX: Flexible Text Editing Through Tagging and Ins
 ### [Sina Visitor System](https://weibo.com/1715118170/Kea0jwUgr)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Ke9BYcRJe)
+
+### [系统好像出毛病了,但是不知道什么毛病 - V2EX](https://www.v2ex.com/t/774942)
+
+### [
+生理研究显示：“邓巴数”理论没有科学依据](http://jandan.net/p/108919)
+
+### [
+盐晶体在疏水表面上长出了“腿”](http://jandan.net/p/108896)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kea5TBtp6)
