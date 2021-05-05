@@ -133,3 +133,7 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Ke4wR8VpR)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Ke4vK4Fum)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1163)
+
+### [神奇的 Javascript，谁能告诉我为什么 - V2EX](https://www.v2ex.com/t/774968)
