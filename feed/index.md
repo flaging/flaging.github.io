@@ -231,3 +231,5 @@ Google AI Blog: Introducing FELIX: Flexible Text Editing Through Tagging and Ins
 ### [Latest from FB and Max Planck Researchers: "Our method can be used to directly drive a virtual character or visualise joint torques!" : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/n5ozxg/latest_from_fb_and_max_planck_researchers_our/)
 
 ### [云链结合，区块链服务BaaS平台实践与应用-InfoQ](https://www.infoq.cn/article/xyOV5jiPtKMqIYuGA0rT)
+
+### [杭州有什么物美价廉的近视眼镜店 - V2EX](https://www.v2ex.com/t/774935)
