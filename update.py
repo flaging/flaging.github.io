@@ -34,7 +34,7 @@ def parse_url(str1,file, folder):
       try:
         resp=urllib.request.urlopen(req)
       except :
-        print( 'We failed to reache a server.')
+        print( 'We failed to reache a server on ' + url)
       else:
         raw_soup=resp.read().decode('utf-8','ignore')
         soup = BeautifulSoup(raw_soup,'lxml')
