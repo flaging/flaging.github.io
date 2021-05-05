@@ -89,3 +89,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Ke2VPnFOD)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Ke2TKi8tM)
+
+### [啊，不是，这个 airTag 根本不能用来找车啊 - V2EX](https://www.v2ex.com/t/774928)
+
+### [有多少人是放弃 react-native，转向原生了？ - V2EX](https://www.v2ex.com/t/774913)
+
+### [技术|神器：在一个 U 盘上放入多个 Linux 发行版](https://linux.cn/article-13361-1.html?utm_source=rss&utm_medium=rss)
+
+### [与被捧上天的AI相比，元数据可能更重要-InfoQ](https://www.infoq.cn/article/OY4NDteXtkcVTFYic7xX)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ke3z9xdWl)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ke3kc2GN6)
