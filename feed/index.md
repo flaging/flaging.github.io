@@ -137,3 +137,9 @@
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1163)
 
 ### [神奇的 Javascript，谁能告诉我为什么 - V2EX](https://www.v2ex.com/t/774968)
+
+### [ի--ͼ20210505³ʦͨ͸ҲǴת](https://www.dapenti.com/blog/more.asp?name=xilei&id=156785)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ke58nfFAD)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Ke5a2FVwN)
