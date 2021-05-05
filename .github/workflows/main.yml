@@ -1,4 +1,4 @@
-name: SYNC_RSS
+name: SYNC
 
 # Controls when the action will run. 
 on:
