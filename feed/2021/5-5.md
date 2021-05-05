@@ -195,3 +195,29 @@
 ### [Has anyone integrated a quantum computer into their environment? : HPC](https://www.reddit.com/r/HPC/comments/n5gt0c/has_anyone_integrated_a_quantum_computer_into/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Ke6RyhbYC)
+
+### [拯救失眠君《明天到来前先睡个好觉》 - 新片场](https://www.vmovier.com/61964)
+
+### [《 Light • 光》感受不一样的清晨 - 新片场](https://www.vmovier.com/61998)
+
+### [挑战地心引力的歪果仁《疯狂山地车》 - 新片场](https://www.vmovier.com/61988)
+
+### [技术大咖好物分享《最好用的相机包》 - 新片场](https://www.vmovier.com/61979)
+
+### [[D] How to train a gender swapping model without any training data. Distilling StyleGAN explained. : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/n5j6f0/d_how_to_train_a_gender_swapping_model_without/)
+
+### [2021年“五一”假期国内旅游出游2.3亿人次，十大热门景区出炉 - 21财经](https://m.21jingji.com/article/20210505/herald/7fce68aa27cf742e071614cafef5bfa0.html)
+
+### [Poorly Drawn Lines – Start Trying](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/03Scu0QdE_8/)
+
+### [用 Golang 写了个币安交易所的数据接收工具，但是在行情火爆的时候容易断，如何解决？ - V2EX](https://www.v2ex.com/t/774933)
+
+### [macbookpro 纠结买 13 寸还是 16 寸 - V2EX](https://www.v2ex.com/t/774930)
+
+### [
+【Rust 日报】2021-05-05  - Rust语言中文社区
+](https://rustcc.cn/article?id=47b70155-8e21-4616-8857-71212289775f)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ke7Ep5Yle)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ke7fO2QeG)
