@@ -54,3 +54,9 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Ke1KDyCHv)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Ke232tsKz)
+
+### [An agent trained in a world-on-rails learns to drive better than state-of-the-art imitation learning agents! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/n55v1q/an_agent_trained_in_a_worldonrails_learns_to/)
+
+### [阅读 JDK 源码：异步任务 FutureTask - SegmentFault 思否](https://segmentfault.com/a/1190000039943509)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ke294gill)
