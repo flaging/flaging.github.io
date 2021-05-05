@@ -191,3 +191,5 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Ke6gs9wU4)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Ke6tzERZX)
+
+### [Has anyone integrated a quantum computer into their environment? : HPC](https://www.reddit.com/r/HPC/comments/n5gt0c/has_anyone_integrated_a_quantum_computer_into/)
