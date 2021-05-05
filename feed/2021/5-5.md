@@ -60,3 +60,18 @@
 ### [阅读 JDK 源码：异步任务 FutureTask - SegmentFault 思否](https://segmentfault.com/a/1190000039943509)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Ke294gill)
+
+### [How to “learn” pytorch : pytorch](https://www.reddit.com/r/pytorch/comments/n566qd/how_to_learn_pytorch/)
+
+### [
+这个系统让量子互联网成为可能](http://jandan.net/p/108918)
+
+### [
+今日好价：罗技G502](http://jandan.net/p/108917)
+
+### [
+兰州重离子所：找到了最轻的铀元素](http://jandan.net/p/108908)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ke2AMgQoW)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ke2xg9cDf)
