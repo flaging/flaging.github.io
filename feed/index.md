@@ -233,3 +233,7 @@ Google AI Blog: Introducing FELIX: Flexible Text Editing Through Tagging and Ins
 ### [云链结合，区块链服务BaaS平台实践与应用-InfoQ](https://www.infoq.cn/article/xyOV5jiPtKMqIYuGA0rT)
 
 ### [杭州有什么物美价廉的近视眼镜店 - V2EX](https://www.v2ex.com/t/774935)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ke9fqw50V)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ke9dxwioy)
