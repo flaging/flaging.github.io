@@ -115,3 +115,13 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Ke3KpeYNw)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Ke3FCcnNQ)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1162)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1161)
+
+### [滴滴面试完被秒拒 - V2EX](https://www.v2ex.com/t/774958)
+
+### [迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？ - V2EX](https://www.v2ex.com/t/774949)
+
+### [我从 centos8.3 迁移到 AlmaLinux 8.3 安装宝塔一切正常 - V2EX](https://www.v2ex.com/t/774893)
