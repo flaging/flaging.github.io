@@ -50,7 +50,12 @@ def parse_url(str1,file, folder):
         conn.commit()
   conn.close()
       
-
+def update_cal(path, localtime):
+  readme = open(path+"/bookmark.md","a")
+  [5-1](./2021/5-1.md) |
+  readme.write(" ["+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"](./"+str(localtime.tm_year)+"/"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+".md) |"
+  if localtime.weekday() is 6:
+    readme.write("\n|")
 
 def main(argv):
   localtime = time.localtime(time.time())
@@ -64,9 +69,7 @@ def main(argv):
     parse_url(url, file, argv[1])
   file.close()
   if not is_exists:
-    readme = open(argv[1]+"/bookmark.md","a")
-    readme.writelines("\n\n["+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"]("+file_name[10:]+")")
-    readme.close()
+    update_cal(argv[1], localtime)
   
 if __name__ == "__main__":
   main(sys.argv)
