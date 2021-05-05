@@ -125,3 +125,5 @@
 ### [迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？ - V2EX](https://www.v2ex.com/t/774949)
 
 ### [我从 centos8.3 迁移到 AlmaLinux 8.3 安装宝塔一切正常 - V2EX](https://www.v2ex.com/t/774893)
+
+### [硬核观察|硬核观察|狗狗币创造者在 2015 年卖掉了他所有的币，只相当于一辆二手本田汽车](https://linux.cn/article-13363-1.html?utm_source=rss&utm_medium=rss)
