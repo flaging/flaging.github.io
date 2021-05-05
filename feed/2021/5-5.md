@@ -143,3 +143,19 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Ke58nfFAD)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Ke5a2FVwN)
+
+### [Train Your GAN With 1/10th of the Data! NVIDIA ADA Explained : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/n5e6ka/train_your_gan_with_110th_of_the_data_nvidia_ada/)
+
+### [最新调查：年轻人消费排行榜​出炉！钱都花在哪了？ - 21财经](https://m.21jingji.com/article/20210505/herald/2d60f41b8e8f9e0397b7d4843a03b0d6.html)
+
+### [公司提供 5k 的笔记本补助，现在开发用的一直是自己的本子，神舟战神 z7，不知道买什么比较合适 - V2EX](https://www.v2ex.com/t/774961)
+
+### [
+ - Rust语言中文社区
+](https://rustcc.cn/article?id=23d0c206-acbd-461b-80c0-c2c8b2b66ad1)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ke5DY5RbU)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ke5Bi0NiM)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ke5S6dQIU)
