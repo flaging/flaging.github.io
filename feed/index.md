@@ -67,3 +67,9 @@ web-based ECS(entity-component-system) developing hierarchy - Rust语言中文�
 ### [弱网下的极限实时视频通信 ｜ InfoQ 公开课-InfoQ](https://www.infoq.cn/article/aGaqktPVM0c2ApLztDIO)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KebzQw5C7)
+
+### [对Kafka 和 Pulsar进行性能测试后，拉卡拉将消息平台统一换成了 Pulsar-InfoQ](https://www.infoq.cn/article/hRIWLW3DgXq0QmAI7NVC)
+
+### [关于华为云最新发布的盘古大模型，我们提了几个问题-InfoQ](https://www.infoq.cn/article/uA57iVqYczit1b1ODjBi)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KebXMvYLZ)
