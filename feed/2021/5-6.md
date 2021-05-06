@@ -138,3 +138,7 @@ web-based ECS(entity-component-system) developing hierarchy - Rust语言中文�
 ### [千人万面，奇妙自见：爱奇艺短视频推荐技术中多兴趣召回技术的演变-InfoQ](https://www.infoq.cn/article/7HilShlFRjckpW8Rr1Yp)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Ked8EjRbl)
+
+### [12只教育股谁能“重生”？中公教育业绩最稳，豆神教育去年巨亏超25亿 - 21财经](https://m.21jingji.com/article/20210506/herald/b13584ea2544677f52eb17a84ebbb64c.html)
+
+### [AirTag 蓝牙干扰，影响汽车和手机的蓝牙通讯 - V2EX](https://www.v2ex.com/t/775039)
