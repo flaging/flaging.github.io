@@ -270,3 +270,17 @@ web-based ECS(entity-component-system) developing hierarchy - Rust语言中文�
 ### [Sina Visitor System](https://weibo.com/1715118170/KegiQu0Q3)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KeghB69VO)
+
+### [How is embedding layer output is calculated? : pytorch](https://www.reddit.com/r/pytorch/comments/n6b4ta/how_is_embedding_layer_output_is_calculated/)
+
+### [Poorly Drawn Lines – Poorly Drawn Playlist #3](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/z1_wRCG-4KY/)
+
+### [打款延迟，需要提供护照？ - V2EX](https://www.v2ex.com/t/775129)
+
+### [Announcing Rust 1.52.0 | Rust Blog](https://blog.rust-lang.org/2021/05/06/Rust-1.52.0.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Keh4n8Xvz)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KegC3ztfa)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KegB2nDnI)
