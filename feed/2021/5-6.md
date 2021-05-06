@@ -112,3 +112,29 @@ web-based ECS(entity-component-system) developing hierarchy - Rust语言中文�
 ### [Sina Visitor System](https://weibo.com/1402400261/KecHJ1umT)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KecKAzzqU)
+
+### [车路协同建设提速！住建部、工信部公布首批6家智慧城市试点 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-06-10)
+
+### [中科大郭光灿院士团队实现光子芯片上高效频率转换，有望成为量子网络潜在接口 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-06-9)
+
+### [微信聊天记录导出 - 导出文字、视频、照片、语音到浏览器查看，献给所有对微信严重依赖的朋友 - 小众软件](https://www.appinn.com/wxbackup-2/)
+
+### [Mindblown 🤯🤯: Bring your Minecraft creation into the real world - generate photorealistic images of large 3D block worlds such as those created in Minecraft! (GANcraft) : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/n613zb/mindblown_bring_your_minecraft_creation_into_the/)
+
+### [Mindblown 🤯🤯: Bring your Minecraft creation into the real world - generate photorealistic images of large 3D block worlds such as those created in Minecraft! (GANcraft) : pytorch](https://www.reddit.com/r/pytorch/comments/n6125m/mindblown_bring_your_minecraft_creation_into_the/)
+
+### [C/C++ 构建系统，我用 xmake - V2EX](https://www.v2ex.com/t/775065)
+
+### [又一次因为键盘膜... - V2EX](https://www.v2ex.com/t/775045)
+
+### [
+给老哥们推荐一个Yew前端ui框架 - Rust语言中文社区
+](https://rustcc.cn/article?id=c503fe7c-8cab-4f0f-96d5-b6a44f730bab)
+
+### [
+【未解决】如何用 tokio或mio 异步等待并读取 linux 下的 fd？ - Rust语言中文社区
+](https://rustcc.cn/article?id=916729ec-5b07-4efb-b9c2-43a304360124)
+
+### [千人万面，奇妙自见：爱奇艺短视频推荐技术中多兴趣召回技术的演变-InfoQ](https://www.infoq.cn/article/7HilShlFRjckpW8Rr1Yp)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Ked8EjRbl)
