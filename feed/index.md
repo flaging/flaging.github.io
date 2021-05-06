@@ -73,3 +73,28 @@ web-based ECS(entity-component-system) developing hierarchy - Rust语言中文�
 ### [关于华为云最新发布的盘古大模型，我们提了几个问题-InfoQ](https://www.infoq.cn/article/uA57iVqYczit1b1ODjBi)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KebXMvYLZ)
+
+### [让 Obsidian 更好用，这些社区插件值得试试 - 少数派](https://sspai.com/post/66094)
+
+### [为什么现在到处都在说拉垮，而且什么都能拉垮？还有什么不能拉垮的么？我觉得现在有些过度使用这个词汇了 - V2EX](https://www.v2ex.com/t/775084)
+
+### [你们的 NAS 上都跑了什么服务 - V2EX](https://www.v2ex.com/t/775071)
+
+### [有很多视频要备份， macos 下天翼云盘和 onedrive 一言难尽，求备份软件介绍 - V2EX](https://www.v2ex.com/t/775064)
+
+### [
+今日好价：松下全功能马桶盖](http://jandan.net/p/108923)
+
+### [技术|Fedora Linux 34 各版本介绍](https://linux.cn/article-13365-1.html?utm_source=rss&utm_medium=rss)
+
+### [系统运维|网络地址转换（NAT）之报文跟踪](https://linux.cn/article-13364-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KecwNuMGe)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kecvx8dij)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kecmjlue6)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kecm4B6DW)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kec8S7FBs)
