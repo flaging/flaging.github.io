@@ -297,3 +297,5 @@ Google AI Blog: Crisscrossed Captions: Semantic Similarity for Images and Text
 ### [Sina Visitor System](https://weibo.com/1402400261/KeiHW2UQ0)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KeiGUfsHO)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KeiYECVtd)
