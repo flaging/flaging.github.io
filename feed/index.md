@@ -106,3 +106,9 @@ web-based ECS(entity-component-system) developing hierarchy - Rust语言中文�
 ### [Sina Visitor System](https://weibo.com/1402400261/KecDGrLvs)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KecAincwb)
+
+### [闲鱼商品选投实时性优化-InfoQ](https://www.infoq.cn/article/aoJZo1jlQvPbIaAhCA8b)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KecHJ1umT)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KecKAzzqU)
