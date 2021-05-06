@@ -303,3 +303,25 @@ Google AI Blog: Crisscrossed Captions: Semantic Similarity for Images and Text
 ### [Submission Script Creation Script : HPC](https://www.reddit.com/r/HPC/comments/n6jfzq/submission_script_creation_script/)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KejeNbiti)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735750)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735752)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735740)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735753)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735760)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735731)
+
+### [青年图摘0507!谁能拒绝一只猫头鹰呢，我选1号](https://qingniantuzhai.com/qing-nian-tu-zhai-0507-4/)
+
+### [TiDB 在金融关键业务场景的实践-InfoQ](https://www.infoq.cn/article/JlB73WN6fPigaSiGcRiw)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KejozewKC)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KejwpDm8g)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kejqvvq3v)
