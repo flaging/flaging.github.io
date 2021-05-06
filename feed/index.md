@@ -245,3 +245,20 @@ web-based ECS(entity-component-system) developing hierarchy - Rust语言中文�
 ### [Sina Visitor System](https://weibo.com/1715118170/KefuZ1JBV)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kef6LnrXD)
+
+### [DAO 层和 ORM，能区分，但又不完全能区分，我裂开了 - V2EX](https://www.v2ex.com/t/775162)
+
+### [2021年5月6日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1873766.shtml)
+
+### [2021年5月6日新闻联播文字版](http://www.xwlb.net.cn/19445.html)
+
+### [
+可编程物质：用光快速变更物体表面的图像](http://jandan.net/p/108915)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KefZpbppe)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KefWgdf8b)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KefVgomWw)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KefTt3Ofv)
