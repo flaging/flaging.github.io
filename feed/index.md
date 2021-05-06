@@ -287,3 +287,5 @@ web-based ECS(entity-component-system) developing hierarchy - Rust语言中文�
 
 ### [
 脑力小体操：百年前价值1000美元的谜题](http://jandan.net/p/108916)
+
+### [腾讯云Elasticsearch集群多可用区容灾实现原理及最佳实践-InfoQ](https://www.infoq.cn/article/X5Z9iL06A21gV7VY8BEE)
