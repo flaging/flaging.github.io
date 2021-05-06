@@ -51,3 +51,19 @@
 ### [十年三次重大架构升级，微博应对“极端热点”的进阶之路-InfoQ](https://www.infoq.cn/article/qgWbh0WZ5Bvw9APJOs2a)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KebbxbIUZ)
+
+### [【国家发展改革委关于无限期暂停中澳战略经济对话机制下一切活动的声明】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210506_1279171.html)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5863/)
+
+### [5月6日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0506/135117.shtml)
+
+### [
+web-based ECS(entity-component-system) developing hierarchy - Rust语言中文社区
+](https://rustcc.cn/article?id=c80131d9-b7ef-4fb2-a5cb-9c4df4aac82e)
+
+### [Heroku的衰落-InfoQ](https://www.infoq.cn/article/gvcgP6XitdHjy169oAk5)
+
+### [弱网下的极限实时视频通信 ｜ InfoQ 公开课-InfoQ](https://www.infoq.cn/article/aGaqktPVM0c2ApLztDIO)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KebzQw5C7)
