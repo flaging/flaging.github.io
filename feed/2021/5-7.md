@@ -122,3 +122,28 @@
 ### [请教一下大城市该如何买房？ - V2EX](https://www.v2ex.com/t/775335)
 
 ### [我是如何突围传统行业的？ - V2EX](https://www.v2ex.com/t/775334)
+
+### [全球首款2纳米制程芯片问世：每平方毫米3.3亿晶体管，IBM打造 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-07-6)
+
+### [Michael Jordan、Sutton、Silver等人，刚刚入选英国皇家学会会士 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-07-5)
+
+### [从目标到工具再到方法，十年产品人的知识管理体系 - 少数派](https://sspai.com/post/66474)
+
+### [How is EMA different from the use of momentum : pytorch](https://www.reddit.com/r/pytorch/comments/n6stqm/how_is_ema_different_from_the_use_of_momentum/)
+
+### [复式楼 1 楼没网线咋整？ 或者有没有信号很强 2 层楼都有信号的路由？ - V2EX](https://www.v2ex.com/t/775352)
+
+### [
+切尔诺贝利被封闭起来的反应堆，再次出现了裂变反应](http://jandan.net/p/108927)
+
+### [新技术刚测试就被全行业禁用，谷歌“杀死”Cookies真能重写规则吗？-InfoQ](https://www.infoq.cn/article/zNhAd3i1tWQZtbSk9703)
+
+### [JavaScript 引擎深入剖析（一）：JSValue 的内部实现-InfoQ](https://www.infoq.cn/article/e8CdMSWKcDJSk3JhrGus)
+
+### [微博云原生成本优化的6个最佳实践-InfoQ](https://www.infoq.cn/article/YaQpjX0zTCplcJmYYMkm)
+
+### [OAuth 2.0 与 OIDC](https://www.infoq.cn/article/ab5daab90ef430794e0411191)
+
+### [自研消息队列架构设计文档](https://www.infoq.cn/article/8f58f97a8f3534126fde4de32)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kemz95pne)
