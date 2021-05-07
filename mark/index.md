@@ -18,3 +18,5 @@
 
 ### [
 ](http://mp.weixin.qq.com/s?__biz=MjM5MjkxMTEzMw==&mid=2257498107&idx=1&sn=706af863d6a5ce8a5b4fed01b3defdee&chksm=a5e5158992929c9f51886695906aa0911c78b9589997cc1029085074476b4222c9dd2a917751#rd)
+
+### [高并发之存储篇：关注下索引原理和优化吧！躲得过实践，躲不过面试官！](https://xie.infoq.cn/article/7f5e6e9bd50f6bd44ed98879a)

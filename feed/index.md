@@ -191,3 +191,17 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KenUKDKMq)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KenVl0N78)
+
+### [本周看什么丨最近值得一看的 8 部作品 - 少数派](https://sspai.com/post/66494)
+
+### [硬核观察|硬核观察|纳斯达克股票系统遭遇“巴菲特千年虫”](https://linux.cn/article-13369-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KeonTyIXm)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Keoh0CRMA)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KeocgknD5)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Keo9hxNOy)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Keo7n5z7A)
