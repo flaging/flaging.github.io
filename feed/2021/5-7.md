@@ -64,3 +64,9 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KekBOteEf)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kel5G1xOs)
+
+### [在网页上保存 WebP 图片为 PNG 或 JPEG 格式[Chrome/Firefox] - 小众软件](https://www.appinn.com/webp-image-converter/)
+
+### [高并发之存储篇：关注下索引原理和优化吧！躲得过实践，躲不过面试官！](https://www.infoq.cn/article/7f5e6e9bd50f6bd44ed98879a)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Keloyt4Us)
