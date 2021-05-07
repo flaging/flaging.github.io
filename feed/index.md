@@ -147,3 +147,23 @@
 ### [自研消息队列架构设计文档](https://www.infoq.cn/article/8f58f97a8f3534126fde4de32)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kemz95pne)
+
+### [经济学人智库：数字化转型已成所有行业必备品 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-07-7)
+
+### [苹果大战 Facebook，个人隐私的正义黎明？ - 少数派](https://sspai.com/post/66454)
+
+### [请问有什么恐怖电影可以推荐吗 - V2EX](https://www.v2ex.com/t/775377)
+
+### [观点|《星球大战》的世界拥抱开源的 5 种方式](https://linux.cn/article-13367-1.html?utm_source=rss&utm_medium=rss)
+
+### [大前端领域，具备哪些核心能力的人最吃香？| InfoQ 编程语言 4 月排行榜-InfoQ](https://www.infoq.cn/article/bMpsqS4Yox6e71jYIPOY)
+
+### [SlashData 开发者最新调查：JavaScript最流行，Rust 增长最猛-InfoQ](https://www.infoq.cn/article/BBhqVJqhFgidBkDgPg0e)
+
+### [Linux之父：编程之美-InfoQ](https://www.infoq.cn/article/FFwCH3efJtbcStDL8hhm)
+
+### [Android 面试之必问Android基础 - SegmentFault 思否](https://segmentfault.com/a/1190000039960026)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kenf6zTTu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ken5H0mqQ)
