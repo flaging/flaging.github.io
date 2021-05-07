@@ -110,3 +110,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KembfbNu2)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KelMCsKYV)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1174)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1173)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1171)
+
+### [同事和我借房产证… - V2EX](https://www.v2ex.com/t/775403)
+
+### [请教一下大城市该如何买房？ - V2EX](https://www.v2ex.com/t/775335)
+
+### [我是如何突围传统行业的？ - V2EX](https://www.v2ex.com/t/775334)
