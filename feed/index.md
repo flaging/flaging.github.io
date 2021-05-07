@@ -167,3 +167,27 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kenf6zTTu)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Ken5H0mqQ)
+
+### [【国家发展改革委有关负责同志就《全国固定资产投资项目代码编码规范》国家标准答记者问】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210507_1279347.html)
+
+### [【《全国固定资产投资项目代码编码规范》国家标准发布】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210507_1279346.html)
+
+### [ResNet-18 Pruning PyTorch : pytorch](https://www.reddit.com/r/pytorch/comments/n6v0m3/resnet18_pruning_pytorch/)
+
+### [我们学最新的技术和概念，写优雅的代码和注释是为了什么？ - V2EX](https://www.v2ex.com/t/775329)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=869)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=875)
+
+### [ի--ͼ20210507ܹ䣬ǶôҸһѽ](https://www.dapenti.com/blog/more.asp?name=xilei&id=156826)
+
+### [技术|使用 OpenSSL 加密和解密文件](https://linux.cn/article-13368-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KenHLs0zC)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KenV2790X)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KenUKDKMq)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KenVl0N78)
