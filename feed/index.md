@@ -70,3 +70,43 @@
 ### [高并发之存储篇：关注下索引原理和优化吧！躲得过实践，躲不过面试官！](https://www.infoq.cn/article/7f5e6e9bd50f6bd44ed98879a)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Keloyt4Us)
+
+### [两层线性层结构超越自注意机制，清华计图团队提出External Attention | 机器之心](https://www.jiqizhixin.com/articles/2021-05-07-4)
+
+### [自动生成模型动画：北大神经融合形状新方法登上SIGGRAPH 2021 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-06-11)
+
+### [从通用型到业务型，中文大模型时代下NLP预训练的创新与实践 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-06-12)
+
+### [DeepModeling社区宣言 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-07-3)
+
+### [从原子到分子：芝加哥大学华人团队突破性实验登上Nature，打开分子量子计算的大门 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-07-2)
+
+### [Epic vs Apple 诉讼中爆料不完全解读 - 少数派](https://sspai.com/post/66479)
+
+### [TA 有好物 | 1 条顶 6 条，数据线中的「瑞士军刀」 - 少数派](https://sspai.com/post/66444)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5864/)
+
+### [关于家里养狗的问题求助 - V2EX](https://www.v2ex.com/t/775249)
+
+### [
+狗颅相学：家里狗子领会不了你的眼神？那或许是它鼻子的问题](http://jandan.net/p/108903)
+
+### [
+今日好价：微星游戏本](http://jandan.net/p/108926)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kem9G14Vt)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kem8x3KPM)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kem7RFlaI)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kem6zF4ur)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kem273cPn)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KelZuwQqy)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KembfbNu2)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KelMCsKYV)
