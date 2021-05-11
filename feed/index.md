@@ -788,3 +788,21 @@ AI Dungeon：先锋跑团游戏利用AI生成剧情文本，遭遇意外问题](
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf1C8CLRG)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kf1IDDB5c)
+
+### [坐等上映！《毒液2》预告首发 - 新片场](https://www.vmovier.com/62056)
+
+### [打工人生存手册 Dir cut - 新片场](https://www.vmovier.com/62046)
+
+### [想办法让亲戚看到《别人家的长辈》 - 新片场](https://www.vmovier.com/62054)
+
+### [人生宛如这场线条赛《谁是赢家》 - 新片场](https://www.vmovier.com/62049)
+
+### [讲真，晕血慎点《终结月经贫穷》 - 新片场](https://www.vmovier.com/62033)
+
+### [趣味猫咪实验《不可能完成的任务》 - 新片场](https://www.vmovier.com/62050)
+
+### [简易夏日小甜品《迷你芝士蛋糕》 - 新片场](https://www.vmovier.com/62051)
+
+### [当 AI 机器人被迫有了情感《循环》 - 新片场](https://www.vmovier.com/61953)
+
+### [ResNet for big size images : pytorch](https://www.reddit.com/r/pytorch/comments/na43yf/resnet_for_big_size_images/)
