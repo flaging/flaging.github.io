@@ -831,3 +831,23 @@ Google AI Blog: ALIGN: Scaling Up Visual and Vision-Language Representation Lear
 ### [Sina Visitor System](https://weibo.com/1642628345/Kf4cTgT8T)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf4mCnTYg)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735918)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735940)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735915)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735927)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735930)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735902)
+
+### [青年图摘0512！孕妇尿，童子尿专治脑子不灵](https://qingniantuzhai.com/qing-nian-tu-zhai-0512-3/)
+
+### [分享 2 种规划思维和 4 个规划方法-InfoQ](https://www.infoq.cn/article/R7arNDhch7PufhjMbOUX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf4KYkGzd)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf4yPFdNm)
