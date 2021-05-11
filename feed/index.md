@@ -815,3 +815,11 @@ AI Dungeon：先锋跑团游戏利用AI生成剧情文本，遭遇意外问题](
 ### [Sina Visitor System](https://weibo.com/1402400261/Kf3KzpMrp)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf3MsqFjn)
+
+### [
+Google AI Blog: ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/07V8Dtn-FcI/align-scaling-up-visual-and-vision.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kf3X83f3M)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf3Ygr7FP)
