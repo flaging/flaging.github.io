@@ -613,3 +613,19 @@ rust解压rar文件 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KeXxvtZx0)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KeXuFCFrB)
+
+### [前馈网络+线性交互层=残差MLP，Facebook纯MLP图像分类架构入场 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-11-6)
+
+### [这届年轻人不光学AI，连退休后怎么带孙子都设计好了 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-11-5)
+
+### [DDNSTO - 梅林、爱快、老毛子，群晖、威联通、Openwrt，26元/年的 内网穿透 要不要？ - 小众软件](https://www.appinn.com/ddnsto/)
+
+### [ios14.5.1 降频门事件解决方案 - V2EX](https://www.v2ex.com/t/776118)
+
+### [
+升级到Rust 1.52.1，出现权限问题 - Rust语言中文社区
+](https://rustcc.cn/article?id=0983c623-77bb-42f3-8c74-5def7105fe41)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KeXRptANF)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KeXRjghCm)
