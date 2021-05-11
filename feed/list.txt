@@ -31,9 +31,7 @@ https://crossoverjie.top/atom.xml
 https://algorithm.yuanbin.me/zh-hans//feed.xml
 https://interrupt.memfault.com/blog/feed.xml
 http://matt.might.net/articles/feed.rss
-https://pharr.org/matt/blog/feed.xml
 https://mbinary.xyz/atom.xml
-http://120.53.237.72:1200/mobdata/report
 https://github.com/d2-projects/d2-daily/releases.atom
 https://www.robberphex.com/feed/
 http://feeds.feedburner.com/ThePragmaticEngineer
