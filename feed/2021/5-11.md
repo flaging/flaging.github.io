@@ -823,3 +823,9 @@ Google AI Blog: ALIGN: Scaling Up Visual and Vision-Language Representation Lear
 ### [Sina Visitor System](https://weibo.com/1402400261/Kf3X83f3M)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf3Ygr7FP)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kf4b68qX0)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf4aSf6lL)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kf4cTgT8T)
