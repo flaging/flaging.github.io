@@ -629,3 +629,17 @@ rust解压rar文件 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KeXRptANF)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KeXRjghCm)
+
+### [认识人和鱼的AI，能识别美人鱼吗？阿里CVPR论文试用因果推理方法解答 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-11-8)
+
+### [每月1万美元，OpenAI提供资助和导师，这些年轻学者在研究什么？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-11-7)
+
+### [九图速览第七次全国人口普查数据 - 21财经](https://m.21jingji.com/article/20210511/herald/62827533fb5ce1814b3cf4651a4e2346.html)
+
+### [30秒看懂中国人口结构变迁：未来每4个人中就有一个老年人 - 21财经](https://m.21jingji.com/article/20210511/herald/ca9c3e31bc75b9764ef8bf837bf04b07.html)
+
+### [
+【深圳-----诚聘】React.js 前端开发工程师 - Rust语言中文社区
+](https://rustcc.cn/article?id=29c78d5c-0317-4124-b161-296bccade4cb)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KeYh8dJIQ)
