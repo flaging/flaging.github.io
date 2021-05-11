@@ -733,3 +733,35 @@ rust解压rar文件 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf0PrkPIC)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kf0Pcchl7)
+
+### [芯如猛虎 幻醒全能 ROG电竞潮品重磅发布_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0511/135144.shtml)
+
+### [第11代英特尔酷睿处理器+光轴机械键盘ROG冰刃5Plus发布_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0511/135143.shtml)
+
+### [第11代英特尔酷睿处理器 16：10 IPS屏ROG幻16全能本发布_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0511/135142.shtml)
+
+### [5月11日┌开局即高能┘发布会官宣 雷神ZERO新品惊艳亮相_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0511/135141.shtml)
+
+### [雷神ZERO新品重磅发布 搭载2.5K超清大屏/11代CPU强劲核芯_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0511/135140.shtml)
+
+### [机械师新品F117毒药，以超跑之名迈进全芯纪元_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0511/135139.shtml)
+
+### [天生玩酷快人一步，机械师新品发布会圆满收官！_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0511/135138.shtml)
+
+### [2021年5月11日新闻联播文字版](http://www.xwlb.net.cn/19528.html)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1068)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1067)
+
+### [
+【Rust日报】 2021-05-11 Rust 1.52.1 发布 - Rust语言中文社区
+](https://rustcc.cn/article?id=fe6fe6c1-5e5b-4697-a40a-0dd3649d889f)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kf15G12uY)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kf15jwg1l)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf1dMETgX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf121mliD)
