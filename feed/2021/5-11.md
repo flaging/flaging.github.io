@@ -769,3 +769,22 @@ rust解压rar文件 - Rust语言中文社区
 ### [The Plan for the Rust 2021 Edition | Rust Blog](https://blog.rust-lang.org/2021/05/11/edition-2021.html)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf1qmvnU7)
+
+### [Anyone aware of Pytorch implementation of Resnet which lists all modules in forward method? : pytorch](https://www.reddit.com/r/pytorch/comments/na23bw/anyone_aware_of_pytorch_implementation_of_resnet/)
+
+### [嵊泗列岛归来~真·人少景美，节假日没有人从众 - V2EX](https://www.v2ex.com/t/776276)
+
+### [
+AI Dungeon：先锋跑团游戏利用AI生成剧情文本，遭遇意外问题](http://jandan.net/p/108941)
+
+### [滴滴开源小桔棱镜：一款专注移动端操作行为的利器-InfoQ](https://www.infoq.cn/article/GCI4Dq2PGsulx39AwPNc)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf2d48qTH)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf20uCPFa)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf1OrjUhq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf1C8CLRG)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kf1IDDB5c)
