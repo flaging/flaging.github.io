@@ -806,3 +806,6 @@ AI Dungeon：先锋跑团游戏利用AI生成剧情文本，遭遇意外问题](
 ### [当 AI 机器人被迫有了情感《循环》 - 新片场](https://www.vmovier.com/61953)
 
 ### [ResNet for big size images : pytorch](https://www.reddit.com/r/pytorch/comments/na43yf/resnet_for_big_size_images/)
+
+### [
+首个定量研究发现：网络世界里的多样性正在丧失](http://jandan.net/p/108898)
