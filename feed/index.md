@@ -693,3 +693,5 @@ rust解压rar文件 - Rust语言中文社区
 ### [5月12日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0511/135137.shtml)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KeZsyAOnD)
+
+### [便携式小空调，为你的夏日带去清凉！ - V2EX](https://www.v2ex.com/t/776124)
