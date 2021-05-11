@@ -1,7 +1,6 @@
 https://jiqizhixin.com/rss
 https://sspai.com/feed
 http://feed.appinn.com/
-https://vimjc.com/rss.xml
 http://www.waerfa.com/feed
 https://danluu.com/atom.xml
 https://rsshub.app/dev.to/top/week
