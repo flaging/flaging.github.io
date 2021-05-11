@@ -593,3 +593,23 @@ rust解压rar文件 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KeX7Ot3e2)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KeXcnfc9L)
+
+### [当Deepfake遇上卫星图像，我们将要进入楚门的世界？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-11-4)
+
+### [【一图读懂 | 济南新旧动能转换起步区建设实施方案】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210511_1279599.html)
+
+### [PyTorch Transfer Learning : pytorch](https://www.reddit.com/r/pytorch/comments/n9p2j6/pytorch_transfer_learning/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5868/)
+
+### [给各位提醒一下千万不要买炒各种虚拟币 - V2EX](https://www.v2ex.com/t/776201)
+
+### [碰到一个技术出身的老板怎么办？ - V2EX](https://www.v2ex.com/t/776161)
+
+### [技术|用 OpenSSL 替代 Telnet](https://linux.cn/article-13381-1.html?utm_source=rss&utm_medium=rss)
+
+### [硬核观察|硬核观察|OpenSolaris 衍生品 Illumos 放弃对 SPARC 硬件的支持](https://linux.cn/article-13380-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KeXxvtZx0)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KeXuFCFrB)
