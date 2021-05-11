@@ -24,3 +24,5 @@
 ](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247556329&idx=3&sn=50f74ae91c19b8b305c8192b767583be&chksm=fc86fdfacbf174ec3aa3a4cbee4119c307238a314671d838b15a94dfd3b522170530b9e8ad2c#rd)
 
 ### [Linux perf Examples](http://www.brendangregg.com/perf.html)
+
+### [APEI Generic Hardware Error - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/150451/apei-generic-hardware-error)
