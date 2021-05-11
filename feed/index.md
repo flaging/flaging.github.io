@@ -643,3 +643,47 @@ rust解压rar文件 - Rust语言中文社区
 ](https://rustcc.cn/article?id=29c78d5c-0317-4124-b161-296bccade4cb)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KeYh8dJIQ)
+
+### [城市收藏夹 · 香港：在繁华中找回熟悉的美味 - 少数派](https://sspai.com/post/66428)
+
+### [我们采访了 11 位医生，看看她们怎么看待近视矫正手术 - 少数派](https://sspai.com/post/66459)
+
+### [Refresh 周报 #10：记得上传 Google Photos - 少数派](https://sspai.com/post/66560)
+
+### [Importing the numpy C-extensions failed : pytorch](https://www.reddit.com/r/pytorch/comments/n9s3qr/importing_the_numpy_cextensions_failed/)
+
+### [31省份人口年龄结构图谱：北京劳动力人口占比最多，12省份进入中度老龄化 - 21财经](https://m.21jingji.com/article/20210511/herald/52850e1bfeddd88e4ba6d0752465a6b3.html)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1192)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1191)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1190)
+
+### [Java 写起来太痛苦了 - V2EX](https://www.v2ex.com/t/776251)
+
+### [如何学习英语 - V2EX](https://www.v2ex.com/t/776179)
+
+### [Apple music 现在国区和外区的曲库差别大吗？ - V2EX](https://www.v2ex.com/t/776154)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=745)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=865)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=872)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=708)
+
+### [ի--ͼ20210511ʵ](https://www.dapenti.com/blog/more.asp?name=xilei&id=156909)
+
+### [详解百度富媒体检索比对系统的关键技术](https://www.infoq.cn/article/7df9c86d63b052304a5bf26ef)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KeZ5u56Qv)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KeYFutcJ1)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KeZo0kNnw)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KeZjRyRqf)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KeZfwDPuU)
