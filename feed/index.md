@@ -559,3 +559,21 @@ rust解压rar文件 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KeWjPo40h)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KeVVpwksJ)
+
+### [ICAPS 2021华为动态取送货问题挑战赛 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-11-3)
+
+### [CVPR 2021 | 港大、字节跳动等提出基于可学习候选框的端到端的稀疏目标检测器 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-11-2)
+
+### [送码｜简记单词 新鲜上线，艾宾浩斯背单词应用，在背单词或准备背单词的小伙伴不妨试试 - V2EX](https://www.v2ex.com/t/776138)
+
+### [高三暑假实习？ - V2EX](https://www.v2ex.com/t/776023)
+
+### [五一上海、苏州旅行的一些感受 - V2EX](https://www.v2ex.com/t/775991)
+
+### [我天真的以为全栈说的是前后端, 现在才知道原来是 全干! - V2EX](https://www.v2ex.com/t/775965)
+
+### [
+荣登github rust trend榜首 - Rust语言中文社区
+](https://rustcc.cn/article?id=6954976b-883e-42ee-9d30-8bba2e8ed52c)
+
+### [MySQL索引原理浅析](https://www.infoq.cn/article/34e69e7b6af00e15fa8e72dce)
