@@ -765,3 +765,7 @@ rust解压rar文件 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf1dMETgX)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf121mliD)
+
+### [The Plan for the Rust 2021 Edition | Rust Blog](https://blog.rust-lang.org/2021/05/11/edition-2021.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf1qmvnU7)
