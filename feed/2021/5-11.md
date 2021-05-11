@@ -577,3 +577,19 @@ rust解压rar文件 - Rust语言中文社区
 ](https://rustcc.cn/article?id=6954976b-883e-42ee-9d30-8bba2e8ed52c)
 
 ### [MySQL索引原理浅析](https://www.infoq.cn/article/34e69e7b6af00e15fa8e72dce)
+
+### [使用 Airtable 构建个人单词本 - 少数派](https://sspai.com/post/66397)
+
+### [大佬们怎么学习官方全英文的技术文档 - V2EX](https://www.v2ex.com/t/776081)
+
+### [男人的快乐不止机械键盘 - V2EX](https://www.v2ex.com/t/776035)
+
+### [
+百万美元：佳士得将拍卖那瓶上过太空的葡萄酒](http://jandan.net/p/108910)
+
+### [
+今日好价：苏泊尔显温玻璃杯](http://jandan.net/p/108942)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KeX7Ot3e2)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KeXcnfc9L)
