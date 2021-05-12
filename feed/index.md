@@ -131,3 +131,9 @@ tide 怎么支持 multipart/form-data的文件上传啊 - Rust语言中文社区
 ### [主流大数据厂商激烈角逐湖仓一体新架构，华为云引领技术潮流-InfoQ](https://www.infoq.cn/article/3m8XRXz66opS3ue2S2vx)
 
 ### [耗时1年的前端技术框架切换之旅](https://www.infoq.cn/article/631b9d40abb5bfc4f8c2364b5)
+
+### [西窗烛 - 用屏幕小组件鉴赏诗句。中华传统文化平台，品味中国诗词之美 - 小众软件](https://www.appinn.com/xichuangzhu/)
+
+### [零信任不是“银弹”-InfoQ](https://www.infoq.cn/article/iT3XGhQ8WDjitX3Ed3Am)
+
+### [这个云原生开发的痛点你遇到了吗？](https://www.infoq.cn/article/d5364f721bdc326702bcda4a9)
