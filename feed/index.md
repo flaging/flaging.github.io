@@ -252,3 +252,7 @@ tide 怎么支持 multipart/form-data的文件上传啊 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kfdd46G9D)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfdoLialW)
+
+### [How you do efficiently parameterize a batch of multivariate Gaussians in PyTorch : pytorch](https://www.reddit.com/r/pytorch/comments/nb1tvr/how_you_do_efficiently_parameterize_a_batch_of/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfdZIghuA)
