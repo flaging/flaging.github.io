@@ -175,3 +175,7 @@ tide 怎么支持 multipart/form-data的文件上传啊 - Rust语言中文社区
 ### [ի--ͼ20210512Ȼ࣬һǻѡ̵ֹ](https://www.dapenti.com/blog/more.asp?name=xilei&id=156938)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kf976eE6w)
+
+### [需求加密货币方面的咨询（有偿） - V2EX](https://www.v2ex.com/t/776408)
+
+### [硬核观察|硬核观察|阿里云正式发布它的首个 CentOS 兼容发行版 Anolis OS 8.2](https://linux.cn/article-13384-1.html?utm_source=rss&utm_medium=rss)
