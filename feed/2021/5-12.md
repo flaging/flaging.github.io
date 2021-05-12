@@ -256,3 +256,17 @@ tide 怎么支持 multipart/form-data的文件上传啊 - Rust语言中文社区
 ### [How you do efficiently parameterize a batch of multivariate Gaussians in PyTorch : pytorch](https://www.reddit.com/r/pytorch/comments/nb1tvr/how_you_do_efficiently_parameterize_a_batch_of/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfdZIghuA)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735957)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735947)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735938)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735956)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735944)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735964)
+
+### [埃森哲携手阿里云，采用 K8s 容器云服务为企业提供无限弹性-InfoQ](https://www.infoq.cn/article/GGgprgd9uc0ffduCuEHI)
