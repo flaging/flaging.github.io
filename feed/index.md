@@ -109,3 +109,25 @@ tide 怎么支持 multipart/form-data的文件上传啊 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf7sB4Lqx)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf7qvkhNT)
+
+### [七大新功能上线，亚马逊云在中国又推出了AI芯片云服务 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-12-4)
+
+### [游戏摄影和我的故事：在电子游戏中寻找定格的艺术 - 少数派](https://sspai.com/post/66516)
+
+### [r/OpenCL subreddit statistics : OpenCL](https://www.reddit.com/r/OpenCL/comments/naidlz/ropencl_subreddit_statistics/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5869/)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1196)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1195)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1194)
+
+### [我又被爱奇艺索赔了 100 万 - V2EX](https://www.v2ex.com/t/776461)
+
+### [相互宝有必要继续开吗？ - V2EX](https://www.v2ex.com/t/776375)
+
+### [主流大数据厂商激烈角逐湖仓一体新架构，华为云引领技术潮流-InfoQ](https://www.infoq.cn/article/3m8XRXz66opS3ue2S2vx)
+
+### [耗时1年的前端技术框架切换之旅](https://www.infoq.cn/article/631b9d40abb5bfc4f8c2364b5)
