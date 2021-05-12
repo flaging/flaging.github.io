@@ -81,3 +81,25 @@ tide 怎么支持 multipart/form-data的文件上传啊 - Rust语言中文社区
 ### [系统运维|使用 cron 调度任务](https://linux.cn/article-13383-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kf6VczYLk)
+
+### [鄂维南院士解读机器学习与科学计算：促进科学研究从「小农作坊」到「安卓」转变 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-12-3)
+
+### [Github 如何创建一个隐藏的仓库并使用 Github Pages? - V2EX](https://www.v2ex.com/t/776373)
+
+### [闲鱼易用高可扩的文章发布工具建设-InfoQ](https://www.infoq.cn/article/zg25xJGLx6Dqf1myAQWB)
+
+### [浙大吴飞“舌战”阿里贾扬清：AI内卷与年薪百万，哪个才是真实？-InfoQ](https://www.infoq.cn/article/xFM8eFivxWBAOlT5hPut)
+
+### [闲鱼单体应用Serverless化拆分实践](https://www.infoq.cn/article/7c378e12aa05ecc2aa6f9f4bc)
+
+### [微服务的灾难](https://www.infoq.cn/article/6419a90e640d6342c89538381)
+
+### [工商银行分布式服务 C10K 场景解决方案](https://www.infoq.cn/article/dbd98d3c5120c742cf0e5262c)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kf7fMgGu9)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kf74wjwwX)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kf73iAdgm)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kf7jjegW4)
