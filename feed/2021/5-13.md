@@ -244,3 +244,28 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kfj6lyLz4)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfkhnDHnj)
+
+### [Mac Dev Survey 2021 非常有意思的 Mac 开发者调查问卷 – Mac玩儿法](https://www.waerfa.com/mac-dev-survey-2021)
+
+### [程序员应该去大厂吗 - V2EX](https://www.v2ex.com/t/776708)
+
+### [大家有职场中生气的经历吗？ - V2EX](https://www.v2ex.com/t/776679)
+
+### [混动汽车选择 - V2EX](https://www.v2ex.com/t/776627)
+
+### [
+勒索华盛顿警局的黑客公开了20名警官的信息](http://jandan.net/p/108950)
+
+### [
+实验发现 新冠病毒可把自身片段逆转录进我们的基因](http://jandan.net/p/108948)
+
+### [
+今日好价：霍尼韦尔KN95口罩](http://jandan.net/p/108953)
+
+### [
+【Rust日报】2021-05-13 -- Tracing Prism - 提高日志文件可读性的 Web 程序 - Rust语言中文社区
+](https://rustcc.cn/article?id=8ebddf08-a8ae-40f9-8a3b-503355fc67ec)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfkFmzOoc)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kfkt8jKyd)
