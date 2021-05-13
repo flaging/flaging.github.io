@@ -180,3 +180,33 @@
 ### [为什么微软这么大的公司，地下的应用一堆 bug？ - V2EX](https://www.v2ex.com/t/776589)
 
 ### [安谋中国“玲珑”ISP处理器概览-InfoQ](https://www.infoq.cn/article/mrpykh2qOGNupwxg50GI)
+
+### [腾讯云发布国内首个云原生智能数据湖产品图谱，构建一体化数据湖服务 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-13-9)
+
+### [新玩意 062｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/66611)
+
+### [新卡司新故事！《致命女人2》预告 - 新片场](https://www.vmovier.com/62075)
+
+### [中钢协：5月上旬重点统计钢铁企业平均日产粗钢241.78万吨 同比增近18% - 21财经](https://m.21jingji.com/article/20210513/herald/f89bc49322c5d073cc2de545ecd042d9.html)
+
+### [这是虚拟币矿难了吗？ - V2EX](https://www.v2ex.com/t/776615)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=722)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=871)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=783)
+
+### [ի--ͼ20210513κһηֵһ꾡ĵ鱨](https://www.dapenti.com/blog/more.asp?name=xilei&id=156961)
+
+### [5月14日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0513/135150.shtml)
+
+### [硬核观察|硬核观察|IBM 教会 AI 翻译编程语言](https://linux.cn/article-13388-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfitA0Qn9)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kfisp2KDx)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfijVA4Il)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfijFptjX)
