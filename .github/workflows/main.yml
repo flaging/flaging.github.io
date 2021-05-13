@@ -41,23 +41,37 @@ jobs:
           git config --local user.name "flaging-bot"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-      - name: git update
+      - name: git update mark
         run: |
           python3 update.py mark
-          python3 update.py feed
           git add .
-      - name: update readme
+      - name: update mark readme
         run: |
           if [ -f 'mark/'$(date "+%Y/%-m-%-d.md") ];then
             cat 'mark/'$(date "+%Y/%-m-%-d.md") > mark/index.md
           fi
+          git add .
+      - name: git commit mark
+        run:
+          git diff-index --quiet HEAD || git commit -m "update mark by flaging-bot action"
+      - name: git push mark
+        run:
+          git push
+      - name: git update feed
+        run: |
+          python3 update.py feed
+          git add .
+      - name: update feed readme
+        run: |
           if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then
             cat 'feed/'$(date "+%Y/%-m-%-d.md") > feed/index.md
           fi
           git add .
-      - name: git commit
+      - name: git commit feed
         run:
-          git diff-index --quiet HEAD || git commit -m "update instapaper once per hour by flaging-bot action"
-      - name: git push
+          git diff-index --quiet HEAD || git commit -m "update feed by flaging-bot action"
+      - name: git push feed
         run:
           git push
+          
+      
