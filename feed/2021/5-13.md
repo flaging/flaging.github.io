@@ -154,3 +154,7 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/Kfh87BMLn)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kfh7Bryuv)
+
+### [Like That? | Veit's Blog](https://blog.veitheller.de/Like_That.html)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KfhwtALPB)
