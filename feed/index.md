@@ -281,3 +281,16 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kfl8vrsEE)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfkRujPbr)
+
+### [求推荐 2000 内的椅子 - V2EX](https://www.v2ex.com/t/776673)
+
+### [
+脑力小体操 薛定谔的赌局悖论](http://jandan.net/p/108951)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfmCPq3AJ)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfmCjywYW)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfmPg70Mp)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfmDzedNm)
