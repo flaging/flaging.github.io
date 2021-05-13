@@ -158,3 +158,25 @@
 ### [Like That? | Veit's Blog](https://blog.veitheller.de/Like_That.html)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KfhwtALPB)
+
+### [快乐飞旅行报告 03：故宫的花开了 - 少数派](https://sspai.com/post/66445)
+
+### [奇幻脑洞反转片《发条男孩的重生》 - 新片场](https://www.vmovier.com/62068)
+
+### [唢呐请求出战《音乐家这样吵架》 - 新片场](https://www.vmovier.com/62066)
+
+### [脸书反亚裔歧视短片《我们拒绝沉默》 - 新片场](https://www.vmovier.com/62074)
+
+### [【夏日电影混剪】总有一些美好的故事将在夏天发生... - 新片场](https://www.vmovier.com/62060)
+
+### [创意实验舞蹈短片《肉体的弱点》 - 新片场](https://www.vmovier.com/62059)
+
+### [获奖奇幻隐喻动画《容身之所》 - 新片场](https://www.vmovier.com/62057)
+
+### [超惊险山地车骑行记录《飞跃威尔士》 - 新片场](https://www.vmovier.com/62030)
+
+### [AdaBoost 笔记 - 知乎](https://zhuanlan.zhihu.com/p/368077560)
+
+### [为什么微软这么大的公司，地下的应用一堆 bug？ - V2EX](https://www.v2ex.com/t/776589)
+
+### [安谋中国“玲珑”ISP处理器概览-InfoQ](https://www.infoq.cn/article/mrpykh2qOGNupwxg50GI)
