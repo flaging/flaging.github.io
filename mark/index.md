@@ -20,3 +20,5 @@
 ### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735895)
 
 ### [GitHub - glouppe/info8010-deep-learning: Lectures for INFO8010 - Deep Learning, ULiège](https://github.com/glouppe/info8010-deep-learning)
+
+### [nvme-cli常用指令_Rudy的博客-CSDN博客_nvme-cli](https://blog.csdn.net/weixin_40343504/article/details/82386024)

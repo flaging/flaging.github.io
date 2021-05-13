@@ -42,3 +42,21 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KffaMqpZg)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfeMxvO1t)
+
+### [固态电池时代真的要来了吗？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-13)
+
+### [Parallel computing on R : HPC](https://www.reddit.com/r/HPC/comments/nb32bq/parallel_computing_on_r/)
+
+### [张坤、刘彦春不受待见了？爆款基规模骤降，还能买吗？ - 21财经](https://m.21jingji.com/article/20210513/herald/cd7ece92d94e09e6bfbebb761c986bd0.html)
+
+### [618 要到了，大佬们来推荐新的路由吧，想养老。 - V2EX](https://www.v2ex.com/t/776518)
+
+### [在大厂写代码干了多年，现在想申请香港/美国硕士，能用工作经验申请吗？ - V2EX](https://www.v2ex.com/t/776457)
+
+### [技术|初级：如何通过 Torrent 下载 Ubuntu](https://linux.cn/article-13386-1.html?utm_source=rss&utm_medium=rss)
+
+### [揭秘 Amazon Go 无人商店是如何炼成的！](https://www.infoq.cn/article/b63f7ecb49114d89e975f659a)
+
+### [如何高效地存储与检索大规模的图谱数据？](https://www.infoq.cn/article/b3001c3380911d4240a3d6c27)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kffz7rM2Y)
