@@ -142,3 +142,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KfgrUuLqk)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfglMrj37)
+
+### [分享笔记 · ShareNote - 一个简单好用的文字分享工具 - 小众软件](https://www.appinn.com/sharenote-online/)
+
+### [NUC8 黑果套餐 十万补贴计划 现已开启! - V2EX](https://www.v2ex.com/t/776638)
+
+### [
+关于rust的宏如何生成表达式 - Rust语言中文社区
+](https://rustcc.cn/article?id=3f4e6175-9daf-4c77-a508-18656e655d52)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kfh87BMLn)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kfh7Bryuv)
