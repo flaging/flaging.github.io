@@ -22,3 +22,9 @@
 ### [GitHub - glouppe/info8010-deep-learning: Lectures for INFO8010 - Deep Learning, ULiège](https://github.com/glouppe/info8010-deep-learning)
 
 ### [nvme-cli常用指令_Rudy的博客-CSDN博客_nvme-cli](https://blog.csdn.net/weixin_40343504/article/details/82386024)
+
+### [100 Helpful Python Tips You Can Learn Before Finishing Your Morning Coffee | by Fatos Morina | May, 2021 | Towards Data Science](https://towardsdatascience.com/100-helpful-python-tips-you-can-learn-before-finishing-your-morning-coffee-eb9c39e68958)
+
+### [GitHub - vonzhou/CSAPP: CSAPP,《深入理解计算机系统结构》2nd ，阅读与实践！](https://github.com/vonzhou/CSAPP)
+
+### [A Deep Dive Into CPU Architecture](https://www.i-programmer.info/news/91-hardware/14521-take-a-journey-into-the-world-of-cpu-architecture.html)
