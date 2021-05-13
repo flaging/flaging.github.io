@@ -86,3 +86,59 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KffYIAinm)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KffXsh1m2)
+
+### [避免成为调包侠，从数学角度再看深度学习 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-13-6)
+
+### [用意念「手写」字母，准确率高达99%，斯坦福脑机接口新突破登上Nature封面 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-13-5)
+
+### [暨南大学首次问鼎ASC世界超算大赛！清华获亚军，中山大学再破计算性能纪录 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-13-4)
+
+### [无需折腾就能上手，三星手机的内置「捷径」：Bixby 日常程序+ - 少数派](https://sspai.com/post/66608)
+
+### [Look what I found 😏 : pytorch](https://www.reddit.com/r/pytorch/comments/nba7ge/look_what_i_found/)
+
+### [offer 决赛圈。高德 VS 字节， hxd 们给点意见 - V2EX](https://www.v2ex.com/t/776661)
+
+### [考虑回国（成都）工作生活，大家帮忙参考下。 - V2EX](https://www.v2ex.com/t/776610)
+
+### [请喝咖啡征集软件代号 - V2EX](https://www.v2ex.com/t/776602)
+
+### [滴滴大数据安全权限实践-InfoQ](https://www.infoq.cn/article/YfXkHJDask0eMe2GaQNZ)
+
+### [坐拥百万用户的开源项目没钱了，尤雨溪发推力挺被质疑的全职维护者-InfoQ](https://www.infoq.cn/article/NfeFTZkisR7YccmC83wc)
+
+### [一只天价股票致纳斯达克系统“崩了”!-InfoQ](https://www.infoq.cn/article/9lj46fi32s63gNNb2V4r)
+
+### [零停机给Kubernetes集群节点打系统补丁-InfoQ](https://www.infoq.cn/article/54HG2Y3AWIBpyG62Gk8z)
+
+### [从0到全球24亿用户，茄子科技成功出海的秘诀是什么？-InfoQ](https://www.infoq.cn/article/CezO86l1OMWF5MRMldhT)
+
+### [开源项目存活有多难？ 被数百万人使用的 Babel 陷入财务困境 - SegmentFault 思否](https://segmentfault.com/a/1190000039993140)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kfh4bhPDK)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfgZEugDy)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfgXMFiKG)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfgU05r01)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfgSnA4IN)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfgPoDzEo)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kfh8qg0N7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfgPHgHDz)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfgK1CqpZ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfgzxcAPD)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kfgy4uBSy)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kfgs7rzPh)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfgrUuLqk)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfglMrj37)
