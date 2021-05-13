@@ -40,3 +40,14 @@
 
 ### [
 ](http://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247532417&idx=1&sn=8c6924d572ae550a8503b58337cc9463&chksm=e9e1760ade96ff1c7c09ce9e768957bfaaa990d88dfe69d804f240bae30c9b395dae70b56c4d#rd)
+
+### [推荐一款 ssh 终端 - V2EX](https://www.v2ex.com/t/776285)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247534683&idx=5&sn=99b387fdd52f38ed19d04ad56db6b81c&chksm=ebb7708fdcc0f999744b6ef16382ce951c65557e62992923585ac2855e056b4a288a01ed87ec#rd)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MjM5OTA3MjUwMA==&mid=2651181214&idx=3&sn=465a18e46617095a99db798cec18b80c&chksm=bd3077058a47fe130d29d708ff90cdec4c1cb5c18344b7942b2a5e4a85166d53e78636f2abd7#rd)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247518528&idx=4&sn=1942db03fabf13427984ea715fc99a0c&chksm=976c2cdda01ba5cbda8201e2aaf72774cfeae1c3a8b19a564dc222ecf85a3165efd824b95761#rd)
