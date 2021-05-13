@@ -269,3 +269,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KfkFmzOoc)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kfkt8jKyd)
+
+### [How to use "backward" with a tensor? : pytorch](https://www.reddit.com/r/pytorch/comments/nbldyk/how_to_use_backward_with_a_tensor/)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1200)
+
+### [考虑利用业余时间兼职提供靠谱装机服务，会有人感兴趣吗 - V2EX](https://www.v2ex.com/t/776716)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kfl9moogX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kfl8vrsEE)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfkRujPbr)
