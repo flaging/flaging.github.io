@@ -60,3 +60,29 @@
 ### [如何高效地存储与检索大规模的图谱数据？](https://www.infoq.cn/article/b3001c3380911d4240a3d6c27)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kffz7rM2Y)
+
+### [机器学习加速宇宙学模拟 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-13-3)
+
+### [狗狗币可能是骗局，但区块链底层技术不是 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-13-2)
+
+### [你的「在看」有人看，清华研究者从微信「看一看」里发现了这些规律 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-06-7)
+
+### [清华计图开源：智能P图神器DeepFaceEditing | 机器之心](https://www.jiqizhixin.com/articles/2021-05-06-8)
+
+### [拥有「加密货币」前你可能想要知道的事 - 少数派](https://sspai.com/post/65694)
+
+### [Lead and Lag using Spark Scala - Big Data Interview](http://www.bigdatainterview.com/lead-and-lag-using-spark-scala/)
+
+### [回农村开发一个集休闲，娱乐，亲子游的场所，是不是很不错呢? - V2EX](https://www.v2ex.com/t/776622)
+
+### [技术|使用 GNU Screen 的小技巧](https://linux.cn/article-13387-1.html?utm_source=rss&utm_medium=rss)
+
+### [技术领导者如何提升心力？-InfoQ](https://www.infoq.cn/article/aeNSNxG77Xa7P0sS9wu0)
+
+### [14亿人的大项目，如何跑在腾讯云数据库TDSQL的“双引擎”上？-InfoQ](https://www.infoq.cn/article/A3zrwhImF87BJ7qKl99p)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KffZaBgL6)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KffYIAinm)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KffXsh1m2)
