@@ -28,3 +28,9 @@
 ### [GitHub - vonzhou/CSAPP: CSAPP,《深入理解计算机系统结构》2nd ，阅读与实践！](https://github.com/vonzhou/CSAPP)
 
 ### [A Deep Dive Into CPU Architecture](https://www.i-programmer.info/news/91-hardware/14521-take-a-journey-into-the-world-of-cpu-architecture.html)
+
+### [pci - I deleted the namespaces (NS) in my nvme ssd and ubuntu is not able to recognize the device - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/497532/i-deleted-the-namespaces-ns-in-my-nvme-ssd-and-ubuntu-is-not-able-to-recognize)
+
+### [IBM Docs](https://prod.ibmdocs-production-dal-6099123ce774e592a519d7c33db8265e-0000.us-south.containers.appdomain.cloud/docs/en/linux-on-systems?topic=drive-deleting-stray-nvme-namespaces-nvme)
+
+### [Samsung PM1735 - No drivers, no firmware found anywhere? | ServeTheHome Forums](https://forums.servethehome.com/index.php?threads/samsung-pm1735-no-drivers-no-firmware-found-anywhere.28389/)
