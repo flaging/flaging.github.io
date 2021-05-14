@@ -226,3 +226,5 @@ thread::spawn如何返回一个错误 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KftrmzHdh)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KftvhaIDz)
+
+### [how to deal efficiently with >300K files / folder? : HPC](https://www.reddit.com/r/HPC/comments/ncaagr/how_to_deal_efficiently_with_300k_files_folder/)
