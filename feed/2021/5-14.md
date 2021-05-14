@@ -70,3 +70,39 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/KfpsVAlLF)
 
 ### [科技爱好者周刊（第 158 期）：内容渠道的贬值 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html)
+
+### [时隔20天，AI创新药企Exscientia宣布第二个AI分子进入临床试验 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-14-4)
+
+### [三个大脑系列（三）：思维大脑（上）——信息搜集与整理 - 少数派](https://sspai.com/post/66527)
+
+### [xHub 文件君 - 支持网盘文件解压缩的文档管理应用，可播放视频、音乐，传输文件、阅读小说[iOS 内购永久 VIP 限免] - 小众软件](https://www.appinn.com/xhub-files-manager-for-ios/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5870/)
+
+### [办公室一姐竟当着领导的面摔门而出...😨 - V2EX](https://www.v2ex.com/t/776840)
+
+### [求超强 Android 系统编译主机推荐 - V2EX](https://www.v2ex.com/t/776838)
+
+### [桌面应用|Linux 下 Chrome 浏览器一直报“检测到网络变化”，修复方法来了](https://linux.cn/article-13389-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+rust实现平滑重启功能 - Rust语言中文社区
+](https://rustcc.cn/article?id=38c19bf9-a0c7-43c8-97d6-ba9e9e6d3b23)
+
+### [滴滴开源Super-jacoco：java代码覆盖率收集平台文档-InfoQ](https://www.infoq.cn/article/Hx3l4qjsFVbE6hNp3reZ)
+
+### [HDFS廉颇老矣？基于对象存储的数据湖构建新思路-InfoQ](https://www.infoq.cn/article/Pe9ejRJDrJsp5AIhjlE3)
+
+### [SpaceX龙飞船性能要求严苛，软件开发存挑战-InfoQ](https://www.infoq.cn/article/0eg34Br3sTl3r9Vhz1zX)
+
+### [爱奇艺私有云Serverless实践-InfoQ](https://www.infoq.cn/article/2DKGxfO5qxe58PyEzBpO)
+
+### [数据产品经理的圣经，送你一份真贵的礼物 ~~ 年度数据产品经理们的总结](https://www.infoq.cn/article/0bf1d84f851fe7694633714e9)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kfpxakf7M)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfqaC3bD7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfpMdtZZA)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kfpy75czC)
