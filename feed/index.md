@@ -106,3 +106,21 @@ rust实现平滑重启功能 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KfpMdtZZA)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kfpy75czC)
+
+### [连接标准联盟、Matter 协议——它们的「前世今生」和「未来」 - 少数派](https://sspai.com/post/66605)
+
+### [Basic Auto Encoder project - Generating poorly written digits [PyTorch] : pytorch](https://www.reddit.com/r/pytorch/comments/nc33cf/basic_auto_encoder_project_generating_poorly/)
+
+### [普通人不应该做任何有对抗性的运动 - V2EX](https://www.v2ex.com/t/776818)
+
+### [容器与云|速查表：学习 Kubernetes 的基本命令](https://linux.cn/article-13390-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【标准库】Rust 标准库中文翻译 v1.52.1 预览 - Rust语言中文社区
+](https://rustcc.cn/article?id=5371d6b1-99f7-46e7-a8ed-720195548715)
+
+### [由南京大学发起的“DevOps·云原生中国年度调查”，期待你的参与-InfoQ](https://www.infoq.cn/article/hgjl4Kywv1bssNC79Q6x)
+
+### [“头号大厂铁粉”微软宣布关闭区块链服务-InfoQ](https://www.infoq.cn/article/VNckS64lkGSGQDG5g9pj)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KfqWYpCB7)
