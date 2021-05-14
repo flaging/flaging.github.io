@@ -230,3 +230,39 @@ thread::spawn如何返回一个错误 - Rust语言中文社区
 ### [how to deal efficiently with >300K files / folder? : HPC](https://www.reddit.com/r/HPC/comments/ncaagr/how_to_deal_efficiently_with_300k_files_folder/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KftHTCiMc)
+
+### [
+Google AI Blog: Learning to Manipulate Deformable Objects
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/HxveFImEyX8/learning-to-manipulate-deformable.html)
+
+### [不就开个会嘛《打工人神器》 - 新片场](https://www.vmovier.com/62081)
+
+### [典型反派死于话多《马里奥套娃之路》 - 新片场](https://www.vmovier.com/62069)
+
+### [过敏人群的噩梦《怪兽来了》 - 新片场](https://www.vmovier.com/62076)
+
+### [《流转瑞丽》——人文旅拍 Ruili Flow - 新片场](https://www.vmovier.com/62045)
+
+### [来自谷歌的提醒《赛博空间注意事项》 - 新片场](https://www.vmovier.com/62082)
+
+### [国外获奖剧情短片《少女的考试》 - 新片场](https://www.vmovier.com/61982)
+
+### [创意爆棚饮料广告《这是我最喜欢的镜头》 - 新片场](https://www.vmovier.com/61969)
+
+### [友情联动：发支付宝口令红包，欢迎大家破解. - V2EX](https://www.v2ex.com/t/776889)
+
+### [
+罗宾邓巴的自我辩白：为什么我的理论已经对了30年](http://jandan.net/p/108954)
+
+### [
+俄亥俄州：从本州的疫苗接种者中选个幸运儿发百万美元](http://jandan.net/p/108961)
+
+### [Systemd Service Strengthening | Linux Journal](https://www.linuxjournal.com/content/systemd-service-strengthening)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfuuB3fpv)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfuhZ9LBv)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kfu6gtqcm)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KftTDqbmW)
