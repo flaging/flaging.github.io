@@ -268,3 +268,9 @@ Google AI Blog: Learning to Manipulate Deformable Objects
 ### [Sina Visitor System](https://weibo.com/1715118170/KftTDqbmW)
 
 ### [看了 Windows 的 GUID 生成算法，惊掉我下巴。 - V2EX](https://www.v2ex.com/t/776972)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kfw4fiSYs)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kfw1L6nUy)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kfw41pyhX)
