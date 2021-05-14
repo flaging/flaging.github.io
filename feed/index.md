@@ -124,3 +124,33 @@ rust实现平滑重启功能 - Rust语言中文社区
 ### [“头号大厂铁粉”微软宣布关闭区块链服务-InfoQ](https://www.infoq.cn/article/VNckS64lkGSGQDG5g9pj)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KfqWYpCB7)
+
+### [用户数百万、月下载超1亿，著名开源项目Babel却说自己快没钱维护了 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-14-7)
+
+### [吴恩达那场十万人观看的讲座，如今有了专项课程 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-14-6)
+
+### [被中国资助的科学家，或被断绝联邦经费：美参议院提出新规 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-14-5)
+
+### [多尺度表征10亿像素图像，斯坦福神经场景表征新方法入选SIGGRAPH | 机器之心](https://www.jiqizhixin.com/articles/2021-05-14-8)
+
+### [城市收藏夹 · 南京：宁吃了吗 - 少数派](https://sspai.com/post/66505)
+
+### [【国家部门联合公布2020年全国高尔夫球场清理整治情况】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210514_1279852.html)
+
+### [【2021年5月14日24时起国内成品油价格按机制上调】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210514_1279851.html)
+
+### [win10 远程 mac 办公，最流畅的方案是什么？ - V2EX](https://www.v2ex.com/t/776825)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=893)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=575)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=596)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=844)
+
+### [
+thread::spawn如何返回一个错误 - Rust语言中文社区
+](https://rustcc.cn/article?id=78291c64-6517-4081-b070-bb1a4d630d16)
+
+### [小马智行宣布自动驾驶出行服务在京扩大开放，Robotaxi加速落地-InfoQ](https://www.infoq.cn/article/MsuYlIYEqpxTLeXEYAWa)
