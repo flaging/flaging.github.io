@@ -212,3 +212,17 @@ thread::spawn如何返回一个错误 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KfsV5h6HQ)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfsIzkswp)
+
+### [Is the GPU accelerated version for Mac M1 released? : pytorch](https://www.reddit.com/r/pytorch/comments/nc9s03/is_the_gpu_accelerated_version_for_mac_m1_released/)
+
+### [一文掌握 Java8 Stream 中 Collectors 的 24 个操作](https://www.infoq.cn/article/50324deb1efcf3845113e341f)
+
+### [这个好用的分布式应用配置中心，我们把它开源了](https://www.infoq.cn/article/c502543328d1fcda6653c65a0)
+
+### [一文带你读懂PyQt：用Python做出与C++一样的GUI界面应用程序](https://www.infoq.cn/article/af76adc61f6aa23e708500884)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KftrJFT2h)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KftrmzHdh)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KftvhaIDz)
