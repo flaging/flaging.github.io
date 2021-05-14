@@ -154,3 +154,5 @@ thread::spawn如何返回一个错误 - Rust语言中文社区
 ](https://rustcc.cn/article?id=78291c64-6517-4081-b070-bb1a4d630d16)
 
 ### [小马智行宣布自动驾驶出行服务在京扩大开放，Robotaxi加速落地-InfoQ](https://www.infoq.cn/article/MsuYlIYEqpxTLeXEYAWa)
+
+### [打算今年夏天想去一趟海滩,迫于不知道哪里可以,请求推荐 - V2EX](https://www.v2ex.com/t/776866)
