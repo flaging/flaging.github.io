@@ -162,3 +162,13 @@ thread::spawn如何返回一个错误 - Rust语言中文社区
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=707)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KfrQnyyQO)
+
+### [本周看什么丨最近值得一看的 6 部作品 - 少数派](https://sspai.com/post/66648)
+
+### [【西部陆海新通道建设省部际联席会议第二次会议召开】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210514_1279883.html)
+
+### [How to slice a tensor using segments of indices : pytorch](https://www.reddit.com/r/pytorch/comments/nc5ude/how_to_slice_a_tensor_using_segments_of_indices/)
+
+### [ի--ͼ2021051425ƽӽӵ](https://www.dapenti.com/blog/more.asp?name=xilei&id=156981)
+
+### [中华人民共和国民办教育促进法实施条例（国令第741号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-05/14/content_5606463.htm)
