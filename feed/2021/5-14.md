@@ -180,3 +180,35 @@ thread::spawn如何返回一个错误 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Kfsy70VA9)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfswRAE0W)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1202)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1201)
+
+### [2021年5月14日外交部发言人华春莹主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1875845.shtml)
+
+### [2021年5月14日新闻联播文字版](http://www.xwlb.net.cn/19576.html)
+
+### [硬核观察|硬核观察|Cloudflare 呼吁终结验证码](https://linux.cn/article-13391-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【Rust日报】2021-05-14 假如有600刀预算，你打算怎样支持Rust社区 - Rust语言中文社区
+](https://rustcc.cn/article?id=46748dfa-3ef6-4d70-b806-b39057ddceb8)
+
+### [
+求教一个与post表格有关的web编程的问题 - Rust语言中文社区
+](https://rustcc.cn/article?id=665a3a71-e66a-4029-8a8b-c2db0488ad4b)
+
+### [NAT穿透原理详解](https://www.infoq.cn/article/eac5c9322fbf69d1decc8e6d2)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfsHhfNKJ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kftjxq6pm)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kftd0AAxq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kft6VdW22)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfsV5h6HQ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfsIzkswp)
