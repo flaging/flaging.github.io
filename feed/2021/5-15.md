@@ -56,3 +56,27 @@ default是关键字了吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/KfyqctWEd)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KfxM23v0o)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5871/)
+
+### [中欧全面投资协定陷入停滞意味着什么？ - FT中文网](http://www.ftchinese.com/story/001092497)
+
+### [中国科技板块发生了什么？ - FT中文网](http://www.ftchinese.com/story/001092459)
+
+### [老哥们，真心求个建议！ - V2EX](https://www.v2ex.com/t/777011)
+
+### [日常中如何解决 Python 中字典是无序这一问题的 - V2EX](https://www.v2ex.com/t/776937)
+
+### [关于苹果区别对待开发者的文章 - V2EX](https://www.v2ex.com/t/776920)
+
+### [裸辞玩了 2 个月 - V2EX](https://www.v2ex.com/t/776907)
+
+### [被 HR 伤透了心 - V2EX](https://www.v2ex.com/t/776906)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfyUE5doX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfzgTsFGL)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kfzg41I4W)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfzctdyIE)
