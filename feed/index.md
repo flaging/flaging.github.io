@@ -155,3 +155,79 @@ default是关键字了吗？ - Rust语言中文社区
 ### [不会骑车会被大家嘲笑（开玩笑的那种）吧？ - V2EX](https://www.v2ex.com/t/777100)
 
 ### [Win 10 硬盘读写几乎没有，但活动时间 100% - V2EX](https://www.v2ex.com/t/777044)
+
+### [手搓大佬也来分享一个自用多年的“日历记事本” - 小众软件](https://www.appinn.com/rili-jishiben-for-windows/)
+
+### [ Python 中的 os.popen 函数 与 Pipe 管道的坑 | crossoverJie's Blog ](http://crossoverjie.top/2021/05/12/cs/Linux%20Pipe/)
+
+### [Generate 3D models of humans or animals moving from only a short video as input with LASR, a new model from Google Research and Carnegie Mellon University! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/ncz9lw/generate_3d_models_of_humans_or_animals_moving/)
+
+### [[D] How to improve image inversion with Gaussianized latent spaces explained : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nd477h/d_how_to_improve_image_inversion_with/)
+
+### [ResNet-50 PyTorch Pruning : pytorch](https://www.reddit.com/r/pytorch/comments/nczcbi/resnet50_pytorch_pruning/)
+
+### [Beginner : Object (shape) detection in binary images : pytorch](https://www.reddit.com/r/pytorch/comments/ncx6sk/beginner_object_shape_detection_in_binary_images/)
+
+### [Gumbel-Max implementation : pytorch](https://www.reddit.com/r/pytorch/comments/ncwtkv/gumbelmax_implementation/)
+
+### [出了 MBP 16 inch 入了 M1 MBP， 谈谈感受 - V2EX](https://www.v2ex.com/t/777139)
+
+### [梭哈了 SHIB， 0.0002U 见 - V2EX](https://www.v2ex.com/t/777111)
+
+### [研究生学网安出路怎么样? - V2EX](https://www.v2ex.com/t/777079)
+
+### [有没有适合零基础入门的，讲得比较通俗易懂的经济，金融科普类教程 - V2EX](https://www.v2ex.com/t/777038)
+
+### [ի--ͼ20210515˶ʵĸƷཫ󱻹͵ľ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157002)
+
+### [2021年5月15日新闻联播文字版](http://www.xwlb.net.cn/19592.html)
+
+### [
+人类或许可用肛门-直肠呼吸](http://jandan.net/p/108965)
+
+### [
+为什么有些直男会与其他男性发生关系？](http://jandan.net/p/108946)
+
+### [硬核观察|硬核观察|Python 之父要在 Python 3.11 中将速度翻倍](https://linux.cn/article-13394-1.html?utm_source=rss&utm_medium=rss)
+
+### [技术|用 OpenNIC 访问另一个互联网](https://linux.cn/article-13393-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【Rust日报】2021-05-15 - Rust语言中文社区
+](https://rustcc.cn/article?id=e4219e25-77fc-4881-89d3-ab36a05cdbb9)
+
+### [
+关于Slice Type, &[T] 和 Box<[T]> - Rust语言中文社区
+](https://rustcc.cn/article?id=039dee46-62d9-4628-9ed8-ebcd3505c668)
+
+### [
+RiteRaft - Raft 应用快速开发框架，160 行启动一个 Raft 服务 - Rust语言中文社区
+](https://rustcc.cn/article?id=6c083fd9-6d39-4d22-a879-369978c41580)
+
+### [Six Years of Rust | Rust Blog](https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KfBRYv4Xl)
+
+### [Android 面试之必问高级知识点 - SegmentFault 思否](https://segmentfault.com/a/1190000040006722)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfCQldkPH)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfCPHjOfM)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfDV5wWwl)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfDItDuvC)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfD8qgUgV)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfCVMnKyz)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfCK1314u)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfCDw4n3O)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfCxq8hxd)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfClF9x37)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfC94bvgB)
