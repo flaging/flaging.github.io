@@ -114,3 +114,40 @@ default是关键字了吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KfA62kVMd)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KfA5un72R)
+
+### [国际家庭日：如何避免“不写作业母慈子孝，一写作业鸡飞狗跳？” - 21财经](https://m.21jingji.com/article/20210515/herald/14ccab52c94cbd76ee0157cf80361a98.html)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1220)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1219)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1218)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1217)
+
+### [周杰伦真的有艺术上的追求吗？ - V2EX](https://www.v2ex.com/t/777091)
+
+### [工作好难 我好烦 - V2EX](https://www.v2ex.com/t/777028)
+
+### [除了 QQ、微信等 IM 有没有什么好的方法能快速多端互相发送文字？ - V2EX](https://www.v2ex.com/t/777023)
+
+### [宽带提速后实际速度反而变低了 - V2EX](https://www.v2ex.com/t/776978)
+
+### [
+破译脑-执行信号：插入电极的瘫患者用意念每分钟打出90个字符](http://jandan.net/p/108967)
+
+### [
+斯宾诺莎悖论：一位无神论者眼中的上帝](http://jandan.net/p/108968)
+
+### [
+今日好价：三星S21手机](http://jandan.net/p/108966)
+
+### [滴滴在HBase性能与可用性上的探索与实践-InfoQ](https://www.infoq.cn/article/mospIP9IHouQ0p7xtV3l)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfB1UzWNw)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfB1j4wrX)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfAtannWx)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfAUeuptY)
