@@ -151,3 +151,7 @@ default是关键字了吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KfAtannWx)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfAUeuptY)
+
+### [不会骑车会被大家嘲笑（开玩笑的那种）吧？ - V2EX](https://www.v2ex.com/t/777100)
+
+### [Win 10 硬盘读写几乎没有，但活动时间 100% - V2EX](https://www.v2ex.com/t/777044)
