@@ -255,3 +255,9 @@ RiteRaft - Raft 应用快速开发框架，160 行启动一个 Raft 服务 - Rus
 ### [Is relative error feasible as a loss function? Also is there any benefit? : pytorch](https://www.reddit.com/r/pytorch/comments/nd9tzx/is_relative_error_feasible_as_a_loss_function/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfG4Bu2pC)
+
+### [青年图摘0516！爱的挡箭牌](https://qingniantuzhai.com/untitled-17/)
+
+### [零故障上云全过程再现，PB级数据迁移如何保障一致性？-InfoQ](https://www.infoq.cn/article/hk3XrwBOGDc84d7SolK5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfGhfEMRt)
