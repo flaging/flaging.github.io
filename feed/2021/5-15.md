@@ -80,3 +80,9 @@ default是关键字了吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kfzg41I4W)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfzctdyIE)
+
+### [求道之人，不问寒暑（七） - 知乎](https://zhuanlan.zhihu.com/p/372521032)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KfzALjNRG)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfzBcvVMB)
