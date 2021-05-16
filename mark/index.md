@@ -14,3 +14,5 @@
 ### [POSIX Threads Programming | LLNL HPC Tutorials](https://hpc-tutorials.llnl.gov/posix/)
 
 ### [c++ - Vector(array) of atomic variables - Stack Overflow](https://stackoverflow.com/questions/47986552/vectorarray-of-atomic-variables)
+
+### [头条文章](https://weibo.com/ttarticle/x/m/show/id/2309404628532394590320?_wb_client_=1)
