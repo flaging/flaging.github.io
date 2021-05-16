@@ -75,3 +75,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KfJ1odWvv)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfIDlrhMj)
+
+### [
+一个疑惑，为什么rust少有大而全的create - Rust语言中文社区
+](https://rustcc.cn/article?id=47fcbb96-4ff2-44d6-a69f-ce8b82cc1283)
+
+### [
+一个实用的rust日志板条箱，灰常好用 - Rust语言中文社区
+](https://rustcc.cn/article?id=a640c6d2-277e-4de6-997e-16423c4db1fa)
