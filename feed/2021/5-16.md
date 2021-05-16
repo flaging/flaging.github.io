@@ -50,3 +50,28 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KfHQDtllz)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KfI4faB2e)
+
+### [傅里叶变换取代Transformer自注意力层，谷歌这项研究GPU上快7倍、TPU上快2倍 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-16)
+
+### [IJCAI 2021｜美团提出车道线检测新框架SGNet，精准且快速 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-16-2)
+
+### [打开浏览器就能玩：适合「摸鱼」的轻量小游戏推荐 - 少数派](https://sspai.com/post/66601)
+
+### [我在 iPhone 上没有找到耳机插孔 - V2EX](https://www.v2ex.com/t/777185)
+
+### [关于哪种语言速度执行速度最快，画了张图表，顺带吐槽 - V2EX](https://www.v2ex.com/t/777179)
+
+### [腾讯云要笑死我，抽奖送的颈枕是他们用过的😂 - V2EX](https://www.v2ex.com/t/777154)
+
+### [程序员的尊严值几个钱？ - V2EX](https://www.v2ex.com/t/777128)
+
+### [
+今日好价：美商海盗船机械键盘](http://jandan.net/p/108976)
+
+### [容器与云|使用 Ansible 配置 Podman 容器](https://linux.cn/article-13396-1.html?utm_source=rss&utm_medium=rss)
+
+### [桌面应用|通过网络将你的扫描结果发送到 Linux 机器上](https://linux.cn/article-13395-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfJ1odWvv)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfIDlrhMj)
