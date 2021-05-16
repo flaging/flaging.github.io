@@ -87,3 +87,12 @@
 ### [突然有了个点子不知道未来会不会有人去做 - V2EX](https://www.v2ex.com/t/777207)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfJyjcSi3)
+
+### [温柔岁月，沪宁记忆 01：上海篇 - 少数派](https://sspai.com/post/66478)
+
+### [【国家发展改革委负责同志带队赴北京城市副中心调研】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210516_1279940.html)
+
+### [
+大气模型错了：闪电风暴竟然是最大的空气净化器](http://jandan.net/p/108912)
+
+### [基础架构如何以终为始，稳定先行？-InfoQ](https://www.infoq.cn/article/Hl3tFZeUQvTPtdL4vwci)
