@@ -226,3 +226,21 @@ leetcode 基础题： 最接近的三数之和。为什么细节优化之后反�
 ### [基于NVIDIA GPU和RAPIDS加速Spark 3.0-InfoQ](https://www.infoq.cn/article/j2TF1jvLJHoGiKowW510)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfPv6mbie)
+
+### [一加 9pro+氧 os 有什么能用 nfc 门禁卡的方案？ - V2EX](https://www.v2ex.com/t/777232)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736040)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736058)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736049)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736089)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736080)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735971)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfPNmkGbS)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfPHDrsPb)
