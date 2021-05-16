@@ -206,3 +206,15 @@ leetcode 基础题： 最接近的三数之和。为什么细节优化之后反�
 ### [新加坡政府吐血推荐《你打疫苗了吗》 - 新片场](https://www.vmovier.com/62090)
 
 ### [你是否经历过身材霸凌？《请立即拒绝》 - 新片场](https://www.vmovier.com/61990)
+
+### [Using SLURM for OCR? : HPC](https://www.reddit.com/r/HPC/comments/ndxhno/using_slurm_for_ocr/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfP7xrnBp)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfP2Nojs6)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfOWlz51i)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfP6Km6q5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfOUC1Mvm)
