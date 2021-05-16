@@ -83,3 +83,5 @@
 ### [
 一个实用的rust日志板条箱，灰常好用 - Rust语言中文社区
 ](https://rustcc.cn/article?id=a640c6d2-277e-4de6-997e-16423c4db1fa)
+
+### [突然有了个点子不知道未来会不会有人去做 - V2EX](https://www.v2ex.com/t/777207)
