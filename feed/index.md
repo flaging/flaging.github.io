@@ -100,3 +100,13 @@
 ### [
 leetcode 基础题： 最接近的三数之和。为什么细节优化之后反而性能变慢？ - Rust语言中文社区
 ](https://rustcc.cn/article?id=d8b71147-87d3-4b71-8902-07e7247b8675)
+
+### [coinbase 两步验证 app 失效了怎么搞？ - V2EX](https://www.v2ex.com/t/777188)
+
+### [不知道有没有看 B 站的，现在字母缩写现象很严重啊 - V2EX](https://www.v2ex.com/t/777184)
+
+### [看《周杰伦真的有艺术上的追求吗》有感，随便聊聊让人“耳目一新”的音乐 - V2EX](https://www.v2ex.com/t/777161)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfKa7iUNa)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfK9D8npP)
