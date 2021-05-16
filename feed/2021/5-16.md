@@ -126,3 +126,17 @@ leetcode 基础题： 最接近的三数之和。为什么细节优化之后反�
 ### [Sina Visitor System](https://weibo.com/1402400261/KfKBLu1e2)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KfKwFjvbN)
+
+### [SilentNotes - 尊重隐私的开源便签，支持 WebDAV 同步、加密[Win/Android] - 小众软件](https://www.appinn.com/silentnotes/)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1223)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1222)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1221)
+
+### [ի--ͼ20210516](https://www.dapenti.com/blog/more.asp?name=xilei&id=157021)
+
+### [硬核观察|硬核观察|安全专家告知数据被泄露后，却接到了对方的律师函](https://linux.cn/article-13397-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfKMEjU0G)
