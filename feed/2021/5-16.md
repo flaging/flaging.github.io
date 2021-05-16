@@ -220,3 +220,9 @@ leetcode 基础题： 最接近的三数之和。为什么细节优化之后反�
 ### [Sina Visitor System](https://weibo.com/1715118170/KfOUC1Mvm)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfPjan16p)
+
+### [青年图摘0517！《爸妈眼里我和我的房间》](https://qingniantuzhai.com/qing-nian-tu-zhai-0517-4/)
+
+### [基于NVIDIA GPU和RAPIDS加速Spark 3.0-InfoQ](https://www.infoq.cn/article/j2TF1jvLJHoGiKowW510)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfPv6mbie)
