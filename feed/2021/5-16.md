@@ -96,3 +96,7 @@
 大气模型错了：闪电风暴竟然是最大的空气净化器](http://jandan.net/p/108912)
 
 ### [基础架构如何以终为始，稳定先行？-InfoQ](https://www.infoq.cn/article/Hl3tFZeUQvTPtdL4vwci)
+
+### [
+leetcode 基础题： 最接近的三数之和。为什么细节优化之后反而性能变慢？ - Rust语言中文社区
+](https://rustcc.cn/article?id=d8b71147-87d3-4b71-8902-07e7247b8675)
