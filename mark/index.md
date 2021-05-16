@@ -12,3 +12,5 @@
 ### [c++ - Mutex example / tutorial? - Stack Overflow](https://stackoverflow.com/questions/4989451/mutex-example-tutorial)
 
 ### [POSIX Threads Programming | LLNL HPC Tutorials](https://hpc-tutorials.llnl.gov/posix/)
+
+### [c++ - Vector(array) of atomic variables - Stack Overflow](https://stackoverflow.com/questions/47986552/vectorarray-of-atomic-variables)
