@@ -52,3 +52,11 @@
 ### [PasteEx - 剪贴板内容自动粘贴为文件，支持 txt、html、png、jpg 等格式[Win] - 小众软件](https://www.appinn.com/pasteex-for-windows/)
 
 ### [广州天河上班，哪里买房比较好？ - V2EX](https://www.v2ex.com/t/777346)
+
+### [以全新的 Notion API，尝试全新的记账方式 - 少数派](https://sspai.com/post/66658)
+
+### [世界顶级黑客，都有哪些神操作？ - SegmentFault 思否](https://segmentfault.com/a/1190000040011934)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfRSx8sD2)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfROBh7D8)
