@@ -228,3 +228,17 @@ rust mongo 全局超时疑惑 - Rust语言中文社区
 睡眠不足有害健康，那睡眠过多呢？](http://jandan.net/p/108970)
 
 ### [module load and job array : HPC](https://www.reddit.com/r/HPC/comments/nem7af/module_load_and_job_array/)
+
+### [治愈系假日时光《夏天不会迟到》 - 新片场](https://www.vmovier.com/62087)
+
+### [关于男孩之间的比赛《乔希和雅各布》 - 新片场](https://www.vmovier.com/62071)
+
+### [不用画面,做个高燃混剪 - 新片场](https://www.vmovier.com/62091)
+
+### [这是找房时的你吗《找房奇遇》 - 新片场](https://www.vmovier.com/62078)
+
+### [拍电影的前期准备《场景的定位侦察》 - 新片场](https://www.vmovier.com/62092)
+
+### [皮克斯动画美食大赏《Yummy！》 - 新片场](https://www.vmovier.com/62064)
+
+### [世界5大“奇葩”车赛《赛车也疯狂》 - 新片场](https://www.vmovier.com/61970)
