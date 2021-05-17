@@ -84,3 +84,5 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KfSrZhdjG)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfS3Gx8Sr)
+
+### [负载均衡概念入门-InfoQ](https://www.infoq.cn/article/wGcBTjtKoNPq0L3WREpa)
