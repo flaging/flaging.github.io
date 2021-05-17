@@ -96,3 +96,15 @@
 ### [Apple 将再一次改变音乐行业… - V2EX](https://www.v2ex.com/t/777355)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KfTetgkmY)
+
+### [云智一体全场景视频技术，百度智能视频云怎么玩转视频业务全流程？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-17-6)
+
+### [在后真相时代，我们在这里学着沉思 - 少数派](https://sspai.com/post/66619)
+
+### [
+今日带货：新蛋TEE 现货](http://jandan.net/p/108980)
+
+### [
+数学中的图论成为描述人体生理调节方式的工具](http://jandan.net/p/108867)
+
+### [（深入篇）漫游语音识别技术—带你走进语音识别技术的世界](https://www.infoq.cn/article/cc06170e21794b3c865726bf4)
