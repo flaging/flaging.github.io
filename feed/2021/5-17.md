@@ -217,3 +217,9 @@ rust mongo 全局超时疑惑 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KfWnuyYP5)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfWLGrSfj)
+
+### [Cornell Center for Advanced Computing is hiring a Computational Scientist : HPC](https://www.reddit.com/r/HPC/comments/nemiqq/cornell_center_for_advanced_computing_is_hiring_a/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfX0PdyUU)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfWZY5Dkv)
