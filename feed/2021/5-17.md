@@ -149,3 +149,45 @@ rust mongo 全局超时疑惑 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KfTWz9VL2)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KfUrCl1pg)
+
+### [Weird problem with the loss- looking for suggestions : pytorch](https://www.reddit.com/r/pytorch/comments/negegz/weird_problem_with_the_loss_looking_for/)
+
+### [老婆怀孕被公司开除 - V2EX](https://www.v2ex.com/t/777471)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=838)
+
+### [2021年5月17日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1876269.shtml)
+
+### [2021年5月17日新闻联播文字版](http://www.xwlb.net.cn/19624.html)
+
+### [分享|OpenStreetMap：社区驱动的谷歌地图替代品](https://linux.cn/article-13399-1.html?utm_source=rss&utm_medium=rss)
+
+### [代码英雄|《代码英雄》第四季（3）：个人计算机 —— Altair 8800 和革命的曙光](https://linux.cn/article-13398-1.html?utm_source=rss&utm_medium=rss)
+
+### [Announcing Rustup 1.24.2 | Rust Blog](https://blog.rust-lang.org/2021/05/17/Rustup-1.24.2.html)
+
+### [透过数字化转型再谈数据中台（二）：唯一性定理中的数据中台-InfoQ](https://www.infoq.cn/article/zTUxMT25uxRSKe77ET4i)
+
+### [一文看懂 slice](https://www.infoq.cn/article/5199b218610e1e5a18b7ea63e)
+
+### [实时语音如何过质量关？](https://www.infoq.cn/article/9ecee5effe531e63df5489d0b)
+
+### [测试开发需要掌握哪些技术？](https://www.infoq.cn/article/df2747fc9c76933dfbc20c0a9)
+
+### [🚀【高并发技术专题】你需要了解的秒杀方案](https://www.infoq.cn/article/fac44bc9a52419bf9e6c5672f)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfVvfvYaV)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfVuxcIu6)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfVCCjIbG)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfVuv7w16)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfVopvevU)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfVcp8wAu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfV03ys3k)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfUOhlyRt)
