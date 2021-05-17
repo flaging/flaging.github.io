@@ -22,3 +22,5 @@
 ### [Distributed Services with Go | SaltTiger](https://salttiger.com/distributed-services-with-go/)
 
 ### [Display Linux Kernel Module Information With Modinfo Command - OSTechNix](https://ostechnix.com/display-linux-kernel-module-information-with-modinfo-command/)
+
+### [10 Amazing and Mysterious Uses of (!) Symbol or Operator in Linux Commands](https://www.tecmint.com/mysterious-uses-of-symbol-or-operator-in-linux-commands/)
