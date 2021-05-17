@@ -60,3 +60,27 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KfRSx8sD2)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KfROBh7D8)
+
+### [“叶飞概念股”上演跌停潮，ST板块重挫！多家券商、公司紧急回应 - 21财经](https://m.21jingji.com/article/20210517/herald/5b8397bbb15b1920f53ff3028af08ca1.html)
+
+### [为何 Joplin 的作者们都这么固执 - V2EX](https://www.v2ex.com/t/777378)
+
+### [有一事不明，大前端到底做什么？现在不都是往移动端 app 走么？很少做网页了吧？ - V2EX](https://www.v2ex.com/t/777342)
+
+### [快手成为业内首家实现基于深度学习实时变声直播的公司-InfoQ](https://www.infoq.cn/article/0i9KsKCNEPpa0DtvhmtD)
+
+### [学会黑科技，一招搞定 iOS 14.2 的 libffi crash-InfoQ](https://www.infoq.cn/article/g9lhEv1WYgSXpE5fDeHJ)
+
+### [Android 音视频采集那些事](https://www.infoq.cn/article/6275289cad1adb454cc1bb1b5)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfSl7tZg2)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfSc2x0j5)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfSafbmtc)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfS5qqGtt)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfSrZhdjG)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfS3Gx8Sr)
