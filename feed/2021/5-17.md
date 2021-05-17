@@ -226,3 +226,5 @@ rust mongo 全局超时疑惑 - Rust语言中文社区
 
 ### [
 睡眠不足有害健康，那睡眠过多呢？](http://jandan.net/p/108970)
+
+### [module load and job array : HPC](https://www.reddit.com/r/HPC/comments/nem7af/module_load_and_job_array/)
