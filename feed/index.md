@@ -191,3 +191,11 @@ rust mongo 全局超时疑惑 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KfV03ys3k)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfUOhlyRt)
+
+### [[Paper] Involution: Inverting the Inherence of Convolution for Visual Recognition - Explained : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nehh6j/paper_involution_inverting_the_inherence_of/)
+
+### [硬核观察|硬核观察|鸿蒙 OS 2.0 将陆续开源](https://linux.cn/article-13400-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【Rust日报】2021-05-17 SpaceX 开始使用 Rust 了 - Rust语言中文社区
+](https://rustcc.cn/article?id=24623de0-467d-4b29-982e-c5c709a4c7ef)
