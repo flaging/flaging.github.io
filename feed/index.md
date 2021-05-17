@@ -108,3 +108,44 @@
 数学中的图论成为描述人体生理调节方式的工具](http://jandan.net/p/108867)
 
 ### [（深入篇）漫游语音识别技术—带你走进语音识别技术的世界](https://www.infoq.cn/article/cc06170e21794b3c865726bf4)
+
+### [在数字化转型中挖掘AIOps的应用潜力 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-17-8)
+
+### [独家专访深势科技：「多尺度建模+机器学习」攻克传统分子模拟瓶颈，驱动多行业应用 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-17-7)
+
+### [派评 | 近期值得关注的 App - 少数派](https://sspai.com/post/66695)
+
+### [你的家庭小药箱，从这 8 种非处方药开始 - 少数派](https://sspai.com/post/66590)
+
+### [国内生活，国外生活的去留。 - V2EX](https://www.v2ex.com/t/777419)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=632)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=718)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=815)
+
+### [ի--ͼ20210517֮](https://www.dapenti.com/blog/more.asp?name=xilei&id=157039)
+
+### [5月18日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0517/135163.shtml)
+
+### [
+加州 因坐在特斯拉后座上而被捕的男子](http://jandan.net/p/108969)
+
+### [
+trait的关联常量的类型是泛型时有什么好的处理方式 - Rust语言中文社区
+](https://rustcc.cn/article?id=fd32c0e0-7c1f-4060-b452-868195c74485)
+
+### [
+rust mongo 全局超时疑惑 - Rust语言中文社区
+](https://rustcc.cn/article?id=ff63215b-783b-415c-a4c3-1081d3d6a70a)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfUrltgYd)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfUjWfsIk)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfTZ6qlet)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfTWz9VL2)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KfUrCl1pg)
