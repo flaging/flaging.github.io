@@ -48,3 +48,7 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KfQ5UmQQ4)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfPTshRFF)
+
+### [PasteEx - 剪贴板内容自动粘贴为文件，支持 txt、html、png、jpg 等格式[Win] - 小众软件](https://www.appinn.com/pasteex-for-windows/)
+
+### [广州天河上班，哪里买房比较好？ - V2EX](https://www.v2ex.com/t/777346)
