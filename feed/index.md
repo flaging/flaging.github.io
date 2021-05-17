@@ -199,3 +199,13 @@ rust mongo 全局超时疑惑 - Rust语言中文社区
 ### [
 【Rust日报】2021-05-17 SpaceX 开始使用 Rust 了 - Rust语言中文社区
 ](https://rustcc.cn/article?id=24623de0-467d-4b29-982e-c5c709a4c7ef)
+
+### [YOLO: Uber's Rider App Rewrite, From the Front Seat. - The Pragmatic Engineer](http://feedproxy.google.com/~r/ThePragmaticEngineer/~3/1p8yp5UDDOg/)
+
+### [Next-Generation Pose Detection with MoveNet and TensorFlow.js — The TensorFlow Blog](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
+
+### [坐标杭州,落地 20 万左右的 SUV,求推荐 - V2EX](https://www.v2ex.com/t/777356)
+
+### [实时音视频通讯过程中声音的那些事儿](https://www.infoq.cn/article/67c05742ea1d9cff0a42f1507)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfWb7nGzk)
