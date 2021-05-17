@@ -242,3 +242,11 @@ rust mongo 全局超时疑惑 - Rust语言中文社区
 ### [皮克斯动画美食大赏《Yummy！》 - 新片场](https://www.vmovier.com/62064)
 
 ### [世界5大“奇葩”车赛《赛车也疯狂》 - 新片场](https://www.vmovier.com/61970)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5873/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfYmdbwQR)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KfYjWtVmq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KfYlq59tm)
