@@ -40,3 +40,17 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KfZjXccXn)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KfZdU7VV2)
+
+### [前端收徒后续~ - V2EX](https://www.v2ex.com/t/777473)
+
+### [你能听出来 320k 音乐和无损音乐有什么区别吗？ - V2EX](https://www.v2ex.com/t/777466)
+
+### [各位帝都的道友， 中关村买买电脑坑多吗？ - V2EX](https://www.v2ex.com/t/777405)
+
+### [分享|用 Ttyper 测试你在 Linux 终端的打字速度](https://linux.cn/article-13401-1.html?utm_source=rss&utm_medium=rss)
+
+### [vivo AI 计算平台云原生自动化实践-InfoQ](https://www.infoq.cn/article/9vB93vFIa9qHVMYOj6lD)
+
+### [11天里13个Apache开源项目宣布退休，Hadoop的时代结束了-InfoQ](https://www.infoq.cn/article/8IpROq9a7qxUSlmpURFo)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg0ze131t)
