@@ -284,3 +284,14 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg5ZYcBvn)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg5O2nm4l)
+
+### [
+Google AI Blog: Project Guideline: Enabling Those with Low Vision to Run Independently
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/Dwh6-K7R2nY/project-guideline-enabling-those-with.html)
+
+### [Any free deepfake that changes the spoken text in video ? : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nfgp5f/any_free_deepfake_that_changes_the_spoken_text_in/)
+
+### [写了一款效率提升社交产品 - V2EX](https://www.v2ex.com/t/777651)
+
+### [
+你有「网页标签囤积症」吗](http://jandan.net/p/108709)
