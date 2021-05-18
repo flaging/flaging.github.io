@@ -329,3 +329,9 @@ Google AI Blog: Project Guideline: Enabling Those with Low Vision to Run Indepen
 ### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5874/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg89ZabAB)
+
+### [Android 视觉风格巨变、Material Design 为「你」更新：Google I/O 2021 主要看点回顾 - 少数派](https://sspai.com/post/66737)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg8qIkJQy)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg8m60YjI)
