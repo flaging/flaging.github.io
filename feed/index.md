@@ -176,3 +176,11 @@
 ### [JavaScrip实现：如何写出漂亮的条件表达式](https://www.infoq.cn/article/3d4fc172e5ecbed1167645b05)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kg33mpPPT)
+
+### [App+1 | 听歌记录就该一个不漏，Android 平台 last.fm 客户端首选：Pano Scrobbler - 少数派](https://sspai.com/post/66715)
+
+### [是否有必要买一台 4000+ NAS - V2EX](https://www.v2ex.com/t/777677)
+
+### [美团外卖的程序员都不验证服务器时间吗？ - V2EX](https://www.v2ex.com/t/777611)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kg3rG22hA)
