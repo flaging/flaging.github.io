@@ -295,3 +295,5 @@ Google AI Blog: Project Guideline: Enabling Those with Low Vision to Run Indepen
 
 ### [
 你有「网页标签囤积症」吗](http://jandan.net/p/108709)
+
+### [Can somebody help me with understanding how they processed the data in this paper? : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nfkbrd/can_somebody_help_me_with_understanding_how_they/)
