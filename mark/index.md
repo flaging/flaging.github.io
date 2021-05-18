@@ -9,3 +9,5 @@
 ### [Microsoft joins Bytecode Alliance to advance WebAssembly – aka the thing that lets you run compiled C/C++/Rust code in browsers • The Register](https://www.theregister.com/2021/04/28/microsoft_bytecode_alliance/)
 
 ### [AI芯片路在何方？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-13-10)
+
+### [Predefined C++20 Concepts: Callables - C++ Stories](https://www.cppstories.com/2021/concepts-callables/)
