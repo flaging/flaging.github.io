@@ -162,3 +162,17 @@
 ### [Bathtime | Veit's Blog](https://blog.veitheller.de/Bathtime.html)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kg2SozFzo)
+
+### [幕后 | 专访《Pixiu 记账》：创造一款好产品，首先需要学会发现问题 - 少数派](https://sspai.com/post/66714)
+
+### [NotesHub - 使用 GitHub 保存数据的在线 Markdown 笔记服务 - 小众软件](https://www.appinn.com/noteshub-online/)
+
+### [有效提问： 150 元以内就没有好拖鞋，不服来辩！ - V2EX](https://www.v2ex.com/t/777689)
+
+### [IDEA 十分卡慢，求大佬告知如何优化 - V2EX](https://www.v2ex.com/t/777670)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=839)
+
+### [JavaScrip实现：如何写出漂亮的条件表达式](https://www.infoq.cn/article/3d4fc172e5ecbed1167645b05)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kg33mpPPT)
