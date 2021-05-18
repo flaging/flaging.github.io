@@ -299,3 +299,9 @@ Google AI Blog: Project Guideline: Enabling Those with Low Vision to Run Indepen
 ### [Can somebody help me with understanding how they processed the data in this paper? : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nfkbrd/can_somebody_help_me_with_understanding_how_they/)
 
 ### [[R] MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nflvvf/r_multisports_a_multiperson_video_dataset_of/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg7LFwSG7)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg7LvzB39)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg7LZ8Kvz)
