@@ -72,3 +72,23 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg0LmeMcx)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg0HCltH6)
+
+### [程序员又要上电视了 - V2EX](https://www.v2ex.com/t/777581)
+
+### [知乎是如果从最开始高贵的邀请制高质量社区沦落为现在到处外卖领券小广告还举报秒驳回的？ - V2EX](https://www.v2ex.com/t/777543)
+
+### [618 快到了，想换台客厅电视， 6000 元，资讯获取太单一了，求推荐 - V2EX](https://www.v2ex.com/t/777429)
+
+### [王者齐聚！掠夺者、Intel见证IMC首站成功！_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0518/135166.shtml)
+
+### [系统运维|使用 systemd 来管理启动项](https://linux.cn/article-13402-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+文档测试(doctest)笔记 - Rust语言中文社区
+](https://rustcc.cn/article?id=d7566be6-0254-4a3a-8855-fd36835b4ba8)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg1hVEmn0)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg1h04ttA)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg15OybtB)
