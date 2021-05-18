@@ -256,3 +256,31 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg5BCi1XI)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg5pVqlfz)
+
+### [[D] Why Transformers are taking over the Compute Vision world: Self-Supervised Vision Transformers with DINO explained in 7 minutes! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nffcou/d_why_transformers_are_taking_over_the_compute/)
+
+### [Speed-up your sites with web-page prefetching using Machine Learning — The TensorFlow Blog](https://blog.tensorflow.org/2021/05/speed-up-your-sites-with-web-page-prefetching-using-ml.html)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1240)
+
+### [彩虹🌈表带来了 - V2EX](https://www.v2ex.com/t/777568)
+
+### [
+量子机器学习领域的新定理捅了一个大篓子](http://jandan.net/p/108962)
+
+### [
+从理论上解释钙钛矿电池技术当前瓶颈所在](http://jandan.net/p/108887)
+
+### [
+[日本]等不及打疫苗？可以在黑市高价购买](http://jandan.net/p/108986)
+
+### [
+今日好价：雷蛇无线鼠标](http://jandan.net/p/108985)
+
+### [An Abridged Guide to the Enterprise Linux Landscape | Linux Journal](https://www.linuxjournal.com/content/abridged-guide-enterprise-linux-landscape)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg6cCqEOA)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg5ZYcBvn)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg5O2nm4l)
