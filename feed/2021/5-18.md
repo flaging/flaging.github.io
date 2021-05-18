@@ -92,3 +92,45 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Kg1h04ttA)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg15OybtB)
+
+### [受中国稀土出口限制，马勒将量产无接触式「零磨损」电动机 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-18-3)
+
+### [广汽埃安与滴滴自动驾驶官宣联合造车 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-18-2)
+
+### [百度何径舟：预训练打破数据壁垒，助力药物研发 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-18)
+
+### [一份 520 送礼清单，没有想送的 TA 也能送自己 - 少数派](https://sspai.com/post/66692)
+
+### [如何选择一瓶实用又个性的墨水 - 少数派](https://sspai.com/post/66526)
+
+### [iWifi 测速侠 - 在现实场景中，用 AR 测速[macOS/iOS 限免] - 小众软件](https://www.appinn.com/iwifi-speedtest/)
+
+### [每周工作超55小时或心脏病致死，来看看世界公认的最健康作息时间表参考 - 21财经](https://m.21jingji.com/article/20210518/herald/c8e098648f90a1dce64f599f9b7fb3f7.html)
+
+### [请问哪款安卓手机最容易 ROOT,使用向日葵来远程控制 - V2EX](https://www.v2ex.com/t/777442)
+
+### [大力扶持！去年中国投入106亿补贴半导体上市企业，中芯国际获近25亿补贴-InfoQ](https://www.infoq.cn/article/xGJ99890a3ZMWJUDNf6L)
+
+### [仅需添加1个参数，即可飞速拉取Rancher镜像！-InfoQ](https://www.infoq.cn/article/8MYY2rr7cJzqcepfXBC4)
+
+### [SpringCloud微服务架构实战：Feign+Hystrix实现RPC调用保护](https://www.infoq.cn/article/44ae359444104ce159464e247)
+
+### [玩转直播系列之RTMP协议和源码解析（2）](https://www.infoq.cn/article/51cbaf09b3f1dd09c39ff7cfd)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg1RVupCA)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg1QGrsmc)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg1Po45St)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg1K1xJtQ)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg1IBumnt)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg1SEb2C3)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg1um2C0i)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kg1K6EChV)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kg1it7mli)
