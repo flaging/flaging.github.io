@@ -355,3 +355,9 @@ Google AI Blog: Project Guideline: Enabling Those with Low Vision to Run Indepen
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg8EngTWk)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg8yh4jaM)
+
+### [Flatten 3D tensor : pytorch](https://www.reddit.com/r/pytorch/comments/nfppv8/flatten_3d_tensor/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg8QwraHN)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg8Ksgs2M)
