@@ -54,3 +54,21 @@
 ### [11天里13个Apache开源项目宣布退休，Hadoop的时代结束了-InfoQ](https://www.infoq.cn/article/8IpROq9a7qxUSlmpURFo)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg0ze131t)
+
+### [以色列和哈马斯冲突升级 - FT中文网](http://www.ftchinese.com/story/001092486)
+
+### [全球芯片战争难以撼动三星领导地位 - FT中文网](http://www.ftchinese.com/story/001092474)
+
+### [中国人口录得60多年来最低增速 - FT中文网](http://www.ftchinese.com/story/001092453)
+
+### [
+地址值相减 - Rust语言中文社区
+](https://rustcc.cn/article?id=60fb5ea3-6a94-440b-93b8-ed2de2a12ae9)
+
+### [明略千亿大数据处理能力是如何炼成的？-InfoQ](https://www.infoq.cn/article/YWYebJN6BQMaJg9wLW7h)
+
+### [☕️【Java技术之旅】带你看透Lambda表达式的本质](https://www.infoq.cn/article/f859764824f443776bc95fd1e)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg0LmeMcx)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg0HCltH6)
