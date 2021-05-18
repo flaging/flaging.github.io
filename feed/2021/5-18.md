@@ -198,3 +198,43 @@
 ### [Is there an easy way to visualize pytorch vision transforms : pytorch](https://www.reddit.com/r/pytorch/comments/nf8eet/is_there_an_easy_way_to_visualize_pytorch_vision/)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kg458pHcf)
+
+### [Judea Pearl推荐，UC伯克利研究者合著机器学习新书，可当研究生教材 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-18-8)
+
+### [IBM开源了5亿行代码数据集，里面最多的编程语言却不是Python | 机器之心](https://www.jiqizhixin.com/articles/2021-05-18-7)
+
+### [透视鹏程.盘古：首个2000亿参数中文大模型是怎样炼成的？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-18-6)
+
+### [每次矩阵相乘用不到一个光子，手写数字识别准度超90%，光学神经网络效率提升数个量级 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-18-5)
+
+### [碳中和调研报告：四成龙头企业已制定“碳中和”时间表，75%企业面临供应链挑战 - 21财经](https://m.21jingji.com/article/20210518/herald/2b113a9031756ec1150ba5b42c9a1225.html)
+
+### [安卓”阅读“的 iOS 版”源阅读“ - V2EX](https://www.v2ex.com/t/777592)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=634)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=549)
+
+### [2021年5月18日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1876601.shtml)
+
+### [荣耀Play5今日发布，或推动66W超级快充普及_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0518/135167.shtml)
+
+### [
+【问题】单链表 IterMut 的一种生存期错误怎么解决 - Rust语言中文社区
+](https://rustcc.cn/article?id=86b9da16-9d54-4a47-87d6-ff25426fd603)
+
+### [IOS端音频的采集与播放](https://www.infoq.cn/article/b8c110b4c6d696b05a7c2f22c)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg4VEcZxk)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kg4TT9IQW)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg4V00LGK)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg4OUk51h)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg4Dfjg6n)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg4qymc6d)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg4eN84kU)
