@@ -190,3 +190,7 @@
 ### [硬核观察|硬核观察|“祝融号”火星车目前带宽每秒只能传 16 个字节](https://linux.cn/article-13403-1.html?utm_source=rss&utm_medium=rss)
 
 ### [SimpleDateFormat线程不安全的5种解决方案！](https://www.infoq.cn/article/ea943cefcb169d3665952a0bf)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1239)
+
+### [ի--ͼ20210518ȥ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157066)
