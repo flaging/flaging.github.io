@@ -305,3 +305,5 @@ Google AI Blog: Project Guideline: Enabling Those with Low Vision to Run Indepen
 ### [Sina Visitor System](https://weibo.com/1402400261/Kg7LvzB39)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg7LZ8Kvz)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kg7XK1ZwX)
