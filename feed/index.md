@@ -156,3 +156,9 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/Kg2zDcuTN)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kg2gByYqr)
+
+### [我在大学养花种菜 | 实现果蔬自由，一个阳台就够了 - 少数派](https://sspai.com/post/66544)
+
+### [Bathtime | Veit's Blog](https://blog.veitheller.de/Bathtime.html)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kg2SozFzo)
