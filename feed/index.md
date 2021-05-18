@@ -307,3 +307,23 @@ Google AI Blog: Project Guideline: Enabling Those with Low Vision to Run Indepen
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg7LZ8Kvz)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kg7XK1ZwX)
+
+### [世界博物馆日《烂艺术博物馆之旅》 - 新片场](https://www.vmovier.com/62111)
+
+### [小米 11 Ultra 8K 拍摄  火星首次留下中国印迹，致敬探索者 - 新片场](https://www.vmovier.com/62110)
+
+### [泰式风味憨豆先生《曼谷桥头事故》 - 新片场](https://www.vmovier.com/62106)
+
+### [我徘徊在未知去处的梦中《失重》 - 新片场](https://www.vmovier.com/62103)
+
+### [爆笑演绎！极速版《泰坦尼克号》 - 新片场](https://www.vmovier.com/62104)
+
+### [魔都之巅，这是你从未见过的上海 - 新片场](https://www.vmovier.com/62083)
+
+### [紧急清扫！《你的Mac快爆炸了吗》 - 新片场](https://www.vmovier.com/62089)
+
+### [学霸养成记《7个专注学习技巧》 - 新片场](https://www.vmovier.com/62035)
+
+### [禁 忌之爱回忆录《关于你的肌理》 - 新片场](https://www.vmovier.com/62073)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5874/)
