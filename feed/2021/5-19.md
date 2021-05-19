@@ -440,3 +440,13 @@ match 转写 map 笔记 - Rust语言中文社区
 英国78%的青少年看过Porn](http://jandan.net/p/108931)
 
 ### [V 站写字最好看的程序员........ - V2EX](https://www.v2ex.com/t/777897)
+
+### [如何配置近乎完美的开发环境? - V2EX](https://www.v2ex.com/t/777966)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgheeDwUr)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kghcw0zlo)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KghoeCij3)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kghcn7wvG)
