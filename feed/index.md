@@ -174,3 +174,41 @@ rust+actix-web+sqlite+ diese - Rust语言中文社区
 ](https://rustcc.cn/article?id=d8e3c988-e471-48a1-992f-8cdac317ab4f)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KgctOlMwb)
+
+### [余承东将带动华为车BU真正融入CBG，与长安合作车型即将亮相 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-19-16)
+
+### [百分点大数据技术团队：万亿级大数据监控平台建设实践 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-20-7)
+
+### [本月玩什么 | 生化危机村庄、质量效应合集、宝可梦大探险、风月魔传 - 少数派](https://sspai.com/post/66721)
+
+### [年轻人的体检指南 01：体检在检查什么 - 少数派](https://sspai.com/post/66539)
+
+### [一线城市人口版图：深圳“正青春”，北漂、沪漂占比仍在提升 - 21财经](https://m.21jingji.com/article/20210519/herald/57812358a7f165660e17b01999136751.html)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=864)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=846)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=728)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=688)
+
+### [售价3599元起！华为发布MateView和MateView GT_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0519/135174.shtml)
+
+### [全面不止于屏，华为MateBook 16正式发布 售价6299元起_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0519/135173.shtml)
+
+### [多款重磅新品发布！华为全场景智慧生活新品发布会召开_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0519/135172.shtml)
+
+### [
+async_std::path::PathBuf怎么实现Serialize - Rust语言中文社区
+](https://rustcc.cn/article?id=3a800fb2-cb7b-447f-b2b4-730efceeffc8)
+
+### [没看过这篇文章，别说你会用Airflow-InfoQ](https://www.infoq.cn/article/Q837WBETfsaTfITHbBI9)
+
+### [Python之父：让 Python 速度快2倍-InfoQ](https://www.infoq.cn/article/bw09RUpF3vECGIKtuXPm)
+
+### [我为什么离开IBM？-InfoQ](https://www.infoq.cn/article/izydCIlSUKckDXamT3fz)
+
+### [520 单身福利｜邀好友，一起来领 “Pink” T-恤～](https://www.infoq.cn/article/cfa25abdba68bd498a5b4d4cb)
+
+### [长连接网关技术专题(四)：爱奇艺WebSocket实时推送网关技术实践](https://www.infoq.cn/article/f8371ca7f9941ab10602b277a)
