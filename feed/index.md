@@ -218,3 +218,21 @@ async_std::path::PathBuf怎么实现Serialize - Rust语言中文社区
 ### [在“互联网世界版图”中找到了 v2ex - V2EX](https://www.v2ex.com/t/777889)
 
 ### [NAS 7*24，求一个馒头药 - V2EX](https://www.v2ex.com/t/777849)
+
+### [笑翻全场《精灵旅社4》预告来袭 - 新片场](https://www.vmovier.com/62119)
+
+### [反转世界《当大人和小孩身份互换》 - 新片场](https://www.vmovier.com/62116)
+
+### [纽约时报镜头下的《中国直播网红》 - 新片场](https://www.vmovier.com/62112)
+
+### [奥迪真“鬼片”《奇怪的事情发生了》 - 新片场](https://www.vmovier.com/62113)
+
+### [九国语言版《泡沫》：人来人往 你来自人海 又归于人海... - 新片场](https://www.vmovier.com/61909)
+
+### [日本沙雕动画短片《在厕所遇见话痨》 - 新片场](https://www.vmovier.com/62118)
+
+### [赛博朋克风搞怪《游戏脚本设定》 - 新片场](https://www.vmovier.com/62117)
+
+### [人人都能拍出的《7个电影感创意镜头》 - 新片场](https://www.vmovier.com/62115)
+
+### [ի--ͼ20210519ȻᵽprivilegeҾ˵˵ҵĸ߰](https://www.dapenti.com/blog/more.asp?name=xilei&id=157082)
