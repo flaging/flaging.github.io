@@ -114,3 +114,35 @@ Rust随机头像生成库 - Rust语言中文社区
 ### [分享|SonoBus：支持跨平台的开源点对点音频流应用](https://linux.cn/article-13405-1.html?utm_source=rss&utm_medium=rss)
 
 ### [鸿蒙轻内核M核源码分析：数据结构之任务就绪队列](https://www.infoq.cn/article/cc76eda0216927417e421cb61)
+
+### [​百度集团二次赴港上市首份财报公布，四智汽车解决方案成为重要推手 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-19-13)
+
+### [特斯拉死磕「视觉感知」撤下雷达，真的靠谱吗？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-19-12)
+
+### [告别荧光示踪法，AI能为我们跟踪更多的细胞运动 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-19-10)
+
+### [不懂设计没关系，用 iSlide 轻松制作好看好用的 PPT - 少数派](https://sspai.com/post/66612)
+
+### [Dishes Launcher - 托盘里的快速启动工具[Windows] - 小众软件](https://www.appinn.com/dishes-launcher/)
+
+### [Firmware Static Analysis with CodeChecker | Interrupt](https://interrupt.memfault.com/blog/static-analysis-with-codechecker)
+
+### [刚入手一周的腾讯云香港轻量服务器出了点问题 - V2EX](https://www.v2ex.com/t/777843)
+
+### [消息称苹果 M2 MacBook Pro 最快今年夏天发布，最高 64GB 内存、10 核 CPU 芯片 - V2EX](https://www.v2ex.com/t/777817)
+
+### [读研究生被延毕了 - V2EX](https://www.v2ex.com/t/777735)
+
+### [
+用什么方式可以判断一个变量是在堆上还是在栈上 - Rust语言中文社区
+](https://rustcc.cn/article?id=d4dbd59a-a8c3-48b2-a94f-ba01918346fb)
+
+### [Rust 2021版计划于10月发布，将带来哪些新特性？-InfoQ](https://www.infoq.cn/article/vNvhTxcmRUTsduocjBsg)
+
+### [干货 | 携程机票前端安卓虚拟机测试集群建设实践-InfoQ](https://www.infoq.cn/article/EWCZyHr7pHjyB2QIJLuI)
+
+### [云小课 | 大数据融合分析：GaussDW(DWS)轻松导入MRS-Hive数据源](https://www.infoq.cn/article/d2b7cd70e88a42e52c35b62fb)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KgbH74Whh)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgbjj2FNN)
