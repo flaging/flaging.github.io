@@ -82,3 +82,29 @@ Rust随机头像生成库 - Rust语言中文社区
 ### [有效提问,2000 以内的桌面(电脑)音响都是辣鸡有反对的吗 - V2EX](https://www.v2ex.com/t/777773)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kgawuys64)
+
+### [2021阿里全球数学竞赛预选赛试题出炉：5万人参赛，第一题只有2000多人选对了（附答案） | 机器之心](https://www.jiqizhixin.com/articles/2021-05-19-9)
+
+### [新款 iMac 体验：「精」「彩」依旧 - 少数派](https://sspai.com/post/66736)
+
+### [loss_fn expected scalar type Long but found Float : pytorch](https://www.reddit.com/r/pytorch/comments/nfvm42/loss_fn_expected_scalar_type_long_but_found_float/)
+
+### [头秃，拿了个海外的 offer，下个月入职，签证&准入都下来了，时间规定的死死的，结果当地又爆发严重了 - V2EX](https://www.v2ex.com/t/777779)
+
+### [观点|每个人都应该尝试 Linux 的 21 个理由](https://linux.cn/article-13404-1.html?utm_source=rss&utm_medium=rss)
+
+### [限量！Alibaba首发“SpringBoot实战笔记”，差距不是一点点](https://www.infoq.cn/article/24a478ecff8d0bb396dc2e94b)
+
+### [「 优秀主题征文名单公布 」—— InfoQ 写作平台【 1 周年盛典 】](https://www.infoq.cn/article/e44e10b0374e2d64b6d34c079)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgaGSuqoC)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgaFXb34z)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgaEWxkNV)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgaUSncbB)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgaRd60FC)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgaR0rTlm)
