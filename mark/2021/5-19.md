@@ -16,3 +16,15 @@
 ### [Function Templates - More Details about Explicit Template Arguments and Concepts - ModernesCpp.com](http://www.modernescpp.com/index.php/function-templates-more-details)
 
 ### [Kaggle Solutions](https://farid.one/kaggle-solutions/)
+
+### [吴恩达机器学习-7-支持向量机SVM](https://juejin.cn/post/6963435310931771429)
+
+### [A Gentle Introduction to Multiple-Model Machine Learning](https://machinelearningmastery.com/multiple-model-machine-learning/)
+
+### [Essence of Boosting Ensembles for Machine Learning](https://machinelearningmastery.com/essence-of-boosting-ensembles-for-machine-learning/)
+
+### [Ensemble Machine Learning With Python (7-Day Mini-Course)](https://machinelearningmastery.com/ensemble-machine-learning-with-python-7-day-mini-course/)
+
+### [年轻人的体检指南 01：体检在检查什么 - 少数派](https://sspai.com/post/66539)
+
+### [GitHub - ljeng/cheat-sheet: Data structures & algorithms cheat sheet](https://github.com/ljeng/cheat-sheet)
