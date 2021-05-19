@@ -112,3 +112,5 @@ Rust随机头像生成库 - Rust语言中文社区
 ### [国务院关于同意在部分地区开展内地居民婚姻登记“跨省通办”试点的批复（国函〔2021〕48号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-05/19/content_5608622.htm)
 
 ### [分享|SonoBus：支持跨平台的开源点对点音频流应用](https://linux.cn/article-13405-1.html?utm_source=rss&utm_medium=rss)
+
+### [鸿蒙轻内核M核源码分析：数据结构之任务就绪队列](https://www.infoq.cn/article/cc76eda0216927417e421cb61)
