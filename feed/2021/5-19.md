@@ -150,3 +150,15 @@ Rust随机头像生成库 - Rust语言中文社区
 ### [
 rust+actix-web+sqlite+ diese - Rust语言中文社区
 ](https://rustcc.cn/article?id=c3304e10-a475-4451-8a77-aebc012ef67c)
+
+### [百分点大数据技术团队：政务数据安全管理实践 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-04)
+
+### [百分点数据科学实验室：基于数据驱动的销量预测模型建构 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-04-2)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1242)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1241)
+
+### [家人想在武汉买房 - V2EX](https://www.v2ex.com/t/777712)
+
+### [2021最热门的20个数据库学习总结，你会用哪几个？](https://www.infoq.cn/article/bd09ff84c77b365bf68f62dc5)
