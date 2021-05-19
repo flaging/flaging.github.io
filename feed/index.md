@@ -298,3 +298,140 @@ match 转写 map 笔记 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KgdR3hDxF)
 
 ### [中国经济的数字逻辑 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html)
+
+### [Learn Fullstack | 2021 - DEV Community](https://dev.to/retr0c0de/learn-fullstack-2021-54gd)
+
+### [16 VS Code Shortcuts for Faster Coding - DEV Community](https://dev.to/basecampxd/16-vs-code-shortcuts-for-faster-coding-4k5a)
+
+### [You can do more than just console.log() - DEV Community](https://dev.to/daryllukas/you-can-do-more-than-just-console-log-598a)
+
+### [useAxios : A simple custom hook for calling APIs using axios   - DEV Community](https://dev.to/ms_yogii/useaxios-a-simple-custom-hook-for-calling-apis-using-axios-2dkj)
+
+### [Build a Complete Food Ordering App using React + Redux along With Stripe Payment Integration - DEV Community](https://dev.to/myogeshchavan97/build-a-complete-food-ordering-app-using-react-redux-along-with-stripe-payment-integration-1k61)
+
+### [CSS skeleton loading screen animation - DEV Community](https://dev.to/michaelburrows/css-skeleton-loading-screen-animation-gj3)
+
+### [10 cool links for developers that I think you'll like  - DEV Community](https://dev.to/mbcrump/10-cool-links-for-developers-that-i-think-you-ll-like-18o8)
+
+### [How to Solve Any Algorithm - DEV Community](https://dev.to/nielsenjared/how-to-solve-algorithms-2jo9)
+
+### [8 Best Practices for REST API Design - DEV Community](https://dev.to/mohit199thd/8-best-practices-for-rest-api-design-1d97)
+
+### [A Quick Guide to React useCallback Hook - DEV Community](https://dev.to/alexdevero/a-quick-guide-to-react-usecallback-hook-47dn)
+
+### [All That You Need To Know About Date Object In JavaScript - DEV Community](https://dev.to/kiranrajvjd/all-that-you-need-to-know-about-date-and-time-in-javascript-5bfd)
+
+### [How I build Crypto Tracker Chart with React 🚀 - DEV Community](https://dev.to/ayeprahman/how-i-build-crypto-tracker-chart-with-react-4k9h)
+
+### [Use Javascript console like pro - DEV Community](https://dev.to/suprabhasupi/use-javascript-console-like-pro-3j1h)
+
+### [Create games using TypeScript, Snowpack, and ESLint with this template - DEV Community](https://dev.to/paulasantamaria/create-games-using-typescript-snowpack-and-eslint-with-this-template-12ef)
+
+### [Step-by-step guide: Pass your cursor position to CSS variables with JavaScript - DEV Community](https://dev.to/naseki/step-by-step-guide-pass-your-cursor-position-using-css-variables-c7b)
+
+### [Learn the hidden feature in Git - Stash - DEV Community](https://dev.to/yuvgeek/learn-the-hidden-feature-in-git-stash-k7b)
+
+### [Comprehensive List of Chrome Extensions for Developers 🔥 - DEV Community](https://dev.to/actitime/comprehensive-list-of-chrome-extensions-for-developers-32ae)
+
+### [Curated list of Newsletters to level up your coding skills
+ - DEV Community](https://dev.to/aman_singh/curated-list-of-newsletters-to-level-up-your-coding-skills-4heb)
+
+### [10 basic concepts of React JS - DEV Community](https://dev.to/smismail/10-basic-concepts-of-react-js-4hfh)
+
+### [A Simple Introduction to Web Sockets - DEV Community](https://dev.to/tamerlang/a-simple-introduction-to-web-sockets-g1j)
+
+### [Sets in JavaScript — the only explanation you will ever need - DEV Community](https://dev.to/marcosmol204/sets-in-javascript-the-only-explanation-you-will-ever-need-4pl0)
+
+### [5 Data Engineering Project Ideas To Put On Your Resume - DEV Community](https://dev.to/seattledataguy/5-project-ideas-for-data-engineering-to-put-on-your-resume-m47)
+
+### [Introduction to the Jamstack - the New Frontier in Web Development - DEV Community](https://dev.to/darrendube/introduction-to-the-jamstack-the-new-frontier-in-web-development-e07)
+
+### [Open Source Best Practices - DEV Community](https://dev.to/pragativerma18/open-source-best-practices-902)
+
+### [React for Beginners: The Complete Guide for 2021 - DEV Community](https://dev.to/reedbarger/react-for-beginners-the-complete-guide-for-2021-55nj)
+
+### [Digital Clock using JavaScript - DEV Community](https://dev.to/nehasoni__/digital-clock-using-javascript-2648)
+
+### [Full Stack Instagram: Infinite Scroll - DEV Community](https://dev.to/arnoldschan/full-stack-react-how-to-build-your-own-instagram-with-react-js-firebase-infinite-scroll-5dc0)
+
+### [Full Stack Instagram: Introduction  - DEV Community](https://dev.to/arnoldschan/full-stack-react-how-to-build-your-own-instagram-with-react-js-firebase-introduction-2107)
+
+### [Are you using React ? Then I think you must know this - DEV Community](https://dev.to/sudarshansb143/are-you-using-react-then-i-think-you-must-know-this-47cg)
+
+### [Remove duplicate value from array - DEV Community](https://dev.to/suprabhasupi/remove-duplicate-value-from-array-3i52)
+
+### [😫 Tired Of Relative Imports? Time To Get Rid Of Them! - DEV Community](https://dev.to/iamludal/tired-of-relative-imports-time-to-get-rid-of-them-1n48)
+
+### [🚀10 Trending projects on GitHub for web developers - 14th May 2021 - DEV Community](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-14th-may-2021-1mkd)
+
+### [My go-to React libraries for 2021 - DEV Community](https://dev.to/julienhery/my-go-to-react-libraries-for-2021-4k1)
+
+### [Redis:  Exploring Redis as Serverless Database to solve idempotence in APIs - DEV Community](https://dev.to/aws-builders/redis-exploring-redis-as-serverless-database-to-solve-idempotence-in-apis-2gma)
+
+### [Clean code & programming principles – The ultimate beginner’s guide - DEV Community](https://dev.to/sargalias/clean-code-programming-principles-the-ultimate-beginner-s-guide-5605)
+
+### [I made a Twitter Clone with VueJS and Go - DEV Community](https://dev.to/hotpotatoc/i-made-a-twitter-clone-with-vuejs-and-go-59jf)
+
+### [🔥 75 Awesome Resources For Web Developers 🔥 - DEV Community](https://dev.to/kiranrajvjd/75-awesome-web-resources-that-make-web-development-easy-2pff)
+
+### [Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor - DEV Community](https://dev.to/savannahjs/vulnerability-allows-cross-browser-tracking-in-chrome-firefox-safari-and-tor-39ma)
+
+### [How to Maintain Your Skills as a Developer  - DEV Community](https://dev.to/codesandboxio/how-to-maintain-your-skills-as-a-developer-1e4e)
+
+### [Beginner's Guide to Jest Testing in React - DEV Community](https://dev.to/dsasse07/beginner-s-guide-to-jest-testing-in-react-1nig)
+
+### [A Simple Roadmap for Java Beginners in 2021 - DEV Community](https://dev.to/dbc2201/a-simple-roadmap-for-java-beginners-in-2021-3k06)
+
+### [Diagrams as code 2.0 - DEV Community](https://dev.to/simonbrown/diagrams-as-code-2-0-82k)
+
+### [25+ JavaScript tips that can help you understand this programming language better - DEV Community](https://dev.to/pascavld/25-javascript-tips-that-can-help-you-understand-this-programming-language-better-jeg)
+
+### [Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations - DEV Community](https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10)
+
+### [Bootstrap 5 Templates - Open-source and FREE - DEV Community](https://dev.to/sm0ke/bootstrap-5-templates-open-source-and-free-48d2)
+
+### [Javascript local storage - beginner's guide - DEV Community](https://dev.to/arikaturika/javascript-local-storage-beginner-s-guide-1gk1)
+
+### [Most Awesome Hooks for your React project - DEV Community](https://dev.to/brayanarrieta/most-awesome-hooks-for-your-react-project-4dcp)
+
+### [Announcing Tauri Beta - More efficient crossplatform apps with better features - DEV Community](https://dev.to/tauri/announcing-tauri-beta-more-efficient-crossplatform-apps-with-better-features-1nbd)
+
+### [The Forem Product Roadmap — with Lisa Sy & Vaidehi Joshi  - DEV Community](https://dev.to/devteam/the-forem-product-roadmap-with-lisa-sy-vaidehi-joshi-5620)
+
+### [Moving From Tailwind To Vanilla-er CSS - DEV Community](https://dev.to/mikerogers0/moving-from-tailwind-to-vanilla-er-css-2ghh)
+
+### [Aggregating batched multi-label predictions : pytorch](https://www.reddit.com/r/pytorch/comments/nga60s/aggregating_batched_multilabel_predictions/)
+
+### [HUAWEI MateView 用来外接 Mac 如何？ - V2EX](https://www.v2ex.com/t/777946)
+
+### [今天打开电脑，发现 win10 推送了 21H1 - V2EX](https://www.v2ex.com/t/777842)
+
+### [
+剑齿猫化石：迄今最大的猫](http://jandan.net/p/108933)
+
+### [
+迄今的SETI数据，都未发现任何疑似外星人的信号](http://jandan.net/p/108934)
+
+### [
+为什么在火箭降落时，SpaceX的无人回收船直播会中断](http://jandan.net/p/108992)
+
+### [
+今日好价：跳舞猫手办](http://jandan.net/p/108990)
+
+### [
+【Rust日报】2021-05-19 -- Linux 1Password的幕后花絮 - Rust语言中文社区
+](https://rustcc.cn/article?id=4254b798-65f1-4dfc-aeb8-30c6f3c24b7c)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgfCYvg5I)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgfqt6X0o)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgfejByue)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgf275Mjs)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgeQnEYGR)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgeDLa7ci)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgexFbOcA)
