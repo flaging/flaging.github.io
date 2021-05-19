@@ -162,3 +162,5 @@ rust+actix-web+sqlite+ diese - Rust语言中文社区
 ### [家人想在武汉买房 - V2EX](https://www.v2ex.com/t/777712)
 
 ### [2021最热门的20个数据库学习总结，你会用哪几个？](https://www.infoq.cn/article/bd09ff84c77b365bf68f62dc5)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KgchDlJzK)
