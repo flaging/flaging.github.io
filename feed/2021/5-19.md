@@ -212,3 +212,5 @@ async_std::path::PathBuf怎么实现Serialize - Rust语言中文社区
 ### [520 单身福利｜邀好友，一起来领 “Pink” T-恤～](https://www.infoq.cn/article/cfa25abdba68bd498a5b4d4cb)
 
 ### [长连接网关技术专题(四)：爱奇艺WebSocket实时推送网关技术实践](https://www.infoq.cn/article/f8371ca7f9941ab10602b277a)
+
+### [Wix如何通过改进基础架构提升网站性能？-InfoQ](https://www.infoq.cn/article/ICEPcU9wraFIJhK6TmJi)
