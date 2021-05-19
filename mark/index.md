@@ -14,3 +14,5 @@
 ### [🚀【高并发技术专题】你需要了解的秒杀方案](https://xie.infoq.cn/article/fac44bc9a52419bf9e6c5672f)
 
 ### [Function Templates - More Details about Explicit Template Arguments and Concepts - ModernesCpp.com](http://www.modernescpp.com/index.php/function-templates-more-details)
+
+### [Kaggle Solutions](https://farid.one/kaggle-solutions/)
