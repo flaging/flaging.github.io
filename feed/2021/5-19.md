@@ -164,3 +164,13 @@ rust+actix-web+sqlite+ diese - Rust语言中文社区
 ### [2021最热门的20个数据库学习总结，你会用哪几个？](https://www.infoq.cn/article/bd09ff84c77b365bf68f62dc5)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KgchDlJzK)
+
+### [现在想要原价买到好的公版显卡是不是不可能了？ - V2EX](https://www.v2ex.com/t/777816)
+
+### [求职困扰，望过来人人指点 - V2EX](https://www.v2ex.com/t/777726)
+
+### [
+ - Rust语言中文社区
+](https://rustcc.cn/article?id=d8e3c988-e471-48a1-992f-8cdac317ab4f)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KgctOlMwb)
