@@ -214,3 +214,7 @@ async_std::path::PathBuf怎么实现Serialize - Rust语言中文社区
 ### [长连接网关技术专题(四)：爱奇艺WebSocket实时推送网关技术实践](https://www.infoq.cn/article/f8371ca7f9941ab10602b277a)
 
 ### [Wix如何通过改进基础架构提升网站性能？-InfoQ](https://www.infoq.cn/article/ICEPcU9wraFIJhK6TmJi)
+
+### [在“互联网世界版图”中找到了 v2ex - V2EX](https://www.v2ex.com/t/777889)
+
+### [NAS 7*24，求一个馒头药 - V2EX](https://www.v2ex.com/t/777849)
