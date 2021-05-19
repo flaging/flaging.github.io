@@ -146,3 +146,7 @@ Rust随机头像生成库 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1746173800/KgbH74Whh)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kgbjj2FNN)
+
+### [
+rust+actix-web+sqlite+ diese - Rust语言中文社区
+](https://rustcc.cn/article?id=c3304e10-a475-4451-8a77-aebc012ef67c)
