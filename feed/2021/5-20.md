@@ -91,3 +91,27 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KgkFZtPke)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KgkxddgFn)
+
+### [「机器学习+激光+悬浮」揭露耐火材料熔化过程 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-20-5)
+
+### [当联邦学习保护数据隐私，如何保证其自身的安全性？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-20-4)
+
+### [CMU博士、姚班助理教授张焕晨获SIGMOD Jim Gray博士论文奖，华人首次 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-20-3)
+
+### [刚刚，张一鸣宣布卸任字节跳动CEO，联合创始人梁汝波接任 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-20-2)
+
+### [Tutorial on how to perform a one dimensional optimization using the optimize() function in R : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/ngsj18/tutorial_on_how_to_perform_a_one_dimensional/)
+
+### [Waymo计划融资40亿美元，发展不如预期、管理层动荡，上市路在何方？-InfoQ](https://www.infoq.cn/article/WBXif1YYls8QmjCZ3fCw)
+
+### [进程内缓存助你提高并发能力！](https://www.infoq.cn/article/cafa80b39e5b9d0a55e6a429a)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KgkJfCXBS)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgkUp46EL)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgkQXrHys)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgkIkwNe8)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgkJAytUq)
