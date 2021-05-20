@@ -14,3 +14,7 @@
 ### [GitHub - alexfru/regal86: Register Allocator for 8086](https://github.com/alexfru/regal86)
 
 ### [gdb 内存断点watch 的使用_hjjdebug的专栏-CSDN博客_gdb watch 内存地址](https://blog.csdn.net/hejinjing_tom_com/article/details/50570442)
+
+### [How do I remove a single breakpoint with GDB? - Stack Overflow](https://stackoverflow.com/questions/4340718/how-do-i-remove-a-single-breakpoint-with-gdb)
+
+### [查看线程信息 | 100个gdb小技巧](https://wizardforcel.gitbooks.io/100-gdb-tips/content/print-threads.html)
