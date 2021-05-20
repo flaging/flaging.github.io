@@ -294,3 +294,19 @@
 
 ### [
 脑力小体操：测试一下自己的物理直觉？](http://jandan.net/p/108995)
+
+### [
+Google AI Blog: KELM: Integrating Knowledge Graphs with Language Model Pre-training Corpora
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/3z-H6M2lhso/kelm-integrating-knowledge-graphs-with.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgqQdl4la)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgqJNzUpd)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgqFdCVpC)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgqE99ZNZ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgqOJtl4e)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgqCREwKL)
