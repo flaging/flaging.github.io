@@ -221,3 +221,29 @@
 ### [试用期工资竟然可以随便给，只要高于 80%？ - V2EX](https://www.v2ex.com/t/778062)
 
 ### [ի--ͼ20210520첻ðҩҲܰߣϲ˷ܼҲ˷](https://www.dapenti.com/blog/more.asp?name=xilei&id=157100)
+
+### [Torchvision Object Detection : pytorch](https://www.reddit.com/r/pytorch/comments/ngylaw/torchvision_object_detection/)
+
+### [2021年5月20日新闻联播文字版](http://www.xwlb.net.cn/19682.html)
+
+### [中共中央办公厅 国务院办公厅印发《关于常态化开展扫黑除恶斗争巩固专项斗争成果的意见》_最新政策_中国政府网](http://www.gov.cn/zhengce/2021-05/20/content_5609597.htm)
+
+### [基于 Qt Quick Plugin 快速构建桌面端跨平台组件](https://www.infoq.cn/article/72c027ae316665f0e469a6065)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KgnJzg4j7)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgnEMmgDl)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgnEo8y0N)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgnykuQ8F)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgnM0xrYK)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgnFUlXlT)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgnubtuLa)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgnhyqhDd)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgn5Ks0SH)
