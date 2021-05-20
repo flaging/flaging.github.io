@@ -275,3 +275,17 @@
 爱因斯坦在给粉丝的回信里预言了生物的“磁场感知”](http://jandan.net/p/108956)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgoFc61xr)
+
+### [Poorly Drawn Lines – Bird’s Request](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/py4WjHyXL6s/)
+
+### [对 Siri 说“播放林俊杰的曹操” - V2EX](https://www.v2ex.com/t/778102)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KgoNo0Tmj)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgp5kAHKt)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgp4Kf1BH)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgp3D5hnx)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgoQXBKES)
