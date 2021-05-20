@@ -310,3 +310,21 @@ Google AI Blog: KELM: Integrating Knowledge Graphs with Language Model Pre-train
 ### [Sina Visitor System](https://weibo.com/1715118170/KgqOJtl4e)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgqCREwKL)
+
+### [爷青回！《老友记》重聚正式预告来了 - 新片场](https://www.vmovier.com/62129)
+
+### [第三届TTC主题挑战赛冠军作品 VISION | RGB - 新片场](https://www.vmovier.com/62127)
+
+### [相信丘比特吧《你终将遇见那个Ta》 - 新片场](https://www.vmovier.com/62070)
+
+### [切尔诺贝利FPV《35年后的核废墟》 - 新片场](https://www.vmovier.com/62122)
+
+### [温柔治愈动画《今天的你是蓝色的吗》 - 新片场](https://www.vmovier.com/62124)
+
+### [这广告看着好疼！《狗项圈》 - 新片场](https://www.vmovier.com/61872)
+
+### [领克汽车创意短片《改变静止的世界》 - 新片场](https://www.vmovier.com/62123)
+
+### [520 化妆品大冒险《女友的塔罗牌》 - 新片场](https://www.vmovier.com/62125)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgr1c9YbM)
