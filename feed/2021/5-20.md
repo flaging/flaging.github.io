@@ -291,3 +291,6 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KgoQXBKES)
 
 ### [大家简历留的邮箱用的是哪个服务提供商的啊 - V2EX](https://www.v2ex.com/t/778210)
+
+### [
+脑力小体操：测试一下自己的物理直觉？](http://jandan.net/p/108995)
