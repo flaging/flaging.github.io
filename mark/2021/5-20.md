@@ -20,3 +20,11 @@
 ### [查看线程信息 | 100个gdb小技巧](https://wizardforcel.gitbooks.io/100-gdb-tips/content/print-threads.html)
 
 ### [C++11 并发指南五(std::condition_variable 详解) - Haippy - 博客园](https://www.cnblogs.com/haippy/p/3252041.html)
+
+### [
+【翻译】Play with Rust easily - 轻松玩转Rust - Rust语言中文社区
+](https://rustcc.cn/article?id=9f5fcc94-4291-4929-8f31-02c89565642f)
+
+### [XGBoost简介：打开树模型的黑盒子](https://juejin.cn/post/6963993583217016869)
+
+### [进程内缓存助你提高并发能力！](https://xie.infoq.cn/article/cafa80b39e5b9d0a55e6a429a)
