@@ -217,3 +217,7 @@
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=890)
 
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=655)
+
+### [试用期工资竟然可以随便给，只要高于 80%？ - V2EX](https://www.v2ex.com/t/778062)
+
+### [ի--ͼ20210520첻ðҩҲܰߣϲ˷ܼҲ˷](https://www.dapenti.com/blog/more.asp?name=xilei&id=157100)
