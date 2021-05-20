@@ -36,3 +36,25 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KgjiPl2Bp)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kgj9Ubss9)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5875/)
+
+### [币圈各位最近手心出汗了没? - V2EX](https://www.v2ex.com/t/778035)
+
+### [养孩子很难吗（认真的问） - V2EX](https://www.v2ex.com/t/778012)
+
+### [有内置谷歌框架的国产安卓手机吗？求推荐 - V2EX](https://www.v2ex.com/t/777997)
+
+### [租房的楼上，晚上打游戏打到凌晨，甚至通宵，隔音差，听的一清二楚，影响睡觉，各位 v 友怎么解决？ - V2EX](https://www.v2ex.com/t/777923)
+
+### [谷歌搜索引入多任务统一模型MUM，可更准确理解信息 ｜ Google I/O 2021-InfoQ](https://www.infoq.cn/article/OF66YbSqu0pOsKHNtILV)
+
+### [🚄【Redis 干货领域】从底层彻底吃透 AOF 重写 (源码篇)](https://www.infoq.cn/article/1bd7448edcdf13c45dcccbaab)
+
+### [看书 vs 看视频，我的一点小建议，共勉！](https://cuijiahua.com/blog/2021/05/life-82.html)
+
+### [一起看 I/O | Android 12 Beta 版发布，诸多亮点不容错过 - SegmentFault 思否](https://segmentfault.com/a/1190000040028403)
+
+### [回顾下可选链操作符(?.) - SegmentFault 思否](https://segmentfault.com/a/1190000040029674)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgjyElWsm)
