@@ -85,3 +85,9 @@
 今日好价：520专场](http://jandan.net/p/108996)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kgklg8MUn)
+
+### [硬核观察|硬核观察|任天堂 Wii U 已停产数年，但其 Linux 驱动程序仍在开发中](https://linux.cn/article-13409-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgkFZtPke)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgkxddgFn)
