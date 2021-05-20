@@ -328,3 +328,9 @@ Google AI Blog: KELM: Integrating Knowledge Graphs with Language Model Pre-train
 ### [520 化妆品大冒险《女友的塔罗牌》 - 新片场](https://www.vmovier.com/62125)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kgr1c9YbM)
+
+### [网易云课堂 Service Worker 运用与实践](https://www.infoq.cn/article/d478a1cf6180108e60f07ac08)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kgr8ujozf)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgrd5nV28)
