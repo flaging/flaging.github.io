@@ -115,3 +115,21 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KgkIkwNe8)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgkJAytUq)
+
+### [2021深圳国际人工智能展火热进行 影谱科技荣膺最具商业价值奖 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-20-8)
+
+### [卡位农业大数据 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-20-7)
+
+### [开源研发加速数字化转型，中国开源市场正在升温 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-20-6)
+
+### [爽快十足的弹幕舞者，难以重复游玩的 Rogue 设定：RETURNAL - 少数派](https://sspai.com/post/66512)
+
+### [[送码] 不用打卡、弹性工作……少数派带你去微软北京总部转转 - 少数派](https://sspai.com/post/66075)
+
+### [Is there a way to build Pipeline like Scikit-learn that bounds data transformation and model? : pytorch](https://www.reddit.com/r/pytorch/comments/ngtb17/is_there_a_way_to_build_pipeline_like_scikitlearn/)
+
+### [不懂就问。类和函数有什么区别？ - V2EX](https://www.v2ex.com/t/778049)
+
+### [21h1 千万别升, 血的教训 - V2EX](https://www.v2ex.com/t/778047)
+
+### [新垣结衣嫁了个“非典型性”程序员](https://www.infoq.cn/article/d3ac2d13211962df5b865bb72)
