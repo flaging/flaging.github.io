@@ -247,3 +247,13 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KgnhyqhDd)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kgn5Ks0SH)
+
+### [Bias in AI - What is it, why does it happen and can it be fixed? : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nh23g4/bias_in_ai_what_is_it_why_does_it_happen_and_can/)
+
+### [论Http、Socket、WebSocket、WebService(SOAP)之间的区别](https://www.infoq.cn/article/da35d56eb07bf71ab55f985ee)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgo4g3lJy)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgnYanKmy)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgnSvAw5M)
