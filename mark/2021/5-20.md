@@ -18,3 +18,5 @@
 ### [How do I remove a single breakpoint with GDB? - Stack Overflow](https://stackoverflow.com/questions/4340718/how-do-i-remove-a-single-breakpoint-with-gdb)
 
 ### [查看线程信息 | 100个gdb小技巧](https://wizardforcel.gitbooks.io/100-gdb-tips/content/print-threads.html)
+
+### [C++11 并发指南五(std::condition_variable 详解) - Haippy - 博客园](https://www.cnblogs.com/haippy/p/3252041.html)
