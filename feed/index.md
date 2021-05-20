@@ -133,3 +133,23 @@
 ### [21h1 千万别升, 血的教训 - V2EX](https://www.v2ex.com/t/778047)
 
 ### [新垣结衣嫁了个“非典型性”程序员](https://www.infoq.cn/article/d3ac2d13211962df5b865bb72)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1246)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1245)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1244)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1243)
+
+### [支付宝是不是阿里系唯一一个没有开屏广告的 APP？ - V2EX](https://www.v2ex.com/t/778082)
+
+### [入职某大厂三月， 10115，钱少活多该跑路嘛 - V2EX](https://www.v2ex.com/t/778019)
+
+### [如何用Python构建机器学习模型？-InfoQ](https://www.infoq.cn/article/SpDhcHb20fWR3gbprbKg)
+
+### [首次提出云原生2.0八大架构原则，华为云助力企业智能升级-InfoQ](https://www.infoq.cn/article/WfXOSX52cq86LHPyvFCT)
+
+### [分布式事务与分布式系统](https://www.infoq.cn/article/8fbf9a1078c83a2851afbae70)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KglGvcB25)
