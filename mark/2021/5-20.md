@@ -28,3 +28,5 @@
 ### [XGBoost简介：打开树模型的黑盒子](https://juejin.cn/post/6963993583217016869)
 
 ### [进程内缓存助你提高并发能力！](https://xie.infoq.cn/article/cafa80b39e5b9d0a55e6a429a)
+
+### [awesome-software-architecture/hexagonal-architecture.md at main · mehdihadeli/awesome-software-architecture · GitHub](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/hexagonal-architecture.md)
