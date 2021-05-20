@@ -153,3 +153,19 @@
 ### [分布式事务与分布式系统](https://www.infoq.cn/article/8fbf9a1078c83a2851afbae70)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KglGvcB25)
+
+### [未来的人民币形态：数字人民币内测体验 - 少数派](https://sspai.com/post/66630)
+
+### [边缘计算隔离技术的挑战与实践 ｜ InfoQ公开课-InfoQ](https://www.infoq.cn/article/tWze5IO5loRj9IzxoNrI)
+
+### [训练机器学习模型时应避免的6个错误-InfoQ](https://www.infoq.cn/article/ATCI0BtPmZ1E9yeO97uT)
+
+### [大数据搜索技术的下一站 ｜ InfoQ 大咖说-InfoQ](https://www.infoq.cn/article/WvEN9x6YGzROSDTpjkKV)
+
+### [开源2021：从操作系统到云计算，下一个领域是造汽车？从今年的红帽峰会展开讲讲-InfoQ](https://www.infoq.cn/article/FWIZo4YORjBvzGZTIcEi)
+
+### [基于数据驱动的销量预测模型建构-InfoQ](https://www.infoq.cn/article/ibkotaQUpOExmPzwuTAV)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KglUnogqO)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KglTGvcCW)
