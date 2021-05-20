@@ -8,3 +8,7 @@
 ### [Selling Tiny Internet Projects For Fun and Profit | Tiny Projects](https://tinyprojects.dev/posts/selling_tiny_internet_projects_for_fun_and_profit)
 
 ### [「深度工作」的人生有多爽？不是工作狂，在职业生涯上却如同开挂！ - 少数派](https://sspai.com/post/66726)
+
+### [public-notes/unintended-instructions.rst at master · preames/public-notes · GitHub](https://github.com/preames/public-notes/blob/master/unintended-instructions.rst)
+
+### [GitHub - alexfru/regal86: Register Allocator for 8086](https://github.com/alexfru/regal86)
