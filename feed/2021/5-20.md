@@ -72,3 +72,16 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KgjIRkNTR)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgjYh0sF6)
+
+### [东西我都装好了 | 东西我再也不想装了 - 少数派](https://sspai.com/post/66708)
+
+### [PC 版微信、QQ、TIM 防撤回补丁[Windows] - 小众软件](https://www.appinn.com/revoke-msg-patcher-for-wechat-qq-tim/)
+
+### [PyTorch YOLOv5 - Microsoft C++ Build Tools : pytorch](https://www.reddit.com/r/pytorch/comments/ngrhrx/pytorch_yolov5_microsoft_c_build_tools/)
+
+### [Sina Visitor System](https://weibo.com/2816125940/Kgk18yxkh)
+
+### [
+今日好价：520专场](http://jandan.net/p/108996)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgklg8MUn)
