@@ -193,3 +193,23 @@
 ### [百度 Serverless 架构揭秘与应用实践](https://www.infoq.cn/article/208f74d77083e06246b953941)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KgmhD6J3l)
+
+### [新玩意 063｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/66770)
+
+### [安卓模拟实现 iOS 的动态联网权限 - V2EX](https://www.v2ex.com/t/778021)
+
+### [2021年5月20日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1877296.shtml)
+
+### [
+【Rust 日报】2021-05-20 我常常将 Rust 视为开发编程语言的工艺流程和社区，而非编程语言自身 - Rust语言中文社区
+](https://rustcc.cn/article?id=dd9c0100-3bb6-46fa-ba33-56b164d2a375)
+
+### [
+【翻译】Play with Rust easily - 轻松玩转Rust - Rust语言中文社区
+](https://rustcc.cn/article?id=9f5fcc94-4291-4929-8f31-02c89565642f)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kgmsaom81)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgmum4Ad5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kgmu7zBqT)
