@@ -261,3 +261,9 @@
 ### [在外拼搏的我们,什么才是向往的生活呢 - V2EX](https://www.v2ex.com/t/778064)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgogOzXyG)
+
+### [DOE HPC accelerates COVID-19 antiviral drug discovery : HPC](https://www.reddit.com/r/HPC/comments/nh30fm/doe_hpc_accelerates_covid19_antiviral_drug/)
+
+### [币被转走，求教！ - V2EX](https://www.v2ex.com/t/778168)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgosC1dEu)
