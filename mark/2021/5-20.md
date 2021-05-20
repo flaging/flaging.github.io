@@ -12,3 +12,5 @@
 ### [public-notes/unintended-instructions.rst at master · preames/public-notes · GitHub](https://github.com/preames/public-notes/blob/master/unintended-instructions.rst)
 
 ### [GitHub - alexfru/regal86: Register Allocator for 8086](https://github.com/alexfru/regal86)
+
+### [gdb 内存断点watch 的使用_hjjdebug的专栏-CSDN博客_gdb watch 内存地址](https://blog.csdn.net/hejinjing_tom_com/article/details/50570442)
