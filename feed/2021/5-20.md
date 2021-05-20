@@ -267,3 +267,11 @@
 ### [币被转走，求教！ - V2EX](https://www.v2ex.com/t/778168)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgosC1dEu)
+
+### [
+时钟与熵：精确测量时间的代价](http://jandan.net/p/108989)
+
+### [
+爱因斯坦在给粉丝的回信里预言了生物的“磁场感知”](http://jandan.net/p/108956)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgoFc61xr)
