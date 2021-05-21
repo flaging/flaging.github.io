@@ -25,3 +25,5 @@
 ### [smartctl - List features of NVMe drive (like hdparm -I for non-NVME) - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/472211/list-features-of-nvme-drive-like-hdparm-i-for-non-nvme)
 
 ### [GitHub - rwightman/pytorch-image-models: PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more](https://github.com/rwightman/pytorch-image-models)
+
+### [看论文不用来回翻了，这款PDF阅读神器能自动提取前文信息，科研效率max！ | 量子位](https://www.qbitai.com/2021/05/24058.html)
