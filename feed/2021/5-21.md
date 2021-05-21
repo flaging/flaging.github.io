@@ -258,3 +258,9 @@ UFO即将进入美国参议院](http://jandan.net/p/109000)
 ### [Sina Visitor System](https://weibo.com/1715118170/Kgy5F8nQ7)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgxT6uWfk)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1249)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1248)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1247)
