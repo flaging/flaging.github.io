@@ -147,3 +147,23 @@
 ### [一款优秀数据库中间件的不完全解析](https://www.infoq.cn/article/89cb88afd30e2a4f124495791)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KgvK831Po)
+
+### [电动车真的更环保？Science：必须在2030以前解决锂电池污染问题 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-21-4)
+
+### [摄像头、雷达、地图都不用，双足机器人走路全靠「我觉得」 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-21-7)
+
+### [补全准确率最高提升50%以上，Facebook用迁移学习改进代码补全 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-21-3)
+
+### [张一鸣宣布辞任字节跳动CEO背后 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-21-11)
+
+### [Entry-level HPC job interview : HPC](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
+
+### [千万人口城市位次“洗牌”：广深反超天津，长沙东莞新晋级 - 21财经](https://m.21jingji.com/article/20210521/herald/5f2292dd99e016b98ec140734af663fc.html)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=823)
+
+### [观点|五月花开，中国基础软件如今大不同](https://linux.cn/article-13412-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgvTeDr6V)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgvSchTLj)
