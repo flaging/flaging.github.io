@@ -19,3 +19,5 @@
 ### [神经网络与深度学习](https://nndl.github.io/)
 
 ### [谈谈 C/C++ 中的 volatile | 始终](https://liam.page/2018/01/18/volatile-in-C-and-Cpp/index.html)
+
+### [分布式架构的根基：深入浅出一致性算法](https://xie.infoq.cn/article/ee0888c11bed54a8529b15f63)
