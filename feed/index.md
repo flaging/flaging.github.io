@@ -187,3 +187,7 @@ rust布隆过滤器实现 - Rust语言中文社区
 ### [商业落地页端到端性能优化实践](https://www.infoq.cn/article/21c77aa0ba35d80d568f5f08c)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kgww8vbVT)
+
+### [深圳移动的流量为啥还这么贵？ - V2EX](https://www.v2ex.com/t/778265)
+
+### [张一鸣要“旅行”了-InfoQ](https://www.infoq.cn/article/f3uZzfmjdmErobXbeoL1)
