@@ -123,3 +123,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KgtWa2fEw)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgtLOrWlG)
+
+### [Mac 新手想知道 02：更高效地操作桌面和窗口 - 少数派](https://sspai.com/post/66754)
+
+### [如果你不是程序员，你会是什么 - V2EX](https://www.v2ex.com/t/778252)
+
+### [
+结构体成员的方法需要调用结构体和其他成员的方法，用 Rust 应该如何设计？ - Rust语言中文社区
+](https://rustcc.cn/article?id=5927268b-986c-41a5-8cf2-2b4e20ced7ef)
+
+### [从Python 2迁移到Go：虽然代码量多，但太香了-InfoQ](https://www.infoq.cn/article/hFCLqOMPbuH4qrAwXYM7)
+
+### [OCR性能优化：从认识BiLSTM网络结构开始](https://www.infoq.cn/article/49fa0b446f7dc6185326b15ff)
