@@ -135,3 +135,15 @@
 ### [从Python 2迁移到Go：虽然代码量多，但太香了-InfoQ](https://www.infoq.cn/article/hFCLqOMPbuH4qrAwXYM7)
 
 ### [OCR性能优化：从认识BiLSTM网络结构开始](https://www.infoq.cn/article/49fa0b446f7dc6185326b15ff)
+
+### [上汽乘用车1-4月海外市场累计销量超8.7万辆，同比猛增118% | 机器之心](https://www.jiqizhixin.com/articles/2021-05-21-10)
+
+### [具透 | Android 设备的「分级」制度上线：Android 12 Beta 1 详解 - 少数派](https://sspai.com/post/66781)
+
+### [关于 WSL docker cuda，安装深度学习 Python 环境 - V2EX](https://www.v2ex.com/t/778237)
+
+### [事务前沿研究：事务测试体系解析-InfoQ](https://www.infoq.cn/article/EW5aPfB3cLv2LDQJySbK)
+
+### [一款优秀数据库中间件的不完全解析](https://www.infoq.cn/article/89cb88afd30e2a4f124495791)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgvK831Po)
