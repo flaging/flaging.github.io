@@ -17,3 +17,5 @@
 ](http://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651489268&idx=1&sn=d8bb743ce20298155477cf0ab97b99b9&chksm=bd4fbf968a383680244ab58c09527fdbe0d879bfde227d3b041a9c417c275b60260ae3eba46b#rd)
 
 ### [神经网络与深度学习](https://nndl.github.io/)
+
+### [谈谈 C/C++ 中的 volatile | 始终](https://liam.page/2018/01/18/volatile-in-C-and-Cpp/index.html)
