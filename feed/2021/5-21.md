@@ -167,3 +167,7 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/KgvTeDr6V)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgvSchTLj)
+
+### [320万开发者在用的飞桨，全新发布推理部署导航图：打通AI应用最后一公里 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-21-12)
+
+### [ի--ͼ20210521ЩֵĲǻңŬ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157120)
