@@ -21,3 +21,7 @@
 ### [谈谈 C/C++ 中的 volatile | 始终](https://liam.page/2018/01/18/volatile-in-C-and-Cpp/index.html)
 
 ### [分布式架构的根基：深入浅出一致性算法](https://xie.infoq.cn/article/ee0888c11bed54a8529b15f63)
+
+### [smartctl - List features of NVMe drive (like hdparm -I for non-NVME) - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/472211/list-features-of-nvme-drive-like-hdparm-i-for-non-nvme)
+
+### [GitHub - rwightman/pytorch-image-models: PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more](https://github.com/rwightman/pytorch-image-models)
