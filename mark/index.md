@@ -12,3 +12,8 @@
 ### [GitHub - hua1995116/react-resume-site: 木及简历|一款用 `Markdown`就能写出好看简历(resume)的在线工具。](https://github.com/hua1995116/react-resume-site)
 
 ### [GitHub - osmoscraft/osmosfeed: Turn GitHub into an RSS reader](https://github.com/osmoscraft/osmosfeed)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651489268&idx=1&sn=d8bb743ce20298155477cf0ab97b99b9&chksm=bd4fbf968a383680244ab58c09527fdbe0d879bfde227d3b041a9c417c275b60260ae3eba46b#rd)
+
+### [神经网络与深度学习](https://nndl.github.io/)
