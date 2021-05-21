@@ -191,3 +191,11 @@ rust布隆过滤器实现 - Rust语言中文社区
 ### [深圳移动的流量为啥还这么贵？ - V2EX](https://www.v2ex.com/t/778265)
 
 ### [张一鸣要“旅行”了-InfoQ](https://www.infoq.cn/article/f3uZzfmjdmErobXbeoL1)
+
+### [
+【Rust日报】2021-05-21 -- 为什么用rust并且怎么用rust写编译器 - Rust语言中文社区
+](https://rustcc.cn/article?id=ffe37c4c-5ae0-4d21-88c9-96511f03ef0f)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgwTkCvXB)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgwUhpGWM)
