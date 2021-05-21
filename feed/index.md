@@ -171,3 +171,5 @@
 ### [320万开发者在用的飞桨，全新发布推理部署导航图：打通AI应用最后一公里 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-21-12)
 
 ### [ի--ͼ20210521ЩֵĲǻңŬ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157120)
+
+### [本周看什么丨最近值得一看的 7 部作品 - 少数派](https://sspai.com/post/66786)
