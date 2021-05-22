@@ -145,3 +145,35 @@ Pin 笔记 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KgFpA5UGI)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KgFlRj41V)
+
+### [总结 Windows 下 38 款常见的「快速启动类软件」｜，欢迎补充 - 小众软件](https://www.appinn.com/38-quick-start/)
+
+### [Is AI The Future Of Video Game Design? Enhancing Photorealism Enhancement : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nii93j/is_ai_the_future_of_video_game_design_enhancing/)
+
+### [Why is pytorch take up 2gb during pip install : pytorch](https://www.reddit.com/r/pytorch/comments/niip01/why_is_pytorch_take_up_2gb_during_pip_install/)
+
+### [技术写作能赚多少钱？ - V2EX](https://www.v2ex.com/t/778497)
+
+### [iPhone 返回手势好难用 - V2EX](https://www.v2ex.com/t/778469)
+
+### [ի--ͼ20210522ЩͬʱĹâڵʵͰǵǳûʲô](https://www.dapenti.com/blog/more.asp?name=xilei&id=157142)
+
+### [
+【Rust日报】2021-05-22 游戏 Flappy Bird 用 Rust 编写并编译为 WebAssembly - Rust语言中文社区
+](https://rustcc.cn/article?id=7e898f96-a2e8-45ac-a873-8ab9cd76c9c0)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgGCb8oJc)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgGAm0fEz)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgFFCtZVS)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgFFgfXqd)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgGwTp6QT)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgGlh1Pbs)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgG8xwJBh)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgFWQDWGs)
