@@ -119,3 +119,11 @@ Pin 笔记 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KgEdxl2pl)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KgE6fidGx)
+
+### [今年招聘是不是特别难？ - V2EX](https://www.v2ex.com/t/778468)
+
+### [第二代 Apple TV 4K 支持音频回传了 - V2EX](https://www.v2ex.com/t/778429)
+
+### [大家遇到过哪些看起来匪夷所思的 BUG 最后靠自己解决的 - V2EX](https://www.v2ex.com/t/778402)
+
+### [音频均衡器EQ](https://www.infoq.cn/article/7d89f0251237cc6b8ce740e77)
