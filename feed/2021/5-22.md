@@ -127,3 +127,21 @@ Pin 笔记 - Rust语言中文社区
 ### [大家遇到过哪些看起来匪夷所思的 BUG 最后靠自己解决的 - V2EX](https://www.v2ex.com/t/778402)
 
 ### [音频均衡器EQ](https://www.infoq.cn/article/7d89f0251237cc6b8ce740e77)
+
+### [https 网页数据还需要另外加密吗 - V2EX](https://www.v2ex.com/t/778499)
+
+### [有点晦气，新到的 iPad Pro 开不开机 - V2EX](https://www.v2ex.com/t/778493)
+
+### [你们的 MBP M1 放桌子上是能平吗 - V2EX](https://www.v2ex.com/t/778431)
+
+### [桌面应用|在 Linux 上重新映射你的大写锁定键](https://linux.cn/article-13414-1.html?utm_source=rss&utm_medium=rss)
+
+### [软件开发|用 C 语言理解 Linux 软件库](https://linux.cn/article-13413-1.html?utm_source=rss&utm_medium=rss)
+
+### [人人都爱Kubernetes，Docker难道就不香了吗？](https://www.infoq.cn/article/2bae55dc12120da329a63f75e)
+
+### [聊聊dubbo协议](https://www.infoq.cn/article/a98afea6beabb2e3b338cc872)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgFpA5UGI)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgFlRj41V)
