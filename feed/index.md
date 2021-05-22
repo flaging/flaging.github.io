@@ -98,3 +98,24 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KgE3beOyw)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgE0fbg9r)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5878/)
+
+### [iOS 上有什么好用的图片编辑工具？（排除 Adobe 家的产品） - V2EX](https://www.v2ex.com/t/778490)
+
+### [如今米系的手机要解锁 bootloader 有非官方的/强制的方法了吗？ - V2EX](https://www.v2ex.com/t/778479)
+
+### [word 转 PDF 有什么好一点的方法？ - V2EX](https://www.v2ex.com/t/778375)
+
+### [
+人类第一次核试验意外生成了“不该存在”的晶体](http://jandan.net/p/108988)
+
+### [
+Pin 笔记 - Rust语言中文社区
+](https://rustcc.cn/article?id=a616ebe3-e0e1-4f4d-a66c-4937869a5a28)
+
+### [Inkscape 案例：画瑞典国旗](https://www.infoq.cn/article/fddc9a5dce5791766404354cf)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgEdxl2pl)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgE6fidGx)
