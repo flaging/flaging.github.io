@@ -10,3 +10,5 @@
 ### [stackoverflow rss - Google Search](https://www.google.com/search?q=stackoverflow+rss)
 
 ### [RSS feed with only new questions - Meta Stack Overflow](https://meta.stackoverflow.com/questions/381138/rss-feed-with-only-new-questions)
+
+### [GitHub - davidbrochart/nbterm: Jupyter Notebooks in the terminal.](https://github.com/davidbrochart/nbterm)
