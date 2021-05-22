@@ -40,3 +40,25 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KgBCRpzSu)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgBYJ9Rzy)
+
+### [Breakthrough!: Video Person-Clustering – an essential step towards story understanding! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/ni9t91/breakthrough_video_personclustering_an_essential/)
+
+### [中国经济增速趋缓的深层逻辑 - FT中文网](http://www.ftchinese.com/story/001092513)
+
+### [美中竞争下的台湾科技巨头 - FT中文网](http://www.ftchinese.com/story/001092562)
+
+### [MIUI 疑似通过魔改 Android 软件包安装程序的形式来进行引流/审查 - V2EX](https://www.v2ex.com/t/778474)
+
+### [mini Led 的 “致命缺点”？ - V2EX](https://www.v2ex.com/t/778453)
+
+### [google 搜索是真的强 - V2EX](https://www.v2ex.com/t/778423)
+
+### [现在入 M1 MBA 是不是 49 年入国军？ - V2EX](https://www.v2ex.com/t/778414)
+
+### [今天抽空做了个 3-8 位验证码识别模型，发现正确率可以 98%，好奇如果我把这个模型做成 API 服务会有人用么，以及再设计一种对抗识别的算法（类似 recaptcha） - V2EX](https://www.v2ex.com/t/778373)
+
+### [如何快速将 iPhone 电池健康掉到 80%一下 - V2EX](https://www.v2ex.com/t/778359)
+
+### [uniapp 使用原生子窗体进行视频聊天](https://www.infoq.cn/article/4a644de83e7fcbc7b47aecf3b)
+
+### [This BigData,Hadoop组成及生态](https://www.infoq.cn/article/f65cfa3548f4f32e91134f5d3)
