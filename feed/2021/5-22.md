@@ -177,3 +177,7 @@ Pin 笔记 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KgG8xwJBh)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgFWQDWGs)
+
+### [为什么云计算厂商倾向于提供 Go 的 API 封装而不是 Python 的？ - V2EX](https://www.v2ex.com/t/778518)
+
+### [2021年5月22日新闻联播文字版](http://www.xwlb.net.cn/19717.html)
