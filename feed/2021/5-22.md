@@ -191,3 +191,15 @@ Pin 笔记 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KgGPbgG60)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgGWdDGQU)
+
+### [企业微信有 Callkit 吗？怎样开启 - V2EX](https://www.v2ex.com/t/778555)
+
+### [硬核观察|硬核观察|大批开源项目逃离 Freenode IRC 网络](https://linux.cn/article-13415-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgHjBn42A)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgH8FwAQo)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgH7UvoxA)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgGWEiPxF)
