@@ -6,3 +6,5 @@
 ### [GitHub - Hirrolot/datatype99: Algebraic data types for C99](https://github.com/Hirrolot/datatype99)
 
 ### [GitHub - docker/getting-started: Getting started with Docker](https://github.com/docker/getting-started)
+
+### [stackoverflow rss - Google Search](https://www.google.com/search?q=stackoverflow+rss)
