@@ -70,3 +70,15 @@
 今日好价：海鸥飞行员手表](http://jandan.net/p/109006)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgCO0DjyX)
+
+### [推理性能提升一倍，TensorFlow Feature Column性能优化实践-InfoQ](https://www.infoq.cn/article/FB4f7DjbQiHBC86DL7bb)
+
+### [多方安全计算：隐私保护集合求交技术](https://www.infoq.cn/article/5e061167d18145a91e397eac5)
+
+### [浅谈负载均衡](https://www.infoq.cn/article/750deb2b5a09b2e101d4e3934)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgDng75VI)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgDl7n7Ix)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgDcjAAKM)
