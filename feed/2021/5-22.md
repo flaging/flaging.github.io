@@ -62,3 +62,11 @@
 ### [uniapp 使用原生子窗体进行视频聊天](https://www.infoq.cn/article/4a644de83e7fcbc7b47aecf3b)
 
 ### [This BigData,Hadoop组成及生态](https://www.infoq.cn/article/f65cfa3548f4f32e91134f5d3)
+
+### [
+作为一条鲨鱼是一种什么样的感受？](http://jandan.net/p/109007)
+
+### [
+今日好价：海鸥飞行员手表](http://jandan.net/p/109006)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgCO0DjyX)
