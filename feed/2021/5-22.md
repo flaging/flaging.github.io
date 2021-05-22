@@ -82,3 +82,7 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KgDl7n7Ix)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgDcjAAKM)
+
+### [除了微信，还有这几款好用的跨网络传输工具 - 少数派](https://sspai.com/post/66690)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgDwgeOrK)
