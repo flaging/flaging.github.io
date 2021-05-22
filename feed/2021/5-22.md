@@ -28,3 +28,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KgBewDDMC)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgB81j0cX)
+
+### [不给电脑，我用手机敲命令十分钟完成了zabbix监控，面试官当场下offer](https://www.infoq.cn/article/1d70c2e075d5d796d7d82b2d9)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KgBAScsM2)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgBIlu0SH)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgC1go4Tj)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgBCRpzSu)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgBYJ9Rzy)
