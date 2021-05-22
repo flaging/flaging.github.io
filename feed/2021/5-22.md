@@ -181,3 +181,13 @@ Pin 笔记 - Rust语言中文社区
 ### [为什么云计算厂商倾向于提供 Go 的 API 封装而不是 Python 的？ - V2EX](https://www.v2ex.com/t/778518)
 
 ### [2021年5月22日新闻联播文字版](http://www.xwlb.net.cn/19717.html)
+
+### [[D] How to turn Minecraft maps into photorealistic 3d scenes explained! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nijqk5/d_how_to_turn_minecraft_maps_into_photorealistic/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgGVuvyiF)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgGVfFG9Z)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgGPbgG60)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgGWdDGQU)
