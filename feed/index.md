@@ -193,3 +193,5 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KgNG8wQDG)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KgNzAcHLu)
+
+### [换血回电，再战三年 ── Mac 优化不完全指南 - 少数派](https://sspai.com/post/66704)
