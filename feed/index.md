@@ -300,3 +300,6 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5879/)
 
 ### [mac mini m1 有点绿啊。。。 - V2EX](https://www.v2ex.com/t/778692)
+
+### [
+寄生虫：生态食物链里最终的缺失环节](http://jandan.net/p/108869)
