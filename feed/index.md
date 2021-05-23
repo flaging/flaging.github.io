@@ -303,3 +303,7 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 
 ### [
 寄生虫：生态食物链里最终的缺失环节](http://jandan.net/p/108869)
+
+### [快 30 岁了，第一次体会到编程的快乐。 - V2EX](https://www.v2ex.com/t/778713)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgSUv7O2k)
