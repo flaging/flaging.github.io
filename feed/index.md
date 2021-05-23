@@ -199,3 +199,25 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [迫于买公路车（scultura king, 斯特拉 king, 斯特拉大王），请问 v 友意见，这两个配色/涂装你更喜欢哪个？ - V2EX](https://www.v2ex.com/t/778633)
 
 ### [大佬们， 2019 款 16 寸 i7 32GB 显卡 630 带 AC 1TB 存储 现在二手能卖多少，求参考万分感激！ - V2EX](https://www.v2ex.com/t/778600)
+
+### [XP Shutdown / Logoff Menu - Windows XP 风格的关机菜单 - 小众软件](https://www.appinn.com/xp-shutdown-and-logoff-menu-windows-xp-style/)
+
+### [StyleGAN2 implementation in PyTorch with side-by-side notes : pytorch](https://www.reddit.com/r/pytorch/comments/nj3z5v/stylegan2_implementation_in_pytorch_with/)
+
+### [PyTorch, Tensorflow Structure : pytorch](https://www.reddit.com/r/pytorch/comments/nj5qcl/pytorch_tensorflow_structure/)
+
+### [Vivo 手机某系统进程开放 55555 端口疑似用作 mCDN - V2EX](https://www.v2ex.com/t/778678)
+
+### [大家怎么看待程序员脱单这件事？ - V2EX](https://www.v2ex.com/t/778639)
+
+### [ի--ͼ20210523˾һӣҪһ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157156)
+
+### [技术|使用 sed 命令进行复制、剪切和粘贴](https://linux.cn/article-13417-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【Rust 日报】2021-05-23 -- Facebook 将进一步深化 Rust 使用和支持 - Rust语言中文社区
+](https://rustcc.cn/article?id=914b5f1f-e47e-4023-9c46-8045fae27c59)
+
+### [我们为什么从 Lambda 迁移到了 ECS？-InfoQ](https://www.infoq.cn/article/A73fcOBEa2A6PFj4bqqZ)
+
+### [VueConf China 2021 《Vue3生态进展-尤雨溪》 Reaction - SegmentFault 思否](https://segmentfault.com/a/1190000040050379)
