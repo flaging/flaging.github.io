@@ -296,3 +296,7 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KgQWKpYqR)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgRj7wIvB)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5879/)
+
+### [mac mini m1 有点绿啊。。。 - V2EX](https://www.v2ex.com/t/778692)
