@@ -18,3 +18,5 @@
 ### [
 Google AI Blog: KELM: Integrating Knowledge Graphs with Language Model Pre-training Corpora
 ](http://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html)
+
+### [Clean code & programming principles - The ultimate beginner's guide | Programming Duck](https://programmingduck.com/articles/programming-principles-introduction)
