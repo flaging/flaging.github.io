@@ -271,3 +271,7 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ](https://rustcc.cn/article?id=ee617d41-4da4-4d40-a5e4-52b1714dabc5)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgQyiBQoP)
+
+### [ResNet-18 magnitude based pruning : pytorch](https://www.reddit.com/r/pytorch/comments/nj9pvc/resnet18_magnitude_based_pruning/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgQK6e7ya)
