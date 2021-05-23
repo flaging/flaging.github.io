@@ -195,3 +195,7 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KgNzAcHLu)
 
 ### [换血回电，再战三年 ── Mac 优化不完全指南 - 少数派](https://sspai.com/post/66704)
+
+### [迫于买公路车（scultura king, 斯特拉 king, 斯特拉大王），请问 v 友意见，这两个配色/涂装你更喜欢哪个？ - V2EX](https://www.v2ex.com/t/778633)
+
+### [大佬们， 2019 款 16 寸 i7 32GB 显卡 630 带 AC 1TB 存储 现在二手能卖多少，求参考万分感激！ - V2EX](https://www.v2ex.com/t/778600)
