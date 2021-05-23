@@ -307,3 +307,7 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [快 30 岁了，第一次体会到编程的快乐。 - V2EX](https://www.v2ex.com/t/778713)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgSUv7O2k)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgSXwsaHp)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgT6e3ztU)
