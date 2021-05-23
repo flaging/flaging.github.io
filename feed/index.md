@@ -259,3 +259,15 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KgQfFsMM3)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgQoLDTKL)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1251)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1250)
+
+### [求推荐 60%的键盘。题主程序员。 - V2EX](https://www.v2ex.com/t/778654)
+
+### [
+使用rust遇到的最大问题就是链表问题, 该如何处理? - Rust语言中文社区
+](https://rustcc.cn/article?id=ee617d41-4da4-4d40-a5e4-52b1714dabc5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgQyiBQoP)
