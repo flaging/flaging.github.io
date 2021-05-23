@@ -275,3 +275,24 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [ResNet-18 magnitude based pruning : pytorch](https://www.reddit.com/r/pytorch/comments/nj9pvc/resnet18_magnitude_based_pruning/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgQK6e7ya)
+
+### [Google Photos 也太难用了吧 - V2EX](https://www.v2ex.com/t/778695)
+
+### [
+在图灵机模型里发现了一个0day漏洞](http://jandan.net/p/108982)
+
+### [
+脑子更大，打哈欠的时间就越长](http://jandan.net/p/108944)
+
+### [
+今日好价：可口可乐车载小冰箱](http://jandan.net/p/109011)
+
+### [在浏览器中本地运行Node.js - SegmentFault 思否](https://segmentfault.com/a/1190000040050241)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgRl20hu4)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgR8saSWS)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgQWKpYqR)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgRj7wIvB)
