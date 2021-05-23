@@ -221,3 +221,9 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [我们为什么从 Lambda 迁移到了 ECS？-InfoQ](https://www.infoq.cn/article/A73fcOBEa2A6PFj4bqqZ)
 
 ### [VueConf China 2021 《Vue3生态进展-尤雨溪》 Reaction - SegmentFault 思否](https://segmentfault.com/a/1190000040050379)
+
+### [New Python Parallel Compute Framework : HPC](https://www.reddit.com/r/HPC/comments/nj6i1a/new_python_parallel_compute_framework/)
+
+### [不要问在不在（Don't Say Zai Ma） - V2EX](https://www.v2ex.com/t/778681)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgPmREfx3)
