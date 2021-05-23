@@ -150,3 +150,28 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KgK45ape0)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgJS6g7Vt)
+
+### [基于会话推荐系统最新长文综述，163篇参考文献，已被ACM Computing Surveys接收 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-23-3)
+
+### [人为「刷」论文引用量，米兰理工教授被IEEE惩罚，奖项被撤销 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-23-2)
+
+### [MLP给视觉研究带来潜在惊喜？近期MLP图像分类工作概览分析 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-23)
+
+### [Revealing Contents on Scroll Using JavaScript’s Intersection Observer API - DEV Community](https://dev.to/daveyhert/a-beginner-s-guide-to-the-intersection-observer-api-2d50)
+
+### [Javascript session storage - beginner's guide - DEV Community](https://dev.to/arikaturika/javascript-session-storage-beginner-s-guide-1i5e)
+
+### [AWS Services must for Front-end developers - Part 1 - DEV Community](https://dev.to/hellonehha/aws-services-must-for-front-end-developers-part-1-5g0d)
+
+### [React vs Vue - Beginners Guide - DEV Community](https://dev.to/ubahthebuilder/react-vs-vue-beginners-guide-4539)
+
+### [🔥 BUILD USER AVATAR GENERATOR IN JAVASCRIPT
+ - DEV Community](https://dev.to/satishnaikawadi2001/build-user-avatar-generator-in-javascript-5bd0)
+
+### [How can I create a Pytorch Dataloader from a hdf5 file with multiple groups/datasets? : pytorch](https://www.reddit.com/r/pytorch/comments/nj134s/how_can_i_create_a_pytorch_dataloader_from_a_hdf5/)
+
+### [2021年10大流行软件测试工具-InfoQ](https://www.infoq.cn/article/W27gag5ImhA9s8RyZju2)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgMiUwqqK)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgMCPEEsF)
