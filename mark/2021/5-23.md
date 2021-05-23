@@ -7,3 +7,6 @@
 ### [GitHub - google-research/big_transfer: Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.](https://github.com/google-research/big_transfer)
 
 ### [None](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247535348&idx=4&sn=ce234523bba4648306c1c67f7038d8ed&chksm=ebb77220dcc0fb36fa0168727cc683f8ee3ac58d3747f3775db23e71e67e7ee62e15efae9fad#rd)
