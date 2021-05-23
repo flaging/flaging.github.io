@@ -227,3 +227,11 @@ RustDesk1.1.5发布及寻求Mac调试帮助 - Rust语言中文社区
 ### [不要问在不在（Don't Say Zai Ma） - V2EX](https://www.v2ex.com/t/778681)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgPmREfx3)
+
+### [Thoughts on Identity | Veit's Blog](https://blog.veitheller.de/Thoughts_on_Identity.html)
+
+### [Over-fitting in Iterative Pruning : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nj6tvg/overfitting_in_iterative_pruning/)
+
+### [Difficulty in using LSTMs for text generation : pytorch](https://www.reddit.com/r/pytorch/comments/nj6xbl/difficulty_in_using_lstms_for_text_generation/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgPz2nLWv)
