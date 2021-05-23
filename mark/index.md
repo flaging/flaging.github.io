@@ -20,3 +20,15 @@ Google AI Blog: KELM: Integrating Knowledge Graphs with Language Model Pre-train
 ](http://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html)
 
 ### [Clean code & programming principles - The ultimate beginner's guide | Programming Duck](https://programmingduck.com/articles/programming-principles-introduction)
+
+### [基于会话推荐系统最新长文综述，163篇参考文献，已被ACM Computing Surveys接收 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-23-3)
+
+### [MLP给视觉研究带来潜在惊喜？近期MLP图像分类工作概览分析 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-23)
+
+### [多样性计算时代，QCon技术大牛为你解读“鲲鹏平台软件迁移和调优实践”-InfoQ](https://www.infoq.cn/article/vf0KHqSVh42GmCBBHGbf)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247527018&idx=1&sn=3d2bfb18ac4fa81472969f01d173da43&chksm=96eab5eaa19d3cfc3cc8c5a64a2899c8019aeccf1e2a49ddf5154c9612cbcc92bdc9ee47519b#rd)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247527018&idx=3&sn=fd424452623a931e0586e00407e011ab&chksm=96eab5eaa19d3cfcdf6d7750821a3729d87e63f1ec794f51fcd0ae0dba180555bd3e2f5a714e#rd)
