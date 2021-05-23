@@ -10,3 +10,11 @@
 
 ### [
 ](http://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247535348&idx=4&sn=ce234523bba4648306c1c67f7038d8ed&chksm=ebb77220dcc0fb36fa0168727cc683f8ee3ac58d3747f3775db23e71e67e7ee62e15efae9fad#rd)
+
+### [人人都爱Kubernetes，Docker难道就不香了吗？](https://xie.infoq.cn/article/2bae55dc12120da329a63f75e)
+
+### [软件开发|用 C 语言理解 Linux 软件库](https://linux.cn/article-13413-1.html)
+
+### [
+Google AI Blog: KELM: Integrating Knowledge Graphs with Language Model Pre-training Corpora
+](http://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html)
