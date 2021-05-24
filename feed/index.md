@@ -238,3 +238,43 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/KgZJ1pj5w)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgZHtAqXv)
+
+### [I published a new tutorial in my "Pytorch for Audio + Music" series: "Implementing and Training a Neural Network with PyTorch" : pytorch](https://www.reddit.com/r/pytorch/comments/nk0pgo/i_published_a_new_tutorial_in_my_pytorch_for/)
+
+### [Re-evaluate gradient in step method on new data point? : pytorch](https://www.reddit.com/r/pytorch/comments/nk0cym/reevaluate_gradient_in_step_method_on_new_data/)
+
+### [Recap of TensorFlow at Google I/O 2021 — The TensorFlow Blog](https://blog.tensorflow.org/2021/05/recap-of-tensorflow-at-google-io-2021.html)
+
+### [大逆转！两年暴亏83亿，亏光总市值后，A股“雷神”神奇复活！ - 21财经](https://m.21jingji.com/article/20210524/herald/caac248977a181194545b19734abb989.html)
+
+### [Poorly Drawn Lines – The Times](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/43q6PiRSOx4/)
+
+### [快 30 岁了，还有机会增高吗？ - V2EX](https://www.v2ex.com/t/778890)
+
+### [外交部发言人就第74届世卫大会涉台问题发表谈话 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1878189.shtml)
+
+### [
+为什么在超新星爆发过程中检测出钛元素如此重要](http://jandan.net/p/108975)
+
+### [
+从高速轻气炮中射出的水熊还活着](http://jandan.net/p/109013)
+
+### [
+瘟疫时期的流行歌单](http://jandan.net/p/108952)
+
+### [
+今日带货：618预售](http://jandan.net/p/109012)
+
+### [硬核观察|硬核观察|Python 之父对 Rust、Go、Julia 和 TypeScript 的看法](https://linux.cn/article-13421-1.html?utm_source=rss&utm_medium=rss)
+
+### [Node.js使用数据库LevelDB：超高性能kv存储引擎](https://www.infoq.cn/article/cf4a17ba0ea38c6f560375b8d)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh0LBASiP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh0yX4826)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh0nco6mR)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh0aB8siy)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgZYTll5T)
