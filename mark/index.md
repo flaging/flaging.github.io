@@ -10,3 +10,5 @@
 ### [GitHub - sogou/workflow: C++ Parallel Computing and Asynchronous Networking Engine](https://github.com/sogou/workflow)
 
 ### [An Introduction to Knowledge Graphs | SAIL Blog](http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
+
+### [Featured Projects | Microsoft Open Source](https://opensource.microsoft.com/projects/)
