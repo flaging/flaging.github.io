@@ -80,3 +80,11 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/KgVcazsUm)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgUYaqcI7)
+
+### [聊聊 MP4 播放器：突然剁手的几个旧玩意 - 少数派](https://sspai.com/post/66586)
+
+### [Go 并发编程 — 深入浅出 sync.Pool ，围观最全的使用姿势，理解最深刻的原理](https://www.infoq.cn/article/0cdd6dbc3712523ffabe37d50)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgVVx7u2V)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgVPEvhXB)
