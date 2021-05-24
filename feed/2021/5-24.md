@@ -136,3 +136,11 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [吐槽一下小爱同学 - V2EX](https://www.v2ex.com/t/778799)
 
 ### [ORACLE数据库应用开发三十忌](https://www.infoq.cn/article/ac406fc690dd5b1203584312e)
+
+### [豆瓣不只可以查评分、找电影，你还可以在上面关注这 10+ 个有趣的小组 - 少数派](https://sspai.com/post/66746)
+
+### [LANDrop - 类 AirDrop 跨平台局域网文件传输工具 - 小众软件](https://www.appinn.com/landrop-files-transfer-tools/)
+
+### [服务24亿级用户App的大前端实践-InfoQ](https://www.infoq.cn/article/z29A3u90q96dum4v8ZmW)
+
+### [从 Kafka 到 Pulsar，华为云物联网上云之旅-InfoQ](https://www.infoq.cn/article/pYL93ahACjrHskbhkRgC)
