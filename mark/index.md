@@ -18,3 +18,8 @@
         A Beginner's Guide to Multilayer Perceptrons (MLP) | Pathmind
       
     ](http://wiki.pathmind.com/multilayer-perceptron)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247535513&idx=2&sn=72f4dfe9b6188950f85ef9759c5fda45&chksm=ebb7734ddcc0fa5b7f2b4ee8acc603807b7712b74e2ec68a66d6a97b7704d8f786b27335d214#rd)
+
+### [Class Templates - ModernesCpp.com](http://www.modernescpp.com/index.php/class-templates)
