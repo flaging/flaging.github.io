@@ -178,3 +178,9 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/KgY1ln4V1)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgXEW4wNU)
+
+### [派评 | 近期值得关注的 App - 少数派](https://sspai.com/post/66827)
+
+### [OpenCL C kernel language highlighting support for Notepad++ : OpenCL](https://www.reddit.com/r/OpenCL/comments/njumaq/opencl_c_kernel_language_highlighting_support_for/)
+
+### [InnoDB 锁类型及其分析](https://www.infoq.cn/article/a9d6332f79cd7c68b260804e4)
