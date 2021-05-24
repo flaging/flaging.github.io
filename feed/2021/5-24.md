@@ -88,3 +88,41 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KgVVx7u2V)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KgVPEvhXB)
+
+### [美国工人锐减820万，非汽车行业机器人订单首次占据半壁江山 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-24-5)
+
+### [​多国学者共同绘制「机器学习+高能密度物理学」新蓝图，发表在Nature上 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-24-4)
+
+### [【国家发展改革委等五部门联合约谈提醒大宗商品重点企业】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210524_1280583.html)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5877/)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1253)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1252)
+
+### [StreamNative 宣布开源 Function Mesh： 简化云上的复杂流任务-InfoQ](https://www.infoq.cn/article/TK1BciEasI0zaAo9MdPo)
+
+### [库克亲自出庭回应“苹果税”质疑：收取30%佣金是应该的-InfoQ](https://www.infoq.cn/article/VBRZXBvlLV0sV0heBNqs)
+
+### [Zoom中国“大撤退”一年后，竞争者不断，市值缩水，昔日巨头终落寞？-InfoQ](https://www.infoq.cn/article/IT9dfDWbk6i9bIpdh27c)
+
+### [如何根据日志来了解一个请求经历了什么？](https://www.infoq.cn/article/8e300698b77731737057cea84)
+
+### [高性能 JavaScriptの五 -- 快响应用户界面](https://www.infoq.cn/article/b8ef52342a9dad9a39a70f77c)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KgWPBedYm)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgWpg7COL)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgWoc9uLC)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgWdlEcBi)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgW6AAr1V)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgWzIlEZP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgWzkclbu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgWrCFebS)
