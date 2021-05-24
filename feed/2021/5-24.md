@@ -184,3 +184,13 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [OpenCL C kernel language highlighting support for Notepad++ : OpenCL](https://www.reddit.com/r/OpenCL/comments/njumaq/opencl_c_kernel_language_highlighting_support_for/)
 
 ### [InnoDB 锁类型及其分析](https://www.infoq.cn/article/a9d6332f79cd7c68b260804e4)
+
+### [求医于 V2EX - V2EX](https://www.v2ex.com/t/778867)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=668)
+
+### [ի--ͼ20210524ԣƽ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157187)
+
+### [软件开发|抛弃 Autotools 向 CMake 迈进吧](https://linux.cn/article-13419-1.html?utm_source=rss&utm_medium=rss)
+
+### [Python自动化神器-Fabric](https://www.infoq.cn/article/f5d4ec360227eda1e785207d3)
