@@ -25,3 +25,7 @@
 ### [Class Templates - ModernesCpp.com](http://www.modernescpp.com/index.php/class-templates)
 
 ### [软件开发|抛弃 Autotools 向 CMake 迈进吧](https://linux.cn/article-13419-1.html)
+
+### [Node.js使用数据库LevelDB：超高性能kv存储引擎](https://xie.infoq.cn/article/cf4a17ba0ea38c6f560375b8d)
+
+### [Python自动化神器-Fabric](https://xie.infoq.cn/article/f5d4ec360227eda1e785207d3)
