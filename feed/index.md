@@ -126,3 +126,5 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KgWzkclbu)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgWrCFebS)
+
+### [阿里云贾扬清：大数据+AI工程化，让数据从「成本」变为「资产」 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-24-6)
