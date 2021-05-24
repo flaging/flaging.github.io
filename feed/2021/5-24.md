@@ -291,3 +291,9 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Kh2gplPag)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh2l1p5rS)
+
+### [
+Google AI Blog: Understanding Contextual Facial Expressions Across the Globe
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/XhPUzI-LqTk/understanding-contextual-facial.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh2wIAzFv)
