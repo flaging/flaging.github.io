@@ -128,3 +128,11 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KgWrCFebS)
 
 ### [阿里云贾扬清：大数据+AI工程化，让数据从「成本」变为「资产」 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-24-6)
+
+### [团队项目进度跟踪难？延期风险高？国内企服排行榜第一的通用项目管理工具在这里了 - 小众软件](https://www.appinn.com/worktile-project-manage/)
+
+### [618 什么值得买 ? - V2EX](https://www.v2ex.com/t/778822)
+
+### [吐槽一下小爱同学 - V2EX](https://www.v2ex.com/t/778799)
+
+### [ORACLE数据库应用开发三十忌](https://www.infoq.cn/article/ac406fc690dd5b1203584312e)
