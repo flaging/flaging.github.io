@@ -28,3 +28,55 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KgU5auMPD)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KgULd218n)
+
+### [机器学习揭示量子系统的底层物理原理，助力物理学发现 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-24-3)
+
+### [WEY摩卡售价区间17.58万—21.88万元，激光雷达版最快第三季度交付 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-24-2)
+
+### [足球与人工智能——互相成全 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-24)
+
+### [别押注中国会放弃投资导向型增长模式 - FT中文网](http://www.ftchinese.com/story/001092570)
+
+### [接上次问开亲子庄园的事情，决定了，不当程序员了，转行 - V2EX](https://www.v2ex.com/t/778780)
+
+### [成都真的被吹得太过了，一线的同学谨慎回来吧 - V2EX](https://www.v2ex.com/t/778775)
+
+### [V2EX › 登录](https://www.v2ex.com/t/778770)
+
+### [道听途说 - 显卡为啥那么贵 - V2EX](https://www.v2ex.com/t/778757)
+
+### [5月24日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0524/135190.shtml)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736312)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736306)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736296)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736287)
+
+### [
+Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
+](https://rustcc.cn/article?id=47942a49-c621-4412-89f8-d0da50cad7e3)
+
+### [懂得取舍才是缓存设计的真谛](https://www.infoq.cn/article/2fce6d318c8046e8d22d6b070)
+
+### [基于Mac的手动搭建WordPress个人站点的方法](https://www.infoq.cn/article/eba714b7341a9549a9ee6b541)
+
+### [🚄【Redis 干货领域】帮你完全搞定 Cluster 原理（实践篇）](https://www.infoq.cn/article/b272c96e7346ccbb402109ff2)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KgVgbaBwu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgVELdWnT)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgVgB9I8u)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgVdYggW7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgV50dKMb)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgVwQtuUv)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgVcazsUm)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgUYaqcI7)
