@@ -278,3 +278,8 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh0aB8siy)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgZYTll5T)
+
+### [Amit Rana on Twitter : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nk5k1w/amit_rana_on_twitter/)
+
+### [
+研究报告 疫情期间英国的性产业](http://jandan.net/p/108963)
