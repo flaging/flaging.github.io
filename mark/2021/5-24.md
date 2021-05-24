@@ -12,3 +12,9 @@
 ### [An Introduction to Knowledge Graphs | SAIL Blog](http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
 
 ### [Featured Projects | Microsoft Open Source](https://opensource.microsoft.com/projects/)
+
+### [
+      
+        A Beginner's Guide to Multilayer Perceptrons (MLP) | Pathmind
+      
+    ](http://wiki.pathmind.com/multilayer-perceptron)
