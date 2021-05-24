@@ -212,3 +212,29 @@ Rust 的 TryV2 有啥特别优越的地方吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KgZnTbAYU)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KgZhOqkYA)
+
+### [Etcd Raft库的工程化实现 - codedump的网络日志](https://www.codedump.info/post/20210515-raft/)
+
+### [iPhone 夜间耗电严重，且看不到耗电应用 - V2EX](https://www.v2ex.com/t/778753)
+
+### [2021年5月24日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1878152.shtml)
+
+### [2021年5月24日新闻联播文字版](http://www.xwlb.net.cn/19750.html)
+
+### [分享|4 款值得一试的 Linux 终端多路复用器](https://linux.cn/article-13420-1.html?utm_source=rss&utm_medium=rss)
+
+### [🚄【Redis 干货领域】帮你完全搞定Cluster原理（架构篇）](https://www.infoq.cn/article/843e1968b57d597c1149dda00)
+
+### [WebContainers介绍:如何在浏览器运行原生的Nodejs](https://www.infoq.cn/article/b7f4f6e5bb831e4f20cdca35a)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgZsMhCrr)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KgZshC1bP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgZMf6brf)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KgZA6wcyC)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgZJ1pj5w)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KgZHtAqXv)
