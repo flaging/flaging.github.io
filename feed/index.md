@@ -198,3 +198,11 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [重新理解计算 | GTLC-InfoQ](https://www.infoq.cn/article/9qofZoXLgB3d6i2Dx9UI)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kh6ErtHsM)
+
+### [现代色彩工业的背后：理论家的无形影响力 - 少数派](https://sspai.com/post/66806)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5880/)
+
+### [被一加的更新恶心到了 - V2EX](https://www.v2ex.com/t/778993)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh6VJzGIP)
