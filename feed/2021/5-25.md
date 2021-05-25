@@ -323,3 +323,8 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh9ZrDksj)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh9NBjoY6)
+
+### [I Spent $5,000 Advertising My Free Book to iOS and Android Engineers - The Pragmatic Engineer](http://feedproxy.google.com/~r/ThePragmaticEngineer/~3/eoEM7JqkYdk/)
+
+### [
+佩戴机械附肢后，大脑迅速改写了“操作系统”](http://jandan.net/p/109002)
