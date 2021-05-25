@@ -190,3 +190,11 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Kh5LcoDrq)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh5S0mpfI)
+
+### [作为一名前端开发，是应该拥抱腾讯生态还是阿里生态？ - V2EX](https://www.v2ex.com/t/779070)
+
+### [与 Nginx 同行，Pipy究竟有何能耐？-InfoQ](https://www.infoq.cn/article/r79Ubhof5F5LPh4VBCCQ)
+
+### [重新理解计算 | GTLC-InfoQ](https://www.infoq.cn/article/9qofZoXLgB3d6i2Dx9UI)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kh6ErtHsM)
