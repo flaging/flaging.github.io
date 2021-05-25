@@ -115,3 +115,39 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh55r25nP)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh4VpF3fj)
+
+### [当第一性原理遇上AI，发现200多种新催化剂 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-4)
+
+### [如何不花钱，让人工智能帮你视频抠图？ - 少数派](https://sspai.com/post/66759)
+
+### [CopyTranslator - 复制文本后自动翻译，支持多种翻译接口 - 小众软件](https://www.appinn.com/copytranslator/)
+
+### [【国家发展改革委有关负责同志就《“十四五”时期深化价格机制改革行动方案》答记者问】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210525_1280783.html)
+
+### [【国家发展改革委出台“十四五”时期深化价格机制改革行动方案】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210525_1280782.html)
+
+### [真有人觉得 Git 会提高生产力？ - V2EX](https://www.v2ex.com/t/779029)
+
+### [迫于每天喝咖啡，请大家推荐，自动咖啡机还是胶囊咖啡机还是速溶？ - V2EX](https://www.v2ex.com/t/779002)
+
+### [各位咖啡专业户，求比较好喝的黑咖啡 - V2EX](https://www.v2ex.com/t/778985)
+
+### [软件开发|对 JavaScript 构建工具的 6 个预测](https://linux.cn/article-13423-1.html?utm_source=rss&utm_medium=rss)
+
+### [记十亿级Es数据迁移mongodb成本节省及性能优化实践](https://www.infoq.cn/article/06fef667e37bec350769da795)
+
+### [Nginx的11个执行阶段详解](https://www.infoq.cn/article/bc7a344d84c9fedfc6ca871fd)
+
+### [「技术人生」第2篇：学会分析事物的本质](https://www.infoq.cn/article/412d30784db390c20ccf139ab)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh5nafPAe)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh5mo4Sgn)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh5koC74X)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh5iPkNuX)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh5fhdtl9)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh5tP59o4)
