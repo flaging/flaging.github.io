@@ -151,3 +151,42 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Kh5fhdtl9)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh5tP59o4)
+
+### [AAAI 2021｜语音翻译新方法LUT——克服平行数据稀少的挑战 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-9)
+
+### [全球首个落地的舞蹈动画合成系统，网易互娱AI Lab新技术入选SIGGRAPH 2021 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-8)
+
+### [姚班、智班之后，清华成立量子信息班，网友：简称「期（QI）班」？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-7)
+
+### [亚马逊资深首席科学家李沐：工作这五年 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-6)
+
+### [马斯克打脸了？特斯拉开测激光雷达，有图有真相 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-5)
+
+### [在 iPhone 与电脑间传输文件的「终极」解决方案：WALTR PRO - 少数派](https://sspai.com/post/66796)
+
+### [麦当劳小程序终于重构了，普天喜庆 - V2EX](https://www.v2ex.com/t/779012)
+
+### [国务院办公厅关于印发强化危险废物监管和利用处置能力改革实施方案的通知（国办函〔2021〕47号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-05/25/content_5611696.htm)
+
+### [
+为什么疫苗接种都在胳膊上？](http://jandan.net/p/109020)
+
+### [操作系统设计赛 技术报告会｜3月21日-InfoQ](https://www.infoq.cn/article/xr9S9b6V1Zw0xaOAKsxL)
+
+### [技术领导力实践总结 | GTLC-InfoQ](https://www.infoq.cn/article/D2potTdcJV3wAKG9ErQu)
+
+### [如何打造有投资价值的科技创新创业公司 | GTLC-InfoQ](https://www.infoq.cn/article/sR4ELwdJ4wcWzt9oiI1t)
+
+### [数字化转型关键洞察和顶层设计 | GTLC-InfoQ](https://www.infoq.cn/article/AsZb4x91CHM3yoLDhEKA)
+
+### [HarmonyOS 开发者日·上海站（下）-InfoQ](https://www.infoq.cn/article/CORwp1i0DZBe6m3sNHq7)
+
+### [运维：你们 JAVA 服务内存占用太高，还只增不减！告警了，快来接锅 - SegmentFault 思否](https://segmentfault.com/a/1190000040050819)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh5Z2ABQ2)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh5RZcER7)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh5LcoDrq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh5S0mpfI)
