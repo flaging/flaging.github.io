@@ -18,3 +18,6 @@
 ### [GitHub - Oneflow-Inc/oneflow: OneFlow is a performance-centered and open-source deep learning framework.](https://github.com/Oneflow-Inc/oneflow)
 
 ### [GitHub - Tencent/secguide: 面向开发人员梳理的代码安全指南](https://github.com/Tencent/secguide)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzU5ODY2MTk3Nw==&mid=2247485240&idx=1&sn=66760e153d08d1d6115692ead64a6a5a&chksm=fe41890ec9360018dbcd216d6c50f399b7ac4c073be351f6ccfa8189a8e575142c9c7dbb8e64#rd)
