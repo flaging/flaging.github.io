@@ -206,3 +206,11 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [被一加的更新恶心到了 - V2EX](https://www.v2ex.com/t/778993)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh6VJzGIP)
+
+### [操作系统设计赛 技术报告会｜3月21日-InfoQ](https://www.infoq.cn/article/uAjJyiT6dHCxHv9d8Bfj)
+
+### [操作系统设计赛 技术报告会｜4月4日-InfoQ](https://www.infoq.cn/article/2p27sf01UblxojNL8rTy)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kh72N7NNr)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh72NpofS)
