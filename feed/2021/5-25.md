@@ -92,3 +92,26 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh4HSnNqP)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh4H9ymTt)
+
+### [新一轮中部崛起顶层设计要来了，制造业成首要着力点 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-3)
+
+### [@高考考生，2021高考有这些新变化！（附37个新增本科专业特色） - 21财经](https://m.21jingji.com/article/20210525/herald/8b399a3f43b656bda41d943542b791c4.html)
+
+### [
+澳洲一年内太阳能电池板安装量打破纪录](http://jandan.net/p/108964)
+
+### [
+今日好价：奥特曼闪卡](http://jandan.net/p/109017)
+
+### [
+[日本]官方寻求方案来校正词不达意的英文翻译](http://jandan.net/p/109014)
+
+### [放弃Ceph，Salesforce使用 Apache BookKeeper 在云中实现最强存储-InfoQ](https://www.infoq.cn/article/dWfAQAVPGwif291aHl5g)
+
+### [技术干货 | 基于MindSpore更好的理解Focal Loss](https://www.infoq.cn/article/a2bc0aba06275a10a2a13155e)
+
+### [探索GaussDB(DWS)的过程化SQL语言能力](https://www.infoq.cn/article/441ff8a1ec0bf66214be0c37e)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh55r25nP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh4VpF3fj)
