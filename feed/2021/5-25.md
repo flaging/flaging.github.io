@@ -214,3 +214,47 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1746173800/Kh72N7NNr)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh72NpofS)
+
+### [重磅！超星未来发布新一代高级别自动驾驶车载计算平台 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-10)
+
+### [东西我都装好了｜填充收纳思考，小户型也能越住越大 - 少数派](https://sspai.com/post/66787)
+
+### [看什么夏日特辑丨跟着镜头环游世界，让这些作品伴你一夏 - 少数派](https://sspai.com/post/66840)
+
+### [Unable to run torch on GPU : pytorch](https://www.reddit.com/r/pytorch/comments/nkmyjw/unable_to_run_torch_on_gpu/)
+
+### [Trouble importing pytorch once installed : pytorch](https://www.reddit.com/r/pytorch/comments/nklixy/trouble_importing_pytorch_once_installed/)
+
+### [大家薪资多少。。同事拿到 30K offer 酸了。 - V2EX](https://www.v2ex.com/t/778959)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=898)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=635)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=771)
+
+### [6大王牌产品7亿补贴 realme真我开启618心跳大促_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0525/135199.shtml)
+
+### [硬核观察|硬核观察|Chrome 浏览器曾是谷歌创始人瞒着 CEO 开发的](https://linux.cn/article-13424-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+为什么leetCode中二叉树的rust实现使用的Rc、RefCell，而不使用Box - Rust语言中文社区
+](https://rustcc.cn/article?id=2402b3fe-0180-4126-a8e3-90cfd837c476)
+
+### [操作系统设计赛 技术报告会｜4月18日-InfoQ](https://www.infoq.cn/article/TWcumh0ur0sgLMAQKFpG)
+
+### [编译系统设计赛 技术报告会｜4月17日-InfoQ](https://www.infoq.cn/article/K89OsI5uY7qX3JEH1h6y)
+
+### [操作系统设计赛 技术报告会｜4月11日-InfoQ](https://www.infoq.cn/article/5jBeNGatscUiDijSqlwg)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh7qEEnET)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh7pQca7v)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh7hRsoDi)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh7lMFUjb)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh7llcb71)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kh7Ocpr4z)
