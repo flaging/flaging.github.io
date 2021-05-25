@@ -258,3 +258,27 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh7llcb71)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kh7Ocpr4z)
+
+### [Aqara 2021发布会：不做入口要做更懂你的全屋智能 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-12)
+
+### [刚刚！腾讯优图实验室荣获上海市科技进步奖特等奖！ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-11)
+
+### [智能门锁哪家强？ - V2EX](https://www.v2ex.com/t/779053)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=711)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=705)
+
+### [2021年5月25日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1878422.shtml)
+
+### [ի--ͼ20210525һһǧһ㽶һ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157207)
+
+### [中办印发《关于在全社会开展党史、新中国史、改革开放史、社会主义发展史宣传教育的通知》_最新政策_中国政府网](http://www.gov.cn/zhengce/2021-05/25/content_5612097.htm)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kh82BFFr7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh8Cylcr2)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh8q20n3u)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh8eduSjO)
