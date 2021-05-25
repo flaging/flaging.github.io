@@ -315,3 +315,11 @@ rust, c++ 纠结中? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/Kh9tKAVCY)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kh9mT3kzx)
+
+### [Java 收徒 7 天后情况汇报 - V2EX](https://www.v2ex.com/t/779074)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhabZF9p0)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh9ZrDksj)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh9NBjoY6)
