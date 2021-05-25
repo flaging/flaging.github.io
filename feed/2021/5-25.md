@@ -56,3 +56,39 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kh37Ia0yw)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kh3JmjSh8)
+
+### [给汽车装上「耳朵」：英飞凌和Reality AI研发听觉感知系统 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25-2)
+
+### [不占密度优势的钠离子电池，为何会被宁德时代看好？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-25)
+
+### [原来情侣之间都这样做《爱之语》 - 新片场](https://www.vmovier.com/62146)
+
+### [我喜欢夏天的雨，雨后的光，和任何时候的你 - 新片场](https://www.vmovier.com/62141)
+
+### [搞笑也费力气《练习了50个小时》 - 新片场](https://www.vmovier.com/62138)
+
+### [沙雕魔性短片《戏精小鸟的日常》 - 新片场](https://www.vmovier.com/62143)
+
+### [脑洞恶搞！《神奇女侠》的另类结局 - 新片场](https://www.vmovier.com/62142)
+
+### [有了这个APP《地狱升天堂》 - 新片场](https://www.vmovier.com/62144)
+
+### [初学者摄影秘籍《环境拍摄方法教学》 - 新片场](https://www.vmovier.com/62131)
+
+### [5月25日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0525/135196.shtml)
+
+### [
+rust, c++ 纠结中? - Rust语言中文社区
+](https://rustcc.cn/article?id=74a67afa-91f9-47ec-978c-8c1f57007766)
+
+### [☕【JVM技术之旅】你真正掌握了Java对象创建的流程吗？](https://www.infoq.cn/article/16bc53b969de0b7cda78687d8)
+
+### [腾讯云CLS日志服务初体验](https://www.infoq.cn/article/550bb005798c8e57c79ce1b9b)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kh4PazpwZ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh4KhB74E)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh4HSnNqP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kh4H9ymTt)
