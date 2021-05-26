@@ -42,3 +42,33 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/Khd82cGbn)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Khd7gnKMj)
+
+### [派早报：Mac mini 或将进行重新设计、「超级月全食」将于今日正式现身 - 少数派](https://sspai.com/post/66857)
+
+### [一周世界舆论聚焦：美俄关系缓和对中国意味着什么？ - FT中文网](http://www.ftchinese.com/story/001092596)
+
+### [数字人民币的破与立 - FT中文网](http://www.ftchinese.com/story/001092593)
+
+### [iWatch 有能力的话一定要买长亮的啊 - V2EX](https://www.v2ex.com/t/779225)
+
+### [今天，我取关了所有的公众号。 - V2EX](https://www.v2ex.com/t/779174)
+
+### [迫于处于减肥饮食习惯过渡期，一天一瓶 600ml 的零度可乐或其他代糖饮料对健康有没有什么影响 - V2EX](https://www.v2ex.com/t/779157)
+
+### [做了一款手机游戏，被反编译+二次植入广告了，该怎么办？ - V2EX](https://www.v2ex.com/t/779085)
+
+### [电脑进水了，里边的数据怎么拿出来呢？ - V2EX](https://www.v2ex.com/t/779071)
+
+### [是时候入手 ARM Mac 了! - V2EX](https://www.v2ex.com/t/779063)
+
+### [一种基于实时分位数计算的系统及方法](https://www.infoq.cn/article/947fe6dae5c11d27a22df7314)
+
+### [Docker挂了，数据如何找回](https://www.infoq.cn/article/1b8f07a44c66f90c61d23438c)
+
+### [充值卡业务接口的幂等设计(附伪代码)](https://www.infoq.cn/article/578f7cb64f883dd2c58052c48)
+
+### [微服务架构设计之解耦合](https://www.infoq.cn/article/bd439e1eda032fded958e5570)
+
+### [☕【JVM 技术之旅】深入挖掘Java对象的内存结构](https://www.infoq.cn/article/1c236cd03e2e810531f9f7f12)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Khe7vczyq)
