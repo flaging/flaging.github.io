@@ -110,3 +110,31 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KhevP8z17)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KheHdCxzF)
+
+### [特斯拉承诺中国数据不出境，将开放车辆信息查询平台 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-6)
+
+### [特斯拉被判向挪威车主支付巨额罚金，或在多地产生连锁效应 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-5)
+
+### [为何说「换电」不是个好主意？ | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-4)
+
+### [无需「协同进化」信息，芝加哥许锦波团队最新研究登上Nature子刊 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-3)
+
+### [气泡果汁杯、宝可梦眼镜……獭最近又买了新玩具 - 少数派](https://sspai.com/post/66768)
+
+### [[上海][内推] [区块链金融] [18 薪] - V2EX](https://www.v2ex.com/t/779116)
+
+### [系统运维|将 Fedora Linux 系统添加到企业域中](https://linux.cn/article-13426-1.html?utm_source=rss&utm_medium=rss)
+
+### [网易余利华：大数据技术升级脉络及认知陷阱-InfoQ](https://www.infoq.cn/article/U5Qv45rsFxGGbXme2ydL)
+
+### [编译系统设计赛 技术报告会｜5月8日-InfoQ](https://www.infoq.cn/article/mQYwa0h75xQrjD2RmDGG)
+
+### [特斯拉宣布已在中国建立数据中心，负面缠身下，信任危机能否解除？-InfoQ](https://www.infoq.cn/article/zA5PIhYUVq4W15x1S4Cv)
+
+### [Mybatis-Plus的应用场景及注入SQL原理分析](https://www.infoq.cn/article/3b6412c5948e4ff489667f8c7)
+
+### [毕业设计So Easy：基于Java语言西餐厅点餐系统](https://www.infoq.cn/article/9e2e677bb85ac2a6a5466b9df)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhfiC5HTB)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KheTUdBjz)
