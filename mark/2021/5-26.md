@@ -29,3 +29,8 @@
 ### [linux查看主板型号及内存硬件信息_蚂蚁窝的技术博客_51CTO博客](https://blog.51cto.com/feihan21/1174677)
 
 ### [linux查看系统的硬件信息_ITPUB博客](http://blog.itpub.net/26250550/viewspace-1119572/)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247527154&idx=2&sn=6495ff0ed93c17cc13c169ad5a91f6da&chksm=96eab572a19d3c64e647ab2199420e81f288b6bbb0ebac028d944a87a49996d244f3cf8f7483#rd)
+
+### [Almighty - Powerful configurations for Mac](https://onmyway133.com/almighty/)
