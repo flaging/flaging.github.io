@@ -34,3 +34,5 @@
 ](http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247527154&idx=2&sn=6495ff0ed93c17cc13c169ad5a91f6da&chksm=96eab572a19d3c64e647ab2199420e81f288b6bbb0ebac028d944a87a49996d244f3cf8f7483#rd)
 
 ### [Almighty - Powerful configurations for Mac](https://onmyway133.com/almighty/)
+
+### [How to monitor Socket connections using ss command | 2DayGeek](https://www.2daygeek.com/linux-ss-command-monitor-socket-network-connections/)
