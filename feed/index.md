@@ -345,3 +345,23 @@ Google AI Blog: Cross-Modal Contrastive Learning for Text-to-Image Generation
 ### [Sina Visitor System](https://weibo.com/1715118170/KhlAgihHn)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KhlnIgsLu)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5881/)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736407)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736385)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736394)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736403)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736413)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736380)
+
+### [青年图摘0527！这个杀手不太怕冷](https://qingniantuzhai.com/untitled-19/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Khmaqeqos)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhlYCf4iI)
