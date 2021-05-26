@@ -16,3 +16,8 @@
 ### [操作系统设计赛 技术报告会｜3月21日-InfoQ](https://www.infoq.cn/video/uAjJyiT6dHCxHv9d8Bfj)
 
 ### [操作系统设计赛 技术报告会｜4月4日-InfoQ](https://www.infoq.cn/video/2p27sf01UblxojNL8rTy)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247527154&idx=1&sn=4c144266cbaf0b0c87dc431314c1d9f3&chksm=96eab572a19d3c64d1ff824c4087bd78a43421402e437daf5b8bae1a1cd0ab7592cbbf10de5d#rd)
+
+### [Improved distributed algorithms for fundamental graph problems](https://dspace.mit.edu/handle/1721.1/109000)
