@@ -154,3 +154,63 @@
 ### [最详细的 Python 结合 RFM 模型实现用户分层实操案例！](https://www.infoq.cn/article/34f1da08434df141fd8ce599f)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KhfGa2T19)
+
+### [云原生数据中台的What、Why、Who、How和Where  | 机器之心](https://www.jiqizhixin.com/articles/2021-04-28)
+
+### [数据中台升级了？原来是拥抱了云原生！ | 机器之心](https://www.jiqizhixin.com/articles/2021-04-28-2)
+
+### [DataExa-Sati V5.7.0新版本发布！功能算法迭代、架构性能优化、用户体验.... | 机器之心](https://www.jiqizhixin.com/articles/2021-05-14-9)
+
+### [上手 WebRTC DTLS 遇到很多 BUG？浅谈 DTLS Fragment | 机器之心](https://www.jiqizhixin.com/articles/2021-05-17-3)
+
+### [验证码与人工智能的激荡二十年：引言 | 机器之心](https://www.jiqizhixin.com/articles/2021-04-08-4)
+
+### [氪信基于“非或然引擎”的行业智能解决方案 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-17-5)
+
+### [论文解读：胶囊网络在小样本做文本分类中的应用（上） | 机器之心](https://www.jiqizhixin.com/articles/2021-05-19-14)
+
+### [胶囊网络在小样本做文本分类中的应用（下） | 机器之心](https://www.jiqizhixin.com/articles/2021-05-21-9)
+
+### [达观数据智能工单处理，助力运营商实现业务流程智能化改造 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-22-3)
+
+### [阿里云黄博远：AI 工程化是发挥算法及数据价值的效能中枢 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-13)
+
+### [极狐(GitLab)携手CNCF成立“开源GitOps产业联盟” | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-12)
+
+### [工业发展 安全护航 2021年工业互联网安全发展峰会成功召开 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-11)
+
+### [Arm 全面计算解决方案为广泛的终端设备带来全新的性能、安全性和 Armv9 架构的功能 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-10)
+
+### [年轻人的体检指南 02：个性化筛查 - 少数派](https://sspai.com/post/66635)
+
+### [东西我都装好了 | 「古方」新用：用「5S」法则重塑你的收纳整理逻辑 - 少数派](https://sspai.com/post/66723)
+
+### [猫咪锁屏提醒 - 拥有 20 只猫，在 iPhone 锁屏界面显示待办事项 - 小众软件](https://www.appinn.com/maomi-suoping-for-iphone/)
+
+### [炒到200元一盒还要“配货”，雪糕怎么越来越贵了? - 21财经](https://m.21jingji.com/article/20210526/herald/c85f38809b2334fbc4ad6274ad037193.html)
+
+### [[抽奖送码] 世界上第亿好用的记账 APP，又又又又又更新了 - V2EX](https://www.v2ex.com/t/779316)
+
+### [去实习还是专升本，纠结中 - V2EX](https://www.v2ex.com/t/779282)
+
+### [”小币“插件 1.0.1 版本，现已开源 99% - 一个还算好用的币圈浏览器插件 - V2EX](https://www.v2ex.com/t/779238)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=877)
+
+### [硬核观察|硬核观察|微软使用 GPT-3 让你可以用自然语言编码](https://linux.cn/article-13427-1.html?utm_source=rss&utm_medium=rss)
+
+### [终于！Fuchsia OS正式公开可用，谷歌迈出了五年来最关键的一步-InfoQ](https://www.infoq.cn/article/DbZAsZugmkIbqSxZ09RU)
+
+### [操作系统设计赛 技术报告会｜5月23日-InfoQ](https://www.infoq.cn/article/dNBU7DR10HrgIGdYixSY)
+
+### [操作系统设计赛 技术报告会｜5月9日-InfoQ](https://www.infoq.cn/article/7JdENztMaRcXz8zAFass)
+
+### [操作系统设计赛 技术报告会｜5月16日-InfoQ](https://www.infoq.cn/article/TMTlU3HDAC8ytLMshpFK)
+
+### [小傅哥，一个有“副业”的码农！](https://www.infoq.cn/article/927c076bf51682fc781ee3a92)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KhgtvCwNb)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Khg7y19YF)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Khg4m3u31)
