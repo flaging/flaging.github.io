@@ -72,3 +72,41 @@
 ### [☕【JVM 技术之旅】深入挖掘Java对象的内存结构](https://www.infoq.cn/article/1c236cd03e2e810531f9f7f12)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Khe7vczyq)
+
+### [「四大模型」革新NLP技术应用，揭秘百度文心ERNIE最新开源预训练模型 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-2)
+
+### [影谱科技亮相2021数博会数字化产品和智慧应用点亮未来 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26)
+
+### [寻找旅途中的故事：带着 50mm 镜头去旅拍 - 少数派](https://sspai.com/post/66582)
+
+### [密码管理器 1Password for Mac 测试版的浏览器扩展终于支持自动解锁了 - 小众软件](https://www.appinn.com/1password-for-mac-shares-lock-state/)
+
+### [miui 短信中都能塞进去广告，貌似还无法关闭 - V2EX](https://www.v2ex.com/t/779241)
+
+### [美团外卖吃到虫子要求十倍赔偿成功全记录 - V2EX](https://www.v2ex.com/t/779233)
+
+### [618 要来了 觉的值的买的都来更新进文档吧 我也会不断更新 - V2EX](https://www.v2ex.com/t/779230)
+
+### [新 Mac mini 的爆料渲染图 - V2EX](https://www.v2ex.com/t/779218)
+
+### [
+黑吃黑，勒索组织DarkSide的加盟会员要求“地下司法仲裁”](http://jandan.net/p/109021)
+
+### [
+今日好价：罗技Craft键盘](http://jandan.net/p/109022)
+
+### [技术|使用开源工具进行 Linux 内存取证](https://linux.cn/article-13425-1.html?utm_source=rss&utm_medium=rss)
+
+### [操作系统设计赛 技术报告会｜4月25日-InfoQ](https://www.infoq.cn/article/jcatCousQT6Nm9dcErrW)
+
+### [网页端IM通信技术快速入门：短轮询、长轮询、SSE、WebSocket](https://www.infoq.cn/article/280f4791569f16021a80300ce)
+
+### [☕【JVM 技术之旅】带你重塑对类加载机制的认识](https://www.infoq.cn/article/f9d6d0114fc3b358c62233413)
+
+### [超详细的JQuery的 DOM操作，一篇就足够！](https://www.infoq.cn/article/671b9b374c49acaf7bee5015a)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KhewkEWCF)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhevP8z17)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KheHdCxzF)
