@@ -25,3 +25,7 @@
 ### [c++ - How do I terminate a thread in C++11? - Stack Overflow](https://stackoverflow.com/questions/12207684/how-do-i-terminate-a-thread-in-c11)
 
 ### [examples/tutorials/tensorflow1/basics at master · graphcore/examples · GitHub](https://github.com/graphcore/examples/tree/master/tutorials/tensorflow1/basics)
+
+### [linux查看主板型号及内存硬件信息_蚂蚁窝的技术博客_51CTO博客](https://blog.51cto.com/feihan21/1174677)
+
+### [linux查看系统的硬件信息_ITPUB博客](http://blog.itpub.net/26250550/viewspace-1119572/)
