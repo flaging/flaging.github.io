@@ -322,3 +322,10 @@
 ### [技术|用开源软件保护你的文件的 5 种方法](https://linux.cn/article-13428-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KhjCllyov)
+
+### [
+Google AI Blog: Cross-Modal Contrastive Learning for Text-to-Image Generation
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/1-W5fRLVwSM/cross-modal-contrastive-learning-for.html)
+
+### [
+无人见证的历史是真实存在的吗？](http://jandan.net/p/108977)
