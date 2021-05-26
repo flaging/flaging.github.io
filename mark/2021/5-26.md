@@ -21,3 +21,7 @@
 ](http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247527154&idx=1&sn=4c144266cbaf0b0c87dc431314c1d9f3&chksm=96eab572a19d3c64d1ff824c4087bd78a43421402e437daf5b8bae1a1cd0ab7592cbbf10de5d#rd)
 
 ### [Improved distributed algorithms for fundamental graph problems](https://dspace.mit.edu/handle/1721.1/109000)
+
+### [c++ - How do I terminate a thread in C++11? - Stack Overflow](https://stackoverflow.com/questions/12207684/how-do-i-terminate-a-thread-in-c11)
+
+### [examples/tutorials/tensorflow1/basics at master · graphcore/examples · GitHub](https://github.com/graphcore/examples/tree/master/tutorials/tensorflow1/basics)
