@@ -138,3 +138,19 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KhfiC5HTB)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KheTUdBjz)
+
+### [新石器无人车获得国内首批无人配送车上路资质 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-9)
+
+### [2021 快手技术嘉年华：揭秘春节战役背后的技术 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-8)
+
+### [征程3芯片量产首发，理想汽车携手地平线共铸最高效进化的自动驾驶新势力 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-26-7)
+
+### [[职场服从性测试] 个人隐私信息：毕业学校、年龄、籍贯这些内容，在工作中，有必要去询问么？如果有人问了，有必要回答么？ - V2EX](https://www.v2ex.com/t/779300)
+
+### [破解数据流通不畅问题，多方安全计算技术到底行不行？-InfoQ](https://www.infoq.cn/article/BClowDXALc4WOExFBeIo)
+
+### [聊聊业务数据分析那些事儿](https://www.infoq.cn/article/487bd7862b2e2c4b93105c385)
+
+### [最详细的 Python 结合 RFM 模型实现用户分层实操案例！](https://www.infoq.cn/article/34f1da08434df141fd8ce599f)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KhfGa2T19)
