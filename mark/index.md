@@ -43,3 +43,9 @@
 ### [编译系统设计赛 技术报告会｜4月24日-InfoQ](https://www.infoq.cn/video/XPX0m12Fc5kArsDpfZJ2)
 
 ### [How to Remove Lines from a File Using Sed Command](https://www.linuxshelltips.com/remove-lines-from-file-using-sed-command/)
+
+### [编译系统设计赛 技术报告会｜5月8日-InfoQ](https://www.infoq.cn/video/mQYwa0h75xQrjD2RmDGG)
+
+### [编译系统设计赛 技术报告会｜5月1日-InfoQ](https://www.infoq.cn/video/Jv4BOgly7j23iSsqX3bj)
+
+### [操作系统设计赛 技术报告会｜4月25日-InfoQ](https://www.infoq.cn/video/jcatCousQT6Nm9dcErrW)
