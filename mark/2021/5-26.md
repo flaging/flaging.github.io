@@ -36,3 +36,10 @@
 ### [Almighty - Powerful configurations for Mac](https://onmyway133.com/almighty/)
 
 ### [How to monitor Socket connections using ss command | 2DayGeek](https://www.2daygeek.com/linux-ss-command-monitor-socket-network-connections/)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247535657&idx=3&sn=bfd176a909d136dbabcf4a4b137f89d7&chksm=ebb774fddcc0fdeb351d79d57ebd4bdaf2a98aed93c0ba935873c7b4726234fa38769bc086a2#rd)
+
+### [编译系统设计赛 技术报告会｜4月24日-InfoQ](https://www.infoq.cn/video/XPX0m12Fc5kArsDpfZJ2)
+
+### [How to Remove Lines from a File Using Sed Command](https://www.linuxshelltips.com/remove-lines-from-file-using-sed-command/)
