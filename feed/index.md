@@ -292,3 +292,25 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Khi2ZDhYv)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KhiQjlcSX)
+
+### [What is the state of AI in computer vision? This article is about a paper that openly shares everything about deep nets for vision applications, their successes, and the limitations we have to address. I think it is extremely interesting, accurate, and up-to-date. : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nljpfx/what_is_the_state_of_ai_in_computer_vision_this/)
+
+### [Run Your First Multi-Worker TensorFlow Training Job With GCP AI Platform — The TensorFlow Blog](https://blog.tensorflow.org/2021/05/run-your-first-multi-worker-tensorflow-training-job-with-gcp.html)
+
+### [
+美国海军 2019年用雷达追踪UFO的视频](http://jandan.net/p/109023)
+
+### [
+团队聚餐不喊我？女子胜诉获赔3.2万美元](http://jandan.net/p/109026)
+
+### [
+关于生成的静态库有多余符号问题 - Rust语言中文社区
+](https://rustcc.cn/article?id=75396470-7b25-4672-a41d-10f3f44ec621)
+
+### [
+为什么不可以连着写？ - Rust语言中文社区
+](https://rustcc.cn/article?id=6915776e-7af6-4e23-a3af-394fdd1b5ded)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Khje2ybBb)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Khj1Avpe8)
