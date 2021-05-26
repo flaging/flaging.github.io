@@ -258,3 +258,13 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KhhFb57Z6)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KhhEqnIda)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1257)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhhY39yK0)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhhX7w9ni)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhhHgcSBr)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhhQwBLrR)
