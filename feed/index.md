@@ -314,3 +314,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Khje2ybBb)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Khj1Avpe8)
+
+### [Tutorial: Pruning and Quantizing PyTorch YOLOv3 for Real-time Laptop Performance : pytorch](https://www.reddit.com/r/pytorch/comments/nll7h1/tutorial_pruning_and_quantizing_pytorch_yolov3/)
+
+### [OpenXDMoD questions : HPC](https://www.reddit.com/r/HPC/comments/nllh1n/openxdmod_questions/)
+
+### [技术|用开源软件保护你的文件的 5 种方法](https://linux.cn/article-13428-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhjCllyov)
