@@ -28,3 +28,5 @@ Google AI Blog: Cross-Modal Contrastive Learning for Text-to-Image Generation
 ### [Poor Disk Performance](http://www.brendangregg.com/blog/2021-05-09/poor-disk-performance.html)
 
 ### [RocksDB：不丢数据的高性能 KV 存储 | MRCODE-BOOK](https://zq99299.github.io/note-book/back-end-storage/03/10.html)
+
+### [使用 TiKV 构建分布式类 Redis 服务 | PingCAP](https://pingcap.com/blog-cn/use-tikv-to-build-distributed-redis-service/)
