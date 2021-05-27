@@ -35,3 +35,5 @@ Google AI Blog: Cross-Modal Contrastive Learning for Text-to-Image Generation
 
 ### [
 ](http://mp.weixin.qq.com/s?__biz=MzAwMjg1NjY3Nw==&mid=2247512017&idx=1&sn=118e2fc59e3c6189266e66f3b540a7cf&chksm=9ac6ec5badb1654d2c4eeeb6e2a9abc1900254c7aa98788490b106295c8a889d59e5163622e3#rd)
+
+### [rocksdb-doc-cn/Terminology.md at master · johnzeng/rocksdb-doc-cn · GitHub](https://github.com/johnzeng/rocksdb-doc-cn/blob/master/doc/Terminology.md)
