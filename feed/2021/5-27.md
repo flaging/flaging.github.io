@@ -166,3 +166,24 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Khp4gCU0w)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Khp1SfxQv)
+
+### [能效比提升超两倍，全球最高效ADC芯片问世 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-27-15)
+
+### [我，波士顿动力的机器人工程师，这是我的一天 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-27-14)
+
+### [2021年机器学习什么风向？谷歌大神Quoc Le：把注意力放在MLP上 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-27-13)
+
+### [一句话复制你的音色：快手单样本语音转换研究入选ICASSP 2021 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-27-12)
+
+### [城市收藏夹 · 北疆：总有一天我们会在路上 - 少数派](https://sspai.com/post/66803)
+
+### [DeepL 发布 iPhone 客户端，可能是最好的在线翻译工具 - 小众软件](https://www.appinn.com/deepl-for-iphone-and-ipad/)
+
+### [如何说服老婆不去网红餐厅🍴吃饭？ - V2EX](https://www.v2ex.com/t/779502)
+
+### [本科学位对以后发展重要吗，四级证书要不要考下来？？ - V2EX](https://www.v2ex.com/t/779483)
+
+### [618 求推荐电脑音箱 - V2EX](https://www.v2ex.com/t/779473)
+
+### [
+窃贼只需拿到钥匙的编码便能配钥匙开锁](http://jandan.net/p/109030)
