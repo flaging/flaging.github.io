@@ -114,3 +114,35 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KhomTh8xs)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KhokAg4zu)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1259)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1258)
+
+### [抖音一进去就自动播放太恶心了 - V2EX](https://www.v2ex.com/t/779511)
+
+### [35 了，咱们程序员未来的路咋走呀 - V2EX](https://www.v2ex.com/t/779479)
+
+### [听见用户的声音，爱奇艺全渠道用户反馈分析的探索与实践-InfoQ](https://www.infoq.cn/article/pi7Uqid6zz5gU20MQ4jI)
+
+### [不同数据库模式下DATE类型的行为解析](https://www.infoq.cn/article/9822c9a8a7731aeee93324626)
+
+### [详解RS232、RS485、RS422、串口和握手](https://www.infoq.cn/article/c10ccffa3fd15bef55f54c8d8)
+
+### [GitHub开源的10个超棒后台管理面板](https://www.infoq.cn/article/6e6ee1e2c55570258172ff806)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhoH51JLu)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhoGCFBVi)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhoDHeMwE)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhoBKk2au)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhoAHmRpK)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhoA44YdS)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhoyXuq2p)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhoJgkBoh)
