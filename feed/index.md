@@ -187,3 +187,33 @@
 
 ### [
 窃贼只需拿到钥匙的编码便能配钥匙开锁](http://jandan.net/p/109030)
+
+### [东西我都装好了｜我的移动堡垒 - 少数派](https://sspai.com/post/66253)
+
+### [Android 12 尝鲜指南：OEM 测试版资讯汇总 - 少数派](https://sspai.com/post/66872)
+
+### [DataScience Digest — 26.05.21 : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nm332n/datascience_digest_260521/)
+
+### [明星基金扎堆重仓股曝光，十年十倍股集中营，大举增持+超跌滞涨股仅6只 - 21财经](https://m.21jingji.com/article/20210527/herald/2ce4826e6acac1f5241205d778eb18d4.html)
+
+### [中国内地12所高校拥有冠军学科，除了清华、上海交大，还有几所出乎意料 - 21财经](https://m.21jingji.com/article/20210527/herald/0c8d69ff5dbaf0fe6d193fe11ce1bf9e.html)
+
+### [感觉自从 V2EX 不能直接访问后. Python 话题下内容都好少了. - V2EX](https://www.v2ex.com/t/779432)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=730)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=571)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=902)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=828)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=899)
+
+### [DNSPod 与开源应用专场-InfoQ](https://www.infoq.cn/article/S1iBvqAva9juewPc5Y0P)
+
+### [打造烹饪新体验 方太与HarmonyOS携手推动厨电产业智慧化升级-InfoQ](https://www.infoq.cn/article/ZDGFIg1R22ZYfKKPz9Po)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KhpTNaMiy)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KhpUitXdJ)
