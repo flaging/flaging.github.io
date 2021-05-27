@@ -30,3 +30,5 @@ Google AI Blog: Cross-Modal Contrastive Learning for Text-to-Image Generation
 ### [RocksDB：不丢数据的高性能 KV 存储 | MRCODE-BOOK](https://zq99299.github.io/note-book/back-end-storage/03/10.html)
 
 ### [使用 TiKV 构建分布式类 Redis 服务 | PingCAP](https://pingcap.com/blog-cn/use-tikv-to-build-distributed-redis-service/)
+
+### [✩ RocksDB分层存储及查询机制](https://phabricator.internetapi.cn/phame/post/view/7/rocksdb%E5%88%86%E5%B1%82%E5%AD%98%E5%82%A8%E5%8F%8A%E6%9F%A5%E8%AF%A2%E6%9C%BA%E5%88%B6/)
