@@ -146,3 +146,23 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KhoyXuq2p)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KhoJgkBoh)
+
+### [中科大吴枫获IEEE CAS最高荣誉奖项，11位学者获ACM四大技术奖项 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-27-11)
+
+### [机器学习打破「神经元分割 」瓶颈，实现速度兼精度统一 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-27-10)
+
+### [中科大影响超越清华北大，《自然》增刊：中国竞争全球科研主导地位 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-27-9)
+
+### [从零开始，耗时两年，19岁小伙自制一块32位Risc-V处理器，可玩「贪吃蛇」 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-27-8)
+
+### [（零基础教学系列）手把手教你分析APT：蔓灵花下载器样本分析](https://www.infoq.cn/article/a7f6e8b364eca53b2dee6d186)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Khp6xwCit)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Khp64kNdy)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Khp57ulGd)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Khp4gCU0w)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Khp1SfxQv)
