@@ -16,3 +16,11 @@
 ### [Matrix Multiplication using Opencl : OpenCL](https://www.reddit.com/r/OpenCL/comments/nlf5if/matrix_multiplication_using_opencl/)
 
 ### [微博视频](https://video.h5.weibo.cn/1034:4640684372852742/4640847225686325)
+
+### [
+Google AI Blog: Cross-Modal Contrastive Learning for Text-to-Image Generation
+](http://ai.googleblog.com/2021/05/cross-modal-contrastive-learning-for.html)
+
+### [Run Your First Multi-Worker TensorFlow Training Job With GCP AI Platform — The TensorFlow Blog](https://blog.tensorflow.org/2021/05/run-your-first-multi-worker-tensorflow-training-job-with-gcp.html)
+
+### [机器阅读理解模型 - 必读论文 - AMiner](https://www.aminer.cn/topic/60ab455f92c7f9be21024d0a)
