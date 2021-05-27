@@ -26,3 +26,5 @@ Google AI Blog: Cross-Modal Contrastive Learning for Text-to-Image Generation
 ### [机器阅读理解模型 - 必读论文 - AMiner](https://www.aminer.cn/topic/60ab455f92c7f9be21024d0a)
 
 ### [Poor Disk Performance](http://www.brendangregg.com/blog/2021-05-09/poor-disk-performance.html)
+
+### [RocksDB：不丢数据的高性能 KV 存储 | MRCODE-BOOK](https://zq99299.github.io/note-book/back-end-storage/03/10.html)
