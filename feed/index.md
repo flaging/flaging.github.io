@@ -217,3 +217,15 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KhpTNaMiy)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KhpUitXdJ)
+
+### [新玩意 064｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/66884)
+
+### [I published a new tutorial in "PyTorch for Audio + Music Processing": "Making Predictions with PyTorch Deep Learning Models" : pytorch](https://www.reddit.com/r/pytorch/comments/nm4o2q/i_published_a_new_tutorial_in_pytorch_for_audio/)
+
+### [中午滴滴打车遇到个奇葩特斯拉车主 - V2EX](https://www.v2ex.com/t/779566)
+
+### [你们的 12mini 打王者会卡顿吗 - V2EX](https://www.v2ex.com/t/779495)
+
+### [2021年5月27日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1879058.shtml)
+
+### [ի--ͼ20210527пѧǲ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157249)
