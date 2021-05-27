@@ -8,3 +8,11 @@
 ### [操作系统设计赛 技术报告会｜5月9日-InfoQ](https://www.infoq.cn/video/7JdENztMaRcXz8zAFass)
 
 ### [操作系统设计赛 技术报告会｜5月16日-InfoQ](https://www.infoq.cn/video/TMTlU3HDAC8ytLMshpFK)
+
+### [也谈激活函数Sigmoid,Tanh,ReLu,softplus,softmax - 知乎](https://zhuanlan.zhihu.com/p/48776056)
+
+### [c++ - How exactly remove_if() works? - Stack Overflow](https://stackoverflow.com/questions/67710057/how-exactly-remove-if-works)
+
+### [Matrix Multiplication using Opencl : OpenCL](https://www.reddit.com/r/OpenCL/comments/nlf5if/matrix_multiplication_using_opencl/)
+
+### [微博视频](https://video.h5.weibo.cn/1034:4640684372852742/4640847225686325)
