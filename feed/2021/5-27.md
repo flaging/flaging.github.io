@@ -271,3 +271,13 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Khs3Jntqw)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KhrRzBzG2)
+
+### [软件开发|3 个值得使用的在 Python 3.1 中发布的特性](https://linux.cn/article-13432-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【Rust日报】2021-05-27 - Fuchsia OS 中大量采用 Rust 编写代码 - Rust语言中文社区
+](https://rustcc.cn/article?id=cf5a1312-e317-4ee5-be51-7e034e866617)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Khss5i3g5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhsgdyJND)
