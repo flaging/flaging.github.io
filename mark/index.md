@@ -24,3 +24,5 @@ Google AI Blog: Cross-Modal Contrastive Learning for Text-to-Image Generation
 ### [Run Your First Multi-Worker TensorFlow Training Job With GCP AI Platform — The TensorFlow Blog](https://blog.tensorflow.org/2021/05/run-your-first-multi-worker-tensorflow-training-job-with-gcp.html)
 
 ### [机器阅读理解模型 - 必读论文 - AMiner](https://www.aminer.cn/topic/60ab455f92c7f9be21024d0a)
+
+### [Poor Disk Performance](http://www.brendangregg.com/blog/2021-05-09/poor-disk-performance.html)
