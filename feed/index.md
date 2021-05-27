@@ -241,3 +241,21 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Khr54ojG2)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KhrjBzWSz)
+
+### [Put binaries for jobs in $HOME or on scratch : HPC](https://www.reddit.com/r/HPC/comments/nm7bwr/put_binaries_for_jobs_in_home_or_on_scratch/)
+
+### [电子烟思考 - V2EX](https://www.v2ex.com/t/779513)
+
+### [2021年5月27日新闻联播文字版](http://www.xwlb.net.cn/19806.html)
+
+### [
+新版 The Little Book of Rust Macros （Rust 宏小册） 翻译完毕，大家来看鸭 - Rust语言中文社区
+](https://rustcc.cn/article?id=ca15612f-b3ee-4cc7-85e0-193a6ed4fad3)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KhrISgUaH)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhrFnnoO5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Khrzi42tq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhrtwfJ3U)
