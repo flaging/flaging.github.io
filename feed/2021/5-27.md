@@ -229,3 +229,15 @@
 ### [2021年5月27日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1879058.shtml)
 
 ### [ի--ͼ20210527пѧǲ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157249)
+
+### [Annotated Paper: MLP-Mixer An all MLP Architecture for Vision : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nm5y0p/annotated_paper_mlpmixer_an_all_mlp_architecture/)
+
+### [Lego generator. You could use it to generate any lego-based images or videos : pytorch](https://www.reddit.com/r/pytorch/comments/nm69pr/lego_generator_you_could_use_it_to_generate_any/)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Khr4R5vSv)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Khrh1pvIS)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Khr54ojG2)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KhrjBzWSz)
