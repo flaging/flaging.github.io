@@ -52,3 +52,35 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KhmmTxytS)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KhmOc8s5g)
+
+### [企业数字化转型要从平台的技术架构升级开始 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-27-6)
+
+### [显卡装不进机箱，我裂开了 - V2EX](https://www.v2ex.com/t/779452)
+
+### [今天下班去三里屯看了 24 寸的 iMac - V2EX](https://www.v2ex.com/t/779433)
+
+### [后端开发的你们都用什么笔电 - V2EX](https://www.v2ex.com/t/779375)
+
+### [公司不让用自己电脑 - V2EX](https://www.v2ex.com/t/779369)
+
+### [这个中国银行数字人民币试点 App 是不是假的？ - V2EX](https://www.v2ex.com/t/779336)
+
+### [5月27日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0527/135204.shtml)
+
+### [
+关于将结构体类型作为参数的问题 - Rust语言中文社区
+](https://rustcc.cn/article?id=532eae9d-04d6-4886-922c-77a4082e0d95)
+
+### [Flutter Fish Redux架构演进2.0-InfoQ](https://www.infoq.cn/article/KFDiBg6Bcu6wLqf79TfZ)
+
+### [Nginx调试必备的几种技能](https://www.infoq.cn/article/d40f44c0c25ce3ac3ab38b16c)
+
+### [k8s 集群下微服务 pod 的各种指标信息监控](https://www.infoq.cn/article/54232d8cbef78046adbaed9d9)
+
+### [Feed流系统重构-架构篇](https://www.infoq.cn/article/749da70a3e64ed269d8128335)
+
+### [Go 并发编程 — 深度剖析 sync.Pool 源码级原理](https://www.infoq.cn/article/55f28d278cccf0d8195459263)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhnWj34ov)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KhnxSE67y)
