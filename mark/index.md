@@ -26,3 +26,5 @@
 
 ### [
 ](http://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247535759&idx=5&sn=58bba27f1c49f4fe893c1f7f1c35e0b0&chksm=ebb7745bdcc0fd4dde2846d70381c91e483afff0afba922e9af206a5683a4c4ef8fb85c8c3c2#rd)
+
+### [Introducing TensorFlow Decision Forests — The TensorFlow Blog](https://blog.tensorflow.org/2021/05/introducing-tensorflow-decision-forests.html)
