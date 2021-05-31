@@ -20,3 +20,5 @@
 ### [Automating Workflows with GitHub Actions | by Paul Burkart | Novice Programmer’s Toolkit | May, 2021 | Medium](https://medium.com/novice-programmers-toolkit/automating-workflows-with-github-actions-5bd66cd5334f)
 
 ### [GitHub - YatSenOS/YatSenOS-Tutorial-Volume-1: A Simple 32-bit OS lab tutorial.](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1)
+
+### [Surprise Included: Inheritance and Member Functions of Class Templates - ModernesCpp.com](http://www.modernescpp.com/index.php/surprise-included-inheritance-and-member-functions-of-class-templates)
