@@ -451,3 +451,86 @@ test - Rust语言中文社区
 ### [微信搜索引擎中索引的分布式演进-InfoQ](https://www.infoq.cn/article/rsYIDJzNAPI2VOcG3KuP)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Ki2N4D5i9)
+
+### [Donating My Time to Grow a VC-Funded Company: Why I Quit Mentoring at Plato - The Pragmatic Engineer](http://feedproxy.google.com/~r/ThePragmaticEngineer/~3/GPb5eNWLcJ8/)
+
+### [Multi-Type-TD-TSR - Extracting Tables from Document Images using a Multi-stage Pipeline for Table Detection and Table Structure Recognition: from OCR to Structured Table Representations : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/npbd5f/multitypetdtsr_extracting_tables_from_document/)
+
+### [Hey guys could you help me solve this problem ? : pytorch](https://www.reddit.com/r/pytorch/comments/np28qh/hey_guys_could_you_help_me_solve_this_problem/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5885/)
+
+### [[回复抽奖] 618 有准备入手 Switch 的吗？回复抽一个 Switch 收纳包套餐 - V2EX](https://www.v2ex.com/t/780414)
+
+### [你们都是如何管理书签的 - V2EX](https://www.v2ex.com/t/780243)
+
+### [2021年5月31日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1880107.shtml)
+
+### [2021年5月31日新闻联播文字版](http://www.xwlb.net.cn/19878.html)
+
+### [
+寿命极限：一生无病无伤，最多能活150年](http://jandan.net/p/109036)
+
+### [
+今日好价：鱼跃电子耳温枪](http://jandan.net/p/109043)
+
+### [
+全世界最大的淡水鱼](http://jandan.net/p/109042)
+
+### [硬核观察|硬核观察|微软前高管解释了为什么 Windows 10 删除了开机声音](https://linux.cn/article-13447-1.html?utm_source=rss&utm_medium=rss)
+
+### [软件开发|在 Flutter 移动应用程序中创建一个列表](https://linux.cn/article-13446-1.html?utm_source=rss&utm_medium=rss)
+
+### [观点|不是程序员？那就找到自己的定位](https://linux.cn/article-13445-1.html?utm_source=rss&utm_medium=rss)
+
+### [Node.js 在微医的应用场景及实践-InfoQ](https://www.infoq.cn/article/YF3aBiK8SXwdJ7N1XJTL)
+
+### [每个开发人员都应该知道的 10 个 GitHub 仓库 - SegmentFault 思否](https://segmentfault.com/a/1190000040055173)
+
+### [官方揭秘！你的颜色是这样算出来的…… - SegmentFault 思否](https://segmentfault.com/a/1190000040093575)
+
+### [分享一些 PHP 中有用的知识和坑 - SegmentFault 思否](https://segmentfault.com/a/1190000040084826)
+
+### [聊一聊限流、降级、熔断 - SegmentFault 思否](https://segmentfault.com/a/1190000040057220)
+
+### [如何解决跨域问题 - SegmentFault 思否](https://segmentfault.com/a/1190000040073998)
+
+### [最强整理！常用正则表达式速查手册 - SegmentFault 思否](https://segmentfault.com/a/1190000040086057)
+
+### [如何写一份好的前端面试简历? - SegmentFault 思否](https://segmentfault.com/a/1190000040063644)
+
+### [CSS filter 有哪些神奇用途 - SegmentFault 思否](https://segmentfault.com/a/1190000040058430)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ki3lPlNB2)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ki3l7k5w9)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ki3c2qqhA)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ki3aNBMeQ)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ki38l59DQ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki4KO5HqL)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki4yqogGF)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki4mzcbji)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki4a4ru6u)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki3YifGXu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki3LIqk4D)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki3zLkIa9)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki3nn8stT)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki3hhsT4I)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki3bqyKWI)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Ki3XBbES8)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Ki2XeAfjH)
