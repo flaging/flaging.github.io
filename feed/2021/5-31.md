@@ -317,3 +317,107 @@ test - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/KhIlp21vm)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KhGK5z5Au)
+
+### [MIT团队最新研究，靠LiDAR和2D地图实现端到端自动驾驶 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-31-6)
+
+### [永辉超级物种：新零售经典失败案例 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-31-5)
+
+### [平均年龄不足35岁，年轻一代正在接力太空「中国梦」 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-31-4)
+
+### [解决物理难题，机器学习嵌入物理知识成为「时尚」 | 机器之心](https://www.jiqizhixin.com/articles/2021-05-31-3)
+
+### [我为什么还在使用钢笔？ - 少数派](https://sspai.com/post/66901)
+
+### [东西我都装好了｜一年出差三百天，背上背包，拉着行李箱就出发 - 少数派](https://sspai.com/post/66853)
+
+### [图片视频压缩大师 - 批量压缩 iPhone 相册中的照片、视频尺寸，修改、删除 EXIF、GPS 信息 - 小众软件](https://www.appinn.com/shrink-video-exif-viewer-for-ios/)
+
+### [【2021年5月28日国内成品油价格不作调整】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202105/t20210528_1281546.html)
+
+### [HDFS commands - Big Data Interview](http://www.bigdatainterview.com/hdfs-commands/)
+
+### [Tutorial on how to draw multiple boxplots in the same graph using R : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/noy84v/tutorial_on_how_to_draw_multiple_boxplots_in_the/)
+
+### [Best book to learn Pytorch? : pytorch](https://www.reddit.com/r/pytorch/comments/nozzl2/best_book_to_learn_pytorch/)
+
+### [Matrix multiplication returning incorrect result OpenCL : OpenCL](https://www.reddit.com/r/OpenCL/comments/nozw8w/matrix_multiplication_returning_incorrect_result/)
+
+### [暴增200%，补偿式婚礼突然火了！每对新人平均结婚花费超22万，公司高薪招人... - 21财经](https://m.21jingji.com/article/20210530/herald/30e81187be9bd63119cc7ff59fecc3c0.html)
+
+### [10张图掌握最新疫情防控Tips，与病毒赛跑，为广州加油！ - 21财经](https://m.21jingji.com/article/20210531/herald/be8c7c52edafcc0f966725036f307f4d.html)
+
+### [辽宁七普数据出炉：14个地市中沈阳大连两市人口增加 - 21财经](https://m.21jingji.com/article/20210530/herald/370117df6eac77689dfb8b8de50e9bd1.html)
+
+### [火爆！市场规模将破3000亿元，一图看懂医美产业链 - 21财经](https://m.21jingji.com/article/20210530/herald/e2e14e57ba3c416b55f816e20ef416cb.html)
+
+### [美的定义是什么？来自“易立静”的灵魂追问：整容7次，你为什么还不自信？ - 21财经](https://m.21jingji.com/article/20210530/herald/44602d56286f82480e8bb23078ee0190.html)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1273)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1272)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1266)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1265)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1264)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1263)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1262)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1261)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1260)
+
+### [京东 Plus 会员不如狗 - V2EX](https://www.v2ex.com/t/780303)
+
+### [[求教] 阿里 Java 编程规范：避免使用 IN。 那这个业务场景不用 IN 还有什么好方案么？ - V2EX](https://www.v2ex.com/t/780277)
+
+### [内卷和躺平还是太低级了 - V2EX](https://www.v2ex.com/t/780273)
+
+### [最近看了《觉醒年代》，想买鲁迅作品的纸质书 - V2EX](https://www.v2ex.com/t/780265)
+
+### [如何最不吃亏的买二手车？ - V2EX](https://www.v2ex.com/t/780245)
+
+### [求推荐通勤电脑双肩包 - V2EX](https://www.v2ex.com/t/780203)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=858)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=710)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=900)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=649)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=555)
+
+### [11代酷睿上新，高性能超轻薄同时起飞_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0531/135222.shtml)
+
+### [
+音乐剧的重要剧情节点竟然遵循黄金比例](http://jandan.net/p/108971)
+
+### [
+古人的粪便化石：现代人肠道微生物种类少了很多](http://jandan.net/p/108955)
+
+### [操作系统设计赛 技术报告会｜5月30日-InfoQ](https://www.infoq.cn/article/WePpZw24xi8PhhifruDL)
+
+### [前端工程师的自我修养：React Fiber 是如何实现更新过程可控的-InfoQ](https://www.infoq.cn/article/FlEX4gdZigdMJueq4orw)
+
+### [揭秘全球领先 K 歌平台的架构设计与实践 | 预告-InfoQ](https://www.infoq.cn/article/ENRU0KDWBmE2pGMiJdF3)
+
+### [共同创造最好的OS，openEuler Developer Day 报名通道开启-InfoQ](https://www.infoq.cn/article/Lydo1kSlAOZHj6ihVkmP)
+
+### [促成“零碳”社会的全面实现，华为云让技术更有温度](https://www.infoq.cn/article/4c92c266c7298abb890cfacdd)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Ki1BMfOx0)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Ki1dx6Tk1)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ki2aC25WL)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ki24C2QmM)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Ki21caJlb)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Ki1vvFjsI)
