@@ -18,3 +18,5 @@
 ### [作为一个有理想的程序员之必读书单 - 少数派](https://sspai.com/post/66875)
 
 ### [Automating Workflows with GitHub Actions | by Paul Burkart | Novice Programmer’s Toolkit | May, 2021 | Medium](https://medium.com/novice-programmers-toolkit/automating-workflows-with-github-actions-5bd66cd5334f)
+
+### [GitHub - YatSenOS/YatSenOS-Tutorial-Volume-1: A Simple 32-bit OS lab tutorial.](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1)
