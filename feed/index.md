@@ -421,3 +421,15 @@ test - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Ki21caJlb)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Ki1vvFjsI)
+
+### [[送码] 派评 | 近期值得关注的 App - 少数派](https://sspai.com/post/66948)
+
+### [Text to Image generation using path file : pytorch](https://www.reddit.com/r/pytorch/comments/np14e6/text_to_image_generation_using_path_file/)
+
+### [进出广州注意了！一图掌握广州出行政策要点 - 21财经](https://m.21jingji.com/article/20210531/herald/c274f099fb3b0a010699b9c9c834c31c.html)
+
+### [OGA联盟正式成立！InfoQ极客传媒作为理事单位之一，致力于推动开源产业发展-InfoQ](https://www.infoq.cn/article/1u2DBYp9JjA6ubk5mxmM)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Ki2iz9igC)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Ki2i7s7SS)
