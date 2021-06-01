@@ -255,3 +255,25 @@ CEF 下载地址-Chromium Embedded Framework - Rust语言中文社区
 ### [硬核观察|硬核观察 #290 蚂蚁再次开源 OceanBase 数据库](https://linux.cn/article-13450-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KidN1oCXN)
+
+### [
+Google AI Blog: A Browsable Petascale Reconstruction of the Human Cortex
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/b8Xww-h31S0/a-browsable-petascale-reconstruction-of.html)
+
+### [Target Recovery for Robust Deep Learning-Based Person Following in Mobile Robots: Online Trajectory Prediction : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nq1yqj/target_recovery_for_robust_deep_learningbased/)
+
+### [New Courses: Machine Learning Engineering for Production — The TensorFlow Blog](https://blog.tensorflow.org/2021/06/mlep-courses.html)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5886/)
+
+### [
+今日好价：Apple Watch SE](http://jandan.net/p/109047)
+
+### [
+78款防晒霜中测出致癌物苯](http://jandan.net/p/109045)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KifOefRGG)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KifMx6rjf)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiebyCjgt)
