@@ -146,3 +146,45 @@ CEF 下载地址-Chromium Embedded Framework - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1746173800/KiaDblV4g)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KiaBmqYGl)
+
+### [CVPR 2021 | 华南理工等推出基于3D点云数据的功能可供性数据集 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-01-9)
+
+### [告别「高斯过程」黑箱，这个项目可交互，效果惊艳 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-01-8)
+
+### [刚刚，AMD开源了超分辨率技术：N卡也能用 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-01-7)
+
+### [从「大炼模型」到「炼大模型」：1.75万亿参数，全球最大预训练模型「悟道 2.0」问世 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-01-6)
+
+### [主题丰富玩法多，也许是最好看的 iOS 时钟 App：谜底时钟 - 少数派](https://sspai.com/post/66973)
+
+### [“生”生不息、休“养”生息……放开三胎下的A股受益赛道全梳理 - 21财经](https://m.21jingji.com/article/20210601/herald/8069df68938ed6652a5f5dac4e274e00.html)
+
+### [预测一波 今年 wwdc 发布 iPad 版的 final cut pro - V2EX](https://www.v2ex.com/t/780495)
+
+### [再来聊一聊 Mac 外接显示器 - V2EX](https://www.v2ex.com/t/780433)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=574)
+
+### [新前途Book定义，ThinkBook携手王源鼓励新青年打破藩篱_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0601/135227.shtml)
+
+### [国务院办公厅转发交通运输部等单位关于加强铁路沿线安全环境治理工作意见的通知（国办函〔2021〕49号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/01/content_5614662.htm)
+
+### [国务院办公厅关于成立中国国际服务贸易交易会组织委员会和执行委员会的通知（国办函〔2021〕54号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/01/content_5614659.htm)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1072)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1071)
+
+### [
+用type 关键字可以实现继承吗? - Rust语言中文社区
+](https://rustcc.cn/article?id=ec93a22b-3856-4e3e-8046-8017783f63d3)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KibqCt5hB)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KibUFf0qb)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KibSYnaxC)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KibMmwgu5)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KibUtcxgv)
