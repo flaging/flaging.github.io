@@ -236,3 +236,22 @@ CEF 下载地址-Chromium Embedded Framework - Rust语言中文社区
 ### [分享|Nyxt 浏览器：一个受 Emacs 和 Vim 启发的面向键盘的网页浏览器](https://linux.cn/article-13449-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KicJ74j8c)
+
+### [Anyone use the torchdiffeq neural ODE library? : pytorch](https://www.reddit.com/r/pytorch/comments/npx0to/anyone_use_the_torchdiffeq_neural_ode_library/)
+
+### [迫于同学来成都玩，求推荐好吃的地方 - V2EX](https://www.v2ex.com/t/780615)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=757)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=559)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=468)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=709)
+
+### [
+物理学家过度简化黑洞合并模型后，依然得到了有效的数值解](http://jandan.net/p/108972)
+
+### [硬核观察|硬核观察 #290 蚂蚁再次开源 OceanBase 数据库](https://linux.cn/article-13450-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KidN1oCXN)
