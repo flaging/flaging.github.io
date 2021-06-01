@@ -86,3 +86,63 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/Ki8ILwZPQ)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Ki7CBa0iy)
+
+### [滴滴自动驾驶将获超3亿美元融资，市值或超小马智行 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-01-5)
+
+### [海尔门店将售极氪001，汽车销售渠道逐步「出圈」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-01-4)
+
+### [用这些你也能上手的 app，为身边的「小朋友」变个魔术吧 - 少数派](https://sspai.com/post/66983)
+
+### [东西我都装好了｜一次旅行结束，我这样整理我的旅途记忆 - 少数派](https://sspai.com/post/66929)
+
+### [Screenshot Capture - 小巧、开源的网页截图扩展[Chrome/Edge] - 小众软件](https://www.appinn.com/screenshot-capture-for-chrome/)
+
+### [勇敢的心丨80,90童年的泪目混剪 - 新片场](https://www.vmovier.com/62208)
+
+### [Adob​​e再创新世界《梦幻之旅》 - 新片场](https://www.vmovier.com/62206)
+
+### [500个电影镜头为你讲述《故事结尾》 - 新片场](https://www.vmovier.com/62203)
+
+### [孩子挑食？《蔬菜大战又来袭》 - 新片场](https://www.vmovier.com/62207)
+
+### [饮料也嘻哈《百事Vs可口》 - 新片场](https://www.vmovier.com/62190)
+
+### [奇趣想象儿童广告《儿时的梦想》 - 新片场](https://www.vmovier.com/62182)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1277)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1276)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1275)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1274)
+
+### [怎样维权告 Apple 售后？ - V2EX](https://www.v2ex.com/t/780565)
+
+### [国内为何很少有做结对编程呢？是确实不好还是属于中国特色？ - V2EX](https://www.v2ex.com/t/780511)
+
+### [
+大吐槽：「今天的煎蛋就逛到这里」](http://jandan.net/p/109044)
+
+### [
+门把手和其它一些东西的奇怪起源](http://jandan.net/p/108979)
+
+### [
+CEF 下载地址-Chromium Embedded Framework - Rust语言中文社区
+](https://rustcc.cn/article?id=c0ab66fc-05cb-4563-b725-6fe226471424)
+
+### [Sina Visitor System](https://weibo.com/5722964389/JD0tUn1pk)
+
+### [Lyft开源CEF：构建在 Envoy Proxy 之上的混沌实验框架-InfoQ](https://www.infoq.cn/article/dNMJBEIdUbOoEfMyLCNI)
+
+### [搭建云原生配置中心的技术选型和落地实践-InfoQ](https://www.infoq.cn/article/ZNH1bkXRrlYEyD0sqDjg)
+
+### [Netflix如何利用开源软件打包视频流-InfoQ](https://www.infoq.cn/article/vgeSMelaCjuadyJp7Olu)
+
+### [一文看懂【2021 阿里云峰会】现场所有重磅技术发布-InfoQ](https://www.infoq.cn/article/BLfXZoU69KrmD8UvfqOp)
+
+### [从外包到拿下阿里offer，这2年5个月13天到底发生了什么？](https://www.infoq.cn/article/68687cdd5c5ad565b82263e67)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KiaDblV4g)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KiaBmqYGl)
