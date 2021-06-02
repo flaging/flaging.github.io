@@ -184,3 +184,61 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/Kiht7lSQl)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KihoK7oZ8)
+
+### [[D] Paper Explained: VQGAN - Taming Transformers for High-Resolution Image Synthesis : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nqne8j/d_paper_explained_vqgan_taming_transformers_for/)
+
+### [Jetson Nano: TensorFlow model. Possibly I should use PyTorch instead? : pytorch](https://www.reddit.com/r/pytorch/comments/nqmo3h/jetson_nano_tensorflow_model_possibly_i_should/)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=790)
+
+### [2021年6月2日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1880857.shtml)
+
+### [ի--ͼ20210602ҹ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157385)
+
+### [联想消费生态夏日星光夜：三款王一博定制版科技潮品登场_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0602/135239.shtml)
+
+### [售价4999元起 搭载HarmonyOS 2的华为MatePad Pro上市_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0602/135237.shtml)
+
+### [HarmonyOS 2正式发布，打造万物互联的超级终端体验_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0602/135235.shtml)
+
+### [2021年6月2日新闻联播文字版](http://www.xwlb.net.cn/19918.html)
+
+### [中共中央印发《中国共产党组织工作条例》_中央有关文件_中国政府网](http://www.gov.cn/zhengce/2021-06/02/content_5615053.htm)
+
+### [系统运维|使用 systemd 作为问题定位工具](https://linux.cn/article-13452-1.html?utm_source=rss&utm_medium=rss)
+
+### [技术|Make 命令未找到？这是修复它的方法](https://linux.cn/article-13451-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【Rust 日报】2021-06-02 Jon Gjengset 新作：Rust for Rustaceans - Rust语言中文社区
+](https://rustcc.cn/article?id=6ee96471-7e60-41ab-b73d-5f62be1eeb9d)
+
+### [Sina Visitor System](https://weibo.com/5722964389/Kim4l37Id)
+
+### [基于HarmonyOS的“超级终端”来了！这几款手机即日起可升级-InfoQ](https://www.infoq.cn/article/Jz5WJraPKH14bEPgdHKS)
+
+### [作为最广泛支持的操作系统，HarmonyOS目前用在哪些产品了？-InfoQ](https://www.infoq.cn/article/KgE92f6VUWRLYcxkigkv)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KilPZ7iw4)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KilDOksZy)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KimnrnZkP)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kimkhuobt)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kim00sZWC)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KimPhm9iq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KimCI9uPv)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KimqEwwPX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kimemg1x3)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kim2AExX0)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KilQ0ePZi)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KilEciMvp)
