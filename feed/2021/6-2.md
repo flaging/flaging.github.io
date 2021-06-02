@@ -242,3 +242,61 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KilQ0ePZi)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KilEciMvp)
+
+### [Annotated implementation of Attention Free Transformer (AFT) : pytorch](https://www.reddit.com/r/pytorch/comments/nqrsyh/annotated_implementation_of_attention_free/)
+
+### [How TensorFlow helps Edge Impulse make ML accessible to embedded engineers — The TensorFlow Blog](https://blog.tensorflow.org/2021/06/how-tensorflow-helps-edge-impulse-make-ml-accessible.html)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5887/)
+
+### [Poorly Drawn Lines – In Thought](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/-nJnvG1u1bw/)
+
+### [Google Photos 已经不再提供无限存储的第二天，大家都还好吗？ - V2EX](https://www.v2ex.com/t/780858)
+
+### [努比亚 氮化镓 120W 充电器 踩雷了 - V2EX](https://www.v2ex.com/t/780751)
+
+### [
+激光脉冲的速度超越了真空光速](http://jandan.net/p/109010)
+
+### [
+神经网络学习模式启发关于做梦的假说](http://jandan.net/p/108974)
+
+### [
+1918大流感后两波疫情的变异病毒更致命](http://jandan.net/p/109049)
+
+### [
+江苏 全球首例人感H10N3禽流感](http://jandan.net/p/109048)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736641)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736650)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736673)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736660)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736602)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736669)
+
+### [青年图摘0603！我感觉它要起飞了](https://qingniantuzhai.com/untitled-20/)
+
+### [Live Patching Requires Reproducible Builds – and Containers Are the Answer | Linux Journal](https://www.linuxjournal.com/content/live-patching-requires-reproducible-builds-and-containers-are-answer)
+
+### [硬核观察|硬核观察 #291 演示 IBM 中文打字机的女打字员](https://linux.cn/article-13453-1.html?utm_source=rss&utm_medium=rss)
+
+### [UI遍历中页面定义和动作事件筛选方法-InfoQ](https://www.infoq.cn/article/4YGuyKPLPaL06895aTYk)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KipkzEMDC)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KipY0B6ro)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KipnbCN96)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kipbno2aZ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KinC2ivYj)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kinpq8xQd)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kin14rabm)
