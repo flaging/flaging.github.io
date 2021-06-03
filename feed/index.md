@@ -165,3 +165,47 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KisYxfpbj)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KisIs0AAe)
+
+### [2021百度智能计算峰会干货满满！百度智能云详解AI原生云三大核心能力 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-03-10)
+
+### [618 买的「路由器」好在哪儿？先跟 ta 解释一下这个 - 少数派](https://sspai.com/post/67013)
+
+### [Bear｜熊掌记：标签使用指南 - 少数派](https://sspai.com/post/66965)
+
+### [福利派 | 错过等半年，少数派正版软件 618 活动限时开启 - 少数派](https://sspai.com/post/66990)
+
+### [千字浓缩精华：把RNN、RNN变体、Seq2Seq、Attention机制聊透一点 – 我爱自然语言处理](https://www.52nlp.cn/%e5%8d%83%e5%ad%97%e6%b5%93%e7%bc%a9%e7%b2%be%e5%8d%8e%ef%bc%9a%e6%8a%8arnn%e3%80%81rnn%e5%8f%98%e4%bd%93%e3%80%81seq2seq%e3%80%81attention%e6%9c%ba%e5%88%b6%e8%81%8a%e9%80%8f%e4%b8%80%e7%82%b9)
+
+### [迫于没钱 iPhone 上的照片怎么存储 - V2EX](https://www.v2ex.com/t/781028)
+
+### [现在入 Apple Watch 6 是不是 49 年入国军？ - V2EX](https://www.v2ex.com/t/781008)
+
+### [用了 14 天不到还是准备把 M1 的 iPad Pro 退了 - V2EX](https://www.v2ex.com/t/780987)
+
+### [
+	ChaCha20 加密 算法 - Khan's Notebook    GCC/GNU/Linux Delphi/Window Java/Anywhere - C++博客
+](http://www.cppblog.com/Khan/archive/2021/06/03/217701.html)
+
+### [
+	SHA256 算法c++11 实现 - Khan's Notebook    GCC/GNU/Linux Delphi/Window Java/Anywhere - C++博客
+](http://www.cppblog.com/Khan/archive/2021/06/03/217700.html)
+
+### [
+wasm中如何使用系统调用 - Rust语言中文社区
+](https://rustcc.cn/article?id=b27a96db-3e48-451b-8f1b-243ea1d63fa5)
+
+### [Sina Visitor System](https://weibo.com/5722964389/Kiqm3EfIa)
+
+### [OceanBase宣布开源，采用木兰协议，开放300万行核心代码-InfoQ](https://www.infoq.cn/article/qPzvgD1O2NaGsecWWaWC)
+
+### [开源软件Kafka 商业化公司即将上市，将重点发展云服务-InfoQ](https://www.infoq.cn/article/95lQj2i12r8usdGPtEFq)
+
+### [HarmonyOS 2及华为全场景新品发布会-InfoQ](https://www.infoq.cn/article/HxaPgzsw0RUS7deGRaa3)
+
+### [云原生2.0加速：分布式云探寻全面云化的通路-InfoQ](https://www.infoq.cn/article/hEizk8L0hl6TewBZZKRs)
+
+### [在Spring Bean实例过程中，如何使用反射和递归处理的Bean属性填充？](https://www.infoq.cn/article/1bba38ab427ceea6f0dd66356)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kiu2L8hfo)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KitLypFVR)
