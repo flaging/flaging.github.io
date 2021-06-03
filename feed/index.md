@@ -286,3 +286,34 @@ wasm中如何使用系统调用 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kiv4Dh3Dd)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KivDssPcD)
+
+### [
+Google AI Blog: Toward Generalized Sim-to-Real Transfer for Robot Learning
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/_nfpSkl7C3M/toward-generalized-sim-to-real-transfer.html)
+
+### [Attention Weights in the Encoder Layer : pytorch](https://www.reddit.com/r/pytorch/comments/nrgjtp/attention_weights_in_the_encoder_layer/)
+
+### [暖笠笠！听听广东抗疫现场的声音](http://app.21jingji.com/html/20210602ky/index.html?v=1.21)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1285)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1284)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1283)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1282)
+
+### [关于 Dark Mode 和阅读，最近看到了这样的一篇文章 - V2EX](https://www.v2ex.com/t/781158)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=686)
+
+### [
+雷击会引发野火，原来野火也会引发闪电](http://jandan.net/p/109027)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kix2v4o6R)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiwPUFxXd)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiwEdxmdH)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiwryDhEC)
