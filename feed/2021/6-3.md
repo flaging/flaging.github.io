@@ -317,3 +317,5 @@ Google AI Blog: Toward Generalized Sim-to-Real Transfer for Robot Learning
 ### [Sina Visitor System](https://weibo.com/1715118170/KiwEdxmdH)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiwryDhEC)
+
+### [Checking errors in Multi-class 3D segmentation. : pytorch](https://www.reddit.com/r/pytorch/comments/nrlgo4/checking_errors_in_multiclass_3d_segmentation/)
