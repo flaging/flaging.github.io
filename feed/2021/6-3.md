@@ -236,3 +236,53 @@ wasm中如何使用系统调用 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Kiuc3o3zX)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KiuaDyZdF)
+
+### [PyTorch and Binary Classification : pytorch](https://www.reddit.com/r/pytorch/comments/nrc0ta/pytorch_and_binary_classification/)
+
+### [@广州封闭区域街坊 唔使惊，有18万人喺一线为你做物资保障！ - 21财经](https://m.21jingji.com/article/20210603/herald/22615164cecbce18f6516eeac472029f.html)
+
+### [广州战疫的“国字号”担当：保障物资供应，高科技助力精准防控 - 21财经](https://m.21jingji.com/article/20210603/herald/afdc78efe123d85e100354ed9bbe1bfa.html)
+
+### [今天刚知道 CF 的 1.1.1.1 还有个对应的域名 one.one.one.one,真牛逼 - V2EX](https://www.v2ex.com/t/781140)
+
+### [退回到了 Catalina，舒适 - V2EX](https://www.v2ex.com/t/781129)
+
+### [请问存储百万条或者千万条抖音评论应该选用什么数据库？怎么设计？ - V2EX](https://www.v2ex.com/t/781032)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=801)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=849)
+
+### [2021年6月3日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1881158.shtml)
+
+### [ի--ͼ20210603ȵ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157400)
+
+### [2021年6月3日新闻联播文字版](http://www.xwlb.net.cn/19943.html)
+
+### [
+【Rust 日报】2021-06-03 RustSBI组织宣布成立 - Rust语言中文社区
+](https://rustcc.cn/article?id=f49b85d7-4ca5-410d-a851-25e7a8252260)
+
+### [“节约成本”不是转向云计算的头号理由-InfoQ](https://www.infoq.cn/article/lDXcYw8bR3apR9rZrKI0)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KivXSm98Z)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KivVlqE28)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiwfBhaiR)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kiw3d3Qku)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KivRm9mNc)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KivER1yIi)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KivyMyZPK)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KivsWn8uM)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kivgv851Q)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kiv4Dh3Dd)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KivDssPcD)
