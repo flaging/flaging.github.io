@@ -287,3 +287,23 @@ Google AI Blog: Data Cascades in Machine Learning
 ### [Sina Visitor System](https://weibo.com/1715118170/KiGpVjHFx)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiGgpsbWE)
+
+### [
+Google AI Blog: Extending Contrastive Learning to the Supervised Setting
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/YxHuHBOiX6U/extending-contrastive-learning-to.html)
+
+### [「每当我拿起相机 就好像和这个世界谈了一次恋爱 」 - 新片场](https://www.vmovier.com/62153)
+
+### [画在脸上的定格动画《生态星尘》 - 新片场](https://www.vmovier.com/62239)
+
+### [乱作一团的生活《嘿，你焦虑吗？》 - 新片场](https://www.vmovier.com/62192)
+
+### [死侍&小贱贱再同台《罢工的翻译》 - 新片场](https://www.vmovier.com/62236)
+
+### [Transforming an AI Project Into an Application : pytorch](https://www.reddit.com/r/pytorch/comments/nsd65m/transforming_an_ai_project_into_an_application/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiIaO7mX9)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiI5kDeCg)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiI2mvAgt)
