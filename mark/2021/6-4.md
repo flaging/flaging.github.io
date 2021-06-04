@@ -14,3 +14,5 @@
 ### [高并发存储优化篇：诸多策略，缓存为王](https://xie.infoq.cn/article/0134f29b0c0895df548dd929b)
 
 ### [Learn Python the Right Way](https://learnpythontherightway.com/)
+
+### [gRPC vs REST: comparing APIs architectural styles](https://www.imaginarycloud.com/blog/grpc-vs-rest/)
