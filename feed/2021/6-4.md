@@ -64,3 +64,59 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KiyNGqxh5)
 
 ### [科技爱好者周刊（第 161 期）：再见了，学术硕士 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html)
+
+### [工信部：「5G+工业互联网」的20个典型案例 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-4)
+
+### [错位竞争，华为鸿蒙规模商用，生态建设成最大挑战 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-3)
+
+### [中科大江俊：开发有大脑的「机器化学家」，赋能科学研究 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-2)
+
+### [为何说智能车车主急需回炉「再教育」？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04)
+
+### [东西我都装好了 | 一种性格使然的整理习惯，以及物品里的情绪与回忆 - 少数派](https://sspai.com/post/66574)
+
+### [Rclone for Android - 云服务/网盘文件管理工具 Rclone 的 Android 客户端 - 小众软件](https://www.appinn.com/rclone-for-android/)
+
+### [@广东人，你的专属定制防疫地图工具来了！一键查明](https://app.21jingji.com/html/2021yiqing_gd/)
+
+### [“无尽前沿法案”：一道“铁幕”正在中美科技界落下？ - FT中文网](http://www.ftchinese.com/story/001092718)
+
+### [为什么华为的鸿蒙是手机操作系统，那为什么 MIUI， Flyme， EUI， Smartisan OS 不是呢？有何区别？ - V2EX](https://www.v2ex.com/t/781266)
+
+### [上司不允许使用 es6 新特性理由是他看不懂 - V2EX](https://www.v2ex.com/t/781261)
+
+### [如何拒绝同事使用你的充电器 - V2EX](https://www.v2ex.com/t/781244)
+
+### [是什么让大家坚持 9 点， 10 点，甚至更晚下班的 - V2EX](https://www.v2ex.com/t/781233)
+
+### [发了一本新书叫幻景时空，需要网友的建议 - V2EX](https://www.v2ex.com/t/781173)
+
+### [
+大象吸水速度高达540公里/小时](http://jandan.net/p/109053)
+
+### [
+今日好价 210604](http://jandan.net/p/109052)
+
+### [硬核观察|硬核观察 #292 诺顿销售带有以太坊挖矿功能的杀毒软件](https://linux.cn/article-13455-1.html?utm_source=rss&utm_medium=rss)
+
+### [闲鱼是如何利用RxJava提升异步编程能力的-InfoQ](https://www.infoq.cn/article/NTuNoaNZMC6wbQKqTqGV)
+
+### [Flink 在有赞的实践和应用](https://www.infoq.cn/article/adcbf32ecd475736c4ee78354)
+
+### [蓝海战略 - 如何设计与众不同的价值曲线](https://www.infoq.cn/article/ebf0e1252c22df780c7492804)
+
+### [佣金产品的敏捷交付](https://www.infoq.cn/article/8b39206a7a753fa4a2a98906a)
+
+### [论文解读丨空洞卷积框架搜索](https://www.infoq.cn/article/036fe547c79f7b8b3a2bc60be)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KiBm909hU)
+
+### [前端DDD总结与思考 - SegmentFault 思否](https://segmentfault.com/a/1190000039837556)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiBxuyYQU)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiBKxBiBX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiBmrmwfT)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KiBfQC3tF)
