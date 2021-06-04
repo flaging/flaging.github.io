@@ -253,3 +253,37 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KiFtHwrrb)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiFpG8UhK)
+
+### [
+Google AI Blog: Data Cascades in Machine Learning
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/lDAMFyteOvM/data-cascades-in-machine-learning.html)
+
+### [狂野非洲延时摄影《野性的呼唤》 - 新片场](https://www.vmovier.com/62224)
+
+### [吃货已濒临崩溃《干啥都是No！》 - 新片场](https://www.vmovier.com/62229)
+
+### [碧梨新单《Lost Cause》MV来啦 - 新片场](https://www.vmovier.com/62225)
+
+### [末日既视感《无人机坠毁前的火山》 - 新片场](https://www.vmovier.com/62227)
+
+### [大神剪辑室《一个新转场的诞生》 - 新片场](https://www.vmovier.com/62231)
+
+### [谁在拽我？《隐形的Apple Watch》 - 新片场](https://www.vmovier.com/62226)
+
+### [夏日狂想曲 - 新片场](https://www.vmovier.com/62163)
+
+### [I made a bunch of Vision Models with PyTorch and deployed it over Heroku :) : pytorch](https://www.reddit.com/r/pytorch/comments/nsbihc/i_made_a_bunch_of_vision_models_with_pytorch_and/)
+
+### [Depth-first search in OpenMP : HPC](https://www.reddit.com/r/HPC/comments/ns92op/depthfirst_search_in_openmp/)
+
+### [Poorly Drawn Lines – How Long](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/vx1IFgQOc8w/)
+
+### [又是看 API 文档崩溃的一天 - V2EX](https://www.v2ex.com/t/781386)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiGsXdwhb)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiGqnqb2T)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiGpVjHFx)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiGgpsbWE)
