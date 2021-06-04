@@ -120,3 +120,73 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KiBmrmwfT)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KiBfQC3tF)
+
+### [2021年该如何选择深度学习工具？这款数据科学工作站了解一下 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-11)
+
+### [4个Keynote、12篇论文分享、40个Poster，CVPR 2021论文分享会全日程公布 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-10)
+
+### [59家中企被列入「黑名单」，拜登签署新行政令修订投资禁令 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-9)
+
+### [AI攻防算法能力几何？全新测试基准平台发布，一定要来PK下 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-8)
+
+### [1.3亿突触、数万神经元，谷歌、哈佛发布史上最强三维「人脑地图」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-7)
+
+### [数据越多，AI越智能？我们一直以来都想当然了 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-6)
+
+### [美对华「涉军」企业投资禁令增至59家中企，华为、海康、中芯等在列 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-04-5)
+
+### [WWDC 2021 前瞻：发布会上可能会有这 10+ 个重要看点 - 少数派](https://sspai.com/post/67035)
+
+### [瞎玩菌的游戏周报：中国正成为 PS5 重要市场，虚幻 5 新演示光影逼真等 - 少数派](https://sspai.com/post/66998)
+
+### [Anomalies to point out when looking at a cluster hpc usage : HPC](https://www.reddit.com/r/HPC/comments/ns136n/anomalies_to_point_out_when_looking_at_a_cluster/)
+
+### [刚买的联想笔记本，因为硬盘容量问题，想维权，胜算几分？ - V2EX](https://www.v2ex.com/t/781415)
+
+### [有望 WWDC21 发布，苹果新款 16 英寸 MacBook Pro 2021 电池信息现身中国监管文件：相比上代有缩减 - V2EX](https://www.v2ex.com/t/781371)
+
+### [如何绕过汇丰银行 App 的 root 检测？ - V2EX](https://www.v2ex.com/t/781223)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=825)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=590)
+
+### [国务院办公厅转发国家乡村振兴局中央农办财政部关于加强扶贫项目资产后续管理指导意见的通知（国办函〔2021〕51号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/04/content_5615474.htm)
+
+### [国务院办公厅关于推动公立医院高质量发展的意见（国办发〔2021〕18号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/04/content_5615473.htm)
+
+### [
+冬季到火星来看云](http://jandan.net/p/109041)
+
+### [
+天体物理学家首次模拟整片气态物质形成恒星的过程](http://jandan.net/p/108993)
+
+### [继进入紧急状态后，美国再次提升优先级，将黑客攻击与恐怖袭击并列-InfoQ](https://www.infoq.cn/article/qmsXbSH9vAwlx7dOpx81)
+
+### [边缘计算模式如何在数据处理平台中崭露头角？｜ InfoQ公开课-InfoQ](https://www.infoq.cn/article/eMIlGDofZlrje83AUoQw)
+
+### [边缘云原生的技术探索与实践 ｜InfoQ 公开课-InfoQ](https://www.infoq.cn/article/BB19blouruJoY53uv06b)
+
+### [Wide&Deep算法在老虎证券内容推荐领域应用实践-InfoQ](https://www.infoq.cn/article/t9mcUrizuOcBwR9MjkTe)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KiDjPwiq1)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KiCVq0Oaa)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KiCx2hyfA)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiDG3lOAx)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiDFkt5ma)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiDEdlySn)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiDCk4aQy)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiBR4pI5f)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiCEaiHss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiCDMnGdz)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiC8YiXPi)
