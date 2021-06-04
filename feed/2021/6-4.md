@@ -200,3 +200,34 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KiE2qn5OC)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiEvgrIdz)
+
+### [It says output array shape will be whatever we pass in parameter but maybe I am doing something wrong coz if I try pooling on an array of shape say [1,64,104,104] and pass parameter as (1,64) the resultant output is of shape [1,64,1,64] instead of just [1,64]. Am I understanding the it wrong? : pytorch](https://www.reddit.com/r/pytorch/comments/ns5ghb/it_says_output_array_shape_will_be_whatever_we/)
+
+### [Why Pytorch chose C++ backend instead of Rust? : pytorch](https://www.reddit.com/r/pytorch/comments/ns53d3/why_pytorch_chose_c_backend_instead_of_rust/)
+
+### [ի--ͼ20210604Իַ̫ˣϲʳľȫʳ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157428)
+
+### [2021年6月4日新闻联播文字版](http://www.xwlb.net.cn/19962.html)
+
+### [
+用下体思考？大脑和睾丸在蛋白质组分层面相似度最高](http://jandan.net/p/109056)
+
+### [
+【Rust 日报】2021-06-04 如何在 Rust 语言中使用 Firebird 数据库 - Rust语言中文社区
+](https://rustcc.cn/article?id=a067b2de-59c7-47aa-9c0a-17426a2990d1)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiFbkrnAY)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiFb3ljYu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiFhLmheC)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiFcqsvHn)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiF5lCXEg)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiEZggkzw)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiETtvswY)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiEH00dNK)
