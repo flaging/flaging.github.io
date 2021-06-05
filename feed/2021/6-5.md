@@ -28,3 +28,12 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KiJBEETXF)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KiJoWDAlW)
+
+### [东西我都装好了 | 从一张桌到两张桌：我的学习区升级之路 - 少数派](https://sspai.com/post/66918)
+
+### [由一个电子指纹锁想到的,难道指纹锁内部存储密码都是明文？ - V2EX](https://www.v2ex.com/t/781468)
+
+### [
+今日好价：卡士酸奶](http://jandan.net/p/109060)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiKMUr5L3)
