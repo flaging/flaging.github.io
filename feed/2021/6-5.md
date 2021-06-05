@@ -111,3 +111,15 @@ pub(crate) 语法问题 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KiMymDToR)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KiMtnjtbt)
+
+### [HarmonyOS 的原子化理念是不是也导致应用开发的概念也需要做个转变？ - V2EX](https://www.v2ex.com/t/781535)
+
+### [[送码] 简记单词 - 艾宾浩斯记忆法 新版上线，新增复习计划 PDF 文档导出功能，内购限时优惠中 - V2EX](https://www.v2ex.com/t/781521)
+
+### [
+【Rust日报】2021-06-05 RustFriday 飞书群线上沙龙 第十期精彩回放 - Rust语言中文社区
+](https://rustcc.cn/article?id=75baa858-d52f-4292-abf2-1b6023b5eb20)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiOkc0qZ2)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiO7v6F7C)
