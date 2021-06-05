@@ -25,3 +25,9 @@
 
 ### [Impacting Hardware through Software: SPDK, PMDK and VTune™ Profiler US Virtual Forum - Event Recap (with Videos and Slides)
         ](https://www.linkedin.com/pulse/impacting-hardware-through-software-spdk-pmdk-vtune-yuri-w-/?JSU%21%21KLL8VBKIGhc0BcQ38Y9qmONVtVtEUw%21iz3GCLzZr_YN6Ly8PfGRaNSXyR2G41lacqn_d3_T-dTYHOVg-q9NSVUSbMTrMIK6NyfiXrpTDg%24=&trackingId=DSYboaSLQS6AANE86RIBzQ%2A3D%2A3D__)
+
+### [GitHub - tangtangcoding/C-C-: 程序员资料免费分享，欢迎关注个人微信公众号：程序员编程指南](https://github.com/tangtangcoding/C-C-?utm_source=com.instapaper.android&utm_medium=social&utm_oi=49336847171584)
+
+### [机器学习相关岗位面试中，有哪些加（zhuang）分（bi）项？ - 知乎](https://www.zhihu.com/question/56676679/answer/151505274?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
+
+### [自学数据结构、计算机网络、数据库、算法设计，有什么比较推荐的书籍？ - 知乎](https://www.zhihu.com/question/25031240/answer/1923430709?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
