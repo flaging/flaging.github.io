@@ -49,3 +49,21 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KiLaS6Qsq)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KiLflfXHU)
+
+### [上汽乘用车5月销量近7万，海外持续圈粉！ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-05)
+
+### [这或许是 Windows 上最好的包管理工具：Windows Package Manager 1.0 - 少数派](https://sspai.com/post/67005)
+
+### [“95后”分析师有数亿身家？这家拟IPO公司火了，姑侄联手控股，还是安信证券分析师 - 21财经](https://m.21jingji.com/article/20210605/herald/95c087585eb871a9af8e6db4d0cd91b1.html)
+
+### [TypeScript 可不可以被叫做小 Java ？ - V2EX](https://www.v2ex.com/t/781504)
+
+### [高考马上结束了，需要送亲戚孩子笔记本，想问下现在 M1 芯片的 MacBook 能满足大学需求吗？我不是指性能。还是说最好还是买 Windows？ - V2EX](https://www.v2ex.com/t/781489)
+
+### [M1 上的 VM 软件 - V2EX](https://www.v2ex.com/t/781398)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiMft0pLr)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiMeRwX3B)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KiMcTd5uN)
