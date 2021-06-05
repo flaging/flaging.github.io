@@ -20,3 +20,8 @@
 ### [带你认识大模型训练关键算法：分布式训练Allreduce算法](https://xie.infoq.cn/article/18505584b30e9dc142f70cd8e)
 
 ### [What we’ve been reading in May | Interrupt](https://interrupt.memfault.com/blog/may-2021-roundup)
+
+### [Linux Today - Schedule Tasks on Ubuntu 20.04 Using crontab](https://www.linuxtoday.com/developer/how-to-schedule-tasks-on-ubuntu-20.04-using-crontab-210601080002.html)
+
+### [Impacting Hardware through Software: SPDK, PMDK and VTune™ Profiler US Virtual Forum - Event Recap (with Videos and Slides)
+        ](https://www.linkedin.com/pulse/impacting-hardware-through-software-spdk-pmdk-vtune-yuri-w-/?JSU%21%21KLL8VBKIGhc0BcQ38Y9qmONVtVtEUw%21iz3GCLzZr_YN6Ly8PfGRaNSXyR2G41lacqn_d3_T-dTYHOVg-q9NSVUSbMTrMIK6NyfiXrpTDg%24=&trackingId=DSYboaSLQS6AANE86RIBzQ%2A3D%2A3D__)
