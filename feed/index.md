@@ -180,3 +180,7 @@ pub(crate) 语法问题 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KiPyxuyC5)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiPvs22CC)
+
+### [关于高考的杂思 - 知乎](https://zhuanlan.zhihu.com/p/378250408)
+
+### [InfoQ 小编探班 | 2021阿里云峰会-InfoQ](https://www.infoq.cn/article/zFrI4siqxoF2h9wdNgbB)
