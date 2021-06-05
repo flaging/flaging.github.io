@@ -37,3 +37,15 @@
 今日好价：卡士酸奶](http://jandan.net/p/109060)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiKMUr5L3)
+
+### [FM3.14｜音乐最近听什么 EP01 - 少数派](https://sspai.com/post/67055)
+
+### [退一步海阔天空 - 知乎](https://zhuanlan.zhihu.com/p/377866405)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5889/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiLzxjfUm)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiLaS6Qsq)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KiLflfXHU)
