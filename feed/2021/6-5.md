@@ -153,3 +153,30 @@ pub(crate) 语法问题 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KiOUcqN3V)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KiOVNaN68)
+
+### [你们公司都提供了哪些正版软件授权？ - V2EX](https://www.v2ex.com/t/781505)
+
+### [
+闭门造船：如何设计一艘21世纪的帆船](http://jandan.net/p/109065)
+
+### [
+首个托卡马克排气系统为核聚变铺平道路](http://jandan.net/p/109064)
+
+### [
+如果你对他人的咀嚼声高度敏感，那你可能患有失语症](http://jandan.net/p/109025)
+
+### [
+西方人口的平均IQ越来越低，到底意味着什么](http://jandan.net/p/108924)
+
+### [
+你知道自己的祖传染色体有多重吗？](http://jandan.net/p/109057)
+
+### [软件开发|用这个 Python 3.7 的特性来切片无限生成器](https://linux.cn/article-13459-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiPGUkkSy)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiPz5slYS)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiPyxuyC5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiPvs22CC)
