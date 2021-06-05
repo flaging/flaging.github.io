@@ -123,3 +123,21 @@ pub(crate) 语法问题 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KiOkc0qZ2)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiO7v6F7C)
+
+### [How to Spot a Deep Fake in 2021 💥 Breakthrough US Army technology using artificial intelligence to find deepfakes! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nswcyc/how_to_spot_a_deep_fake_in_2021_breakthrough_us/)
+
+### [下周4100亿元！宁德时代迎限售股解禁洪峰，这些新能源公司也面临大额解禁 （附名单） - 21财经](https://m.21jingji.com/article/20210605/herald/9e80e7b3b5c9ba561daf221138e21162.html)
+
+### [“金”诚所至，共克时艰 一图读懂广东金融机构如何出招抗疫 - 21财经](https://m.21jingji.com/article/20210605/herald/a63ec52e11cc41286355868cd150c1e5.html)
+
+### [
+不接受函数返回的对象，会发生内存泄漏吗？ - Rust语言中文社区
+](https://rustcc.cn/article?id=1fd061d8-2e4a-4fdb-8b16-2bdb1443a4b1)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiOFi6L6n)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiOyKqcrQ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiOIADMdG)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiOpL7m1V)
