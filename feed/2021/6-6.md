@@ -172,3 +172,37 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KiXWliQQE)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiXQflFgK)
+
+### [用镜头抓住逝去的时光《天空之岛》 - 新片场](https://www.vmovier.com/62228)
+
+### [《午后的月光》ISFVF最佳摄影奖，NEW ERA最佳实验短片，先力实验影像金奖 - 新片场](https://www.vmovier.com/62238)
+
+### [聚焦“伞童”《华裔女留学生的异国生活》 - 新片场](https://www.vmovier.com/62241)
+
+### [宝马视觉系摩托广告《骑行者》 - 新片场](https://www.vmovier.com/62198)
+
+### [Convergence Issues with autograd : pytorch](https://www.reddit.com/r/pytorch/comments/ntt98s/convergence_issues_with_autograd/)
+
+### [[DL] Validation step: metrics remain unchanged after each epoch (PyTorch Lightning) : pytorch](https://www.reddit.com/r/pytorch/comments/ntqrju/dl_validation_step_metrics_remain_unchanged_after/)
+
+### [iPhone 为什么不能直接投屏到 MacBook 上? - V2EX](https://www.v2ex.com/t/781743)
+
+### [V2EX](https://www.v2ex.com/t/781688)
+
+### [[offer 比较] 应届生 前端岗位 + Nodejs 后端 - V2EX](https://www.v2ex.com/t/781679)
+
+### [你们一周燃脂多少千卡？每天的目标设定的是多少嘞，想参考下 - V2EX](https://www.v2ex.com/t/781672)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj0v5wAdL)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj06Jg0zk)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiZLQ7zGq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiZLwmU1I)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiZIoxmWk)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiZjDpeIq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiZ7pdA1X)
