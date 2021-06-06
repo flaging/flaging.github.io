@@ -14,3 +14,7 @@ Google AI Blog: Extending Contrastive Learning to the Supervised Setting
 ### [实现多级缓存架构设计方案](https://xie.infoq.cn/article/8b2e00206eab6adae2de51a29)
 
 ### [pytudes/Probability.ipynb at master · norvig/pytudes · GitHub](https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb)
+
+### [我们可以无损放大一个Transformer模型吗？ - 知乎](https://zhuanlan.zhihu.com/p/378170000)
+
+### [Stanford CS Curriculum 2021 | Hacker News](https://news.ycombinator.com/item?id=27388391)
