@@ -18,3 +18,5 @@ Google AI Blog: Extending Contrastive Learning to the Supervised Setting
 ### [我们可以无损放大一个Transformer模型吗？ - 知乎](https://zhuanlan.zhihu.com/p/378170000)
 
 ### [Stanford CS Curriculum 2021 | Hacker News](https://news.ycombinator.com/item?id=27388391)
+
+### [Conversational AI and NLP - Top Resources from GTC 21 | NVIDIA Developer Blog](https://developer.nvidia.com/blog/conversational-ai-and-nlp-top-resources-from-gtc-21/)
