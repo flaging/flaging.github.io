@@ -88,3 +88,17 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KiUZQiQPa)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiUBClRXg)
+
+### [WWDC21 Swift 学生挑战赛落下帷幕，我们和 3 位获奖学生聊了聊 - 少数派](https://sspai.com/post/67038)
+
+### [[送码] 功能全面的卡片式学习工具新选择：闪卡 - 少数派](https://sspai.com/post/66949)
+
+### [Help with PBS command : HPC](https://www.reddit.com/r/HPC/comments/ntfpe8/help_with_pbs_command/)
+
+### [由于 stack overflow 被收购，防止 vip 化。放出备份链接 78G - V2EX](https://www.v2ex.com/t/781651)
+
+### [[多图警告] 秒天秒地秒空气的 11 代 i7-1165G7 多网口小机器简单开箱及拆解 - V2EX](https://www.v2ex.com/t/781620)
+
+### [iphone12 去留问题 - V2EX](https://www.v2ex.com/t/781601)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KiVZCbf6x)
