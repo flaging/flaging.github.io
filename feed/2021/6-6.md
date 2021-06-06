@@ -44,3 +44,47 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KiTqHzAj9)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiT2B114Q)
+
+### [论文无法复现「真公开处刑」，PapersWithCode上线「论文复现报告」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-06)
+
+### [陌生人非故意的操作导致你收到伤害，你会怎么办？ - V2EX](https://www.v2ex.com/t/781658)
+
+### [对比一下你们的办公桌 - V2EX](https://www.v2ex.com/t/781653)
+
+### [求靠谱的二步验证 app - V2EX](https://www.v2ex.com/t/781638)
+
+### [如果现在入一台 iPad 用来爱奇艺应该买哪个版本的呢 - V2EX](https://www.v2ex.com/t/781624)
+
+### [M1 版 Makbook 要用虚拟机好像只有 Parallels Desktop 可以选择 - V2EX](https://www.v2ex.com/t/781567)
+
+### [有人遇到过 mysql 的 now()方法时间比正常时间晚了两分钟嘛？ - V2EX](https://www.v2ex.com/t/781544)
+
+### [外交部发言人就王毅国务委员兼外长出席纪念中国—东盟建立对话关系30周年特别外长会和澜湄合作第六次外长会答记者问 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1881643.shtml)
+
+### [
+全民超胆侠：仅10周训练，志愿者就学会了使用回声导航](http://jandan.net/p/109063)
+
+### [
+今日好价 210606](http://jandan.net/p/109067)
+
+### [我们并不需要 Deno](https://www.infoq.cn/article/5f173c78a8cbd83b73b8d028f)
+
+### [音视频学习--弱网对抗技术相关实践](https://www.infoq.cn/article/8798d2d14eea67d5ece9792a2)
+
+### [详解浏览器跨域访问的几种办法](https://www.infoq.cn/article/26921f6d2b9b3c08776b76ea2)
+
+### [分库分表 vs NewSQL 数据库](https://www.infoq.cn/article/e57180825ef448e3ba5a4346c)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiUIklHXo)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiUH47Wza)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiUjKvB8I)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiUjfu198)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiVaIm56J)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiUZQiQPa)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiUBClRXg)
