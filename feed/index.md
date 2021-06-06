@@ -130,3 +130,45 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KiXxZnaBF)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KiXmh5g2M)
+
+### [Multi-Type-TD-TSR - Extracting Tables from Document Images using a Multi-stage Pipeline for Table Detection and Table Structure Recognition: from OCR to Structured Table Representations : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/ntnerj/multitypetdtsr_extracting_tables_from_document/)
+
+### [@封控区域街坊 需要物资、就医怎么办？“三人小组”在行动！ - 21财经](https://m.21jingji.com/article/20210606/herald/0dcf81e31b015615c2db76ce9765fb2c.html)
+
+### [2021年6月6日新闻联播文字版](http://www.xwlb.net.cn/19997.html)
+
+### [
+皇帝的雕塑：意大利艺术家的隐形雕塑拍出1.5万欧元](http://jandan.net/p/109071)
+
+### [
+里程碑：我们终于完成了对人类基因组的完整测序](http://jandan.net/p/109068)
+
+### [分享|在 Linux 终端将图像转换成 ASCII 艺术](https://linux.cn/article-13461-1.html?utm_source=rss&utm_medium=rss)
+
+### [硬核观察|硬核观察 #294 萨尔瓦多可能成为第一个将比特币视为法币的国家](https://linux.cn/article-13460-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+求助关于rust生命周期声明的问题 - Rust语言中文社区
+](https://rustcc.cn/article?id=26b531d6-bccd-4168-8ba2-76ee7e4e2a4f)
+
+### [
+【Rust 日报】2021-06-06 TheAlgorithms Rust 实现 - Rust语言中文社区
+](https://rustcc.cn/article?id=fdfb1d67-868c-4a03-aac3-d59f23c62dbe)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiXVakKzG)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KiXUPAf5C)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiYVI6vxz)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiYJ3cpEU)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiYxkm92H)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiYkHk2QL)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiY90bQwb)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiXWliQQE)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KiXQflFgK)
