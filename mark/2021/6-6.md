@@ -20,3 +20,9 @@ Google AI Blog: Extending Contrastive Learning to the Supervised Setting
 ### [Stanford CS Curriculum 2021 | Hacker News](https://news.ycombinator.com/item?id=27388391)
 
 ### [Conversational AI and NLP - Top Resources from GTC 21 | NVIDIA Developer Blog](https://developer.nvidia.com/blog/conversational-ai-and-nlp-top-resources-from-gtc-21/)
+
+### [What is the difference between DNF and YUM? | 2DayGeek](https://www.2daygeek.com/comparison-difference-between-dnf-vs-yum/)
+
+### [黑白老照片上色，手把手教你用Python怎么玩儿！](https://juejin.cn/post/6967382129915199495)
+
+### [On Software Performance · @radekmie’s take on IT and stuff](https://radekmie.github.io/blog/on-software-performance/)
