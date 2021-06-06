@@ -26,3 +26,5 @@ Google AI Blog: Extending Contrastive Learning to the Supervised Setting
 ### [黑白老照片上色，手把手教你用Python怎么玩儿！](https://juejin.cn/post/6967382129915199495)
 
 ### [On Software Performance · @radekmie’s take on IT and stuff](https://radekmie.github.io/blog/on-software-performance/)
+
+### [GitHub - ArthurSonzogni/FTXUI: C++ Functional Terminal User Interface.](https://github.com/ArthurSonzogni/FTXUI)
