@@ -176,3 +176,33 @@ cargo如何在编译时指定gcc 参数 -no-pie - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Kj5YZdyD9)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kj5Ywvsf6)
+
+### [ReadMark alpha - 轻芒杂志新产品，带马克「Mark」功能的 RSS 阅读器 - 小众软件](https://www.appinn.com/readmark-alpha/)
+
+### [Pay Attention to MLPs - Annotated implementation : pytorch](https://www.reddit.com/r/pytorch/comments/nud24p/pay_attention_to_mlps_annotated_implementation/)
+
+### [Create a custom audio PyTorch dataset using torchaudio : pytorch](https://www.reddit.com/r/pytorch/comments/nuam0c/create_a_custom_audio_pytorch_dataset_using/)
+
+### [数读广东抗疫进行时：广州三天核酸采样超1800万人次，全省疫苗接种4天破千万！ - 21财经](https://m.21jingji.com/article/20210607/herald/5f67e476ad907768bb6da6bfbbd28316.html)
+
+### [核酸检测何时出结果？没有“48小时内核酸检测阴性证明”如何出行？一图了解！ - 21财经](https://m.21jingji.com/article/20210607/herald/f7578df9970554e958a27d875c2240e2.html)
+
+### [安卓苹果双持 8 个月了，实在想不出 iPhone 还有什么可留恋的了 - V2EX](https://www.v2ex.com/t/781943)
+
+### [ի--ͼ20210607̵·һĵ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157477)
+
+### [Sina Visitor System](https://weibo.com/5722964389/Kj73bgFdx)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kj7naAmOn)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kj7mbkVRD)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj7mQdbW8)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj7gMhTLG)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj7b62cvU)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj6YufjJ7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj6MGwsdx)
