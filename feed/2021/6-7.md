@@ -230,3 +230,42 @@ cargo如何在编译时指定gcc 参数 -no-pie - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kj7XfF0Zi)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kj7Lc6G3s)
+
+### [“现在的人根本不知道艾弗森有多强”——科比 - 新片场](https://www.vmovier.com/62204)
+
+### [如此直升头等舱？《疯狂的电梯》 - 新片场](https://www.vmovier.com/62243)
+
+### [视觉系狂野冲浪《游牧非洲》 - 新片场](https://www.vmovier.com/62222)
+
+### [拒绝工作暴力《乙方的悲伤》 - 新片场](https://www.vmovier.com/62240)
+
+### [夏日旅行拍照必看《拍出夏天的味道》 - 新片场](https://www.vmovier.com/62235)
+
+### [堪比恐怖片预告《薯条危机》 - 新片场](https://www.vmovier.com/62223)
+
+### [诡异！高能获奖动画《孩子们》 - 新片场](https://www.vmovier.com/62237)
+
+### [Variant Size Input Image to Convolution Layers : pytorch](https://www.reddit.com/r/pytorch/comments/num4c2/variant_size_input_image_to_convolution_layers/)
+
+### [PluggableDevice: Device Plugins for TensorFlow — The TensorFlow Blog](https://blog.tensorflow.org/2021/06/pluggabledevice-device-plugins-for-TensorFlow.html)
+
+### [an interesting approach to storing, merging, and committing out-of-order time series data (w/ write speeds of 1.4 m rows/second) : HPC](https://www.reddit.com/r/HPC/comments/nulxah/an_interesting_approach_to_storing_merging_and/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5891/)
+
+### [Poorly Drawn Lines – This One Goes Out](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/doXNalUSPR0/)
+
+### [2021年6月7日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1881907.shtml)
+
+### [
+SpaceX把水熊虫和鱿鱼幼苗带上了太空](http://jandan.net/p/109069)
+
+### [
+走近韩国“袋鼠族”](http://jandan.net/p/109077)
+
+### [
+林登·约翰逊的空调与淋浴器](http://jandan.net/p/109066)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj8xU1ki2)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj8lMmNq9)
