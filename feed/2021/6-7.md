@@ -281,3 +281,29 @@ SpaceX把水熊虫和鱿鱼幼苗带上了太空](http://jandan.net/p/109069)
 ### [Sina Visitor System](https://weibo.com/1715118170/KjajUxVFU)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjaImtJWF)
+
+### [虽然没有传闻中的新硬件，今年依旧看点不少：WWDC 发布会回顾 - 少数派](https://sspai.com/post/67094)
+
+### [你知道「去背」不 - V2EX](https://www.v2ex.com/t/781921)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736828)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736818)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736811)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736803)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736798)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736832)
+
+### [青年图摘0608！我挖掘机吃素的？](https://qingniantuzhai.com/qing-nian-tu-zhai-0608-2/)
+
+### [蜻蜓FM信息流推荐探索与实践-InfoQ](https://www.infoq.cn/article/wHsH2sTtpFWueHLLM9oW)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kjb6CguuS)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kjb08kYTq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjaU1uyxh)
