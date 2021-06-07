@@ -142,3 +142,37 @@ Rust Web(Rocket), 图形、动画算法·兼职·招聘 - Rust语言中文社区
 ### [一文看懂JVM内存区域分布与作用 - SegmentFault 思否](https://segmentfault.com/a/1190000040129211)
 
 ### [咱们从头到尾说一次 Spring 事务管理（器） - SegmentFault 思否](https://segmentfault.com/a/1190000040130617)
+
+### [EUSIPCO 3MT 首位中国冠军，博士生借助噪声扰动算法打破数据流动壁垒 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07-10)
+
+### [万人角逐，院士指导，首届全球人工智能技术创新大赛花落谁家？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07-9)
+
+### [我的开源项目被科技巨头拿去做产品了，只不过注释中删掉了我的名字 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07-8)
+
+### [派评 | 近期值得关注的 App - 少数派](https://sspai.com/post/67088)
+
+### [Mac 新手想知道 03：界面布局与文件系统 - 少数派](https://sspai.com/post/67004)
+
+### [不买可以先收藏 05：如何选择一本好用的纸质笔记本 - 少数派](https://sspai.com/post/67081)
+
+### [广州新冠疫苗第二针可以预约了！这些事项要注意 - 21财经](https://m.21jingji.com/article/20210607/herald/b4e7d28dfe5494d55c6a6e95691c2439.html)
+
+### [由细思极恐帖子引发的感想，来说说我见过的和一些猜想 - V2EX](https://www.v2ex.com/t/781831)
+
+### [分享一下北大学生在体制内工作五年的迷思 - V2EX](https://www.v2ex.com/t/781821)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=904)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=696)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=822)
+
+### [软件开发|用 Python 3.8 中的这个位置技巧让你的 API 变得更好](https://linux.cn/article-13466-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+cargo如何在编译时指定gcc 参数 -no-pie - Rust语言中文社区
+](https://rustcc.cn/article?id=c847e755-36af-48f9-81fe-d8fff561e8b4)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kj5YZdyD9)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kj5Ywvsf6)
