@@ -104,3 +104,41 @@ Rust Web(Rocket), 图形、动画算法·兼职·招聘 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kj3hH6j1v)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kj3fx0sSr)
+
+### [机器之心走近全球顶尖实验室系列：苏黎世联邦理工CV Lab | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07-7)
+
+### [玩GTA5吗？高清真人版那种，英特尔新模型将3D渲染图变逼真图片 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07-6)
+
+### [无监督学习、多模态融合！腾讯优图联合厦门大学发布2021十大人工智能趋势 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07-5)
+
+### [美国前国防部副部长：人工智能与合成生物学对美国应对中国竞争至关重要 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07-4)
+
+### [信通院发布《6G总体愿景与潜在关键技术白皮书》（附白皮书） | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07-3)
+
+### [首次统一卷积与自注意力，上海交大、华为海思提出X-volution，发力网络核心基础架构创新 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07-2)
+
+### [美国重返 5G 游戏 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-07)
+
+### [东西我都装好了｜由极致性价比打造的宿舍收纳系统 - 少数派](https://sspai.com/post/66917)
+
+### [Video to Pic - 从视频中逐帧导出图片[iPhone] - 小众软件](https://www.appinn.com/video-to-pic-for-ios/)
+
+### [NFNets - A network that achieves state-of-the-art performance without Batch Norm. : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nu6dvq/nfnets_a_network_that_achieves_stateoftheart/)
+
+### [我给 apple 写了封邮件投诉 tx app 系列的隐私问题，要求从 appstore 下架 tx 全部 app - V2EX](https://www.v2ex.com/t/781843)
+
+### [国务院办公厅关于同意将α-苯乙酰乙酸甲酯等6种物质列入易制毒化学品品种目录的函（国办函〔2021〕58号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/07/content_5615890.htm)
+
+### [全民K歌技术公开课（后端篇）-InfoQ](https://www.infoq.cn/article/ixuPyN8F9moaj49gJQ2S)
+
+### [如何使用ML.NET构建推荐系统？-InfoQ](https://www.infoq.cn/article/RriNk3hjlL9Keue6MRu0)
+
+### [图解：消息传输的架构模式-InfoQ](https://www.infoq.cn/article/XmRNoozU3WE0XT8DSfSy)
+
+### [揭秘 Uber API 网关的架构-InfoQ](https://www.infoq.cn/article/HaH0Sasko3AHBamueetd)
+
+### [如何避开陷阱迈向云原生-InfoQ](https://www.infoq.cn/article/ucOOW6wVHAEQ7gOgeU9K)
+
+### [一文看懂JVM内存区域分布与作用 - SegmentFault 思否](https://segmentfault.com/a/1190000040129211)
+
+### [咱们从头到尾说一次 Spring 事务管理（器） - SegmentFault 思否](https://segmentfault.com/a/1190000040130617)
