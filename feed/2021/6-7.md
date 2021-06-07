@@ -206,3 +206,27 @@ cargo如何在编译时指定gcc 参数 -no-pie - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kj6YufjJ7)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kj6MGwsdx)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1297)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1296)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1295)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1294)
+
+### [2021年6月7日新闻联播文字版](http://www.xwlb.net.cn/20014.html)
+
+### [中共中央办公厅 国务院办公厅印发《关于深化国有文艺院团改革的意见》_中央有关文件_中国政府网](http://www.gov.cn/zhengce/2021-06/07/content_5616054.htm)
+
+### [
+【Rust日报】2021-06-07 是什么让 Rust 撩动了我 - Rust语言中文社区
+](https://rustcc.cn/article?id=da329ad8-694c-4474-a95e-f14d4dc1cbec)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj89y8XlU)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj7XQkJ0D)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj7XfF0Zi)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kj7Lc6G3s)
