@@ -244,3 +244,23 @@ rust程序如何交叉编译到openwrt上 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KjgziuEgs)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjgoZjyfA)
+
+### [CopyTranslator: 复制即翻译的外文辅助阅读翻译解决方案 - Mac玩儿法](https://www.waerfa.com/copytranslator-review)
+
+### [Lunar: 外置显示器专属的屏幕亮度智能自适应调节器，已适配 M1 Mac - Mac玩儿法](https://www.waerfa.com/lunar-v4-review)
+
+### [恒星播放器 Win 版体验 - Mac玩儿法](https://www.waerfa.com/stellarplayer-for-win)
+
+### [恒星播放器: 免费好用的高清视频播放器 - Mac玩儿法](https://www.waerfa.com/stellarplayer-review)
+
+### [2021年6月8日新闻联播文字版](http://www.xwlb.net.cn/20035.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjgQu3vFz)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjgNptYTQ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kjh0l9emH)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjgNkFO4M)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjgHg1oD9)
