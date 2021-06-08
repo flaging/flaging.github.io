@@ -106,3 +106,43 @@ FDA首次批准减肥“神药”](http://jandan.net/p/109076)
 ### [Sina Visitor System](https://weibo.com/1715118170/Kjd4rjIf1)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjcG78iIh)
+
+### [ICCV 2021 Anti-UAV Workshop & | 机器之心](https://www.jiqizhixin.com/articles/2021-06-08-6)
+
+### [寻找前沿科技的开拓者 | 五源资本3Sigma Bootcamp开启全球招募 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-08-5)
+
+### [AI+临床数据助力新药靶点发现，北京天坛医院院长王拥军谈「神农计划」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-08-4)
+
+### [销量在华暴跌后，特斯拉发声：我们的交通事故率优于平均水准 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-08-3)
+
+### [暴风雪中的测试：如何解决恶劣天气中的自动驾驶难题？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-08-2)
+
+### [2021 Epic BundleHunt：51 款正版软件捆绑包，包含 iStat Menus，支持支付宝付款 - 小众软件](https://www.appinn.com/2021-epic-bundlehunt/)
+
+### [macOS Monterey Universal Control 可以的 - V2EX](https://www.v2ex.com/t/782012)
+
+### [大家平时在家里是如何各个电脑以及移动设备之间共享文档、视频等的 - V2EX](https://www.v2ex.com/t/782005)
+
+### [西瓜视频 Android 端内数据状态同步方案VM-Mapping-InfoQ](https://www.infoq.cn/article/prXrkUXcBGvqW7GHBgS5)
+
+### [IBM向芯片代工商格芯索赔25亿美元，原因竟是后者IPO临近？-InfoQ](https://www.infoq.cn/article/MzcKXUxk6WtZcuk855ge)
+
+### [Redis 缓存的三大问题及其解决方案](https://www.infoq.cn/article/615a99941c1fc65c4e5f836f0)
+
+### [架构解析｜网易自研新一代大规模分布式传输网](https://www.infoq.cn/article/80269a69068dbf5bd5a2a824f)
+
+### [前端vue在可视化大屏领域的工作实践](https://www.infoq.cn/article/c661eaed08b542fb8bfb9f761)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjdI2hH8t)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjdGx8xqR)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjdES0Z9p)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjdDBoL2w)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kjdwr32ET)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjdR0mpVO)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjdsO7wNC)
