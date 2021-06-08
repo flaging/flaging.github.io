@@ -234,3 +234,13 @@ rust程序如何交叉编译到openwrt上 - Rust语言中文社区
 ### [新闻|openSUSE Leap 15.3 版本缩小了与 SUSE Linux 企业版的差距](https://linux.cn/article-13469-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kjgdntggm)
+
+### [2021年6月8日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1882167.shtml)
+
+### [
+【Rust日报】2021-06-08  - Rust语言中文社区
+](https://rustcc.cn/article?id=232e8a92-e689-445b-973f-7aa9907678ed)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjgziuEgs)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjgoZjyfA)
