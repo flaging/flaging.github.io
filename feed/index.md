@@ -266,3 +266,5 @@ rust程序如何交叉编译到openwrt上 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjgHg1oD9)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjhbGFSyJ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjhowFSFV)
