@@ -146,3 +146,27 @@ FDA首次批准减肥“神药”](http://jandan.net/p/109076)
 ### [Sina Visitor System](https://weibo.com/1715118170/KjdR0mpVO)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjdsO7wNC)
+
+### [谷歌、Facebook频繁发现CPU内核不可靠，出现无法预测计算错误 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-08-8)
+
+### [搭载同款激光雷达，特斯拉这次却要被中国车企抢首发 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-08-7)
+
+### [东西我都装好了｜ 基于Notion搭建科研实验物品管理体系 - 少数派](https://sspai.com/post/66919)
+
+### [现在的人都喜欢看视频。大胆的预测一下，随着 IT 技术的发展，书籍可能成为历史的尘埃？ - V2EX](https://www.v2ex.com/t/782116)
+
+### [Apple music 无损和全景声已经开放 - V2EX](https://www.v2ex.com/t/782099)
+
+### [观点|寻找为 Linux 内核贡献数千补丁的“超能力者”！](https://linux.cn/article-13468-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+[北京] 百度招聘Rust研发工程师 - Rust语言中文社区
+](https://rustcc.cn/article?id=d27ac0a5-c38e-4478-ace1-fe919acbdd85)
+
+### [
+rust程序如何交叉编译到openwrt上 - Rust语言中文社区
+](https://rustcc.cn/article?id=f6804c11-951b-4bd1-b5b8-08bdf845750d)
+
+### [WWDC 2021 ：大改动基本没有，但细节感人 - SegmentFault 思否](https://segmentfault.com/a/1190000040141000)
+
+### [开发者点评一切，快来分享你的技术「好物」！思否 · 开发者点评等你来玩 - SegmentFault 思否](https://segmentfault.com/a/1190000040140927)
