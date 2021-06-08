@@ -308,3 +308,9 @@ Google AI Blog: Using Variational Transformer Networks to Automate Document Layo
 ### [Sina Visitor System](https://weibo.com/1402400261/Kjk3IcXl9)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjjWatdqa)
+
+### [日经贴： 11 寸平板拿来看论文和看文档怎么样？ - V2EX](https://www.v2ex.com/t/782165)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kjk9Gbr94)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kjk972NtM)
