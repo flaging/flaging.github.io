@@ -174,3 +174,27 @@ rust程序如何交叉编译到openwrt上 - Rust语言中文社区
 ### [注意！曾去过广东这些地方的人，马上报告（一键查询）](https://app.21jingji.com/html/2021yiqing_gd/map.html)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kjezip5hw)
+
+### [一日一技 | 在 ColorOS 上免 root 玩机，请先关掉这个开关 - 少数派](https://sspai.com/post/67110)
+
+### [How to write custom loss functions? : pytorch](https://www.reddit.com/r/pytorch/comments/nuzt9h/how_to_write_custom_loss_functions/)
+
+### [Mixup with Deep Networks for Image Classification : pytorch](https://www.reddit.com/r/pytorch/comments/nuzlu5/mixup_with_deep_networks_for_image_classification/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5892/)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1302)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1301)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1300)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1299)
+
+### [不等了，准备冲 M1 了，请教两个问题 - V2EX](https://www.v2ex.com/t/782143)
+
+### [iPad 对代码工作者依旧还是那个玩具 - V2EX](https://www.v2ex.com/t/782027)
+
+### [Tencent Kona JDK11无暂停内存管理-ZGC生产实践-InfoQ](https://www.infoq.cn/article/suThXZWaoEIJIGDp11bJ)
+
+### [淘系自研前端研发工具 AppWorks 正式发布 - SegmentFault 思否](https://segmentfault.com/a/1190000040142501)
