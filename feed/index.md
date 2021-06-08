@@ -268,3 +268,17 @@ rust程序如何交叉编译到openwrt上 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjhbGFSyJ)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjhowFSFV)
+
+### [iOS 15 Dev Beta 版升级 Bug 收集贴 - V2EX](https://www.v2ex.com/t/782073)
+
+### [
+科学家复苏了西伯利亚永久冻土下数万年前的轮虫](http://jandan.net/p/109078)
+
+### [
+原初物质竟是完美液体：科学家用强子对撞机烹出创世物质汤](http://jandan.net/p/109055)
+
+### [Announcing Rustup 1.24.3 | Rust Blog](https://blog.rust-lang.org/2021/06/08/Rustup-1.24.3.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjhA2ERoa)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KjhvbeIjt)
