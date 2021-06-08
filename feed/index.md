@@ -170,3 +170,7 @@ rust程序如何交叉编译到openwrt上 - Rust语言中文社区
 ### [WWDC 2021 ：大改动基本没有，但细节感人 - SegmentFault 思否](https://segmentfault.com/a/1190000040141000)
 
 ### [开发者点评一切，快来分享你的技术「好物」！思否 · 开发者点评等你来玩 - SegmentFault 思否](https://segmentfault.com/a/1190000040140927)
+
+### [注意！曾去过广东这些地方的人，马上报告（一键查询）](https://app.21jingji.com/html/2021yiqing_gd/map.html)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kjezip5hw)
