@@ -282,3 +282,23 @@ rust程序如何交叉编译到openwrt上 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjhA2ERoa)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KjhvbeIjt)
+
+### [
+Google AI Blog: Using Variational Transformer Networks to Automate Document Layout Design
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/EWse3NrI8W4/using-variational-transformer-networks.html)
+
+### [MacOS 12 beta 微信客户端 bug - V2EX](https://www.v2ex.com/t/782124)
+
+### [ios 版微信为什么不做 消息通知点进去直接是对应的聊天? - V2EX](https://www.v2ex.com/t/782047)
+
+### [硬核观察|硬核观察 #297 Lotus Notes 表示还可以抢救一把](https://linux.cn/article-13470-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjjKaCoKF)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjjHE7wjP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjjKyAIw9)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kjiboq7J6)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjhYozquB)
