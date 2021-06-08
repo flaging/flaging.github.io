@@ -302,3 +302,9 @@ Google AI Blog: Using Variational Transformer Networks to Automate Document Layo
 ### [Sina Visitor System](https://weibo.com/1715118170/Kjiboq7J6)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjhYozquB)
+
+### [Rolling, Banking, and Radioactive Decay](https://datagenetics.com/blog/june12021/index.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kjk3IcXl9)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjjWatdqa)
