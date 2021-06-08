@@ -314,3 +314,25 @@ Google AI Blog: Using Variational Transformer Networks to Automate Document Layo
 ### [Sina Visitor System](https://weibo.com/1402400261/Kjk9Gbr94)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kjk972NtM)
+
+### [毕业之后，还想要以不到一千一年的价格长期持有同一台云服务器是不是不可能了？ - V2EX](https://www.v2ex.com/t/782043)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736845)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736851)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736859)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736800)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736863)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736836)
+
+### [青年图摘0609！是真的辣](https://qingniantuzhai.com/qing-nian-tu-zhai-0609-4/)
+
+### [字节跳动精准测试实践，SmartEye背后的设计逻辑-InfoQ](https://www.infoq.cn/article/UqNsUC3zm04ydWcjo132)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kjkxn636o)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjkqChGyb)
