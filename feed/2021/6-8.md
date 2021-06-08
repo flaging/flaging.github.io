@@ -222,3 +222,7 @@ rust程序如何交叉编译到openwrt上 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KjfNwv1Gf)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KjfLwnyJ4)
+
+### [贫穷是有人故意而为之的吗？ - V2EX](https://www.v2ex.com/t/782210)
+
+### [iOS15 更新内容汇总 - V2EX](https://www.v2ex.com/t/782029)
