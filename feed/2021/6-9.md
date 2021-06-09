@@ -192,3 +192,5 @@ openwrt的rust - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1746173800/KjnTCz8l4)
 
 ### [萌新必看——10种客户端存储哪家强，一文读尽！ - SegmentFault 思否](https://segmentfault.com/a/1190000040147911)
+
+### [AAAI21文章解读：图蒸馏与小样本增量学习的碰撞 - 知乎](https://zhuanlan.zhihu.com/p/379084194)
