@@ -243,3 +243,27 @@ openwrt的rust - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Kjpsl2Nnp)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KjpqdrqZC)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1306)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1305)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1304)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1303)
+
+### [ի--ͼ20210609Ҫײûţȱཷ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157525)
+
+### [为影像产业加速 2021 AMD影像生产力大会成功召开_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0609/135263.shtml)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjpZppzZM)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjpQTo2DW)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjpLD8yuu)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjpzQmdIf)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjpPtCgjP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjpDreMXs)
