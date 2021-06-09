@@ -181,3 +181,14 @@ openwrt的rust - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjnhE6w48)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KjnahuSo9)
+
+### [东西我都买好了 | 编辑部的 618 愿望清单 - 少数派](https://sspai.com/post/67078)
+
+### [
+咖啡为什么可以提神？](http://jandan.net/p/108935)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KjnIkz0sJ)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KjnTCz8l4)
+
+### [萌新必看——10种客户端存储哪家强，一文读尽！ - SegmentFault 思否](https://segmentfault.com/a/1190000040147911)
