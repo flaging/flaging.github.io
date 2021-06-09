@@ -58,3 +58,64 @@ Rust API Guidelines 《Rust API 编写指南》翻译完成~ - Rust语言中文�
 ### [Sina Visitor System](https://weibo.com/1715118170/KjkVKdFIb)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjkkwnNlU)
+
+### [TA 有好物 | 618 快递拆到手软？试试这款安全不伤手的开箱神器 - 少数派](https://sspai.com/post/67091)
+
+### [给「荔」一夏 618 正版软件大促，36 款软件 6 折起抢购【最简单粗暴版】 - 小众软件](https://www.appinn.com/lizhi-618-2021/)
+
+### [厕所音乐人开趴啦《马桶交响乐》 - 新片场](https://www.vmovier.com/62255)
+
+### [中国传媒大学动画毕设《燃烧》（Here And Now） - 新片场](https://www.vmovier.com/62256)
+
+### [诡异奇幻高级感广告《生命之环》 - 新片场](https://www.vmovier.com/62260)
+
+### [这难道是一场梦吗《现实的本质》 - 新片场](https://www.vmovier.com/62233)
+
+### [更好的童年 - 新片场](https://www.vmovier.com/62257)
+
+### [小白速进！《快速掌握8种智能手机云台转换》 - 新片场](https://www.vmovier.com/62262)
+
+### [TED 演讲《关于爱情，你全搞错了》 - 新片场](https://www.vmovier.com/62258)
+
+### [【《完善政府猪肉储备调节机制 做好猪肉市场保供稳价工作预案》答记者问】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210609_1282853.html)
+
+### [【国家发展改革委等部门联合印发《完善政府猪肉储备调节机制 做好猪肉市场保供稳价工作预案》】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210609_1282852.html)
+
+### [【国家发展改革委召开视频会议全面部署重要民生商品保供稳价工作】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210609_1282848.html)
+
+### [几何梯度分析神经网络中不可信预测性 - 知乎](https://zhuanlan.zhihu.com/p/379144190)
+
+### [V2EX › 登录](https://www.v2ex.com/t/782317)
+
+### [[求职]Web 全栈开发 - V2EX](https://www.v2ex.com/t/782290)
+
+### [你们用 get/set 吗？ - V2EX](https://www.v2ex.com/t/782167)
+
+### [6月9日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0609/135261.shtml)
+
+### [护眼全面屏 荣耀MagicBook X14开箱图赏_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0609/135259.shtml)
+
+### [
+今日带货：2021版唔想返工TEE](http://jandan.net/p/109080)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KjmkCFBRl)
+
+### [维护开源项目，我太难了-InfoQ](https://www.infoq.cn/article/xuuw7UCl5ReSwo7zr6oP)
+
+### [5W1H聊开源之What——开源协议有哪些？](https://www.infoq.cn/article/a3f56869bd39b20751ad98395)
+
+### [看Kunpeng BoostKit 使能套件如何实现大数据场景倍级性能提升](https://www.infoq.cn/article/e89824db53840e1b6c7b86e9f)
+
+### [Mybatis缓存机制详解](https://www.infoq.cn/article/dd5b4794012aedd2a9d749096)
+
+### [分布式管理员zookeeper](https://www.infoq.cn/article/7e30162f3204e66ac4a92072b)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kjm67gt7u)
+
+### [扒开“全自动软件工程”平台的外衣，发现竟然…… - SegmentFault 思否](https://segmentfault.com/a/1190000040146632)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kjmw9uwNw)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjmuU4sNO)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kjm3z6NB5)
