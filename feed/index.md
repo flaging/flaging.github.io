@@ -302,3 +302,9 @@ openwrt的rust - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/Kjqyoi6Uk)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kjqjh3uvL)
+
+### [2021年6月9日新闻联播文字版](http://www.xwlb.net.cn/20055.html)
+
+### [RSS3 来了 - SegmentFault 思否](https://segmentfault.com/a/1190000040106521)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjqOy3wNF)
