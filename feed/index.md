@@ -338,3 +338,7 @@ openwrt的rust - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjtmFkggY)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjtaTrb7d)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5893/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjtwFgPcl)
