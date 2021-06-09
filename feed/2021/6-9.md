@@ -212,3 +212,9 @@ openwrt的rust - Rust语言中文社区
 ### [求推荐一款 安卓手机 - V2EX](https://www.v2ex.com/t/782286)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kjosh7Ny5)
+
+### [早安干饭人：想要上午就起飞，这顿早餐得吃对 - 少数派](https://sspai.com/post/66828)
+
+### [
+请问 usize 是什么类型？ - Rust语言中文社区
+](https://rustcc.cn/article?id=335fc5b0-67e3-4ee9-a150-b46cd630d174)
