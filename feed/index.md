@@ -308,3 +308,27 @@ openwrt的rust - Rust语言中文社区
 ### [RSS3 来了 - SegmentFault 思否](https://segmentfault.com/a/1190000040106521)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjqOy3wNF)
+
+### [Leveraging Machine Learning for Unstructured Data Processing at Pixie — The TensorFlow Blog](https://blog.tensorflow.org/2021/06/leveraging-machine-learning-pixie.html)
+
+### [Poorly Drawn Lines – Knows My Name](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/ugU4FCW9KoA/)
+
+### [个人博客会长久吗 - V2EX](https://www.v2ex.com/t/782405)
+
+### [请教前辈们，换城市除了裸辞，还有更好的操作方法吗？ - V2EX](https://www.v2ex.com/t/782313)
+
+### [硬核观察|硬核观察 #298 上线时间不到一周，鸿蒙 2 升级用户突破千万](https://linux.cn/article-13473-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+关于两个Unix socket间 传递范型值 的问题 - Rust语言中文社区
+](https://rustcc.cn/article?id=cd0924ea-0d41-4968-bcc1-439e00be3ada)
+
+### [
+【Rust日报】2021-06-09 - Rust语言中文社区
+](https://rustcc.cn/article?id=aa6fb3f4-118e-425b-b384-1570f0ba502a)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjroTtLO3)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjrcWDA0N)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kjr0xsB5d)
