@@ -208,3 +208,7 @@ openwrt的rust - Rust语言中文社区
 ### [MBP 16 (2019) 能不能凉快点 - V2EX](https://www.v2ex.com/t/782299)
 
 ### [误泄露公司代码、疫情期间被裁，一个“菜鸟”程序员的生存日记-InfoQ](https://www.infoq.cn/article/ui21zghOepToCrscdcSz)
+
+### [求推荐一款 安卓手机 - V2EX](https://www.v2ex.com/t/782286)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kjosh7Ny5)
