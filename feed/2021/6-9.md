@@ -362,3 +362,5 @@ openwrt的rust - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjtL1dJWH)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjtyUrlRv)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjtR6Aoba)
