@@ -139,3 +139,45 @@ Rust API Guidelines 《Rust API 编写指南》翻译完成~ - Rust语言中文�
 ### [Sina Visitor System](https://weibo.com/1715118170/KjmUpjtA0)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjmT9iSyn)
+
+### [高考结束了，来看下QS最新全球大学排名，清华北大进前20 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-09-4)
+
+### [在AI消灭宫颈癌这件事情上，腾讯天衍实验室做了一些重磅研究 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-09-3)
+
+### [自己不能跑的车凭什么叫自行车？B站硬核up主把自行车做成了自动驾驶 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-09-2)
+
+### [少数派 x SwiftGG | WWDC21 发布会回顾与技术思考 - 少数派](https://sspai.com/post/67124)
+
+### [如何用现有的 1 台电脑 1 部手机，「0 成本」自动备份手机照片、视频？Lomorage - 小众软件](https://www.appinn.com/lomorage-backup-photos/)
+
+### [【国家发展改革委有关负责同志就出台跨省天然气管道运输定价机制答记者问】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210609_1282918.html)
+
+### [【国家发展改革委出台跨省天然气管道运输定价机制】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210609_1282917.html)
+
+### [【国家发展改革委召开工作座谈会 研究进一步加强大宗商品价格监测预警和市场监管】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210609_1282916.html)
+
+### [美好的一天，从摔 MBP 开始... - V2EX](https://www.v2ex.com/t/782320)
+
+### [
+openwrt的rust - Rust语言中文社区
+](https://rustcc.cn/article?id=25a81a56-2d85-49c9-a284-997594b03c61)
+
+### [操作系统快速发展，openEuler如何先行一步-InfoQ](https://www.infoq.cn/article/66FN7ww93keIK4e6lsj2)
+
+### [理解IM消息“可靠性”和“一致性”问题，以及解决方案探讨](https://www.infoq.cn/article/9cfff95f682ddeb408a2b3928)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KjnFx7ZbK)
+
+### [MegaEase 团队开源云原生流量调度服务 Easegress  - SegmentFault 思否](https://segmentfault.com/a/1190000040143080)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjnG30ADe)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjnDbmMdH)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjnCQp4DT)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjnsqbOQz)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjnhE6w48)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KjnahuSo9)
