@@ -194,3 +194,17 @@ openwrt的rust - Rust语言中文社区
 ### [萌新必看——10种客户端存储哪家强，一文读尽！ - SegmentFault 思否](https://segmentfault.com/a/1190000040147911)
 
 ### [AAAI21文章解读：图蒸馏与小样本增量学习的碰撞 - 知乎](https://zhuanlan.zhihu.com/p/379084194)
+
+### [NUS研究团队开发自动化药物生产新技术，「自动化多步合成」成可能 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-09-7)
+
+### [每日「AI×科研」要闻汇总｜6月9日 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-09-6)
+
+### [FF91这款车，能帮法拉第未来翻身吗？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-09-5)
+
+### [全球最重要三大电脑展之一：COMPUTEX 看点汇总 - 少数派](https://sspai.com/post/67129)
+
+### [现在 21 年 6 月， airpods pro 可以冲吗，或者推荐下其他降噪 - V2EX](https://www.v2ex.com/t/782310)
+
+### [MBP 16 (2019) 能不能凉快点 - V2EX](https://www.v2ex.com/t/782299)
+
+### [误泄露公司代码、疫情期间被裁，一个“菜鸟”程序员的生存日记-InfoQ](https://www.infoq.cn/article/ui21zghOepToCrscdcSz)
