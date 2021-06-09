@@ -218,3 +218,9 @@ openwrt的rust - Rust语言中文社区
 ### [
 请问 usize 是什么类型？ - Rust语言中文社区
 ](https://rustcc.cn/article?id=335fc5b0-67e3-4ee9-a150-b46cd630d174)
+
+### [今天被某云厂商存储的死循环逻辑弄死了 - V2EX](https://www.v2ex.com/t/782414)
+
+### [闲鱼支持 Callkit 了，微信也在灰度测试，好起来了 - V2EX](https://www.v2ex.com/t/782382)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KjoQB1B7p)
