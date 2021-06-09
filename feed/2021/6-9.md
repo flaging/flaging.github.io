@@ -233,3 +233,5 @@ openwrt的rust - Rust语言中文社区
 ### [技术|解析 Anolis OS 的国密生态](https://linux.cn/article-13471-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kjpbs4RfR)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjpgPE7Xb)
