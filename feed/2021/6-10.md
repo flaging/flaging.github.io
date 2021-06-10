@@ -206,3 +206,114 @@ websocket 客户端 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kjzyev764)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kjzsso4vI)
+
+### [Buckle Up For a Wild Decade in Cloud Computing - DEV Community](https://dev.to/ben/buckle-up-for-a-wild-decade-in-cloud-computing-1cff)
+
+### [Learning Web Dev on the Web | A Roadmap with Resources - DEV Community](https://dev.to/lucidmach/learning-web-dev-on-the-web-a-roadmap-with-resources-2e6m)
+
+### [Beginner's guide to Docker - DEV Community](https://dev.to/noviicee/beginner-s-guide-to-docker-42co)
+
+### [How to have an awesome GitHub profile ? - DEV Community](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)
+
+### [5 Software Development Skills that will put you in the top 3% of software developers - DEV Community](https://dev.to/dragosgn/5-software-development-skills-that-will-put-you-in-the-top-3-of-software-developers-1k6b)
+
+### [Best Online Code Editors For Web Developers - DEV Community](https://dev.to/theme_selection/best-online-code-editors-for-web-developers-5bpn)
+
+### [Mistakes I made in my 20s as a Software Developer. - DEV Community](https://dev.to/tyaga001/mistakes-i-made-in-my-20s-as-a-software-developer-558d)
+
+### [Top 20 JavaScript tips and tricks to increase your Speed and Efficiency - DEV Community](https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g)
+
+### [React 18 Alpha is out! Now what? - DEV Community](https://dev.to/cassidoo/react-18-alpha-is-out-now-what-2apj)
+
+### [The complete Full-Stack roadmap 2021 (with resources + based on experience)
+ - DEV Community](https://dev.to/alotaibidev/the-most-complete-full-stack-roadmap-2021-with-resources-based-on-experience-5ic)
+
+### [Using WebSockets with React Query - DEV Community](https://dev.to/tkdodo/using-websockets-with-react-query-36nf)
+
+### [My 3 tips about Flexbox that will make your CSS better - DEV Community](https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6)
+
+### [Must-Have Skills for Developers in 2021 - DEV Community](https://dev.to/krowser/must-have-skills-for-developers-in-2021-2aao)
+
+### [Building an Accessible Reveal-Card - DEV Community](https://dev.to/link2twenty/building-an-accessible-reveal-card-3c56)
+
+### [Vue.js vs. React — Not Your Usual Comparison - DEV Community](https://dev.to/domagojvidovic/vue-js-vs-react-not-your-usual-comparison-2omm)
+
+### [10 Best JavaScript Animation Libraries 🔥 - DEV Community](https://dev.to/tantanmoy/10-best-javascript-animation-libraries-3dhc)
+
+### [Creating custom hook for fetching data in react - DEV Community](https://dev.to/keyurparalkar/creating-custom-hook-for-fetching-data-in-react-3mo3)
+
+### [Javascript - Synchronous by nature - DEV Community](https://dev.to/arikaturika/javascript-under-the-hood-synchronous-by-nature-110k)
+
+### [How to become a Successful Developer  - DEV Community](https://dev.to/krowser/how-to-become-a-successful-developer-4h2g)
+
+### [Quick Tips: How to fix "Image elements do not have explicit width and height" in Page Speed Insights / Lighthouse - DEV Community](https://dev.to/inhuofficial/quick-tips-how-to-fix-image-elements-do-not-have-explicit-width-and-height-in-page-speed-insights-lighthouse-3776)
+
+### [Top 10 Websites for Developers - DEV Community](https://dev.to/line/top-10-websites-for-developers-3ph6)
+
+### [Master Design Patterns By Building Real Projects - Abstract Factory Pattern - Javascript - DEV Community](https://dev.to/hieptl/master-design-patterns-by-building-real-projects-abstract-factory-pattern-javascript-3em8)
+
+### [Why all developers should learn how to perform basic network troubleshooting - DEV Community](https://dev.to/memattchung/why-all-developers-should-learn-how-to-perform-basic-network-troubleshooting-2ihj)
+
+### [5 projects to master Front End Development - DEV Community](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
+
+### [Design Patterns In JavaScript - DEV Community](https://dev.to/twinfred/design-patterns-in-javascript-1l2l)
+
+### [Valuable Tips for Junior Developers - DEV Community](https://dev.to/wadecodez/why-you-suck-as-a-junior-developer-3aol)
+
+### [Como iniciar uma tarefa sendo dev júnior - DEV Community](https://dev.to/feministech/como-eu-inicio-uma-tarefa-como-dev-junior-2cno)
+
+### [Introduction React-Redux using Hooks (useSelector && useDispatch) - DEV Community](https://dev.to/bangash1996/introduction-react-redux-using-hooks-useselector-usedispatch-26ch)
+
+### [How to Build Your Personal Brand as a Software Developer - DEV Community](https://dev.to/krowser/how-to-build-your-personal-brand-as-a-software-developer-49ok)
+
+### [Creating your React project from scratch without create-react-app: The Complete Guide. - DEV Community](https://dev.to/underscorecode/creating-your-react-project-from-scratch-without-create-react-app-the-complete-guide-4kbc)
+
+### [My books recommendations to enhance your Soft Skills as a developer - DEV Community](https://dev.to/espoir/my-books-recommendations-to-enhance-your-soft-skills-as-a-developer-4k3o)
+
+### [Five Pro Tips to Master Promises in JS - DEV Community](https://dev.to/valeriavg/five-pro-tips-to-master-promises-in-js-c2h)
+
+### [Master Design Patterns By Building Real Projects - Factory Pattern - Javascript - DEV Community](https://dev.to/hieptl/master-design-patterns-by-building-real-projects-factory-pattern-javascript-13cb)
+
+### [Debouncing vs Throttling - DEV Community](https://dev.to/revanthrev23/debouncing-vs-throttling-3m1c)
+
+### [How to make Responsive Website Using HTML CSS JavaScript Step By Step - DEV Community](https://dev.to/fahimkabir/how-to-make-responsive-website-using-html-css-javascript-step-by-step-1ej2)
+
+### [8 Websites to Practice Your Frontend Development Skills - DEV Community](https://dev.to/codewell/7-websites-to-practice-your-frontend-development-skills-54de)
+
+### [How to make a chrome extension with javascript - DEV Community](https://dev.to/ivavay/how-to-make-a-chrome-extension-with-javascript-5157)
+
+### [Generate PDF of HTML Element in Browser - DEV Community](https://dev.to/bibekkakati/generate-pdf-of-html-element-in-browser-lg9)
+
+### [12 Free Design Resources Every Developer Should Bookmark - DEV Community](https://dev.to/coursesity/12-free-design-resources-every-developer-should-bookmark-846)
+
+### [Let's talk about Lodash - DEV Community](https://dev.to/laurieontech/let-s-talk-about-lodash-39eo)
+
+### [💡 React Hooks: async function in the useEffect - DEV Community](https://dev.to/danialdezfouli/what-s-wrong-with-the-async-function-in-useeffect-4jne)
+
+### [Top 10 YouTube Channel For Developers - DEV Community](https://dev.to/line/top-10-youtube-channel-for-developers-2kf9)
+
+### [7 Useful Github Repos For Developing Your Frontend Projects Faster ⚡️ - DEV Community](https://dev.to/ender_minyard/7-useful-github-repos-for-developing-your-frontend-projects-faster-49g8)
+
+### [Master Design Patterns By Building Real Projects - Builder Pattern - Javascript - DEV Community](https://dev.to/hieptl/master-design-patterns-by-building-real-projects-builder-pattern-javascript-25f2)
+
+### [52 responsive snippets to create a website for your project - DEV Community](https://dev.to/przemek/52-responsive-snippets-to-create-a-website-for-your-project-51e6)
+
+### [How I built a SaaS with Next.js in a week - DEV Community](https://dev.to/djyde/how-i-built-a-saas-with-next-js-in-a-week-3jli)
+
+### [Learn to code using FreeCodeCamp Especially If You Do Not Have 24/7 Internet Access - DEV Community](https://dev.to/resourcefulmind/learn-to-code-using-freecodecamp-especially-if-you-do-not-have-24-7-internet-access-101e)
+
+### [Forem's Approach to Decentralized Social Media on Mobile - DEV Community](https://dev.to/ben/forem-s-approach-to-decentralized-social-media-on-mobile-2e1p)
+
+### [Forem for iOS is here! ✨  - DEV Community](https://dev.to/devteam/forem-for-ios-is-here-4g3f)
+
+### [Google Photos open-source alternative with React Native - DEV Community](https://dev.to/fx/google-photos-open-source-alternative-with-react-native-80c)
+
+### [中共中央 国务院关于支持浙江高质量发展建设共同富裕示范区的意见_中央有关文件_中国政府网](http://www.gov.cn/zhengce/2021-06/10/content_5616833.htm)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KjzEjglel)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjzKalscQ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjzQL5VWR)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjzEkshQ4)
