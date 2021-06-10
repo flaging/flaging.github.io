@@ -130,3 +130,21 @@
 ### [印象笔记的广告推送是真的恶心 - V2EX](https://www.v2ex.com/t/782566)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KjxT8q5t5)
+
+### [新玩意 066｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/67155)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1310)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1309)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1308)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1307)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=797)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=917)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=927)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kjyl1zSsQ)
