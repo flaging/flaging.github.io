@@ -108,3 +108,17 @@
 ### [迫于专科学历，想问问那种学历提升方式靠谱 - V2EX](https://www.v2ex.com/t/782568)
 
 ### [各位 V 友，马上要上大学，预算 5K 左右有什么笔记本推荐的，可能选计算机相关专业~ - V2EX](https://www.v2ex.com/t/782549)
+
+### [看板、双向链接、知识图谱…… 简悦 2.2 想让你的稍后读不再不读 - 少数派](https://sspai.com/post/67074)
+
+### [Parallels Desktop 官网 618 促销 7 折特惠 - 小众软件](https://www.appinn.com/parallels-desktop-2021-618/)
+
+### [鸿蒙概念爆发！后市如何走？华为产业链受益公司名单曝光 - 21财经](https://m.21jingji.com/article/20210610/herald/c59f20e0d990671127d8b2bcac055e08.html)
+
+### [南沙33小时解封！“广州速度”背后，谁是幕后英雄？ - 21财经](https://m.21jingji.com/article/20210610/herald/259942bfc7c37320d341dbdaecfbe75a.html)
+
+### [小小技术“障眼法”，思科、微软和联想被骗超350万美元-InfoQ](https://www.infoq.cn/article/AZEgmC6sVQcpMjiDqw3e)
+
+### [数美科技创始人唐会军：To B技术企业的高效能组织建设实践-InfoQ](https://www.infoq.cn/article/7vjwUrtJX9rDKCXhh1sJ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kjxjttma3)
