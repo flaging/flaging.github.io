@@ -102,3 +102,9 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/KjwbEiCZE)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kjwbq5tBf)
+
+### [找工作迷惑，怎么谈薪资？ - V2EX](https://www.v2ex.com/t/782592)
+
+### [迫于专科学历，想问问那种学历提升方式靠谱 - V2EX](https://www.v2ex.com/t/782568)
+
+### [各位 V 友，马上要上大学，预算 5K 左右有什么笔记本推荐的，可能选计算机相关专业~ - V2EX](https://www.v2ex.com/t/782549)
