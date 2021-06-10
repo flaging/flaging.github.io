@@ -122,3 +122,11 @@
 ### [数美科技创始人唐会军：To B技术企业的高效能组织建设实践-InfoQ](https://www.infoq.cn/article/7vjwUrtJX9rDKCXhh1sJ)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kjxjttma3)
+
+### [除了专注模式和实况文本，iOS 15 还有这些值得你关注的新功能 - 少数派](https://sspai.com/post/67108)
+
+### [S20 换到 iPhone 12 Pro Max 半年了，再也回不去了 - V2EX](https://www.v2ex.com/t/782585)
+
+### [印象笔记的广告推送是真的恶心 - V2EX](https://www.v2ex.com/t/782566)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KjxT8q5t5)
