@@ -366,3 +366,34 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/1715118170/KjJFQ3BGO)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjJtbhd6G)
+
+### [Training with Multiple Workers using TensorFlow Quantum — The TensorFlow Blog](https://blog.tensorflow.org/2021/06/training-with-multiple-workers-using-tensorflow-quantum.html)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1314)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1313)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1312)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1311)
+
+### [提离职被涨薪挽留了，接下来该怎么破？ - V2EX](https://www.v2ex.com/t/782961)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=645)
+
+### [
+用自然语言描述一下功能，平台自动创建出你需要的大型安卓应用程序](http://jandan.net/p/109075)
+
+### [
+美国押注默克(Merck)的口服抗病毒药，签约12亿美刀](http://jandan.net/p/109095)
+
+### [
+多管齐下 ：这种哺乳动物有两条阴茎，每个阴茎上有两个头](http://jandan.net/p/109088)
+
+### [基础软件黄金时代，百度智能云为什么选择了openEuler？-InfoQ](https://www.infoq.cn/article/VsTBjVjQgDOqhBiaCHbE)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjKfTcXCt)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjK4h6ajR)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjJRxf5sy)
