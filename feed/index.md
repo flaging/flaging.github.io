@@ -248,3 +248,13 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/1402400261/KjG6Yo6ir)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KjG6irBoL)
+
+### [每日「AI×科研」要闻汇总｜6月11日 ​ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-8)
+
+### [Nature 封面：超越联邦学习，群学习用于医疗诊断可以更好保护隐私 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-7)
+
+### [请教一下各位是怎么结识各自的另一半的 - V2EX](https://www.v2ex.com/t/782858)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KjGwIAFGP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjG8sgWhC)
