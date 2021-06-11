@@ -415,3 +415,11 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/1715118170/KjMdEF0xc)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjM20eJBb)
+
+### [用视频写一首散文诗，赞美我所居住的街 - 新片场](https://www.vmovier.com/62295)
+
+### [每一秒都不要错过的治愈时刻《取景框》 - 新片场](https://www.vmovier.com/62282)
+
+### [难以抵挡的美食《辣辣的猪肉炖豆腐》 - 新片场](https://www.vmovier.com/62283)
+
+### [瑞士啤酒致敬经典《击掌的诞生》 - 新片场](https://www.vmovier.com/62290)
