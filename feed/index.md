@@ -401,3 +401,5 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5894/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjKsDjr6J)
+
+### [Poorly Drawn Lines – Seem Tired](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/oLDVmid7nVs/)
