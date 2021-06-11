@@ -405,3 +405,13 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Poorly Drawn Lines – Seem Tired](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/oLDVmid7nVs/)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KjLUUsFuL)
+
+### [腾讯试点 6 点强制下班？ - V2EX](https://www.v2ex.com/t/782894)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjMdZ2pPB)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjLXai8v7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjMdEF0xc)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjM20eJBb)
