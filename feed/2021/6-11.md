@@ -216,3 +216,21 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [汽车之家：基于 Flink + Iceberg 的湖仓一体架构实践](https://www.infoq.cn/article/6c3d36372fd1febc7e3ea7abc)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjFK7citx)
+
+### [CNN - Apple Classification : pytorch](https://www.reddit.com/r/pytorch/comments/nx8a95/cnn_apple_classification/)
+
+### [看到生日帖，问下现在大家工作了以后，过生日还会拉一帮人去聚餐唱 K 么 - V2EX](https://www.v2ex.com/t/782813)
+
+### [申请外区 Apple ID 选哪个区比较好？ - V2EX](https://www.v2ex.com/t/782809)
+
+### [百度大规模Service Mesh落地实践](https://www.infoq.cn/article/361258f7cb065882c6655bade)
+
+### [再谈业务信息化操作系统（BIOS）](https://www.infoq.cn/article/70fc3dd8a328183937db424db)
+
+### [来自小姐姐的灵魂拷问：位运算是什么？ - SegmentFault 思否](https://segmentfault.com/a/1190000040141185)
+
+### [一文搞懂全排列、组合、子集问题(建议收藏) - SegmentFault 思否](https://segmentfault.com/a/1190000040142137)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjFXgqOTk)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjFKUzacX)
