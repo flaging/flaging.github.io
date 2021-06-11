@@ -258,3 +258,37 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/5722964389/KjGwIAFGP)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjG8sgWhC)
+
+### [欲将RISC-V架构收入囊中，英特尔拟花费20亿美元收购SiFive | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-13)
+
+### [以决策路径为标准，重划智慧城市赛道 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-12)
+
+### [谷歌云最新调查：制造商IT支出的三分之一被用于AI | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-11)
+
+### [布朗大学研发下一代闭环脑机接口神经刺激器，用于治疗帕金森、强迫症等 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-10)
+
+### [小鹏VPA实测：地下的自动泊车场景，怕是比你想象中更复杂 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-9)
+
+### [少数派会员 π+Prime 正式上线，让我们扬帆起航吧！ - 少数派](https://sspai.com/post/67153)
+
+### [瞎玩菌的游戏周报：E3 展会、CDPR 代码流出、Elden Ring 实机演示等 - 少数派](https://sspai.com/post/67131)
+
+### [欧洲杯 2020 观赛指南 - 少数派](https://sspai.com/post/67125)
+
+### [阿里云盘小白羊版 - 第三方阿里云盘客户端[Windows/macOS] - 小众软件](https://www.appinn.com/aliyun-pan-third-client/)
+
+### [How PyTorch Is Challenging TensorFlow Lately : pytorch](https://www.reddit.com/r/pytorch/comments/nx9vkx/how_pytorch_is_challenging_tensorflow_lately/)
+
+### [成年人学习钢琴有什么建议 - V2EX](https://www.v2ex.com/t/782805)
+
+### [
+求Rust标准库支持文档？ - Rust语言中文社区
+](https://rustcc.cn/article?id=073513c2-6239-4d71-8321-ab34d81a735f)
+
+### [如何制造“完美的”聊天机器人-InfoQ](https://www.infoq.cn/article/KLcddONHeZ4SCq4QSNHo)
+
+### [DevOps 2021 七大趋势：市场规模将激增50亿美元，DevOps 进入新十年-InfoQ](https://www.infoq.cn/article/TDI6tS1ujKIJER2SbrfB)
+
+### [真正的无人驾驶汽车的梦想，为何正在慢慢破灭？-InfoQ](https://www.infoq.cn/article/lidwAMCOebGhukkPqEcZ)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KjHlQ3Now)
