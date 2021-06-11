@@ -150,3 +150,27 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/1715118170/KjEwIfH7A)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjEua637c)
+
+### [鸿蒙概念持续爆发，部分个股已涨超机构目标价、公司提示风险 - 21财经](https://m.21jingji.com/article/20210611/herald/add451534dc89b228fa98ba4e0b82e2b.html)
+
+### [共同富裕示范区来了！浙江本地股开盘走强，附上行业龙头全名单 - 21财经](https://m.21jingji.com/article/20210611/herald/7871ff1890b4941d02c471af7c82b0e3.html)
+
+### [躺平和内卷反映的中国社会问题 - FT中文网](http://www.ftchinese.com/story/001092814)
+
+### [大宗商品上涨的蝴蝶效应 - FT中文网](http://www.ftchinese.com/story/001092774)
+
+### [一周世界舆论聚焦：实现“国际传播能力”和“国际话语权”的前提是实事求是 - FT中文网](http://www.ftchinese.com/story/001092754)
+
+### [新品三连发，Nokia C20 Plus 让简单好用更进一步_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0611/135271.shtml)
+
+### [6月11日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0611/135269.shtml)
+
+### [华为二面：你真的明白Java垃圾回收器吗？我用这份笔记狂怼面试官](https://www.infoq.cn/article/193f5118c3b573fdc9c90f64a)
+
+### [揭秘视频千倍压缩背后的技术原理之预测技术](https://www.infoq.cn/article/f7edb854b1e90eee51c266373)
+
+### [夯实基础，美团大佬带你深入理解Java中的异常体系，再也不踩坑了](https://www.infoq.cn/article/2022cdc01ae696230fbed278a)
+
+### [电商系统中的ID是如何生成的](https://www.infoq.cn/article/fc843a99098162fe74522c14c)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjEXkcWMz)
