@@ -429,3 +429,19 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/1715118170/KjMql1MeH)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjMC0DZeW)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736967)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736973)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736983)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736981)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736984)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9736947)
+
+### [青年图摘0612！这树秃顶了？](https://qingniantuzhai.com/qing-nian-tu-zhai-0612-4/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjMOBjkn8)
