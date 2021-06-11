@@ -234,3 +234,17 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/1402400261/KjFXgqOTk)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KjFKUzacX)
+
+### [Transformer模型有多少种变体？复旦邱锡鹏教授团队做了全面综述 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-6)
+
+### [入门迁移学习，跟着知乎大V王晋东的这个火热开源项目来学习（赠书） | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-5)
+
+### [CVPR实时移动端检测场景竞赛：字节跳动绝对优势夺冠 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-3)
+
+### [神经网络debug太难了，这里有六个实用技巧 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-2)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjGaVkNxy)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjG6Yo6ir)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjG6irBoL)
