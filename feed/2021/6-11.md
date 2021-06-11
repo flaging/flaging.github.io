@@ -352,3 +352,17 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/1715118170/KjIigce5D)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KjIAdAT5a)
+
+### [广州有数！核酸筛查3238万人次，20秒直击核酸检测的这21天 - 21财经](https://m.21jingji.com/article/20210611/herald/d0952573e1e91cea05ab2512789bd2b6.html)
+
+### [2021年6月11日新闻联播文字版](http://www.xwlb.net.cn/20090.html)
+
+### [国务院办公厅关于印发国务院2021年度立法工作计划的通知（国办发〔2021〕21号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/11/content_5617194.htm)
+
+### [
+【Rust日报】2021-06-11  Linux 基金会的免费 Web Assembly 课程学习视频 - Rust语言中文社区
+](https://rustcc.cn/article?id=54cf2c5e-6db1-4786-8535-c09680942816)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjJFQ3BGO)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjJtbhd6G)
