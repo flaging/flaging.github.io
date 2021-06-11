@@ -174,3 +174,35 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [电商系统中的ID是如何生成的](https://www.infoq.cn/article/fc843a99098162fe74522c14c)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjEXkcWMz)
+
+### [史上最严苛汽车安全碰撞测试，荣威iMAX8斩获历年MPV榜最高分！ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-11-4)
+
+### [【国家发展改革委环资司在浙江杭州召开部分地区用能权交易座谈会】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210611_1283102.html)
+
+### [【国家发展改革委召开党史学习教育工作交流暨推进会议】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210611_1283101.html)
+
+### [【关于2021年新能源上网电价政策答记者问】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210611_1283100.html)
+
+### [【国家出台2021年新能源上网电价政策推动新能源产业高质量发展】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210611_1283099.html)
+
+### [[一些随想和总结] 购物并没有使我快乐 - V2EX](https://www.v2ex.com/t/782794)
+
+### [iCloud+服务好像不会在大陆推出 - V2EX](https://www.v2ex.com/t/782732)
+
+### [有没有前端带佬讲一下 Vue3 现在值不值得迁移， ts 支持相关的轮子完善了吗？ - V2EX](https://www.v2ex.com/t/782682)
+
+### [
+美国家地理学会地图政策的重要变更：新增一个大洋](http://jandan.net/p/109092)
+
+### [
+今日好价 210611](http://jandan.net/p/109090)
+
+### [硬核观察|硬核观察 #299 美国人在 2020 年获得了 41 亿美元的比特币利润](https://linux.cn/article-13476-1.html?utm_source=rss&utm_medium=rss)
+
+### [微服务架构中的两款流量防卫兵](https://www.infoq.cn/article/ab81098b982e49cbf70b25110)
+
+### [ONES CTO 冯斌 | 项目管理是软件研发的刚需](https://www.infoq.cn/article/b28dc483ae3b31c23bc9e178e)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjFo08r7b)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjFlwqJcY)
