@@ -292,3 +292,17 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [真正的无人驾驶汽车的梦想，为何正在慢慢破灭？-InfoQ](https://www.infoq.cn/article/lidwAMCOebGhukkPqEcZ)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KjHlQ3Now)
+
+### [iPadOS 15 上手体验：除了超大的小组件、快速笔记，今年还有这些新变化 - 少数派](https://sspai.com/post/67179)
+
+### [【2021年6月11日24时起国内成品油价格按机制上调】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210611_1283173.html)
+
+### [苹果 M1 芯片爆漏洞，想修复就必须重新设计-InfoQ](https://www.infoq.cn/article/VoxNoJu3lKlz9p1JFZUY)
+
+### [亚马逊创始人贝索斯将于7月5日卸任，由云计算负责人接任-InfoQ](https://www.infoq.cn/article/BpD0VOJVMd2BerktVdwV)
+
+### [华为云TechWave全球技术峰会（人工智能&数据），四大看点提前剧透-InfoQ](https://www.infoq.cn/article/X7xrBNVWGZLh46DgW5Gu)
+
+### [半年两次职位调整，余承东确认掌舵华为智能汽车业务-InfoQ](https://www.infoq.cn/article/J6NGmueXxAE37TPwb9hD)
+
+### [如何理解WeakMap？ - SegmentFault 思否](https://segmentfault.com/a/1190000040163271)
