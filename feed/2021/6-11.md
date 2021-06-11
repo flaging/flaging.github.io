@@ -314,3 +314,41 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=920)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KjHYT55mQ)
+
+### [本周看什么丨最近值得一看的 7 部作品 - 少数派](https://sspai.com/post/67185)
+
+### [端午节准备在家直播写代码~ - V2EX](https://www.v2ex.com/t/782886)
+
+### [2021年6月11日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1883188.shtml)
+
+### [ի--ͼ20210611Ȣ˱Լõķ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157566)
+
+### [爱奇艺 M2VOC 挑战赛6篇论文被 ICASSP 2021 收录，少样本语音克隆取得重要成果-InfoQ](https://www.infoq.cn/article/dIBQC9kStvxrlFITIeNA)
+
+### [手撸Spring框架，设计与实现资源加载器，从Spring.xml解析和注册Bean对象 - SegmentFault 思否](https://segmentfault.com/a/1190000040153694)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjJaxfZZi)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjJaczT1U)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjIx7uvX6)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjIuweK0H)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjItn0VYY)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjIssw9Qf)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjIrgFUAv)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjJhx488R)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjJ4PdPJU)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjITiupJI)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjIuTzfEf)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjIigce5D)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KjIAdAT5a)
