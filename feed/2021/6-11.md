@@ -206,3 +206,13 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/1402400261/KjFo08r7b)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjFlwqJcY)
+
+### [Apple Design Award 年度设计大奖揭晓，这 12 款 App 是今年的赢家 - 少数派](https://sspai.com/post/67165)
+
+### [Flutter UI自动化测试技术方案选型与探索-InfoQ](https://www.infoq.cn/article/3HlIqeKMs4OaOGbALqSy)
+
+### [每日互动CTO谈数据中台（下）：从演进、经验到规划](https://www.infoq.cn/article/fbe4f70c36be0412589630efb)
+
+### [汽车之家：基于 Flink + Iceberg 的湖仓一体架构实践](https://www.infoq.cn/article/6c3d36372fd1febc7e3ea7abc)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjFK7citx)
