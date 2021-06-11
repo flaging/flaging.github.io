@@ -128,3 +128,25 @@ Google AI Blog: FRILL: On-Device Speech Representations using TensorFlow-Lite
 ### [Sina Visitor System](https://weibo.com/1642628345/KjEl4yvXm)
 
 ### [科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)
+
+### [派早报：Apple Design Awards 2021 获奖名单公布、三星推出业界最小的 50MP CMOS 等 - 少数派](https://sspai.com/post/67170)
+
+### [沪漂 5 年最孤独的时刻 - V2EX](https://www.v2ex.com/t/782760)
+
+### [我不买 iPhone 的理由，只因为不能通话录音 - V2EX](https://www.v2ex.com/t/782725)
+
+### [GitLab 国内版要来了，不香么 - V2EX](https://www.v2ex.com/t/782683)
+
+### [V 站上用空气炸锅的小伙伴们，你们怎么清洗机器里面上方出风的那个地方的呀 - V2EX](https://www.v2ex.com/t/782597)
+
+### [Gartner APM 魔力象限技术解读——全量存储? No! 按需存储？YES!-InfoQ](https://www.infoq.cn/article/g2tN6f30A6txjkzKBOv5)
+
+### [MySQL 亿级数据分页的优化](https://www.infoq.cn/article/148fe5167a352c0cf7a681078)
+
+### [产品经理洞察：到2025年即服务的变化情况](https://www.infoq.cn/article/f162863557fd436518ef1bdc6)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjEyYdY1H)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjEwIfH7A)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjEua637c)
