@@ -117,3 +117,6 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KjPX15t8H)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KjPQxryfT)
+
+### [
+学习中间的休息非常重要：脑神经回放学习记忆的速度高了20倍](http://jandan.net/p/109084)
