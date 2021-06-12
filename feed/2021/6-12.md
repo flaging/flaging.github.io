@@ -169,3 +169,7 @@
 ### [硬核观察|硬核观察 #300 Linux 创始人怒斥反疫苗言论](https://linux.cn/article-13479-1.html?utm_source=rss&utm_medium=rss)
 
 ### [ի--ͼ20210612ǲӦñֵú](https://www.dapenti.com/blog/more.asp?name=xilei&id=157582)
+
+### [[D] Image Generators with Conditionally-Independent Pixel Synthesis (CIPS) by Anokhin et al. : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/ny5zbu/d_image_generators_with_conditionallyindependent/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjS6Yaiiz)
