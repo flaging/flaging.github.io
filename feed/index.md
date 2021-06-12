@@ -218,3 +218,9 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KjTi21JtH)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KjTm2fxoI)
+
+### [不解之迷系列（1）： 各种无脑黑的人是怎么想的？ - V2EX](https://www.v2ex.com/t/783105)
+
+### [今天被 iOS 这个功能震惊了 - V2EX](https://www.v2ex.com/t/783078)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjTTaeyyQ)
