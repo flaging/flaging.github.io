@@ -163,3 +163,7 @@
 
 ### [
 植物学家找到了加速或延缓番茄成熟的方法](http://jandan.net/p/108987)
+
+### [找不到自己每天活着的意义 - V2EX](https://www.v2ex.com/t/783089)
+
+### [硬核观察|硬核观察 #300 Linux 创始人怒斥反疫苗言论](https://linux.cn/article-13479-1.html?utm_source=rss&utm_medium=rss)
