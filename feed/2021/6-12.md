@@ -173,3 +173,13 @@
 ### [[D] Image Generators with Conditionally-Independent Pixel Synthesis (CIPS) by Anokhin et al. : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/ny5zbu/d_image_generators_with_conditionallyindependent/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjS6Yaiiz)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1318)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1317)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1316)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1315)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjSjKo9tx)
