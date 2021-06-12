@@ -120,3 +120,15 @@
 
 ### [
 学习中间的休息非常重要：脑神经回放学习记忆的速度高了20倍](http://jandan.net/p/109084)
+
+### [具透 | 最美全局主题上线，动效更有呼吸感 ：Android 12 Beta 2 更新详解 - 少数派](https://sspai.com/post/67180)
+
+### [搜狗，腾讯，讯飞输入法都下架了 - V2EX](https://www.v2ex.com/t/783055)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjQd5pVUM)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjQcvqfy3)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjQb56ocg)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KjQgGcZHJ)
