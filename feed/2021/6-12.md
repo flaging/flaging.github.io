@@ -132,3 +132,9 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KjQb56ocg)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KjQgGcZHJ)
+
+### [AirPods 音质是真的差啊。。 - V2EX](https://www.v2ex.com/t/783021)
+
+### [这些node开源工具你值得拥有(上) - SegmentFault 思否](https://segmentfault.com/a/1190000040160836)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjQtQlRDm)
