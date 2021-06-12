@@ -183,3 +183,13 @@
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1315)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjSjKo9tx)
+
+### [Apple 宣布 2021 Apple Design Awards 获奖者 - Mac玩儿法](https://www.waerfa.com/apple-announces-winners-of-the-2021-apple-design-awards)
+
+### [分享笔记: 为你的金句秒出一张精美排版图 - Mac玩儿法](https://www.waerfa.com/sharenote)
+
+### [苹果这样不允许设备的操作系统降级，是否侵犯了消费者的权益？ - V2EX](https://www.v2ex.com/t/783073)
+
+### [2021年6月12日新闻联播文字版](http://www.xwlb.net.cn/20109.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjSvk4SLC)
