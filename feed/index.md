@@ -26,3 +26,21 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KjNqRy3eM)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjNBwA5Fl)
+
+### [ICML 2021 Long Oral: 顺序不可知的交叉熵函数 - 知乎](https://zhuanlan.zhihu.com/p/373478460)
+
+### [电脑存储快满了, 删除了好多不认识的目录. 会有啥影响不 - V2EX](https://www.v2ex.com/t/782923)
+
+### [游戏机购买 - V2EX](https://www.v2ex.com/t/782892)
+
+### [话说就没人吐槽一下微信的更新记录么？ - V2EX](https://www.v2ex.com/t/782888)
+
+### [如何与代码风格很差（个人觉得）的同事共事？ - V2EX](https://www.v2ex.com/t/782847)
+
+### [100 多平 是 AP 好 还是 mesh - V2EX](https://www.v2ex.com/t/782842)
+
+### [
+【Rust日报】2021-06-12 - Rust语言中文社区
+](https://rustcc.cn/article?id=1f4d1da3-ee4b-4239-9cf9-9c41750e34cf)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjNZIbntW)
