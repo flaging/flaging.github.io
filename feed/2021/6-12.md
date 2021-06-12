@@ -107,3 +107,13 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KjPzcsDI1)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KjPMftRd3)
+
+### [Windows 为什么这么多年坚持不提升下文件管理器的效率呢？ - V2EX](https://www.v2ex.com/t/783038)
+
+### [还有人记得当年在 V2EX 发《我开发了一款白酒》的程序员吗，融资数亿了 - V2EX](https://www.v2ex.com/t/783022)
+
+### [剪头发如何防止被忽悠充值 - V2EX](https://www.v2ex.com/t/783013)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KjPX15t8H)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjPQxryfT)
