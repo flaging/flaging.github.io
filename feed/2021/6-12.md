@@ -205,3 +205,16 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KjSI1yWiy)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjT6uCieO)
+
+### [Barbershop: Try Different Hairstyles and Hair Colors from Pictures (GANs+) : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/ny99fu/barbershop_try_different_hairstyles_and_hair/)
+
+### [
+非常罕见 潜水员被座头鲸误吞，又被吐了出来](http://jandan.net/p/109099)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjTGo1NVt)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjTuPoemp)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjTi21JtH)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KjTm2fxoI)
