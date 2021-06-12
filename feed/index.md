@@ -52,3 +52,26 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KjOoaFiwM)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KjOH4BIoP)
+
+### [有人总结了70多个Python精选项目：再也不用去GitHub、Reddit大海捞针了 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-12-3)
+
+### [我开源的项目被实习过的公司要求下架，对方还威胁要起诉我 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-12-2)
+
+### [ICCV 2021审稿结果出炉，有人已总结出了一份Rebuttal写作指南 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-12)
+
+### [长途跋涉得返璞归真——旅行摄影创作指南 ｜ 少数派会员  π+Prime](https://sspai.com/post/66591)
+
+### [
+今日好价：卡西欧小空霸](http://jandan.net/p/109097)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjP2AEX9c)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjOZ9D4Sm)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjOW53NBW)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjOM86L0y)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KjOXl4oEY)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KjOVK8i4i)
