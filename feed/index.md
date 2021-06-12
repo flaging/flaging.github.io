@@ -152,3 +152,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KjQSXCxSd)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjQRO62bh)
+
+### [LAN MPI Cluster help : HPC](https://www.reddit.com/r/HPC/comments/ny3enr/lan_mpi_cluster_help/)
+
+### [高考完了，大家帮忙参谋下专业怎么选 - V2EX](https://www.v2ex.com/t/783083)
+
+### [mbp 外接 u2720qm 4k 显示器字体有锯齿 - V2EX](https://www.v2ex.com/t/783056)
+
+### [怎么了，都在向苹果看齐吗！ - V2EX](https://www.v2ex.com/t/783051)
