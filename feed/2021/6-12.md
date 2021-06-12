@@ -75,3 +75,27 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/KjOXl4oEY)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KjOVK8i4i)
+
+### [5 刀买 1000+ 款独立游戏？不冲吗？ - 小众软件](https://www.appinn.com/indie-bundle-for-palestinian-aid/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5895/)
+
+### [搜狗输入法下架了，大家平时都习惯用哪个输入法呢？ - V2EX](https://www.v2ex.com/t/783039)
+
+### [Linux C++ 后台开发能用 M1 吗？ - V2EX](https://www.v2ex.com/t/782959)
+
+### [软件开发|Python 3.9 如何修复装饰器并改进字典](https://linux.cn/article-13477-1.html?utm_source=rss&utm_medium=rss)
+
+### [维护开源项目太难？Redis 之父支招：做你想做的 - SegmentFault 思否](https://segmentfault.com/a/1190000040166670)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjPeSa96P)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjP7nr1PV)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjP7lkLoY)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KjP6dgG4l)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjPaSxKIK)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KjP76uScr)
