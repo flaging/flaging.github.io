@@ -180,3 +180,7 @@ Rust实现trait多态 - Rust语言中文社区
 ### [2021年6月13日新闻联播文字版](http://www.xwlb.net.cn/20126.html)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kk1VOFbvX)
+
+### [pip install 怎么都用不了 - V2EX](https://www.v2ex.com/t/783219)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kk28D0EdL)
