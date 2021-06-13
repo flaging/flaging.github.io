@@ -174,3 +174,9 @@ Rust实现trait多态 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kk1xt0f2F)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kk1KTlVq6)
+
+### [In case you find this useful to have on the background while working/coding (I do). : OpenCL](https://www.reddit.com/r/OpenCL/comments/nywnyb/in_case_you_find_this_useful_to_have_on_the/)
+
+### [2021年6月13日新闻联播文字版](http://www.xwlb.net.cn/20126.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kk1VOFbvX)
