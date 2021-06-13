@@ -122,3 +122,11 @@ Rust实现trait多态 - Rust语言中文社区
 ### [你以为的冰箱异味，可不止是异味 - 少数派](https://sspai.com/post/67175)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kk0ppdVLY)
+
+### [自学 Python 可行性高吗 - V2EX](https://www.v2ex.com/t/783175)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kk0GwnTj7)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kk0FJ4khR)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kk0E1zKMb)
