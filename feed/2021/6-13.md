@@ -64,3 +64,7 @@ Rust实现trait多态 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjYd1apL7)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjXOKg7Ul)
+
+### [盯紧那个嫌疑人：写给非专业人士的尾随跟踪防范指南 - 少数派](https://sspai.com/post/67083)
+
+### [百分点数据科学实验室：烟草行业市场信息采集数据质量评估体系研究探索](https://www.infoq.cn/article/963bbbb52963ac02336873ea5)
