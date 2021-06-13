@@ -98,3 +98,5 @@ Rust实现trait多态 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjYZd9929)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KjYXEzPoE)
+
+### [一文说尽 Linux 系统的 swap 交换空间](https://www.infoq.cn/article/746397bf71471a33497a3c172)
