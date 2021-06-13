@@ -84,3 +84,17 @@ Rust实现trait多态 - Rust语言中文社区
 ### [5000字 | 详解 Java 中的 21 种锁](https://www.infoq.cn/article/bd25d0b34e2c9b140ee90441e)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjYBj1eNw)
+
+### [《数据安全法》正式发布，解读新法的要点、亮点与疑点 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-13-4)
+
+### [机器人真·涨姿势了：比肩人类抓取能力，上海交大、非夕科技联合提出全新方法AnyGrasp | 机器之心](https://www.jiqizhixin.com/articles/2021-06-13-3)
+
+### [华人一作占半数，陶大程等人上榜，CVPR公布32篇最佳论文候选 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-13-2)
+
+### [20亿参数，大型视觉Transformer来了，刷新ImageNet Top1 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-13)
+
+### [软件开发|15 个提高工作效率的 VS Code 键盘快捷键](https://linux.cn/article-13481-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjYZd9929)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KjYXEzPoE)
