@@ -80,3 +80,7 @@ Rust实现trait多态 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjYoOb2Lq)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KjYnM756I)
+
+### [5000字 | 详解 Java 中的 21 种锁](https://www.infoq.cn/article/bd25d0b34e2c9b140ee90441e)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjYBj1eNw)
