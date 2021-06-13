@@ -196,3 +196,5 @@ Rust实现trait多态 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kk2IwxDW8)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kk2x2cmB7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kk2VkwSaL)
