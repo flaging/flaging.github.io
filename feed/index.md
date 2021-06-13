@@ -52,3 +52,15 @@ Rust实现trait多态 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KjX1WlkTO)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KjXEximMY)
+
+### [并发编程-AQS介绍和原理分析(上)](https://www.infoq.cn/article/d35c71eb30dee7ee795da2827)
+
+### [GrowingIO 增长平台产研项目管理实践](https://www.infoq.cn/article/681e2e4891183c0a98b34e8ec)
+
+### [技术实践丨体验量子神经网络在自然语言处理中的应用](https://www.infoq.cn/article/498dbfa327a9f99cca5a95b26)
+
+### [如何解决回归任务数据不均衡的问题？](https://www.infoq.cn/article/6699a852293892f4710dd9314)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjYd1apL7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KjXOKg7Ul)
