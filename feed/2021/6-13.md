@@ -154,3 +154,23 @@ Rust实现trait多态 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Kk0WChEKC)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kk1lQgHZM)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1322)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1321)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1320)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1319)
+
+### [走路能减肥吗 - V2EX](https://www.v2ex.com/t/783227)
+
+### [为什么 mysql 要搞出 having where on 三个关键字？ - V2EX](https://www.v2ex.com/t/783215)
+
+### [iPad Pro 的妙控键盘（带触摸板的那款）实际的使用体验如何 ？ - V2EX](https://www.v2ex.com/t/783170)
+
+### [ի--ͼ20210613Ҳ޷ǽ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157597)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kk1xt0f2F)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kk1KTlVq6)
