@@ -98,3 +98,8 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kk3jZuXXE)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kk3jRqLQ6)
+
+### [
+今日好价 210614](http://jandan.net/p/109105)
+
+### [HTTP 长连接和短连接](https://www.infoq.cn/article/19b1a0d5cf16cdcb8dd1e71d0)
