@@ -245,3 +245,11 @@ assert_e!无法区分 &str 类型和 String 类型 吗？ - Rust语言中文社�
 墨西哥城连环杀手家中找到的证据显示有17个受害者](http://jandan.net/p/109106)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkejrdOs8)
+
+### [Preforming well in training but very poor performance in testing. : pytorch](https://www.reddit.com/r/pytorch/comments/nzxfd8/preforming_well_in_training_but_very_poor/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kkesz2BQL)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkepdDxam)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kkenx4EhD)
