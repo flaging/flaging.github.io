@@ -237,3 +237,9 @@ assert_e!无法区分 &str 类型和 String 类型 吗？ - Rust语言中文社�
 ### [Sina Visitor System](https://weibo.com/1715118170/Kkcd7iO6R)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkbXCF54A)
+
+### [
+人(一般状态下)的基线瞳孔越大，智力越高](http://jandan.net/p/109102)
+
+### [
+墨西哥城连环杀手家中找到的证据显示有17个受害者](http://jandan.net/p/109106)
