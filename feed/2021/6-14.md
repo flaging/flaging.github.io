@@ -253,3 +253,9 @@ assert_e!无法区分 &str 类型和 String 类型 吗？ - Rust语言中文社�
 ### [Sina Visitor System](https://weibo.com/1402400261/KkepdDxam)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kkenx4EhD)
+
+### [State of the art in Face Swapping! (Thank you TenCent) : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/nzyfx6/state_of_the_art_in_face_swapping_thank_you/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkePSCuJh)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkeHz2Xhw)
