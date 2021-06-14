@@ -143,3 +143,7 @@
 
 ### [
 简单的血液测试24小时内确定靶向药物是否有效](http://jandan.net/p/109082)
+
+### [想二代无线版换个 AirPods Pro，某鱼一搜吓死人 - V2EX](https://www.v2ex.com/t/783255)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kk9ydhkJM)
