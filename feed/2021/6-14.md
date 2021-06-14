@@ -103,3 +103,29 @@
 今日好价 210614](http://jandan.net/p/109105)
 
 ### [HTTP 长连接和短连接](https://www.infoq.cn/article/19b1a0d5cf16cdcb8dd1e71d0)
+
+### [ActionsFlow - 高自定义，可替代 IFTTT 的自动化工作流工具，基于 Github Actions - 小众软件](https://www.appinn.com/actionsflow/)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1326)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1325)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1324)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1323)
+
+### [不给权限不让用是不是属于开发者的权利？ - V2EX](https://www.v2ex.com/t/783290)
+
+### [个人网站全新改版，界面比之前更清新更耐看，分享一下 - V2EX](https://www.v2ex.com/t/783230)
+
+### [Windows 10 家庭版和专业版将在 2025 年 10 月 14 日结束支持 - V2EX](https://www.v2ex.com/t/783228)
+
+### [SpringCloud Gateway 路由转发性能优化](https://www.infoq.cn/article/bebacc42bad0712638ba3231e)
+
+### [SpringCloud Gateway 路由数量对性能的影响研究](https://www.infoq.cn/article/d39fde1ce527ec2c3c6750c4c)
+
+### [🌏【架构师指南】带你分析认识缓存穿透/雪崩/击穿](https://www.infoq.cn/article/98bf087574f4c13fb3b5e8c23)
+
+### [图解 SQL，这也太形象了吧！](https://www.infoq.cn/article/844075da5e16906940726f491)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kk81ZF66j)
