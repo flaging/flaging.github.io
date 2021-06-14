@@ -179,3 +179,7 @@
 ### [monyhar 浏览器 - V2EX](https://www.v2ex.com/t/783294)
 
 ### [继运营商屏蔽后 Cloudflare Warp+ 被教育网也屏蔽了？ - V2EX](https://www.v2ex.com/t/783276)
+
+### [Performance issues with torch.norm : pytorch](https://www.reddit.com/r/pytorch/comments/nzke5l/performance_issues_with_torchnorm/)
+
+### [硬核观察|硬核观察 #302 Linux、Python 的 Freenode IRC 频道也被关闭了](https://linux.cn/article-13485-1.html?utm_source=rss&utm_medium=rss)
