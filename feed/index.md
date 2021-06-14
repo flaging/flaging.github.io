@@ -147,3 +147,15 @@
 ### [想二代无线版换个 AirPods Pro，某鱼一搜吓死人 - V2EX](https://www.v2ex.com/t/783255)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kk9ydhkJM)
+
+### [youtube 的自动翻译功能哪儿去了？ - V2EX](https://www.v2ex.com/t/783273)
+
+### [分享|如何在 Ubuntu Linux 上安装 Code Blocks IDE](https://linux.cn/article-13484-1.html?utm_source=rss&utm_medium=rss)
+
+### [软件开发|完善的 API 的 4 个基本特征](https://linux.cn/article-13483-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kk9UvvuIF)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kk9TECXJ6)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kk9zs5YDq)
