@@ -135,3 +135,11 @@
 ### [苹果 M1 mba 自带的 USB-C 充电线是没有数据传输视频信号能力的， Only 充电。 - V2EX](https://www.v2ex.com/t/783293)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kk8qio44e)
+
+### [网站被攻击几天时间收到谷歌云 3 万美金的流量账单，怎么办？ - V2EX](https://www.v2ex.com/t/783287)
+
+### [
+科学家弄清了地震前地下电磁场异常爆发的机制](http://jandan.net/p/109039)
+
+### [
+简单的血液测试24小时内确定靶向药物是否有效](http://jandan.net/p/109082)
