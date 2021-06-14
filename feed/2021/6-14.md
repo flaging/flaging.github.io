@@ -129,3 +129,9 @@
 ### [图解 SQL，这也太形象了吧！](https://www.infoq.cn/article/844075da5e16906940726f491)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kk81ZF66j)
+
+### [WWDC21 发布会上，Apple 没告诉你的那些事 - 少数派](https://sspai.com/post/67215)
+
+### [苹果 M1 mba 自带的 USB-C 充电线是没有数据传输视频信号能力的， Only 充电。 - V2EX](https://www.v2ex.com/t/783293)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kk8qio44e)
