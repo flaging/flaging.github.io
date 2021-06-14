@@ -183,3 +183,13 @@
 ### [Performance issues with torch.norm : pytorch](https://www.reddit.com/r/pytorch/comments/nzke5l/performance_issues_with_torchnorm/)
 
 ### [硬核观察|硬核观察 #302 Linux、Python 的 Freenode IRC 频道也被关闭了](https://linux.cn/article-13485-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【Rust日报】2021-06-14 Rust中类型的未开发的潜力 - Rust语言中文社区
+](https://rustcc.cn/article?id=b8095ce7-6112-4c35-9eca-16dbfc5cac26)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkaYY9RqX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkbaIy50c)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkaLSafz1)
