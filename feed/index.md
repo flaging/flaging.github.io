@@ -270,3 +270,11 @@ Rust调用Rust编译的DLL出错 - Rust语言中文社区
 ### [Faster to do operations on two int32 tensors vs one uint8 and one int32? : pytorch](https://www.reddit.com/r/pytorch/comments/o0b62o/faster_to_do_operations_on_two_int32_tensors_vs/)
 
 ### [Analyzing the Assembly code : OpenCL](https://www.reddit.com/r/OpenCL/comments/o0b8sr/analyzing_the_assembly_code/)
+
+### [钱颖一对话彼得·蒂尔：庆幸没有投资任何清洁能源技术公司，但我应该投资特斯拉 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-9)
+
+### [王传福：比亚迪正与小米洽谈汽车业务，「劝雷军勿造车」系误读 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-8)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkjWsqFwP)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkjTVrQdD)
