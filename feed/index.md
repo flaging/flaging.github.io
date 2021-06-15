@@ -344,3 +344,28 @@ Rust调用Rust编译的DLL出错 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/Kklfc4VMB)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KklcV7UIq)
+
+### [中国互联网超爱读错的单词，不服来战！抽一个小米无线充电宝 - V2EX](https://www.v2ex.com/t/783554)
+
+### [Day One 于 2021.06.14 被大厂收购， web 端正在开发 ing，数据自由导入导出并迁移其他平台，其创始人兴奋告诉用户“他现在比以往任何时候有信心让用户数据被永久保存，也不担心未来 Day One 无人维护” - V2EX](https://www.v2ex.com/t/783391)
+
+### [
+实体表情模块：为何有些人想装一条会动的机械狐狸尾](http://jandan.net/p/109103)
+
+### [
+万物为何存在：粲介子的正反粒子竟是终极谜题的钥匙](http://jandan.net/p/109104)
+
+### [
+与贝佐斯同游太空的“机票”拍出2800万美元](http://jandan.net/p/109108)
+
+### [
+今日带货：SONY电视专场 [更新]](http://jandan.net/p/109089)
+
+### [
+今日好价：海鸥机械表](http://jandan.net/p/109107)
+
+### [
+captured variable cannot escape `FnMut` closure body - Rust语言中文社区
+](https://rustcc.cn/article?id=ee28ca6f-4f4d-486b-b1af-da0ea1b72862)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KklM4BkUP)
