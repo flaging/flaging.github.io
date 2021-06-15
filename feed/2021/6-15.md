@@ -385,3 +385,5 @@ Google AI Blog: A Step Toward More Inclusive People Annotations in the Open Imag
 ### [Sina Visitor System](https://weibo.com/1402400261/KknI6gGH8)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KknJJ5Rnf)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KknTHyE7b)
