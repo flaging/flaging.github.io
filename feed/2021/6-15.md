@@ -369,3 +369,5 @@ captured variable cannot escape `FnMut` closure body - Rust语言中文社区
 ](https://rustcc.cn/article?id=ee28ca6f-4f4d-486b-b1af-da0ea1b72862)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KklM4BkUP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkmaaljdP)
