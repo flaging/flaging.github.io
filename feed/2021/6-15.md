@@ -220,3 +220,29 @@ Rust调用Rust编译的DLL出错 - Rust语言中文社区
 ### [7 年前的漏洞波及 Linux发行版，RHEL 8 和 Ubuntu 20.04 均受影响 - SegmentFault 思否](https://segmentfault.com/a/1190000040175518)
 
 ### [源码篇：Flutter Bloc背后的思想，一篇纠结的文章  - SegmentFault 思否](https://segmentfault.com/a/1190000040176214)
+
+### [如何让机器听起来更像人？CMU博士论文探究可控文本生成 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-7)
+
+### [你写的ML代码占多少内存？这件事很重要，但很多人还不懂 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-6)
+
+### [Hinton的胶囊网络不太行？CVPR Oral论文：不比卷积网络更「强」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-5)
+
+### [最无聊的系统换代？三个关键词带你看懂 macOS Monterey - 少数派](https://sspai.com/post/67224)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5898/)
+
+### [今年 29，感觉对一切都不感兴趣，生活挺无聊的 - V2EX](https://www.v2ex.com/t/783482)
+
+### [树莓派|使用 Cockpit 管理你的树莓派](https://linux.cn/article-13487-1.html?utm_source=rss&utm_medium=rss)
+
+### [樊登读书董事长郭俊杰：如何通过极致创新，实现企业业务高速增长？-InfoQ](https://www.infoq.cn/article/l7X2kSE7cM2DPTMMj5dH)
+
+### [为什么Web应用程序比独立应用程序更受欢迎-InfoQ](https://www.infoq.cn/article/G8cAitQytDNt2QktItEq)
+
+### [数字化转型迷思-InfoQ](https://www.infoq.cn/article/6Ncm4WEIqdZFi07H0hDA)
+
+### [亚马逊、GitHub、Reddit 等全球性网站无法登陆，带火了一家云计算公司-InfoQ](https://www.infoq.cn/article/0sm4yoiul2iRRqZWavdr)
+
+### [英伟达 CEO 黄仁勋对收购 Arm 信心满满，欧盟却表示十分担忧-InfoQ](https://www.infoq.cn/article/jqpjH5EsukkO7OblUauu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkiMx67HS)
