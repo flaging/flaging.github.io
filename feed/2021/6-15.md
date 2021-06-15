@@ -326,3 +326,21 @@ Rust调用Rust编译的DLL出错 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KkkWS8ctK)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkkZ39t7t)
+
+### [2021年6月15日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1883951.shtml)
+
+### [ի--ͼ20210615һ˼άʽȷʵҪ̭ˣȷģʽǵ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157639)
+
+### [2021年6月15日新闻联播文字版](http://www.xwlb.net.cn/20160.html)
+
+### [硬核观察|硬核观察 #303 硬派，美国卡车司机工会面对勒索软件攻击拒付赎金](https://linux.cn/article-13489-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kkl5VkSq0)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kkl5xnEXf)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KklnDAZ9B)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kklfc4VMB)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KklcV7UIq)
