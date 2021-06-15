@@ -411,3 +411,7 @@ Google AI Blog: A Step Toward More Inclusive People Annotations in the Open Imag
 ### [阿里飞猪个性化搜索排序探索实践-InfoQ](https://www.infoq.cn/article/LJBCXkjFcQCQg6fS3oPS)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kkowt6NhS)
+
+### [
+【Rust日报】2021-06-15 - Rust语言中文社区
+](https://rustcc.cn/article?id=e7c3db75-37e6-461e-8753-6e8dee2dd582)
