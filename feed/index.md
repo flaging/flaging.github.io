@@ -278,3 +278,25 @@ Rust调用Rust编译的DLL出错 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KkjWsqFwP)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KkjTVrQdD)
+
+### [彻底读懂量子计算机背后的原理 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-11)
+
+### [2026 年全球农业机器人市场规模将翻两番，无人机增长率最高 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-10)
+
+### [女生请进 S6 会导致皮肤变差 - V2EX](https://www.v2ex.com/t/783505)
+
+### [中共中央 国务院转发《中央宣传部、司法部关于开展法治宣传教育的第八个五年规划(2021－2025年)》_中央有关文件_中国政府网](http://www.gov.cn/zhengce/2021-06/15/content_5618254.htm)
+
+### [新闻|自主安全+优质体验，优麒麟这场发布会解决你的操作系统难题！](https://linux.cn/article-13488-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkkK4a30L)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkkrWozJR)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkknPriiV)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkkjkqcgG)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkkAUg72I)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkkcrpVLi)
