@@ -393,3 +393,21 @@ Google AI Blog: A Step Toward More Inclusive People Annotations in the Open Imag
 ### [Sina Visitor System](https://weibo.com/1642628345/Kko8s7IDg)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kko7khW5x)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737067)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737078)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737076)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737064)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737080)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737088)
+
+### [青年图摘0616!真的危险，不要养娃](https://qingniantuzhai.com/qing-nian-tu-zhai-0616-3/)
+
+### [阿里飞猪个性化搜索排序探索实践-InfoQ](https://www.infoq.cn/article/LJBCXkjFcQCQg6fS3oPS)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kkowt6NhS)
