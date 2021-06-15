@@ -96,3 +96,7 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Kkh707HCH)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kkhs4fsdk)
+
+### [「SQL数据分析系列」2. 创建和使用数据库](https://www.infoq.cn/article/37c654ce42f5a2f6e220e40fb)
+
+### [【经验分享】RTC 技术系列之视频编解码](https://www.infoq.cn/article/f656a16133812a3b46f2021cc)
