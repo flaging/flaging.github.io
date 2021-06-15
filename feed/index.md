@@ -26,3 +26,13 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/Kkg68htPS)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kkg42CumC)
+
+### [派早报：Beats Studio Buds 发布，微信内测移动设备「副设备登录」功能等 - 少数派](https://sspai.com/post/67229)
+
+### [统信UOS主创张磊：为什么我们和 openEuler 一拍即合？-InfoQ](https://www.infoq.cn/article/PZTsaH0f0LsDHEH7x1Il)
+
+### [Trello个人生产力简易指南](https://www.infoq.cn/article/1f582cf0d09106253a9d1a10b)
+
+### [CSS技巧 | 前端开发需要知道的 10 个 CSS 技巧](https://www.infoq.cn/article/2cff6d9799d7880849a5bfde3)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kkghc7LLL)
