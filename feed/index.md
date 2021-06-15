@@ -264,3 +264,9 @@ Rust调用Rust编译的DLL出错 - Rust语言中文社区
 ](https://rustcc.cn/article?id=22c2439d-b778-4e78-b733-250d316711a5)
 
 ### [Sina Visitor System](https://weibo.com/5722964389/KkjpzwSTV)
+
+### [干货十足，即刻开玩：Xbox & Bethesda 发布会 27 款新游盘点 - 少数派](https://sspai.com/post/67219)
+
+### [Faster to do operations on two int32 tensors vs one uint8 and one int32? : pytorch](https://www.reddit.com/r/pytorch/comments/o0b62o/faster_to_do_operations_on_two_int32_tensors_vs/)
+
+### [Analyzing the Assembly code : OpenCL](https://www.reddit.com/r/OpenCL/comments/o0b8sr/analyzing_the_assembly_code/)
