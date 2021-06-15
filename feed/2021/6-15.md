@@ -375,3 +375,5 @@ captured variable cannot escape `FnMut` closure body - Rust语言中文社区
 ### [
 Google AI Blog: A Step Toward More Inclusive People Annotations in the Open Images Extended Dataset
 ](http://feedproxy.google.com/~r/blogspot/gJZg/~3/KvfTLJdCXrI/a-step-toward-more-inclusive-people.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KknF9FS47)
