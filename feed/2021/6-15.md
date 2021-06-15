@@ -252,3 +252,15 @@ Rust调用Rust编译的DLL出错 - Rust语言中文社区
 ### [国务院关于同意将安徽省黟县列为国家历史文化名城的批复（国函〔2021〕64号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/15/content_5617936.htm)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kkj0ZDtha)
+
+### [一个人追求极简，我把很多用不上的东西都卖掉了。 - V2EX](https://www.v2ex.com/t/783446)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=580)
+
+### [国务院办公厅关于文化市场综合行政执法有关事项的通知（国办函〔2021〕62号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/15/content_5617942.htm)
+
+### [
+如何保存new时传入的类型以作后续使用 - Rust语言中文社区
+](https://rustcc.cn/article?id=22c2439d-b778-4e78-b733-250d316711a5)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KkjpzwSTV)
