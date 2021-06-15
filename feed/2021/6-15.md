@@ -36,3 +36,9 @@
 ### [CSS技巧 | 前端开发需要知道的 10 个 CSS 技巧](https://www.infoq.cn/article/2cff6d9799d7880849a5bfde3)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kkghc7LLL)
+
+### [
+浙江大学招聘Rust实习生/工程师 - Rust语言中文社区
+](https://rustcc.cn/article?id=9ff6145e-fb6a-4dfa-b52a-31d8749f4411)
+
+### [setInterval 和 hooks 撞在一起，翻车了~](https://www.infoq.cn/article/14abe33d78fbe951f9742f96b)
