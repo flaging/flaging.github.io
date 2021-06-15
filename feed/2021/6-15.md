@@ -246,3 +246,9 @@ Rust调用Rust编译的DLL出错 - Rust语言中文社区
 ### [英伟达 CEO 黄仁勋对收购 Arm 信心满满，欧盟却表示十分担忧-InfoQ](https://www.infoq.cn/article/jqpjH5EsukkO7OblUauu)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkiMx67HS)
+
+### [正版软件 & 付费教程放「价」了：少数派 618 促销活动限时开启 - 少数派](https://sspai.com/post/67109)
+
+### [国务院关于同意将安徽省黟县列为国家历史文化名城的批复（国函〔2021〕64号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/15/content_5617936.htm)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kkj0ZDtha)
