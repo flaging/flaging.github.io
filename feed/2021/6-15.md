@@ -194,3 +194,29 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KkhT0D9q3)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkhQrEFQp)
+
+### [MIT类人机器人开始耍杂技了，看这个后空翻它漂亮么？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-4)
+
+### [分布外泛化，「经验风险最小化ERM」真的是最好的算法么？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-3)
+
+### [2021年加拿大工程院院士名单出炉，杨强、张大鹏、刘学等多位华人入选 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15-2)
+
+### [「导师要我的论文和别人共同一作」，Nature揭露论文署名乱象：没贡献为啥要署名？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-15)
+
+### [快乐飞旅行报告 04：我低估了沈阳人民对于「小份」的定义 - 少数派](https://sspai.com/post/66183)
+
+### [国行 Xbox Series X 体验 - V2EX](https://www.v2ex.com/t/783461)
+
+### [
+Rust调用Rust编译的DLL出错 - Rust语言中文社区
+](https://rustcc.cn/article?id=5aa722ed-d43c-4566-8ebc-3e3c1972aa70)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KkhUHxb9X)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkiewdMZ9)
+
+### [我与思否，七年之痒 - SegmentFault 思否](https://segmentfault.com/a/1190000040174392)
+
+### [7 年前的漏洞波及 Linux发行版，RHEL 8 和 Ubuntu 20.04 均受影响 - SegmentFault 思否](https://segmentfault.com/a/1190000040175518)
+
+### [源码篇：Flutter Bloc背后的思想，一篇纠结的文章  - SegmentFault 思否](https://segmentfault.com/a/1190000040176214)
