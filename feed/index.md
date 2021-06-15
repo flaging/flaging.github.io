@@ -42,3 +42,19 @@
 ](https://rustcc.cn/article?id=9ff6145e-fb6a-4dfa-b52a-31d8749f4411)
 
 ### [setInterval 和 hooks 撞在一起，翻车了~](https://www.infoq.cn/article/14abe33d78fbe951f9742f96b)
+
+### [通知播报助手 - 用语音自动读出手机通知：微信、QQ、来电、短信、蓝牙、电池状态等[Android] - 小众软件](https://www.appinn.com/tongzhi-bobao-zhushou-for-android/)
+
+### [极狐创始人兼CEO陈冉：中国企业参与开源的方法论和要点-InfoQ](https://www.infoq.cn/article/1zXsWtTdStmyflYC8APd)
+
+### [腾讯试点强制6点下班；马斯克回应漏税质疑：我不从特斯拉领工资；拜登撤销TikTok、微信禁令，但留了一手 | AI 周报-InfoQ](https://www.infoq.cn/article/YJGwOq0sWlvINY8Qf92Z)
+
+### [DeepMind科学家：强化学习足以满足通用AI需求-InfoQ](https://www.infoq.cn/article/Zcq3H6vxqQwWMofZ4Qlc)
+
+### [🌏【架构师指南】带你全面认识实现"三高"架构设计方案](https://www.infoq.cn/article/173094461c22bf5f4a422620c)
+
+### [[译] Android 的 Java 8 支持](https://www.infoq.cn/article/9f8f3f97b227bbf5885a92028)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkgF62ve3)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kkh3C0Ww3)
