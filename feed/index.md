@@ -158,3 +158,7 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/Kksndsgsa)
 
 ### [陈怡然、刘学等多位华人学者当选，ACM SIG新任主席名单出炉 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-6)
+
+### [高通量3D生物打印机速度创纪录，加快新药开发 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-7)
+
+### [东西我都买好了 | 想在 618 挑选到心仪的显示器，你可以从这两方面入手 - 少数派](https://sspai.com/post/67256)
