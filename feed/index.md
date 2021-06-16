@@ -58,3 +58,21 @@
 ### [计算机专业读研三年，到底值不值？](https://cuijiahua.com/blog/2021/06/life-83.html)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kkq63vU0o)
+
+### [
+美研究人员联名公开信：把广告植入消费者梦境的行为亟需监管](http://jandan.net/p/109110)
+
+### [
+今日带货：SONY PS5](http://jandan.net/p/109109)
+
+### [观点|开源路上的酸甜苦辣](https://linux.cn/article-13490-1.html?utm_source=rss&utm_medium=rss)
+
+### [【融云视角】沉浸式音频与通讯技术未来趋势](https://www.infoq.cn/article/78c8424b5603f49a181e0bcdd)
+
+### [文档代码同源](https://www.infoq.cn/article/0d79d506f47c416c4e3e143dd)
+
+### [敏捷绩效管理三剑客：OKR 、KPI、CFR](https://www.infoq.cn/article/38f1ddac395c20d57fb982922)
+
+### [实时音视频开发理论必备：如何省流量？视频高度压缩背后的预测技术](https://www.infoq.cn/article/a39a9bbee949f5ff387b57de8)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkqwopicV)
