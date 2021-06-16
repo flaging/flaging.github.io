@@ -156,3 +156,5 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KksrIElIA)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kksndsgsa)
+
+### [陈怡然、刘学等多位华人学者当选，ACM SIG新任主席名单出炉 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-6)
