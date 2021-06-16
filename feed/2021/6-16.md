@@ -124,3 +124,19 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KkrgZ9ePx)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KkrlbfABW)
+
+### [10+ 款新品、史低折扣……派商店 618 这些产品值得选购 - 少数派](https://sspai.com/post/67239)
+
+### [StackSocial 新 Mac 软件捆绑包，包含 Parallels Pro 虚拟机等 5 款软件，只需 25 刀 - 小众软件](https://www.appinn.com/stacksocial-the-all-star-mac-bundle-ft-parallels-pro/)
+
+### [
+请教一个匹配范型数据类型的例子 - Rust语言中文社区
+](https://rustcc.cn/article?id=da6a89cf-df2e-4d53-b323-b71a077692f7)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KkrF07crE)
+
+### [两人小团队开发了一款与谷歌竞争的产品-InfoQ](https://www.infoq.cn/article/RrWruVSrUOiNtOR8KYm7)
+
+### [为什么一些好的开发工具会被束之高阁？-InfoQ](https://www.infoq.cn/article/FFkZHyArquGA2ULElzE6)
+
+### [税务网站上线首日就宕机，财政部长怒喷印度第二大IT公司-InfoQ](https://www.infoq.cn/article/bH5gb3jvIkRTl3kzawux)
