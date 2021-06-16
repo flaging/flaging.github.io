@@ -110,3 +110,5 @@
 ### [致力于带给开发者最佳体验，Next.js 11 版本发布！ - SegmentFault 思否](https://segmentfault.com/a/1190000040181823)
 
 ### [程序员面临 35 岁危机？网友：我 70 了，依然在写程序 - SegmentFault 思否](https://segmentfault.com/a/1190000040181851)
+
+### [技术|FreeDOS 入门](https://linux.cn/article-13492-1.html?utm_source=rss&utm_medium=rss)
