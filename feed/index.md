@@ -112,3 +112,13 @@
 ### [程序员面临 35 岁危机？网友：我 70 了，依然在写程序 - SegmentFault 思否](https://segmentfault.com/a/1190000040181851)
 
 ### [技术|FreeDOS 入门](https://linux.cn/article-13492-1.html?utm_source=rss&utm_medium=rss)
+
+### [基于开源引擎打造自主可控服务体系](https://www.infoq.cn/article/f0bce9e63733df1a957db628d)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkriOCfsd)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkrgzrJbJ)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkrfPlXEP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkrgZ9ePx)
