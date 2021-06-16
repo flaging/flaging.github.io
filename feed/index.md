@@ -177,3 +177,7 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KksYDju4T)
 
 ### [中通快递的云原生改造之路-InfoQ](https://www.infoq.cn/article/JEZFHVGyWQdO1qrB7G9u)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kkteqz0PX)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KktfQ4imk)
