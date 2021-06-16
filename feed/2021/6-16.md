@@ -146,3 +146,13 @@
 ### [不用开机键，你的 Windows 也能随时就绪：WoL 网络唤醒入门 - 少数派](https://sspai.com/post/67003)
 
 ### [Any way to train models on phone using Pytorch? : pytorch](https://www.reddit.com/r/pytorch/comments/o0zmpa/any_way_to_train_models_on_phone_using_pytorch/)
+
+### [带领用户走向混合云：IBM的全新路线图 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-5)
+
+### [看看今年的 WWDC 又「干掉」了哪些第三方应用 - 少数派](https://sspai.com/post/67210)
+
+### [OpenHPC Recipe + warewulf3 vs RHEL 8 anyone ? : HPC](https://www.reddit.com/r/HPC/comments/o10fq7/openhpc_recipe_warewulf3_vs_rhel_8_anyone/)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KksrIElIA)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kksndsgsa)
