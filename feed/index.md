@@ -162,3 +162,16 @@
 ### [高通量3D生物打印机速度创纪录，加快新药开发 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-7)
 
 ### [东西我都买好了 | 想在 618 挑选到心仪的显示器，你可以从这两方面入手 - 少数派](https://sspai.com/post/67256)
+
+### [加入「数字中国」，融入清华X华为数字生态！火热报名中！ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-9)
+
+### [杀人机器的军备竞赛已经展开，未来战争可能是AI打AI？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-8)
+
+### [
+即时睡着之后，我们的大脑也会继续播放音乐](http://jandan.net/p/109111)
+
+### [硬核观察|硬核观察 #304 几乎所有的 DDoS 攻击都来自不到 50 家的托管公司](https://linux.cn/article-13493-1.html?utm_source=rss&utm_medium=rss)
+
+### [价值或超4.5亿？改变世界的9555行原始代码，正被万维网之父作为NFT拍卖-InfoQ](https://www.infoq.cn/article/ZO4ZXrK3jTRc84VR357t)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KksYDju4T)
