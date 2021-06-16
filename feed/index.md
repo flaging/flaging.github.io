@@ -175,3 +175,5 @@
 ### [价值或超4.5亿？改变世界的9555行原始代码，正被万维网之父作为NFT拍卖-InfoQ](https://www.infoq.cn/article/ZO4ZXrK3jTRc84VR357t)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KksYDju4T)
+
+### [中通快递的云原生改造之路-InfoQ](https://www.infoq.cn/article/JEZFHVGyWQdO1qrB7G9u)
