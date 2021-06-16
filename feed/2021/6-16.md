@@ -100,3 +100,13 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KkqSit3Ic)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkqSO6gjv)
+
+### [预训练模型最新综述：过去、现在和未来 - 知乎](https://zhuanlan.zhihu.com/p/381121057)
+
+### [软件开发|2021 年学习 Java 的三个理由](https://linux.cn/article-13491-1.html?utm_source=rss&utm_medium=rss)
+
+### [详解 SQL 的集合运算](https://www.infoq.cn/article/38903e35a0e69d5cb7f210498)
+
+### [致力于带给开发者最佳体验，Next.js 11 版本发布！ - SegmentFault 思否](https://segmentfault.com/a/1190000040181823)
+
+### [程序员面临 35 岁危机？网友：我 70 了，依然在写程序 - SegmentFault 思否](https://segmentfault.com/a/1190000040181851)
