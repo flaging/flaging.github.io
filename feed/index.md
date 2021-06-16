@@ -140,3 +140,9 @@
 ### [为什么一些好的开发工具会被束之高阁？-InfoQ](https://www.infoq.cn/article/FFkZHyArquGA2ULElzE6)
 
 ### [税务网站上线首日就宕机，财政部长怒喷印度第二大IT公司-InfoQ](https://www.infoq.cn/article/bH5gb3jvIkRTl3kzawux)
+
+### [NVIDIA发布专为高要求客户打造的 Jetson AGX Xavier 工业级模组 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-4)
+
+### [不用开机键，你的 Windows 也能随时就绪：WoL 网络唤醒入门 - 少数派](https://sspai.com/post/67003)
+
+### [Any way to train models on phone using Pytorch? : pytorch](https://www.reddit.com/r/pytorch/comments/o0zmpa/any_way_to_train_models_on_phone_using_pytorch/)
