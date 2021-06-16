@@ -197,3 +197,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KktD6pgeZ)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KktSnrgC4)
+
+### [容联云品牌升级，打通企业营销与服务全周期客户价值管理 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-10)
+
+### [[Research] Evaluating a convolutional neural network on an imbalanced (academic) dataset : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o14qlk/research_evaluating_a_convolutional_neural/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kku1AlRmm)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kku02vS90)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KktYvn2dD)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kku1m7BTW)
