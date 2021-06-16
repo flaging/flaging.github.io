@@ -264,3 +264,7 @@ Rust 多线程中事件都会阻塞当前进程怎么处理 - Rust语言中文�
 ### [Sina Visitor System](https://weibo.com/1642628345/Kkv1U8KCv)
 
 ### [2021年6月16日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1884257.shtml)
+
+### [
+Google AI Blog: Learning an Accurate Physics Simulator via Adversarial Reinforcement Learning
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/B3nT7GSYcCE/learning-accurate-physics-simulator-via.html)
