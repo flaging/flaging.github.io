@@ -84,3 +84,19 @@
 ### [钟薛高一支雪糕最贵66元，创始人：成本就40，你爱要不要！背后有这些信息... - 21财经](https://m.21jingji.com/article/20210616/herald/b120d011e1babc5c1ebfe1eabf26e8b9.html)
 
 ### [HarmonyOS学习路之开发篇——Page Ability](https://www.infoq.cn/article/febe70b3223b1270e5abbf261)
+
+### [京东云发布618十大技术，意在带动行业的新一轮变革 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-2)
+
+### [想换小米 11pro，有用过的进来说说优缺点 - V2EX](https://www.v2ex.com/t/783663)
+
+### [iOS 15 的 Live Text 非常厉害 - V2EX](https://www.v2ex.com/t/783622)
+
+### [实习生菜鸡， leader 总习惯在一针见血的回答我的小问题之后加"......" - V2EX](https://www.v2ex.com/t/783612)
+
+### [抖音春晚活动背后的 Service Mesh 流量治理技术-InfoQ](https://www.infoq.cn/article/i99gHc0TMvZ8c3UB4vWl)
+
+### [负载均衡算法之一 - 以 Golang 方式](https://www.infoq.cn/article/c020603f37fcb14372321083b)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkqSit3Ic)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkqSO6gjv)
