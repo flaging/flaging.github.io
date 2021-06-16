@@ -76,3 +76,11 @@
 ### [实时音视频开发理论必备：如何省流量？视频高度压缩背后的预测技术](https://www.infoq.cn/article/a39a9bbee949f5ff387b57de8)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KkqwopicV)
+
+### [打破第四面墙的桥梁，我与游戏的音乐记忆 - 少数派](https://sspai.com/post/67020)
+
+### [PyTorch 1.9 Release, including torch.linalg and Mobile Interpreter : pytorch](https://www.reddit.com/r/pytorch/comments/o0wmry/pytorch_19_release_including_torchlinalg_and/)
+
+### [钟薛高一支雪糕最贵66元，创始人：成本就40，你爱要不要！背后有这些信息... - 21财经](https://m.21jingji.com/article/20210616/herald/b120d011e1babc5c1ebfe1eabf26e8b9.html)
+
+### [HarmonyOS学习路之开发篇——Page Ability](https://www.infoq.cn/article/febe70b3223b1270e5abbf261)
