@@ -223,3 +223,30 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KkuiBuzsS)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkupQ36sz)
+
+### [Easier object detection on mobile with TensorFlow Lite — The TensorFlow Blog](https://blog.tensorflow.org/2021/06/easier-object-detection-on-mobile-with-tf-lite.html)
+
+### [HPC developer jobs without domain knowledge : HPC](https://www.reddit.com/r/HPC/comments/o17h30/hpc_developer_jobs_without_domain_knowledge/)
+
+### [时至今日，还有没有玩 DNF 的？ - V2EX](https://www.v2ex.com/t/783723)
+
+### [老铁们， M1 出现黑屏问题，但售后找不出问题，怎么才能让苹果换新呢？ - V2EX](https://www.v2ex.com/t/783702)
+
+### [618 电信的宽带费用是真坚挺啊。续费 2 年居然是 1578 - V2EX](https://www.v2ex.com/t/783680)
+
+### [[抽码] Android 上一键管理维护 Linux 的 App - V2EX](https://www.v2ex.com/t/783655)
+
+### [用 XMind 整理了 Linux 操作系统，网络， C++， Golang 以及数据库的一些设计，希望大家喜欢。 - V2EX](https://www.v2ex.com/t/783649)
+
+### [
+睡眠不足有可能影响到疫苗免疫效果？](http://jandan.net/p/109059)
+
+### [
+Rust 多线程中事件都会阻塞当前进程怎么处理 - Rust语言中文社区
+](https://rustcc.cn/article?id=063ca3d7-1eb2-4c68-ab0e-c4b5871d9878)
+
+### [Go Runtime的调度器 - SegmentFault 思否](https://segmentfault.com/a/1190000040186074)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkvcuauFI)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkuO4CysM)
