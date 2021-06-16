@@ -286,3 +286,9 @@ Google AI Blog: Learning an Accurate Physics Simulator via Adversarial Reinforce
 ### [图解5月经济数据：CPI涨势温和 大宗商品飙涨带动PPI增长 - 21财经](https://m.21jingji.com/article/20210616/herald/1541fe642df8c6505036cc8c553f8851.html)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkxagjG7X)
+
+### [offer 怎么选择，还是说离职了继续面，垃圾学历有希望进好公司吗 - V2EX](https://www.v2ex.com/t/783721)
+
+### [网传 win11 辟谣(?) - V2EX](https://www.v2ex.com/t/783699)
+
+### [M1 扩展坞推荐 - V2EX](https://www.v2ex.com/t/783638)
