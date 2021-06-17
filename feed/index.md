@@ -218,3 +218,59 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [Sina Visitor System](https://weibo.com/1715118170/KkBZohLLl)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KkC2hhpwH)
+
+### [新玩意 067｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/67291)
+
+### [CodeLand 2021: Motivation & Career-Long Connections For Early-Career Devs  - DEV Community](https://dev.to/devteam/codeland-2021-motivation-career-long-connections-for-early-career-devs-2loa)
+
+### [5 resources I use as a  front end developer that you probably need - DEV Community](https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj)
+
+### [Top 10 open source development tools (tried and tested) - DEV Community](https://dev.to/budibase/top-10-open-source-development-tools-tried-and-tested-2774)
+
+### [Animated 404 Page - DEV Community](https://dev.to/knolcoder/animated-404-page-2np8)
+
+### [Best Practices for building containers - DEV Community](https://dev.to/ankit01oss/best-practices-for-building-containers-4mkp)
+
+### [10 Must-Have VS Code Extensions to Improve Your Productivity - DEV Community](https://dev.to/alexomeyer/10-must-have-vs-code-extensions-to-improve-your-productivity-4goe)
+
+### [How to Think in Next.js - DEV Community](https://dev.to/benjaminwfox/how-to-think-in-next-js-2dh5)
+
+### [Still 100 CSS loaders for your next project - DEV Community](https://dev.to/afif/still-100-css-loaders-for-your-next-project-57hp)
+
+### [9 Responsive Website Tutorials With Html CSS JavaScript Bootstrap Step By Step - DEV Community](https://dev.to/fahimkabir/9-responsive-website-tutorials-with-html-css-javascript-bootstrap-step-by-step-56ng)
+
+### [I'm switching to vim! - DEV Community](https://dev.to/siddharthshyniben/i-m-switching-to-vim-867)
+
+### [Crypto Mining is Killing All Free CI/CD Platforms - DEV Community](https://dev.to/n3wt0n/crypto-mining-is-killing-all-free-ci-cd-platforms-4chc)
+
+### [Avoid slow Javascript code - DEV Community](https://dev.to/cleveroscar/avoid-slow-javascript-code-3dne)
+
+### [Why I'm dropping WordPress  for Strapi hopefully forever - DEV Community](https://dev.to/brownio/why-i-m-dropping-wordpress-for-strapi-hopefully-forever-1knh)
+
+### [Understanding map(), filter() and reduce() in JavaScript - DEV Community](https://dev.to/zagaris/understanding-map-filter-and-reduce-in-javascript-293i)
+
+### [Data visualization: Creating charts using REST API's in React.js - DEV Community](https://dev.to/raigaurav/data-visualization-creating-charts-using-rest-api-s-in-react-js-fmi)
+
+### [JavaScript Array methods - DEV Community](https://dev.to/shreyazz/javascript-array-methods-3bb0)
+
+### [Top courses to learn MERN. - DEV Community](https://dev.to/amritanshu/top-courses-to-learn-mern-2i2g)
+
+### [How to become a Senior Developer - DEV Community](https://dev.to/krowser/how-to-become-a-senior-developer-20po)
+
+### [My Secret Design Resources - DEV Community](https://dev.to/innocentcoder/my-secret-design-resources-27f4)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KkCgyxPNT)
+
+### [滴普科技杨磊：企业数字化转型中的场景与机遇丨QCon-InfoQ](https://www.infoq.cn/article/kHRxeuZvPLFGVGS8cTvY)
+
+### [SameSite 那些事 - SegmentFault 思否](https://segmentfault.com/a/1190000040161207)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkCuFuYQb)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkCu1of2m)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkCnSrx3n)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkCisczVZ)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KkCgBAEnY)
