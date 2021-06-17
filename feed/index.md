@@ -24,3 +24,17 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KkyDirV0V)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkyJyaieS)
+
+### [派早报：荣耀发布 50 系列手机、一加并入 OPPO、Android 设备夏季更新等 - 少数派](https://sspai.com/post/67277)
+
+### [618 技术特辑（二）几百万人同时下单的秒杀，为什么越来越容易抢到了](https://www.infoq.cn/article/e292a4978c5323c9e9b5a3425)
+
+### [我在阿里做架构 | 单测最佳实践](https://www.infoq.cn/article/5bdc454b875db1e07a3032d9d)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkzjO14hw)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkzdJeJlP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kkz7Wb9Qm)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kkz4W3PXK)
