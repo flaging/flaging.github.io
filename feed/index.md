@@ -324,3 +324,13 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ](https://rustcc.cn/article?id=1158ddf4-d79b-40b8-bd6d-fd6845b26842)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkDfs8zOl)
+
+### [因为带转被人歧视了，都被打击的快没自信心了。 - V2EX](https://www.v2ex.com/t/783976)
+
+### [
+被低代码坑惨了，老板坚持要用咋办 - Rust语言中文社区
+](https://rustcc.cn/article?id=b8037cf0-9809-4817-a0a9-5d0da1c27bf5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkDxHwxqo)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkDrGnx2Q)
