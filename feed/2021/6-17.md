@@ -135,3 +135,21 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [Sina Visitor System](https://weibo.com/1402400261/KkAMtlNWu)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkAHCfuk9)
+
+### [还有人玩 war3 对战么 - V2EX](https://www.v2ex.com/t/783872)
+
+### [618 显示器推荐 - V2EX](https://www.v2ex.com/t/783869)
+
+### [周六日不加班的你们都做什么，组个团？ - V2EX](https://www.v2ex.com/t/783837)
+
+### [如果你有一个数据中心，你如何同时将里面的服务器的软件做一个升级呢？ - V2EX](https://www.v2ex.com/t/783807)
+
+### [分享|Helix：高级 Linux 用户的终端文本编辑器](https://linux.cn/article-13495-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【求解惑】rust 多个 crate 依赖同一个版本库 - Rust语言中文社区
+](https://rustcc.cn/article?id=4aec8511-e83b-4870-87b2-e5bc355ca945)
+
+### [芯片也开始造假了，都是短缺惹的祸-InfoQ](https://www.infoq.cn/article/lXbWTQv0R80Uev6MQ3RD)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkAR89bnC)
