@@ -153,3 +153,36 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [芯片也开始造假了，都是短缺惹的祸-InfoQ](https://www.infoq.cn/article/lXbWTQv0R80Uev6MQ3RD)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KkAR89bnC)
+
+### [农机巨头约翰·迪尔CTO专访：把拖拉机变成计算机，打造农田iOS | 机器之心](https://www.jiqizhixin.com/articles/2021-06-17-9)
+
+### [机器学习辅助分子晶体特性预测，新材料发现可走「捷径」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-17-8)
+
+### [清华来了第二位菲尔兹奖得主，是丘成桐力荐的老朋友Caucher Birkar | 机器之心](https://www.jiqizhixin.com/articles/2021-06-17-7)
+
+### [一场AI竞赛，怎么就让这群年轻人变化这么大？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-17-6)
+
+### [每个字节跳动的背后，都有一台火山引擎 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-17-5)
+
+### [任天堂 E3 2021 直面会回顾：《塞尔达传说 旷野之息》续篇明年发售 - 少数派](https://sspai.com/post/67275)
+
+### [
+拟南芥：研究了上百年，结构现在新发现了一个大的解剖结构](http://jandan.net/p/109112)
+
+### [硬核观察|硬核观察 #305 荣耀发布 50 系列：看重鸿蒙，但我选安卓](https://linux.cn/article-13496-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+标准库中的 Child 怎么正确返回出去 - Rust语言中文社区
+](https://rustcc.cn/article?id=4ef9a786-8edd-43d1-a384-69f57b77d036)
+
+### [鲲鹏DevKit：鲲鹏平台代码迁移利器｜QCon-InfoQ](https://www.infoq.cn/article/r9UTwtc8yAlvpDH3e1Io)
+
+### [如何从Pandas迁移到Spark？这8个问答解决你所有疑问-InfoQ](https://www.infoq.cn/article/iKL4HjTzfvdrFQmbDmLx)
+
+### [腾讯云TKE：有效帮助企业上云降本增效｜QCon-InfoQ](https://www.infoq.cn/article/JuK6S7KqOgz9VEYC4sci)
+
+### [Apache Pulsar：云原生时代的消息服务｜QCon-InfoQ](https://www.infoq.cn/article/DmMpWWY8QJJYDj9vIzcT)
+
+### [众安科技基于云原生技术构建新一代DevOps实践-InfoQ](https://www.infoq.cn/article/PwGh8pYCfzIRf4X0EDgX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkBjToxGu)
