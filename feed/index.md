@@ -38,3 +38,7 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kkz7Wb9Qm)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kkz4W3PXK)
+
+### [数字化转型须遵循“战略五原则”和“3-1-1战术”](https://www.infoq.cn/article/e3e88dcfdfe6c9eadc7d020f5)
+
+### [Liga译文 | 如何打造一款SaaS+AI的优质产品](https://www.infoq.cn/article/cbf4063fe315638e7bf8f1817)
