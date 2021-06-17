@@ -274,3 +274,9 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [Sina Visitor System](https://weibo.com/1402400261/KkCisczVZ)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KkCgBAEnY)
+
+### [一周世界舆论聚焦：G7峰会和朝鲜下一步的麻烦 - FT中文网](http://www.ftchinese.com/story/001092845)
+
+### [海平面上升将威胁中国经济中心地带 - FT中文网](http://www.ftchinese.com/story/001092841)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkCEVr9lW)
