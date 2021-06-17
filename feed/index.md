@@ -428,3 +428,7 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [Harvester Beta版本发布，交付新一代超融合基础架构！-InfoQ](https://www.infoq.cn/article/LBHbjrAWZILRovOwlfwi)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkHnA9Kvl)
+
+### [Amazing!: Given a single 2D image input, this model generates a 3D model! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o2aoi6/amazing_given_a_single_2d_image_input_this_model/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkHtgprld)
