@@ -394,3 +394,5 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [2021年6月17日新闻联播文字版](http://www.xwlb.net.cn/20194.html)
 
 ### [想入一部 iPhone12mini...... - V2EX](https://www.v2ex.com/t/783882)
+
+### [Creating random linearly independent vectors : pytorch](https://www.reddit.com/r/pytorch/comments/o27bl3/creating_random_linearly_independent_vectors/)
