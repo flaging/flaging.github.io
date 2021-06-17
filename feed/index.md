@@ -70,3 +70,30 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KkzCb67yN)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kkzwo4KY1)
+
+### [PyTorch 1.9发布，支持新API，可在边缘设备中执行 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-17-4)
+
+### [Keras正式从TensorFlow分离：结束API混乱与耗时编译 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-17-3)
+
+### [跳舞手脚不协调？没关系，微视用AI打造你我的舞林大会，一张照片就可以 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-17-2)
+
+### [某宝买到扩容 iPad，我让卖家「退一赔三」 - 少数派](https://sspai.com/post/67209)
+
+### [2021年6月16日新闻联播文字版](http://www.xwlb.net.cn/20177.html)
+
+### [
+今日带货：索尼NW-A105HN播放器](http://jandan.net/p/109113)
+
+### [
+rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社区
+](https://rustcc.cn/article?id=791b8b62-0574-4d21-b016-ded821ad6de8)
+
+### [数据库设计的 10 个最佳实践](https://www.infoq.cn/article/3b801d1cb32f1bd557e73e1c3)
+
+### [WebRTC 传输安全机制第二话：深入显出 SRTP 协议](https://www.infoq.cn/article/a35380d0e5a47786dffab1605)
+
+### [数据赋能，离不开嵌入式BI - SegmentFault 思否](https://segmentfault.com/a/1190000040189730)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkzX78zqW)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkA0xlASO)
