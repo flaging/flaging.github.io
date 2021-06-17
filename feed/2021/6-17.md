@@ -200,3 +200,21 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [Facebook 新成果：用于语音识别、生成和压缩的自监督表征学习的 HuBERT-InfoQ](https://www.infoq.cn/article/sLbgbvKyPevX93uAJsdW)
 
 ### [拍乐云 CEO 赵加雨：音视频领域的发展与挑战 | QCon-InfoQ](https://www.infoq.cn/article/aAdptMUj6o4kzlc8wCrx)
+
+### [iSlide 工具升值包，比同事早下班的秘密武器 - 少数派](https://sspai.com/post/67161)
+
+### [Everything You Need To Know About Torchvision’s SSD Implementation : pytorch](https://www.reddit.com/r/pytorch/comments/o1sxqg/everything_you_need_to_know_about_torchvisions/)
+
+### [坚定不移的认为，不给程序员配 4K 显示器的公司要远离。 - V2EX](https://www.v2ex.com/t/783988)
+
+### [苹果 airports，这种设计合理吗？今天被气到了 - V2EX](https://www.v2ex.com/t/783913)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkCbt2haP)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkBSdg0Nx)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkC5Sogas)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkBZohLLl)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KkC2hhpwH)
