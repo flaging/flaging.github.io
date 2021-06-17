@@ -372,3 +372,23 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [Sina Visitor System](https://weibo.com/1715118170/KkF1u8XIs)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkED9FIfl)
+
+### [HPE is hiring compiler developers : HPC](https://www.reddit.com/r/HPC/comments/o23yih/hpe_is_hiring_compiler_developers/)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1336)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1335)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1334)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1333)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1332)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1330)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1329)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1328)
+
+### [2021年6月17日新闻联播文字版](http://www.xwlb.net.cn/20194.html)
