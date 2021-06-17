@@ -186,3 +186,17 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [众安科技基于云原生技术构建新一代DevOps实践-InfoQ](https://www.infoq.cn/article/PwGh8pYCfzIRf4X0EDgX)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkBjToxGu)
+
+### [请问有独立于浏览器的本地收藏夹工具吗？11+ 款工具推荐 - 小众软件](https://www.appinn.com/11-local-favorites-tool/)
+
+### [
+	ONVIF云台服务规范(二) ONVIF PTZ Service Specification - canaan - C++博客
+](http://www.cppblog.com/chinapeter2008/archive/2021/06/17/217716.html)
+
+### [
+	ONVIF云台服务规范(一) ONVIF PTZ Service Specification - canaan - C++博客
+](http://www.cppblog.com/chinapeter2008/archive/2021/06/16/217715.html)
+
+### [Facebook 新成果：用于语音识别、生成和压缩的自监督表征学习的 HuBERT-InfoQ](https://www.infoq.cn/article/sLbgbvKyPevX93uAJsdW)
+
+### [拍乐云 CEO 赵加雨：音视频领域的发展与挑战 | QCon-InfoQ](https://www.infoq.cn/article/aAdptMUj6o4kzlc8wCrx)
