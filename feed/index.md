@@ -334,3 +334,17 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [Sina Visitor System](https://weibo.com/1715118170/KkDxHwxqo)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkDrGnx2Q)
+
+### [OpenCL using GPU and CPU simultaneously : OpenCL](https://www.reddit.com/r/OpenCL/comments/o1xcsh/opencl_using_gpu_and_cpu_simultaneously/)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkDrD7x50)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkDUXcNeH)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkDW4nEAU)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkDQ1EhaB)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkDJTapls)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkDDO242r)
