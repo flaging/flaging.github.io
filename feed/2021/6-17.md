@@ -402,3 +402,7 @@ rust中判断文件和文件夹是否存在并打开文件 - Rust语言中文社
 ### [Sina Visitor System](https://weibo.com/1402400261/KkGxYdomN)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkGAuiYhu)
+
+### [Derivative of neural network with respect to inputs? : pytorch](https://www.reddit.com/r/pytorch/comments/o2830z/derivative_of_neural_network_with_respect_to/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkGLXtqcE)
