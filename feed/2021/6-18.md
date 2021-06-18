@@ -130,3 +130,7 @@ Neuronika - 一个纯Rust的机器学习框架 - Rust语言中文社区
 ### [Word 系列 01：段落的层次和调试 - 少数派](https://sspai.com/post/66196)
 
 ### [3 款简单易用的免费词云生成器，无需扫码登录，即用即抛 - 小众软件](https://www.appinn.com/word-cloud-online/)
+
+### [
+【Rust 日报】2021-06-18 Aya 基于rust的eBPF库 - Rust语言中文社区
+](https://rustcc.cn/article?id=8a18622b-e4cd-4e37-9864-6de3af751783)
