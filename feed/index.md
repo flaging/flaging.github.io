@@ -196,3 +196,17 @@ Rust tuple struct 的底层是函数指针？！ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KkNR0vVpX)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkNF4A39p)
+
+### [
+关于性别比例与性选择，达尔文终于错了](http://jandan.net/p/109118)
+
+### [
+去年美国人行车里程最低，但交通死亡人数为10年内最高](http://jandan.net/p/109091)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkOrV9s57)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkOfmsGPu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkObmjieq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkO3vhJ7S)
