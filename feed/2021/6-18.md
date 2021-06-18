@@ -108,3 +108,19 @@ Neuronika - 一个纯Rust的机器学习框架 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KkK0gas1n)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkK7X72qB)
+
+### [少数派 x tomtoc「东西我都装好了」征文结束，这 17 篇文章都值得你认真看看 - 少数派](https://sspai.com/post/67288)
+
+### [国外就没有类似 115 的给力离线下载神器吗？ - V2EX](https://www.v2ex.com/t/784123)
+
+### [水个热门话题，话说火箭这类复杂系统，它的不可靠性是由什么原因产生的？ - V2EX](https://www.v2ex.com/t/784095)
+
+### [主动向老板提需求，结果被狠批。。。 - V2EX](https://www.v2ex.com/t/784059)
+
+### [苹果笔记本售后因没发票被拒，怎么办，可以用别人的发票吗？ - V2EX](https://www.v2ex.com/t/784051)
+
+### [有不双击的无线鼠标推荐吗 - V2EX](https://www.v2ex.com/t/783989)
+
+### [618临阵磨刀：Flink容器化与平台化建设少走弯路-InfoQ](https://www.infoq.cn/article/ooGHtbAufDoQYX0jx4ms)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkKUm5S15)
