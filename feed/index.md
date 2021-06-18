@@ -126,3 +126,7 @@ Neuronika - 一个纯Rust的机器学习框架 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1746173800/KkKUm5S15)
 
 ### [高品质音乐也能随身听：Apple Music 空间音频和无损音质功能详解 - 少数派](https://sspai.com/post/67278)
+
+### [Word 系列 01：段落的层次和调试 - 少数派](https://sspai.com/post/66196)
+
+### [3 款简单易用的免费词云生成器，无需扫码登录，即用即抛 - 小众软件](https://www.appinn.com/word-cloud-online/)
