@@ -152,3 +152,5 @@ Neuronika - 一个纯Rust的机器学习框架 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KkLN1a9Vh)
 
 ### [本周看什么丨最近值得一看的 8 部作品 - 少数派](https://sspai.com/post/67318)
+
+### [极客邦合伙人&总裁池建强：“炼”就卓越技术团队与产品的方法论-InfoQ](https://www.infoq.cn/article/QOpZQyROUeGwti06b8B9)
