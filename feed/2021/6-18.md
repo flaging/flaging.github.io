@@ -214,3 +214,19 @@ Rust tuple struct 的底层是函数指针？！ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KkOCTC75N)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkOCyCcQj)
+
+### [Straight from Science Fiction! 🤯😍 "robot can mimic varieties of human expressions across many human subjects" : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o30dse/straight_from_science_fiction_robot_can_mimic/)
+
+### [Poorly Drawn Lines – No One Worry](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/y4JP5Ksh9ps/)
+
+### [
+【标准库】 Rust 标准库 API 文档中文版已支持 v1.53 ✨ - Rust语言中文社区
+](https://rustcc.cn/article?id=091525e2-5bfc-4ef4-941a-8dd5c40b6b4f)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkQ1RuZ7R)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkPZWnOZH)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkQd8CYvl)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkQ1copzS)
