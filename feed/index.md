@@ -12,3 +12,79 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KkHLW7DIK)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkHFrni3H)
+
+### [Apollo第五代车型成本降至48万，不排除与极狐更进一步合作 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-18-3)
+
+### [第五届未来网络发展大会开幕，百度CTO王海峰阐述AI发展新特点 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-18)
+
+### [我的「移动工作站」 - 少数派](https://sspai.com/post/66927)
+
+### [派早报：Leica 发布首款手机 Leitz Phone 1、三星加入国内文件共享「互传联盟」等 - 少数派](https://sspai.com/post/67304)
+
+### [极客词典：这 116 个单词怎么读？超爱读错的 App、Ctrl、Chrome、Linux、Wi-Fi、Python... - 小众软件](https://www.appinn.com/jike-cidian-wechat-miniapp/)
+
+### [6月18日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0618/135292.shtml)
+
+### [
+后瘟疫时期最健康的运动之一：户外徒步旅行](http://jandan.net/p/109101)
+
+### [
+今日好价：Vans小雏菊板鞋](http://jandan.net/p/109116)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737159)
+
+### [软件开发|C++ 类成员函数指针语法的友好指南](https://linux.cn/article-13498-1.html?utm_source=rss&utm_medium=rss)
+
+### [容器与云|云原生软件的 6 个要求](https://linux.cn/article-13497-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+请问这个是什么写法？ - Rust语言中文社区
+](https://rustcc.cn/article?id=9ed92f61-55dd-4774-ac16-58822311a5c5)
+
+### [
+rust  判断文件夹或是文件并创建文件 - Rust语言中文社区
+](https://rustcc.cn/article?id=cb49b091-f344-4c43-bc14-616054c08564)
+
+### [让开发更丝滑，KodeRover开源分布式持续交付项目Zadig | TGO喜报](https://www.infoq.cn/article/ba87b155f27bbc7c51b4ac7ff)
+
+### [重塑价值：新一代ITSM平台的建设、咨询与实施](https://www.infoq.cn/article/aa00f9a0b682933ab86e077be)
+
+### [Redis响应延时问题排查](https://www.infoq.cn/article/1ccbd30d94ab781a4f85ab2fc)
+
+### [还不会JVM调优吗？照着做就行](https://www.infoq.cn/article/632322582f697268a7fe77b35)
+
+### [源码级别理解 Redis 持久化](https://www.infoq.cn/article/b04b3b5d8057aadde6df987df)
+
+### [爆肝，Python学习指南：学习方法、路径图、资料都备齐了！](https://cuijiahua.com/blog/2021/06/vlog-6.html)
+
+### [蚂蚁研究员玉伯：开源有带给我什么 - SegmentFault 思否](https://segmentfault.com/a/1190000040195344)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkJWsl7ev)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkJUVb9Wn)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkJT2sYSq)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkJR56KAv)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkJmEzHVV)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkI1xfd5o)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkJJvewiR)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkJDf0fZG)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkJlo3dvL)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkJfOA3Ik)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkJfbkmMZ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkIWZaeXI)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkIyFtCQQ)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KkJfEfGrI)
+
+### [科技爱好者周刊（第 163 期）：你的城市有多少张病床？ - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html)
