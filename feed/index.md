@@ -190,3 +190,9 @@ Rust tuple struct 的底层是函数指针？！ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KkNmyoL77)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkNyJicVK)
+
+### [观点|智能计算机 vs. 超级计算机，傻傻分不清](https://linux.cn/article-13500-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkNR0vVpX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkNF4A39p)
