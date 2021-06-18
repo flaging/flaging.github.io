@@ -134,3 +134,7 @@ Neuronika - 一个纯Rust的机器学习框架 - Rust语言中文社区
 ### [
 【Rust 日报】2021-06-18 Aya 基于rust的eBPF库 - Rust语言中文社区
 ](https://rustcc.cn/article?id=8a18622b-e4cd-4e37-9864-6de3af751783)
+
+### [工作之余加班加点开发的项目被MD5“夺走”，两年诉讼终失败-InfoQ](https://www.infoq.cn/article/sp5YX9TQ3rQSBLoKWKY1)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkLH5xmE6)
