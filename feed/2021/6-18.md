@@ -180,3 +180,11 @@ Rust tuple struct 的底层是函数指针？！ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KkN4iDsRm)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KkNcVtXf5)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5901/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkNh06Fep)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkNsEBlB9)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkNmyoL77)
