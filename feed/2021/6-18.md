@@ -88,3 +88,23 @@ rust  判断文件夹或是文件并创建文件 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/KkJfEfGrI)
 
 ### [科技爱好者周刊（第 163 期）：你的城市有多少张病床？ - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html)
+
+### [快手开源斗地主AI，入选ICML，能否干得过「冠军」柯洁？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-18-5)
+
+### [哥德尔90年前的「不完备性定理」，奠定了计算机与AI的理论基础 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-18-4)
+
+### [纯Rust编写的机器学习框架Neuronika，速度堪比PyTorch | 机器之心](https://www.jiqizhixin.com/articles/2021-06-18-2)
+
+### [硬核观察|硬核观察 #306 国产的全功能 Linux 平板电脑 JingPad A1 众筹成功](https://linux.cn/article-13499-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+Neuronika - 一个纯Rust的机器学习框架 - Rust语言中文社区
+](https://rustcc.cn/article?id=80dd44ea-b174-4d1d-96b6-a12990ad3a7d)
+
+### [马斯克的SpaceX星链网遇散热危机，气温过高自动关机-InfoQ](https://www.infoq.cn/article/0SV6oX0S1wWijiDeBfYL)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkKlR44Oz)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkK0gas1n)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkK7X72qB)
