@@ -154,3 +154,23 @@ Neuronika - 一个纯Rust的机器学习框架 - Rust语言中文社区
 ### [本周看什么丨最近值得一看的 8 部作品 - 少数派](https://sspai.com/post/67318)
 
 ### [极客邦合伙人&总裁池建强：“炼”就卓越技术团队与产品的方法论-InfoQ](https://www.infoq.cn/article/QOpZQyROUeGwti06b8B9)
+
+### [[arxiv] A Consciousness-Inspired Planning Agent for Model-Based Reinforcement Learning : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o2omtz/arxiv_a_consciousnessinspired_planning_agent_for/)
+
+### [
+Rust tuple struct 的底层是函数指针？！ - Rust语言中文社区
+](https://rustcc.cn/article?id=c4ecf669-d34a-4798-b718-702afd24755e)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkMv3b1d7)
+
+### [Kubernetes认证鉴权 - SegmentFault 思否](https://segmentfault.com/a/1190000040165081)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkMD6dWcd)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkMYd2vYB)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkMSobmPX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkMFWDo1h)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkMu3neoe)
