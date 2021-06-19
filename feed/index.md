@@ -118,3 +118,7 @@ rust 现有的各种宏在哪能看到列表？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KkUdzpZnL)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KkUb4kfOW)
+
+### [众山小读书笔记：让你多一个爱上阅读的理由 - 少数派](https://sspai.com/post/67271)
+
+### [2021年6月18日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1884928.shtml)
