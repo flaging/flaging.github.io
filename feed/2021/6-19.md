@@ -160,3 +160,69 @@ rust 现有的各种宏在哪能看到列表？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KkWuNtoYY)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkWiUsEmo)
+
+### [香港城市大学、港理工招收博士生，有奖学金机会 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-19-4)
+
+### [召集令｜热浪来袭，世界人工智能大会黑客松邀你来战！ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-19-3)
+
+### [618的亿级流量大考，京东云靠什么交上满分答卷？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-19-2)
+
+### [「硅仙人」吉姆 · 凯勒：我在特斯拉是最闲的员工，却要在英特尔管一万人 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-19)
+
+### [极速心跳！《赛博朋克跑酷》 - 新片场](https://www.vmovier.com/62337)
+
+### [吉卜力女孩的治愈日常《关于下雨天》 - 新片场](https://www.vmovier.com/62339)
+
+### [【毕业设计】《探求者-Seeker》UE4独立制作 - 新片场](https://www.vmovier.com/62274)
+
+### [你才不是神经病《找到你的性格原因》 - 新片场](https://www.vmovier.com/62326)
+
+### [接棒鸿蒙，华为呼吁共拓万亿新蓝海！这些上市公司已布局 - 21财经](https://m.21jingji.com/article/20210619/herald/634a6d35dc8d7c17a395ca4c55b3b463.html)
+
+### [这份“成绩单”，牛上天了！ - 21财经](https://m.21jingji.com/article/20210618/herald/841a95125c8cb009c168ac75b177b37c.html)
+
+### [7月1日后，广州开放第一针疫苗接种预约！封控区域市民这样安排 - 21财经](https://m.21jingji.com/article/20210619/herald/b894cf300efdb58a6b2e0d198cbc197f.html)
+
+### [平均每日处理疫情垃圾近100吨！绿码之后还需要绿色广东 - 21财经](https://m.21jingji.com/article/20210618/herald/e585a800f170333135d223fd7c6ac895.html)
+
+### [一线、新一线城市流动人口图谱：珠三角4城皆占比过半，成都西安10年“倍增” - 21财经](https://m.21jingji.com/article/20210618/herald/3fcd2f66910f10c4f70f9522f62d3a0e.html)
+
+### [安卓系统有没有办法做到晚上待机只掉 5%以下的电？有几个能做到的？ - V2EX](https://www.v2ex.com/t/784505)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=648)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=725)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=599)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=785)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=919)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=923)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=802)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=850)
+
+### [ի--ͼ20210619ʵ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157717)
+
+### [ի--ͼ2021061820ȡ޾սֽһ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157698)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkWOF8qEm)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkWL6FWTR)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkX5DhDVI)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkWZggBNr)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkWT9snP4)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkWN7kEbU)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkWATqBvh)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KkX9GdnGv)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KkWHsyuXt)
