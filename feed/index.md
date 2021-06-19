@@ -34,3 +34,7 @@
 ](https://rustcc.cn/article?id=d7ee1108-5254-4035-a4d3-d51623428dec)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkRZ2DzuC)
+
+### [瞎玩菌的游戏周报：一文看遍 E3，还有缺席的索尼和《老头环》等 - 少数派](https://sspai.com/post/67255)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkSnqFwrJ)
