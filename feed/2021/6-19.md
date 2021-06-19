@@ -304,3 +304,7 @@ rust 现有的各种宏在哪能看到列表？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kl0kf9Tt8)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kl086B1GV)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kl0zJfhYI)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kl0wq8PwC)
