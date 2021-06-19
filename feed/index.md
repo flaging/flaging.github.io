@@ -156,3 +156,7 @@ rust 现有的各种宏在哪能看到列表？ - Rust语言中文社区
 ### [阿里云资深专家崮德：谈谈我对华为HarmonyOS 2.0的看法 - SegmentFault 思否](https://segmentfault.com/a/1190000040203399)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkW6rxJ6k)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkWuNtoYY)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkWiUsEmo)
