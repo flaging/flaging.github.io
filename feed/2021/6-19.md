@@ -258,3 +258,11 @@ rust 现有的各种宏在哪能看到列表？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KkXGWsHNQ)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkXFRpev0)
+
+### [VkFFT now supports Discrete Cosine Transforms : OpenCL](https://www.reddit.com/r/OpenCL/comments/o3me9l/vkfft_now_supports_discrete_cosine_transforms/)
+
+### [移动的宽带目前体验如何？ - V2EX](https://www.v2ex.com/t/784509)
+
+### [
+【Rust日报】2021-06-19 谷歌推进Linux内核中支持Rust语言 - Rust语言中文社区
+](https://rustcc.cn/article?id=563198a3-d0c2-483a-a4fe-d0f50721b9d3)
