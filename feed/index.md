@@ -134,3 +134,21 @@ rust 现有的各种宏在哪能看到列表？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/KkV7bgm8c)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkVdXqyLl)
+
+### [This new Facebook AI model can translate or edit every text in the image in your own language, following the same style! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o3dwe2/this_new_facebook_ai_model_can_translate_or_edit/)
+
+### [你们喜欢佛系 leader 吗？ - V2EX](https://www.v2ex.com/t/784455)
+
+### [简历造假/出轨/论文造假/卖假药, 这四者的区别在哪 - V2EX](https://www.v2ex.com/t/784443)
+
+### [微信可以看朋友圈了，有没有什么插件可以朋友圈防删除 - V2EX](https://www.v2ex.com/t/784408)
+
+### [假如英特尔的工程师带着技术回到 20 年前。。。 - V2EX](https://www.v2ex.com/t/784394)
+
+### [今天收到份简历， 4 年工作经验的前端，原月薪为 11k... (广州) - V2EX](https://www.v2ex.com/t/784389)
+
+### [浏览器关闭最后一个标签页后的行为 - V2EX](https://www.v2ex.com/t/784373)
+
+### [大家公司都用什么办公协同软件/办公 IM？ - V2EX](https://www.v2ex.com/t/784370)
+
+### [各位是怎么计算投资收益率？ - V2EX](https://www.v2ex.com/t/784346)
