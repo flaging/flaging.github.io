@@ -266,3 +266,5 @@ rust 现有的各种宏在哪能看到列表？ - Rust语言中文社区
 ### [
 【Rust日报】2021-06-19 谷歌推进Linux内核中支持Rust语言 - Rust语言中文社区
 ](https://rustcc.cn/article?id=563198a3-d0c2-483a-a4fe-d0f50721b9d3)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkZmmlFtC)
