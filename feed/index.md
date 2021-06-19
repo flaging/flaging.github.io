@@ -84,3 +84,5 @@ Rust 中文社区索引站（rustcc.com）怎么打不开了 - Rust语言中文�
 ### [Sina Visitor System](https://weibo.com/1642628345/KkSCQnnza)
 
 ### [再推数据、AI新品，华为云又有哪些能力升级？-InfoQ](https://www.infoq.cn/article/g0YmSfU7OQuNmsGfONdp)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkTyh39Me)
