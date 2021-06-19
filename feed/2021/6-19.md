@@ -90,3 +90,9 @@ Rust 中文社区索引站（rustcc.com）怎么打不开了 - Rust语言中文�
 ### [FM3.14｜音乐最近听什么 EP02：内卷之歌 - 少数派](https://sspai.com/post/67324)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KkTUW5V3U)
+
+### [
+rust 现有的各种宏在哪能看到列表？ - Rust语言中文社区
+](https://rustcc.cn/article?id=cc8331ee-c568-417b-8e6a-4efd220bf75d)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkU7od6Pr)
