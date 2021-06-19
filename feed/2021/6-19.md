@@ -38,3 +38,47 @@
 ### [瞎玩菌的游戏周报：一文看遍 E3，还有缺席的索尼和《老头环》等 - 少数派](https://sspai.com/post/67255)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KkSnqFwrJ)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5899/)
+
+### [感觉安卓手机还挺好用的 - V2EX](https://www.v2ex.com/t/784357)
+
+### [实习就快要结束了，想送个礼物给我师父，求 v2er 推荐 - V2EX](https://www.v2ex.com/t/784314)
+
+### [程序员年龄真的很重要吗 - V2EX](https://www.v2ex.com/t/784313)
+
+### [Airpods Pro 带着耳朵疼，有什么好方法吗？ - V2EX](https://www.v2ex.com/t/784312)
+
+### [爽约 - V2EX](https://www.v2ex.com/t/784298)
+
+### [腾讯视频 VIP 买一得五 128 有京东 PLUS 会员 - V2EX](https://www.v2ex.com/t/784285)
+
+### [求大佬们优化一下代码，屎山代码给孩子头皮想破了 - V2EX](https://www.v2ex.com/t/784284)
+
+### [M1 与 Intel - V2EX](https://www.v2ex.com/t/784283)
+
+### [摩托罗拉戴妃，它回来了 - V2EX](https://www.v2ex.com/t/784241)
+
+### [有没有什么好看的动画推荐？ - V2EX](https://www.v2ex.com/t/784224)
+
+### [硬核观察|硬核观察 #307 以打击盗版为目标的恶意程序](https://linux.cn/article-13502-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+Rust 中文社区索引站（rustcc.com）怎么打不开了 - Rust语言中文社区
+](https://rustcc.cn/article?id=d267997c-8f06-4320-94f5-6ea4c9398468)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KkSHnkQ30)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkTk52rox)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkT6EDcaG)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KkSMgu8U4)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkTa0EMGE)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkSLElZF2)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KkSSX74fe)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KkSCQnnza)
