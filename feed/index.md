@@ -24,3 +24,13 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KkRwjtoWn)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KkRr4s2ng)
+
+### [授人以渔：写给干饭人的早餐配置指南 - 少数派](https://sspai.com/post/67301)
+
+### [技术|使用 cpulimit 来释放你的 CPU](https://linux.cn/article-13501-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+零开销、编译时动态SQL ORM方面的探索 - Rust语言中文社区
+](https://rustcc.cn/article?id=d7ee1108-5254-4035-a4d3-d51623428dec)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KkRZ2DzuC)
