@@ -169,3 +169,11 @@
 ](https://rustcc.cn/article?id=f7a632c5-0c52-419a-a229-ba128de0db53)
 
 ### [图忆水印 - 为图片批量添加水印，支持多层水印（文本、Exif 数据或贴图）[Android] - 小众软件](https://www.appinn.com/wp2app-photomarker-android/)
+
+### [获得 Apple、Google 年度奖项，这款助眠 App 有点不一样：Loóna - 少数派](https://sspai.com/post/67221)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kl3OfaIsc)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kl3LCFsSV)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kl3K87Wc1)
