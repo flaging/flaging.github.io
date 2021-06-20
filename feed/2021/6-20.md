@@ -289,3 +289,11 @@ Rust 单元测试函数需要做什么处理吗？ - Rust语言中文社区
 ### [家庭网经常传输大文件的网络方案求教 - V2EX](https://www.v2ex.com/t/784606)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kl7H52m3T)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1345)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1344)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1343)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1341)
