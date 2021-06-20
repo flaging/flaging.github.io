@@ -161,3 +161,9 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Kl39azihd)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kl2YLfgzl)
+
+### [技术|FreeDOS 如何启动](https://linux.cn/article-13503-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+怎么定义一个 0到999999的类型 - Rust语言中文社区
+](https://rustcc.cn/article?id=f7a632c5-0c52-419a-a229-ba128de0db53)
