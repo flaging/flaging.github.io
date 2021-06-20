@@ -167,3 +167,5 @@
 ### [
 怎么定义一个 0到999999的类型 - Rust语言中文社区
 ](https://rustcc.cn/article?id=f7a632c5-0c52-419a-a229-ba128de0db53)
+
+### [图忆水印 - 为图片批量添加水印，支持多层水印（文本、Exif 数据或贴图）[Android] - 小众软件](https://www.appinn.com/wp2app-photomarker-android/)
