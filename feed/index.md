@@ -195,3 +195,11 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Kl4uUqpdE)
 
 ### [台前京东618爆火  幕后京东零售云交出完美答卷 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-20-5)
+
+### [北向资金大调仓！大幅加仓2800亿市值苹果龙头股，减仓这些机构重仓股（附名单） - 21财经](https://m.21jingji.com/article/20210620/herald/4820ae28a2cf13cabae4c1793103a018.html)
+
+### [超10亿！45秒看疫苗接种“中国速度”（附各地接种情况一览） - 21财经](https://m.21jingji.com/article/20210620/herald/c9af19eaedd0656607b4260da6593053.html)
+
+### [如何看待交易员声称从 1000 赚到 1000 万？ - V2EX](https://www.v2ex.com/t/784584)
+
+### [我理解有问题还是 backblaze 的对象存储就有这种漏洞？ - V2EX](https://www.v2ex.com/t/784561)
