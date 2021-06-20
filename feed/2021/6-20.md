@@ -177,3 +177,11 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Kl3LCFsSV)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kl3K87Wc1)
+
+### [安利一个类 Alfred 的软件——Raycast - V2EX](https://www.v2ex.com/t/784576)
+
+### [软件开发|我如何用 CircuitPython 和开源工具监控温室](https://linux.cn/article-13504-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kl49HrNUe)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kl49utT5d)
