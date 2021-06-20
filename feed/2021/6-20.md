@@ -185,3 +185,11 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/Kl49HrNUe)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kl49utT5d)
+
+### [ACM MM20文章：从点标注可以学到尺度信息吗？尺度可感知的人群计数 - 知乎](https://zhuanlan.zhihu.com/p/382234928)
+
+### [[D] Last week highlights of some DL papers : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o425yj/d_last_week_highlights_of_some_dl_papers/)
+
+### [硬核观察|硬核观察 #308 Neo4j：数据库历史上最大的投资](https://linux.cn/article-13505-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kl4uUqpdE)
