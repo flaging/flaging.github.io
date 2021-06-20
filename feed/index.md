@@ -297,3 +297,5 @@ Rust 单元测试函数需要做什么处理吗？ - Rust语言中文社区
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1343)
 
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1341)
+
+### [求助 AppleCare 购买相关 - V2EX](https://www.v2ex.com/t/784629)
