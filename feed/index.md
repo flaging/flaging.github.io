@@ -193,3 +193,5 @@
 ### [硬核观察|硬核观察 #308 Neo4j：数据库历史上最大的投资](https://linux.cn/article-13505-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kl4uUqpdE)
+
+### [台前京东618爆火  幕后京东零售云交出完美答卷 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-20-5)
