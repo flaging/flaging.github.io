@@ -141,3 +141,23 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/Kl2lVCgA4)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kl2jvrj7p)
+
+### [os.Chmod 时到底用 777 还是 0777？ | 编程沉思录](https://www.cyhone.com/articles/0777-or-777/)
+
+### [有没有遇到智能顶灯半夜自己亮起来的情况的朋友？ - V2EX](https://www.v2ex.com/t/784574)
+
+### [有公网 IP，请问目前最好的公网访问家中 NAS 的办法是什么 - V2EX](https://www.v2ex.com/t/784557)
+
+### [偶然发现了一个可以让 iPhone 稳定失去电池健康百分之一 - V2EX](https://www.v2ex.com/t/784484)
+
+### [天天摸鱼该不该离职？ - V2EX](https://www.v2ex.com/t/784479)
+
+### [
+【已解决】为什么 slice::binary_search_by_key 无法找到正确的结果 - Rust语言中文社区
+](https://rustcc.cn/article?id=68e3895e-ae0c-4371-ba19-9c06068b7af7)
+
+### [下一代 Windows 界面曝光；Spring Native 0.10.0 发布 | 思否周刊 - SegmentFault 思否](https://segmentfault.com/a/1190000040205248)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kl39azihd)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kl2YLfgzl)
