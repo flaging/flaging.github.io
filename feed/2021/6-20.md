@@ -329,3 +329,5 @@ Rust 单元测试函数需要做什么处理吗？ - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Kl9F25mDU)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kl9yAbJvp)
+
+### [青年图摘0621!黑板装不下我的证明过程](https://qingniantuzhai.com/qing-nian-tu-zhai-0620-guo-yu-ji-zhao-reng-la-ji/)
