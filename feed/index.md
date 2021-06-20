@@ -93,3 +93,17 @@
 ### [鸿蒙 和 Fuchsia OS，你更期待谁？](https://www.infoq.cn/article/b182f6687b32345e066475648)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kl1pwAh3u)
+
+### [Skip connection implementation : pytorch](https://www.reddit.com/r/pytorch/comments/o3wdro/skip_connection_implementation/)
+
+### [Magic Trackpad 2 和笔记本上的 trackpad 是两种东西 - V2EX](https://www.v2ex.com/t/784555)
+
+### [妙控板 2 深空灰官网已下架 - V2EX](https://www.v2ex.com/t/784465)
+
+### [【得物技术】得物WMS如何助力仓库拣货](https://www.infoq.cn/article/cfad65c9451466c1f8fbf0235)
+
+### [618技术特辑（三）直播带货王，“OMG买它”的背后，为什么是一连串技术挑战？](https://www.infoq.cn/article/66948dfbf6e668a547d631f28)
+
+### [好的目标管理：SMART原则](https://www.infoq.cn/article/c78d23a68a6de988709d9c9a1)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kl2cdmijS)
