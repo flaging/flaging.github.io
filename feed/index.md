@@ -119,3 +119,25 @@
 ### [四个决策树让你彻底掌握 HTTP 状态码](https://www.infoq.cn/article/02cde23befa448ddeedaff0f7)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kl2iBCzEX)
+
+### [清华大学计图团队首创三角网格面片上的卷积神经网络，首次取得100%正确率 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-20-4)
+
+### [AI专用领域之一：声音、相机陷阱用于野生动物研究和保护 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-20-3)
+
+### [Hugging Face官方课程来了！Transformers库维护者之一授课，完全免费 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-20-2)
+
+### [人人皆可二次元！小姐姐生成不同风格动漫形象，肤色、发型皆可变 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-20)
+
+### [开发效率提升50%以上，爱奇艺官网主站的Nuxt实践](https://www.infoq.cn/article/d07a41f7f19ee210e3838af73)
+
+### [Flink+Hologres助力伊的家电商平台建设新一代实时数仓](https://www.infoq.cn/article/9c516698c1d667e87ad4986fb)
+
+### [数据库事务与锁详解](https://www.infoq.cn/article/8cddf250a941f45e77bdc4e9c)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kl2Aw7rUd)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kl2qz9jOu)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kl2lVCgA4)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kl2jvrj7p)
