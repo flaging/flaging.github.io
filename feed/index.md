@@ -107,3 +107,15 @@
 ### [好的目标管理：SMART原则](https://www.infoq.cn/article/c78d23a68a6de988709d9c9a1)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kl2cdmijS)
+
+### [看什么 · 特别篇丨比博燃的热血片单，陪你迎战郁热夏天 - 少数派](https://sspai.com/post/67265)
+
+### [
+不讲武德：研究发现支付赎金后，勒索黑客下次还会黑你](http://jandan.net/p/109124)
+
+### [
+今日好价 210620](http://jandan.net/p/109123)
+
+### [四个决策树让你彻底掌握 HTTP 状态码](https://www.infoq.cn/article/02cde23befa448ddeedaff0f7)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kl2iBCzEX)
