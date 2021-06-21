@@ -154,3 +154,34 @@
 ### [腾讯云TVP数字化领航者高峰论坛-下-InfoQ](https://www.infoq.cn/article/ySZHfLYdfOuPAOH53sM8)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KldAC1roH)
+
+### [江苏建成首条「无人驾驶」高速公路，全长33公里 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-21-6)
+
+### [派评·特别篇 | 聊聊我们心中的设计奖与好 App - 少数派](https://sspai.com/post/67352)
+
+### [Most Popular Machine Learning Libraries - 2014/2019 : pytorch](https://www.reddit.com/r/pytorch/comments/o4rqdh/most_popular_machine_learning_libraries_20142019/)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=945)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=943)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=926)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=862)
+
+### [
+医院食堂出售的盒饭可能导致慢性心力衰竭患者的死亡率升高](http://jandan.net/p/108938)
+
+### [分享|用 Deskreen 将你的 Linux 屏幕镜像或串流到任何设备上](https://linux.cn/article-13507-1.html?utm_source=rss&utm_medium=rss)
+
+### [容器与云|探索 Kubernetes 生态系统（2021 版）](https://linux.cn/article-13506-1.html?utm_source=rss&utm_medium=rss)
+
+### [工商银行 Serverless 函数计算落地实践-InfoQ](https://www.infoq.cn/article/PlG82yFmwvIOQvVl0hzi)
+
+### [你不知道的 VSCode 代码高亮原理 - SegmentFault 思否](https://segmentfault.com/a/1190000040211606)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlefedrVd)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KledF1COg)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KldYOvJ3T)
