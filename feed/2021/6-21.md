@@ -80,3 +80,21 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KlaQ8Bbwn)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlarJ2nOh)
+
+### [如何用18个月搞出聚集全球5000余位开发者的操作系统开源社区？-InfoQ](https://www.infoq.cn/article/oLx5iATvgAqZQkVfYDqb)
+
+### [Hadoop Committer如何炼成？爱奇艺新晋核心贡献人给出了这份攻略！-InfoQ](https://www.infoq.cn/article/fxU9Oa6WOgKW2yb0C6sa)
+
+### [跨越式成长 - 高效的学习方法](https://www.infoq.cn/article/e6396437495878a329ea806b6)
+
+### [Java常用的几个Json库，性能强势对比！](https://www.infoq.cn/article/473f9b2f355ab5cad3abbe2ad)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Klcl991Ny)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Klchd4u4Q)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Klcg9ts2M)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlcpuDfR2)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Klc14ciZN)
