@@ -98,3 +98,27 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KlcpuDfR2)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Klc14ciZN)
+
+### [中国SaaS的前世今生 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-21-3)
+
+### [319篇文献、41页综述文章讲述图神经网络用于医疗诊断的前世今生与未来 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-21-2)
+
+### [从实验室到市场：千寻位置推进北斗走进大众应用 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-21)
+
+### [这就是下一代的 Windows？Windows 11 上手体验 - 少数派](https://sspai.com/post/67328)
+
+### [57th Top500 List - Predictions? : HPC](https://www.reddit.com/r/HPC/comments/o4p5ig/57th_top500_list_predictions/)
+
+### [GPT-3 离通用人工智能有多近？-InfoQ](https://www.infoq.cn/article/w1lxxO4qtaVPxZUdqzwi)
+
+### [怎样让深度学习模型更泛用？-InfoQ](https://www.infoq.cn/article/kKDum2o1tguZRJPvCw0R)
+
+### [京东云靠什么撑起618大促？-InfoQ](https://www.infoq.cn/article/sq8uqYLa1ljMTx9PTkBM)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KldcJ4nEq)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlcNulZW9)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KldbWxcw6)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlcNyi1Ka)
