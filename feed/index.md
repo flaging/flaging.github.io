@@ -144,3 +144,13 @@
 ### [是什么让量子计算如此难以解释?-InfoQ](https://www.infoq.cn/article/AkBGqHhSg1ej3r62TaKf)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kldo4hdGj)
+
+### [招募 | WAIC智能驾驶论坛启动报名，快来围观一线企业的最新观点！ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-21-5)
+
+### [2021RBR50机器人创新榜出炉，中国只有一家自动驾驶公司上榜 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-21-4)
+
+### [了解这些小技巧，今晚开始努力睡个好觉 - 少数派](https://sspai.com/post/66861)
+
+### [腾讯云TVP数字化领航者高峰论坛-下-InfoQ](https://www.infoq.cn/article/ySZHfLYdfOuPAOH53sM8)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KldAC1roH)
