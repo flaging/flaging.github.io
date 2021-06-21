@@ -298,3 +298,7 @@ Google AI Blog: Google at CVPR 2021
 ### [国内离开微信，还有什么干净，无广告，无太多入侵的聊天软件 - V2EX](https://www.v2ex.com/t/784810)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kliv1aqFi)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KliSYw9ja)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KliHdyvut)
