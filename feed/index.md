@@ -122,3 +122,25 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KldbWxcw6)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlcNyi1Ka)
+
+### [亚马逊特价：群晖 DS220+ 1591 元，DS920+ 2927 元，需要 Prime 会员 - 小众软件](https://www.appinn.com/amazon-prime-synology-202106/)
+
+### [想落户太难了！ - V2EX](https://www.v2ex.com/t/784802)
+
+### [原来 Linux 内核贡献第二是这么来的 - V2EX](https://www.v2ex.com/t/784789)
+
+### [大龄程序员，未来在哪里？该往什么方向发展呢？ - V2EX](https://www.v2ex.com/t/784754)
+
+### [同一个 WIFI，如何让别人看视频不影响我玩儿游戏 - V2EX](https://www.v2ex.com/t/784747)
+
+### [求 v 友推荐一个价值在硬件上而不是软件上的 nas 机器 - V2EX](https://www.v2ex.com/t/784746)
+
+### [感觉手表除了跑步没别的用了。 - V2EX](https://www.v2ex.com/t/784736)
+
+### [开箱小米 ax6000， ping 路由的延迟就感人 - V2EX](https://www.v2ex.com/t/784693)
+
+### [慎给父母家使用刷了第三方固件的路由器 - V2EX](https://www.v2ex.com/t/784674)
+
+### [是什么让量子计算如此难以解释?-InfoQ](https://www.infoq.cn/article/AkBGqHhSg1ej3r62TaKf)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kldo4hdGj)
