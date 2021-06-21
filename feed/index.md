@@ -290,3 +290,11 @@ Rust里面是否支持全局文本替换的宏 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KlikHFinM)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KliiIsbkP)
+
+### [
+Google AI Blog: Google at CVPR 2021
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/TrNMZxLRY78/google-at-cvpr-2021.html)
+
+### [国内离开微信，还有什么干净，无广告，无太多入侵的聊天软件 - V2EX](https://www.v2ex.com/t/784810)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kliv1aqFi)
