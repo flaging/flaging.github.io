@@ -343,3 +343,7 @@ Google AI Blog: Quantum Machine Learning and the Power of Data
 ### [Sina Visitor System](https://weibo.com/1402400261/KlrQXuIYc)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlrV7qpE0)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlsdnscDu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kls7volRH)
