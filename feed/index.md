@@ -298,3 +298,10 @@ doorer Windows 小工具 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KlpyZAWYB)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Klpn71WCU)
+
+### [
+大地母亲竟然存在“心率”：每2700万年搏动一下](http://jandan.net/p/109133)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlpXlDdTS)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlpLBdUYe)
