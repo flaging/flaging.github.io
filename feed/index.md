@@ -177,3 +177,11 @@
 ### [国内首份！2021 中国开发者生态从业者现状调研报告发布 - SegmentFault 思否](https://segmentfault.com/a/1190000040214261)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlmFG1Ef1)
+
+### [少数派员工的桌面长啥样——键鼠外设用些啥？ - 少数派](https://sspai.com/post/67355)
+
+### [硬核观察|硬核观察 #310 中国的火星车、空间站等航天器使用麒麟操作系统](https://linux.cn/article-13511-1.html?utm_source=rss&utm_medium=rss)
+
+### [重温微软一代经典操作系统的诞生：200位程序员的苦难与欢愉造就了Windows NT-InfoQ](https://www.infoq.cn/article/L5hv9ZUubc9AhiUfh37e)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kln213dBQ)
