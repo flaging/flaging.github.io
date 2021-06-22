@@ -155,3 +155,25 @@
 ### [快手Y-tech万鹏飞：短视频UGC智能创作中的CV技术和发展趋势-InfoQ](https://www.infoq.cn/article/0T5ugRMO2poIbAgSEaKs)
 
 ### [快手技术副总裁王仲远：快手以AI技术推动音乐大众化发展-InfoQ](https://www.infoq.cn/article/PQRCl9s9sjqJ2xS47cmU)
+
+### [如何在屏幕上高亮显示鼠标点击？Cursor Highlighter - 小众软件](https://www.appinn.com/cursor-highlighter-for-windows/)
+
+### [面对公司屎山，我内心毫无波澜，因为准备跑路了 - V2EX](https://www.v2ex.com/t/784953)
+
+### [
+谎言？扑朔迷离：南非自称生下十胞胎的妇女下落不明](http://jandan.net/p/109139)
+
+### [
+对标SpaceX？Relativity Space公司拟开发可重复使用火箭](http://jandan.net/p/109140)
+
+### [分享|Subtitld: 一个跨平台的开源字幕编辑器](https://linux.cn/article-13510-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+一个小东西, 使用windows-rs和cargo-wix的demo - Rust语言中文社区
+](https://rustcc.cn/article?id=e8d7c0b2-9d22-4a17-bdac-3976fbe6c6d7)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlmCkhFOL)
+
+### [国内首份！2021 中国开发者生态从业者现状调研报告发布 - SegmentFault 思否](https://segmentfault.com/a/1190000040214261)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlmFG1Ef1)
