@@ -185,3 +185,5 @@
 ### [重温微软一代经典操作系统的诞生：200位程序员的苦难与欢愉造就了Windows NT-InfoQ](https://www.infoq.cn/article/L5hv9ZUubc9AhiUfh37e)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kln213dBQ)
+
+### [把想看的内容读给你听，近乎完美的 TTS 阅读器：声之梦朗读器 - 少数派](https://sspai.com/post/67359)
