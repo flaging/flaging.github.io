@@ -210,3 +210,7 @@
 ### [开源筑梦，破势而出：优麒麟 20.04 LTS Pro 发布会成功举办-InfoQ](https://www.infoq.cn/article/5P2dUCzl6Y7g6TQl775W)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlnQ5aI7i)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlobLnk3U)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlobOkE7f)
