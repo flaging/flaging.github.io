@@ -272,3 +272,7 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KloSmuRsQ)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KloMi1rae)
+
+### [2021年6月22日新闻联播文字版](http://www.xwlb.net.cn/20286.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KloYRfbJp)
