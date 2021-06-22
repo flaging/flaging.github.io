@@ -252,3 +252,13 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Klou18BWg)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlonW1md8)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1355)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1350)
+
+### [
+【Rust日报】2021-06-22 2021 年 Rust 行业调研报告  - Rust语言中文社区
+](https://rustcc.cn/article?id=5a1a99f3-fc33-4a20-8aa1-ac8cb7ab9c86)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KloGdjtoV)
