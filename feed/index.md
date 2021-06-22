@@ -305,3 +305,23 @@ doorer Windows 小工具 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KlpXlDdTS)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlpLBdUYe)
+
+### [带领27人，3天2夜下潜400多次，终于完成新水下作品《红》。庆祝建党百年！ - 新片场](https://www.vmovier.com/62352)
+
+### [脑洞大开！灯光音乐艺术秀《小夜曲》 - 新片场](https://www.vmovier.com/62353)
+
+### [【硬核】万字解读周星驰——他，如何能成为华语世界的喜剧之王？ - 新片场](https://www.vmovier.com/62347)
+
+### [巴黎的奇幻夜《生活，有无限可能》 - 新片场](https://www.vmovier.com/62311)
+
+### [MINI 黑白风创意广告《极简主义》 - 新片场](https://www.vmovier.com/62346)
+
+### [支棱起来！《改装一位Rapper》 - 新片场](https://www.vmovier.com/62323)
+
+### [周星驰如何讲笑话《这是什么梗》 - 新片场](https://www.vmovier.com/61819)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlqeV3NL8)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Klqd9uocR)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Klqa0sUP3)
