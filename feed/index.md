@@ -22,3 +22,13 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KljzAAdFn)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KljtWCU8y)
+
+### [派早报：蜂窝网络版新款 iPad Pro 正式发售、小米电视 6 将于月底发布等 - 少数派](https://sspai.com/post/67356)
+
+### [初级后端的疑惑，如何估算接口 qps，以及 redis 占用多少容量， nginx 能抗多少并发 - V2EX](https://www.v2ex.com/t/784806)
+
+### [Redis套路，一网打尽](https://www.infoq.cn/article/4bdffc5a8f457f90cf51f95ae)
+
+### [Go语言实现的23种设计模式之结构型模式](https://www.infoq.cn/article/2edd6c392198602e28faf95e3)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Klkgt7QDA)
