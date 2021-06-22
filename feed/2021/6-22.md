@@ -83,3 +83,23 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Kll6d0I2U)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kll3i95gB)
+
+### [以产品经理为例，分享我如何快速入门一个新领域 - 少数派](https://sspai.com/post/67015)
+
+### [思域劲动，星瑞时空版皓月，速腾超越版，落地都在 15 左右。敢问铁子们该怎么选？ - V2EX](https://www.v2ex.com/t/784974)
+
+### [大批矿卡是不是要流入市场了？ - V2EX](https://www.v2ex.com/t/784880)
+
+### [1.5w字 + 24张图肝翻 TCP](https://www.infoq.cn/article/84998c291eb69b50fad90a132)
+
+### [掌握鸿蒙轻内核静态内存的使用，从源码分析开始](https://www.infoq.cn/article/dc1b9374f283c0961949225d7)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kllfbo7Bo)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Klldth4et)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Klld3zyZ9)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kllbc5KOW)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kll9QmDoG)
