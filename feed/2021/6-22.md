@@ -119,3 +119,19 @@
 ### [亚马逊海外购：西部数据 10TB/14TB 硬盘价格回落 - 小众软件](https://www.appinn.com/amazon-harddisk-202106/)
 
 ### [没有 UI 妹子的限制,原子化 CSS 的确是爽啊. - V2EX](https://www.v2ex.com/t/784909)
+
+### [CVPR 2021奖项出炉：最佳论文花落马普所，何恺明获提名，首届黄煦涛纪念奖颁布 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22-8)
+
+### [招募 | WAIC智能驾驶论坛启动报名！聚焦第一梯队的权威声音 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22-7)
+
+### [嬴彻科技CTO杨睿刚博士与你分享CVPR 2021入选论文 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22-6)
+
+### [NOP、NGP、ANP傻傻分不清楚？快来收藏这份智能汽车词汇黄页！ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22-5)
+
+### [从1到N，AI落地现在进行时 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22-4)
+
+### [英伟达与AI芯片的未来之战 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22-3)
+
+### [DNA逻辑电路可能是医学的未来，这个程序降低了DNA逻辑电路的设计门槛 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22-2)
+
+### [官宣！达摩院开源秘藏深度语言模型体系AliceMind，NLP正在走向大工业时代-InfoQ](https://www.infoq.cn/article/djuNXBDPN7XTBPrA8dN9)
