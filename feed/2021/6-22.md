@@ -351,3 +351,23 @@ Google AI Blog: Quantum Machine Learning and the Power of Data
 ### [Sina Visitor System](https://weibo.com/1715118170/KlsjtoiqY)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlspzAT1R)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737346)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737355)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737364)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737370)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737336)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737328)
+
+### [青年图摘0623！是个爱国人士啊](https://qingniantuzhai.com/qing-nian-tu-zhai-0623-3/)
+
+### [贝壳基于Spark的HiveToHBase实践-InfoQ](https://www.infoq.cn/article/FZPIVgZYAt42Zlu18qsN)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlsBK3VrP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Klsw5iRWq)
