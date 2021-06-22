@@ -214,3 +214,13 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KlobLnk3U)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlobOkE7f)
+
+### [
+关于 多线程传递闭包 需要声明'static的问题 - Rust语言中文社区
+](https://rustcc.cn/article?id=b09e9772-63cf-4481-92a6-e9b3e85c316d)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlojytWkL)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlohSeQm8)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlodchJ9a)
