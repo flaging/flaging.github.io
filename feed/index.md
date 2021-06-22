@@ -327,3 +327,11 @@ doorer Windows 小工具 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Klqa0sUP3)
 
 ### [亚马逊群晖 DS220+ 1591 元值得轻度用户入手吗？ - V2EX](https://www.v2ex.com/t/784971)
+
+### [
+Google AI Blog: Quantum Machine Learning and the Power of Data
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/5mwX1gN-7UE/quantum-machine-learning-and-power-of.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlrCkgL4o)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlrAZxtDs)
