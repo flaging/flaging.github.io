@@ -135,3 +135,9 @@
 ### [DNA逻辑电路可能是医学的未来，这个程序降低了DNA逻辑电路的设计门槛 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22-2)
 
 ### [官宣！达摩院开源秘藏深度语言模型体系AliceMind，NLP正在走向大工业时代-InfoQ](https://www.infoq.cn/article/djuNXBDPN7XTBPrA8dN9)
+
+### [腾讯与清华大学物理系签署合作备忘录，探索材料计算新领域 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22-9)
+
+### [WebRTC 传输安全机制第二话：深入显出 SRTP 协议 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-3)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlmdYphzZ)
