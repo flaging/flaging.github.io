@@ -335,3 +335,7 @@ Google AI Blog: Quantum Machine Learning and the Power of Data
 ### [Sina Visitor System](https://weibo.com/1402400261/KlrCkgL4o)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlrAZxtDs)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5904/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlrJd2J75)
