@@ -40,3 +40,33 @@
 ### [微信小游戏直播在Android端的跨进程渲染推流实践](https://www.infoq.cn/article/b63927345faf0f57e069bd3fa)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlkEFB2LY)
+
+### [横扫六大权威榜单后，达摩院把自家深度语言模型体系AliceMind开源了 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-22)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1349)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1348)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1347)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1346)
+
+### [出租车是不是每个城市驾驶素质最差的群体？ - V2EX](https://www.v2ex.com/t/784977)
+
+### [账号被盗恶意登录，现在密码改成了 100 位强密码并启用了双重认证，这下安全了吧？ - V2EX](https://www.v2ex.com/t/784949)
+
+### [买的任天堂 switch 到了，试玩了一下 - V2EX](https://www.v2ex.com/t/784843)
+
+### [新房装修路由器部署 - V2EX](https://www.v2ex.com/t/784814)
+
+### [Sina Visitor System](https://weibo.com/5722964389/Kll2V3Z99)
+
+### [聊聊微服务环境中的可观察性和弹性-InfoQ](https://www.infoq.cn/article/2RcybdzXo15EDA6NzHjE)
+
+### [怎样实现可扩展的架构？-InfoQ](https://www.infoq.cn/article/2Lz2xwERI5O2BpPFYSwj)
+
+### [Flink Checkpoint 和 Large State 调优](https://www.infoq.cn/article/9f1724aed87f0d702031deee1)
+
+### [从字节跳动到火山引擎（三）：替换 Spring Cloud，使用基于 Cloud Native 的服务治理](https://www.infoq.cn/article/8062a35d680349a5ca364e36f)
+
+### [从字节跳动到火山引擎（二）：私有云 PaaS 场景下的 Kubernetes 集群部署实践](https://www.infoq.cn/article/fbcb4e15472a517b858a76819)
