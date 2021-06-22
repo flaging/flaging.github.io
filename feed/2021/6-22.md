@@ -201,3 +201,12 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KlnNp6KHl)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlnOiBr83)
+
+### [iPhone13 会出屏下指纹吗 - V2EX](https://www.v2ex.com/t/785091)
+
+### [
+国内加密货币矿工涌入德州和佛州](http://jandan.net/p/109143)
+
+### [开源筑梦，破势而出：优麒麟 20.04 LTS Pro 发布会成功举办-InfoQ](https://www.infoq.cn/article/5P2dUCzl6Y7g6TQl775W)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlnQ5aI7i)
