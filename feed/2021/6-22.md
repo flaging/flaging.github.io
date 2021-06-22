@@ -115,3 +115,7 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KllE7oZeL)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KllAlFUad)
+
+### [亚马逊海外购：西部数据 10TB/14TB 硬盘价格回落 - 小众软件](https://www.appinn.com/amazon-harddisk-202106/)
+
+### [没有 UI 妹子的限制,原子化 CSS 的确是爽啊. - V2EX](https://www.v2ex.com/t/784909)
