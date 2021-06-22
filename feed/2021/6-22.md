@@ -141,3 +141,17 @@
 ### [WebRTC 传输安全机制第二话：深入显出 SRTP 协议 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-16-3)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KlmdYphzZ)
+
+### [虽是懒人福利，但一锅流其实没那么简单 ｜ 少数派会员  π+Prime](https://sspai.com/post/66362)
+
+### [【推动长江经济带发展领导小组办公室综合协调组召开生态环境突出问题“以案促改”工作推进视频会】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210622_1283723.html)
+
+### [广东疫苗接种加速跑，三针疫苗即将开打！5点注意事项话你知 - 21财经](https://m.21jingji.com/article/20210622/herald/2e7d640ce8274ebe70c66425cd1d9804.html)
+
+### [长时间敲代码，是浅色背景好还是深色背景好？ - V2EX](https://www.v2ex.com/t/785006)
+
+### [Android 刷机包从定制到放弃. 不折腾了, 回老苹果. -- 一个中年大叔的吐槽 - V2EX](https://www.v2ex.com/t/784982)
+
+### [快手Y-tech万鹏飞：短视频UGC智能创作中的CV技术和发展趋势-InfoQ](https://www.infoq.cn/article/0T5ugRMO2poIbAgSEaKs)
+
+### [快手技术副总裁王仲远：快手以AI技术推动音乐大众化发展-InfoQ](https://www.infoq.cn/article/PQRCl9s9sjqJ2xS47cmU)
