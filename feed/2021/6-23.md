@@ -332,3 +332,7 @@ WHY 健力士世涛生啤酒的气泡会下沉和层层叠叠](http://jandan.net
 ### [[D] 5 minute paper digest: Towards Real-World Blind Face Restoration with Generative Facial Prior (GFP-GAN) by Xintao Wang et al : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o6hng9/d_5_minute_paper_digest_towards_realworld_blind/)
 
 ### [请问有啥 UP 主语音语调语气特别催眠吗？什么内容不重要。 - V2EX](https://www.v2ex.com/t/785336)
+
+### [
+Google AI Blog: Improving Genomic Discovery with Machine Learning
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/dUKd8nUp3vY/improving-genomic-discovery-with.html)
