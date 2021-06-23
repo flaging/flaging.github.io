@@ -330,3 +330,5 @@ WHY 健力士世涛生啤酒的气泡会下沉和层层叠叠](http://jandan.net
 ### [YOLOR (Scaled-YOLOv4-based): The best speed/accuracy ratio for Waymo autonomous driving challenge : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o6hob2/yolor_scaledyolov4based_the_best_speedaccuracy/)
 
 ### [[D] 5 minute paper digest: Towards Real-World Blind Face Restoration with Generative Facial Prior (GFP-GAN) by Xintao Wang et al : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o6hng9/d_5_minute_paper_digest_towards_realworld_blind/)
+
+### [请问有啥 UP 主语音语调语气特别催眠吗？什么内容不重要。 - V2EX](https://www.v2ex.com/t/785336)
