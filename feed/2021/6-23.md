@@ -182,3 +182,7 @@ Rust工程师招聘（远程办公 全职） - Rust语言中文社区
 ### [特斯拉披露自家超算集群雏形，最新版本超算有望登顶世界第一？-InfoQ](https://www.infoq.cn/article/DlOHkBuh8hDH8bUQEcPv)
 
 ### [技术|用 Eleventy 建立一个静态网站](https://linux.cn/article-13513-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+sqlite数据库和返回对象的处理 - Rust语言中文社区
+](https://rustcc.cn/article?id=bcf9ffd5-cdf6-493c-bd52-d021c0825606)
