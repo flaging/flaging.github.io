@@ -202,3 +202,11 @@ sqlite数据库和返回对象的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/5722964389/Klx1HtXSV)
 
 ### [把原来 KPI 我的 HR 给怼了 - V2EX](https://www.v2ex.com/t/785262)
+
+### [大咖齐聚、思想碰撞、探索前沿，2021WAIC· 隐私计算学术交流会全日程公布 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-10)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Klxjr51ul)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlxiNrZyA)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KlxgX2rmu)
