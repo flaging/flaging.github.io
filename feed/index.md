@@ -194,3 +194,9 @@ sqlite数据库和返回对象的处理 - Rust语言中文社区
 ### [温柔岁月，沪宁记忆 02：南京篇 - 少数派](https://sspai.com/post/66924)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KlwQAFfP7)
+
+### [让机器学习设计手机GUI，这合理么？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-9)
+
+### [新闻|网上相会，何如线下小酌：LLUG 北京发起首次活动邀约](https://linux.cn/article-13514-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/5722964389/Klx1HtXSV)
