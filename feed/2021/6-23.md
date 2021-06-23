@@ -336,3 +336,7 @@ WHY 健力士世涛生啤酒的气泡会下沉和层层叠叠](http://jandan.net
 ### [
 Google AI Blog: Improving Genomic Discovery with Machine Learning
 ](http://feedproxy.google.com/~r/blogspot/gJZg/~3/dUKd8nUp3vY/improving-genomic-discovery-with.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlBfv8kDr)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlBdCcWHs)
