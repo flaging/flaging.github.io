@@ -226,3 +226,13 @@ sqlite数据库和返回对象的处理 - Rust语言中文社区
 ### [主打隐私的 brave 浏览器今天推出了他们的搜索引擎啦～ - V2EX](https://www.v2ex.com/t/785271)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlxUwwDPL)
+
+### [
+ndarray_linalg编译错误 - Rust语言中文社区
+](https://rustcc.cn/article?id=06aa9320-76ad-4db3-b0e5-7d56c4422012)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kly0BABSg)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kly4Y0tKE)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kly0SbR5O)
