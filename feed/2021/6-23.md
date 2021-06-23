@@ -152,3 +152,11 @@ Rust工程师招聘（远程办公 全职） - Rust语言中文社区
 ### [我们应该重新定义REST吗？-InfoQ](https://www.infoq.cn/article/XvBXPx8YXTySt3TFMvdi)
 
 ### [云原生时代需要什么样的存储系统-InfoQ](https://www.infoq.cn/article/qbFxfHQLOEpdNofgeaFO)
+
+### [是不是只有我对“阿里”这个词 PTSD 了..... - V2EX](https://www.v2ex.com/t/785246)
+
+### [大佬们，安徽高考成绩出来了，理科一本线 488，自家弟弟考了 546 分，高 58 分，有没有可能努力冲击一下 211
+另外，是否有推荐合适的学校，或专业
+已经很多年没了解这方面了 - V2EX](https://www.v2ex.com/t/785243)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlvEumLeo)
