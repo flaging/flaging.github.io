@@ -188,3 +188,9 @@ sqlite数据库和返回对象的处理 - Rust语言中文社区
 ](https://rustcc.cn/article?id=bcf9ffd5-cdf6-493c-bd52-d021c0825606)
 
 ### [ 科创板将迎开市两周年，A股“扫地茅”石头科技乘风而上 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-7)
+
+### [百度研究院RAL团队登顶nuScenes三维目标检测公开挑战赛榜单 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-8)
+
+### [温柔岁月，沪宁记忆 02：南京篇 - 少数派](https://sspai.com/post/66924)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlwQAFfP7)
