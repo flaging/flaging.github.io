@@ -352,3 +352,19 @@ Google AI Blog: Improving Genomic Discovery with Machine Learning
 ### [Sina Visitor System](https://weibo.com/1715118170/KlBJYiDvI)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlBQ3jhNY)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737383)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737387)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737398)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737374)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737397)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737409)
+
+### [青年图摘0624！超能打](https://qingniantuzhai.com/qing-nian-tu-zhai-0624-4/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlC2eh7Ta)
