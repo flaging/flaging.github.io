@@ -74,3 +74,5 @@ Rust目前有比较成熟的数字信号处理库吗 - Rust语言中文社区
 ### [真香了！上手使用DeepMind分布式强化学习框架Acme ，对开发者超友好-InfoQ](https://www.infoq.cn/article/mbaRHqKRBOz0QcEE5EKM)
 
 ### [通俗易懂的redis发布订阅原理实现！](https://www.infoq.cn/article/34a190ee13a3436ae20759723)
+
+### [降低网络AI应用开发门槛，AIOps两大部署模式来助力](https://www.infoq.cn/article/07285f28afdf77c695f9ffb40)
