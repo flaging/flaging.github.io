@@ -130,3 +130,7 @@ Rust工程师招聘（远程办公 全职） - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Klv69Eh5L)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KlveDF0Xb)
+
+### [为什么Python不是面向未来的编程语言？-InfoQ](https://www.infoq.cn/article/b2f3CIsS9vztZsUWm3VJ)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlvgasXsw)
