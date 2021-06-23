@@ -134,3 +134,21 @@ Rust工程师招聘（远程办公 全职） - Rust语言中文社区
 ### [为什么Python不是面向未来的编程语言？-InfoQ](https://www.infoq.cn/article/b2f3CIsS9vztZsUWm3VJ)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlvgasXsw)
+
+### [挖矿、炒币全面被禁，比特币在中国迎来最冷寒冬 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-5)
+
+### [招募 | 从华为到高通、从V2X到Robotaxi，这次要把智能驾驶聊通透！ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-4)
+
+### [V2X马上就要来了，但有些问题还没有解决 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-3)
+
+### [RNN 用于生物医学全息成像，速度加快50倍 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-2)
+
+### [【重磅】世界人工智能大会——2021全球AI产业人才高峰论坛强势来袭！ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23)
+
+### [80%企业数字化转型失败？那是因为没做好这6件事-InfoQ](https://www.infoq.cn/article/seIHo5MN8V3uWaNPdIMY)
+
+### [Python之父：Python 4.0可能不会有了-InfoQ](https://www.infoq.cn/article/19UlbxY0Xy7CEBaZOg2x)
+
+### [我们应该重新定义REST吗？-InfoQ](https://www.infoq.cn/article/XvBXPx8YXTySt3TFMvdi)
+
+### [云原生时代需要什么样的存储系统-InfoQ](https://www.infoq.cn/article/qbFxfHQLOEpdNofgeaFO)
