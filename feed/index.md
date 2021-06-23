@@ -368,3 +368,5 @@ Google AI Blog: Improving Genomic Discovery with Machine Learning
 ### [青年图摘0624！超能打](https://qingniantuzhai.com/qing-nian-tu-zhai-0624-4/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlC2eh7Ta)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlC8kfpZX)
