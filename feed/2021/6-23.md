@@ -92,3 +92,13 @@ Rust目前有比较成熟的数字信号处理库吗 - Rust语言中文社区
 ### [Flink 和 Iceberg 如何解决数据入湖面临的挑战](https://www.infoq.cn/article/bc70791787e40bc21c6aa789d)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KluDxfMeo)
+
+### [唯品会：在 Flink 容器化与平台化上的建设实践](https://www.infoq.cn/article/3727e40b362526efdee34d21c)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KluFEqugc)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KluBNCIVw)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KluAxoVKi)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KluQFDgAv)
