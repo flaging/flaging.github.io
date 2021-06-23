@@ -70,3 +70,7 @@ Rust目前有比较成熟的数字信号处理库吗 - Rust语言中文社区
 ### [☕【JVM技术探索】深入分析各种锁（锁膨胀）运作流程](https://www.infoq.cn/article/03118e174f5f1868ec8ce46ac)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Klu5uvssb)
+
+### [真香了！上手使用DeepMind分布式强化学习框架Acme ，对开发者超友好-InfoQ](https://www.infoq.cn/article/mbaRHqKRBOz0QcEE5EKM)
+
+### [通俗易懂的redis发布订阅原理实现！](https://www.infoq.cn/article/34a190ee13a3436ae20759723)
