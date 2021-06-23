@@ -318,3 +318,9 @@ WHY 健力士世涛生啤酒的气泡会下沉和层层叠叠](http://jandan.net
 ### [Sina Visitor System](https://weibo.com/1642628345/Klz6ZApIK)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Klz6hieoz)
+
+### [
+给 mdbook 编写的两个插件：mdbook-theme(-ace) - Rust语言中文社区
+](https://rustcc.cn/article?id=b217a721-a767-4c83-adf0-ebf588ad39f8)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlznQtavr)
