@@ -168,3 +168,9 @@ Rust工程师招聘（远程办公 全职） - Rust语言中文社区
 ### [Refresh 周报 #12：第二季试播集 - 少数派](https://sspai.com/post/67370)
 
 ### [B站数据平台负责人毛剑：从管理到下一线，优秀管理者应具备什么样的素质？-InfoQ](https://www.infoq.cn/article/hmLMILJLS8jUwU5Pz5PQ)
+
+### [CVPR一次中66篇，大装置一天训练完GPT-3，商汤准备迎战未来  | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-6)
+
+### [不买可以先收藏 06：筛选房源的第一步，读懂户型图 - 少数派](https://sspai.com/post/67379)
+
+### [有没有什么好的方法防止互联网隐私暴露给家人 - V2EX](https://www.v2ex.com/t/785253)
