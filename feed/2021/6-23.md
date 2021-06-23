@@ -180,3 +180,5 @@ Rust工程师招聘（远程办公 全职） - Rust语言中文社区
 ### [观点|自由/开源软件如何保护在线隐私](https://linux.cn/article-13512-1.html?utm_source=rss&utm_medium=rss)
 
 ### [特斯拉披露自家超算集群雏形，最新版本超算有望登顶世界第一？-InfoQ](https://www.infoq.cn/article/DlOHkBuh8hDH8bUQEcPv)
+
+### [技术|用 Eleventy 建立一个静态网站](https://linux.cn/article-13513-1.html?utm_source=rss&utm_medium=rss)
