@@ -166,3 +166,5 @@ Rust工程师招聘（远程办公 全职） - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/5722964389/KlvP1bNh8)
 
 ### [Refresh 周报 #12：第二季试播集 - 少数派](https://sspai.com/post/67370)
+
+### [B站数据平台负责人毛剑：从管理到下一线，优秀管理者应具备什么样的素质？-InfoQ](https://www.infoq.cn/article/hmLMILJLS8jUwU5Pz5PQ)
