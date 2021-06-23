@@ -220,3 +220,9 @@ sqlite数据库和返回对象的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1746173800/KlxCfEVUp)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlxCDil6g)
+
+### [High-Quality Background Removal Without Green Screens explained. The GitHub repo (linked in comments) has been edited with code and commercial solution for anyone interested! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o6bk1c/highquality_background_removal_without_green/)
+
+### [主打隐私的 brave 浏览器今天推出了他们的搜索引擎啦～ - V2EX](https://www.v2ex.com/t/785271)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlxUwwDPL)
