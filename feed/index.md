@@ -30,3 +30,21 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/KltjIfjQZ)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KltjkzGW9)
+
+### [派早报：Today at Apple 创想营正式启动 、《守望先锋》开启跨平台试玩测试 - 少数派](https://sspai.com/post/67377)
+
+### [我表弟初中生中考结束，未来希望从事计算机行业，问我这 2 个月的暑假该怎样度过。 我也不知道给啥建议，各位有什么建议吗？ - V2EX](https://www.v2ex.com/t/785142)
+
+### [大家阅读英文资料的时候，速度快吗？我是一个单词一个单词的看的，觉得费劲 - V2EX](https://www.v2ex.com/t/785041)
+
+### [有没有办法 让微信体积少一点，例如精简 - V2EX](https://www.v2ex.com/t/784980)
+
+### [
+Rust目前有比较成熟的数字信号处理库吗 - Rust语言中文社区
+](https://rustcc.cn/article?id=554e4fa8-5c93-4eba-9a32-5a682a37c2e1)
+
+### [小红书 x DorisDB：实现数据服务平台统一化，简化数据链路，提升高并发极速查询能力](https://www.infoq.cn/article/8c207beaa3d4ffa4df84a0898)
+
+### [字节跳动亿级视频处理系统高可用架构实践](https://www.infoq.cn/article/b48c8f2cadc253a647715b6a5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KltH6fceh)
