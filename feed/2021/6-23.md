@@ -212,3 +212,11 @@ sqlite数据库和返回对象的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/KlxgX2rmu)
 
 ### [硬核观察|硬核观察 #311 国产 RISC-V 处理器“香山”，已成功运行 Linux](https://linux.cn/article-13515-1.html?utm_source=rss&utm_medium=rss)
+
+### [2021年6月23日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1886125.shtml)
+
+### [ի--ͼ20210623ҸߴҿñȽϺõ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157801)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlxCfEVUp)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlxCDil6g)
