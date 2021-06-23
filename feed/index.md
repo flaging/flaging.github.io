@@ -48,3 +48,13 @@ Rust目前有比较成熟的数字信号处理库吗 - Rust语言中文社区
 ### [字节跳动亿级视频处理系统高可用架构实践](https://www.infoq.cn/article/b48c8f2cadc253a647715b6a5)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KltH6fceh)
+
+### [让人人都能表达创意的专业课程：Today at Apple 创想营开学了 - 少数派](https://sspai.com/post/67376)
+
+### [Can we used matrices and lists for custom Dataset? : pytorch](https://www.reddit.com/r/pytorch/comments/o63ozl/can_we_used_matrices_and_lists_for_custom_dataset/)
+
+### [6月23日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0623/135308.shtml)
+
+### [推荐算法概述(十五)](https://www.infoq.cn/article/807f3e7084bf266cb2699d37c)
+
+### [搭建工具提升DDD开发效率](https://www.infoq.cn/article/77919598f6fdc539e1ca2a182)
