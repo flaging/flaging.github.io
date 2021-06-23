@@ -210,3 +210,5 @@ sqlite数据库和返回对象的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KlxiNrZyA)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KlxgX2rmu)
+
+### [硬核观察|硬核观察 #311 国产 RISC-V 处理器“香山”，已成功运行 Linux](https://linux.cn/article-13515-1.html?utm_source=rss&utm_medium=rss)
