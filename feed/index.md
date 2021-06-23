@@ -58,3 +58,15 @@ Rust目前有比较成熟的数字信号处理库吗 - Rust语言中文社区
 ### [推荐算法概述(十五)](https://www.infoq.cn/article/807f3e7084bf266cb2699d37c)
 
 ### [搭建工具提升DDD开发效率](https://www.infoq.cn/article/77919598f6fdc539e1ca2a182)
+
+### [又到暑假了，孩子跟家，有没有办法记录上网网址？ - V2EX](https://www.v2ex.com/t/785202)
+
+### [iPhone KFC app 偷跑了 3 个多 G 的流量 果断卸载 - V2EX](https://www.v2ex.com/t/785079)
+
+### [如果准备接手一个菜鸟驿站的话，我需要了解哪方面？ - V2EX](https://www.v2ex.com/t/785056)
+
+### [人生的抉择 - V2EX](https://www.v2ex.com/t/785016)
+
+### [☕【JVM技术探索】深入分析各种锁（锁膨胀）运作流程](https://www.infoq.cn/article/03118e174f5f1868ec8ce46ac)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Klu5uvssb)
