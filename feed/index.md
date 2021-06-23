@@ -262,3 +262,29 @@ ndarray_linalg编译错误 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/Klyh4dqFE)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlyiSaJRC)
+
+### [摄像头和激光雷达都被蒙蔽？UCI首次提出针对自动驾驶多传感器融合感知的攻击 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-14)
+
+### [脑洞公益短片《我们家在着火》 - 新片场](https://www.vmovier.com/62299)
+
+### [趣味科普《宇航员如何在太空吃东西》 - 新片场](https://www.vmovier.com/62345)
+
+### [Numéro x Ferragamo 《梦幻泡影》- 现实 - 新片场](https://www.vmovier.com/62314)
+
+### [全电动斯柯达《机器人成长记》 - 新片场](https://www.vmovier.com/62356)
+
+### [戛纳入围学生动画《我的宇航员母亲》 - 新片场](https://www.vmovier.com/62350)
+
+### [4 个电影制作技巧，让作品更上一层楼！ - 新片场](https://www.vmovier.com/62348)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1359)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1358)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1357)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1356)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Klyv2Cqc4)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlypeqeH6)
