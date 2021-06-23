@@ -200,3 +200,5 @@ sqlite数据库和返回对象的处理 - Rust语言中文社区
 ### [新闻|网上相会，何如线下小酌：LLUG 北京发起首次活动邀约](https://linux.cn/article-13514-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/5722964389/Klx1HtXSV)
+
+### [把原来 KPI 我的 HR 给怼了 - V2EX](https://www.v2ex.com/t/785262)
