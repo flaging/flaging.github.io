@@ -248,3 +248,17 @@ ndarray_linalg编译错误 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KlycMyrsD)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kly6GlQSz)
+
+### [AI总监Karpathy亲自揭秘特斯拉纯视觉系统，还有自动驾驶超算Dojo原型 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-13)
+
+### [向Linux看齐，立志存活三十年：包云岗团队开源高性能RISC-V处理器「香山」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-12)
+
+### [CVPR一次中66篇，大装置一天训练完GPT-3，商汤准备迎战未来 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-23-11)
+
+### [2021年6月23日新闻联播文字版](http://www.xwlb.net.cn/20308.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlyhPdwHg)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Klyh4dqFE)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlyiSaJRC)
