@@ -288,3 +288,9 @@ ndarray_linalg编译错误 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/Klyv2Cqc4)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlypeqeH6)
+
+### [献礼建党一百周年《永远跟党走》 - 新片场](https://www.vmovier.com/62360)
+
+### [跪了！第一视角《大神的无限穿越》 - 新片场](https://www.vmovier.com/62349)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlyB8ywv0)
