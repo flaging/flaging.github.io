@@ -102,3 +102,15 @@ Rust目前有比较成熟的数字信号处理库吗 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KluAxoVKi)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KluQFDgAv)
+
+### [2021 年最适合你的翻译 App 是什么？你可能需要这份指南 - 少数派](https://sspai.com/post/67303)
+
+### [AIoT芯片行业小步快跑，“万物互联”向下一层-InfoQ](https://www.infoq.cn/article/6p6wtgL7glO9lLrpSfjD)
+
+### [十亿级流量下，我与Redis时延小突刺的战斗史](https://www.infoq.cn/article/d91b8e60b5658cac27b8ea92e)
+
+### [开源项目的 5 年长跑，runc v1.0 终于正式发布！ - SegmentFault 思否](https://segmentfault.com/a/1190000040223946)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KluZH1wsS)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KluWLx96J)
