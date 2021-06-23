@@ -174,3 +174,9 @@ Rust工程师招聘（远程办公 全职） - Rust语言中文社区
 ### [不买可以先收藏 06：筛选房源的第一步，读懂户型图 - 少数派](https://sspai.com/post/67379)
 
 ### [有没有什么好的方法防止互联网隐私暴露给家人 - V2EX](https://www.v2ex.com/t/785253)
+
+### [One Commander 3 - 多栏、多主题、高自定义、文件预览，免费的文件管理器[Windows] - 小众软件](https://www.appinn.com/one-commander-3/)
+
+### [观点|自由/开源软件如何保护在线隐私](https://linux.cn/article-13512-1.html?utm_source=rss&utm_medium=rss)
+
+### [特斯拉披露自家超算集群雏形，最新版本超算有望登顶世界第一？-InfoQ](https://www.infoq.cn/article/DlOHkBuh8hDH8bUQEcPv)
