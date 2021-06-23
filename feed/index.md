@@ -164,3 +164,5 @@ Rust工程师招聘（远程办公 全职） - Rust语言中文社区
 ### [2.5亿脱发人群撑起百亿市场，“植发第一股”闯关港交所！ - 21财经](https://m.21jingji.com/article/20210623/herald/99ff148bda24fb5eccaf7500d12cfc69.html)
 
 ### [Sina Visitor System](https://weibo.com/5722964389/KlvP1bNh8)
+
+### [Refresh 周报 #12：第二季试播集 - 少数派](https://sspai.com/post/67370)
