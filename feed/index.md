@@ -136,3 +136,19 @@
 ### [
 智能合约实习生招聘（远程办公 全职） - Rust语言中文社区
 ](https://rustcc.cn/article?id=fcf78101-3440-40c3-b6a8-86f1953f31d5)
+
+### [京东 plus 会员已经没有人工客服了？ - V2EX](https://www.v2ex.com/t/785483)
+
+### [最近 macbook 用谷歌看 Bilibili 巨发热，怎么解决…… - V2EX](https://www.v2ex.com/t/785404)
+
+### [[上海][外企][内推]动视暴雪🎮游戏后端岗 ( Python /C++) Call of Duty/25 天🏖/不加班 - V2EX](https://www.v2ex.com/t/785399)
+
+### [OOP 在 2021 年还是回事儿吗？-InfoQ](https://www.infoq.cn/article/zcfY9dNaMCbVlNVLdv4f)
+
+### [自动驾驶汽车真的比人驾驶汽车更安全吗?-InfoQ](https://www.infoq.cn/article/93Grsdkqw5ikQtik8KJZ)
+
+### [过渡架构的作用：一周处理近百起高严重性事件，如何重写这个技术负债系统？-InfoQ](https://www.infoq.cn/article/k0brHcs4PKSW2eHup81z)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlF4ZeU2u)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlF5puvmx)
