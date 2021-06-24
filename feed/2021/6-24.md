@@ -54,3 +54,11 @@
 ### [强化学习 | COMA](https://www.infoq.cn/article/2c350b15aac1b00185ce8f802)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlDvZ8c1Y)
+
+### [对标亚马逊，谷歌推出垂直制造业的AI视觉检测工具 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-5)
+
+### [求推荐 Mac 上好用的视频转码软件 - V2EX](https://www.v2ex.com/t/785373)
+
+### [有什么好的英语学习 app 吗？ - V2EX](https://www.v2ex.com/t/785278)
+
+### [Java的函数式接口](https://www.infoq.cn/article/23f78e90246d799e8264d97ba)
