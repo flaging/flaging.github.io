@@ -230,3 +230,11 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [Sina Visitor System](https://weibo.com/1402400261/KlGqKcspR)
 
 ### [新玩意 068｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/67402)
+
+### [大家对开源怎么看，很多开源作者被抄袭，所以开源的意义何在？ - V2EX](https://www.v2ex.com/t/785522)
+
+### [晚上一点半睡觉正常吗？ - V2EX](https://www.v2ex.com/t/785398)
+
+### [2021年6月24日外交部发言人赵立坚主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1886524.shtml)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlGHFgFL7)
