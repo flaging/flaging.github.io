@@ -70,3 +70,9 @@
 ### [使用 VideoToolbox 探索低延迟视频编码 | WWDC 演讲实录](https://www.infoq.cn/article/3d8b8a2110a2a3bd91e0cf90e)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlDUd2XLA)
+
+### [技术|在 Linux 上用 fd 代替 find](https://linux.cn/article-13516-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlDYBgbtg)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlDW5g6Xo)
