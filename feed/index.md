@@ -120,3 +120,11 @@
 ](https://rustcc.cn/article?id=578f4edf-cbe5-4b7f-8c71-c12c5acf1d61)
 
 ### [信息安全与网络安全的关系](https://www.infoq.cn/article/1fce9a0462909bcf1604db9b0)
+
+### [服务器系统选择，都在说 Debian 好，到底好在哪？ - V2EX](https://www.v2ex.com/t/785459)
+
+### [中小公司开发人员包揽测试，在行业内属于正常嘛？ - V2EX](https://www.v2ex.com/t/785290)
+
+### [国产14nm芯片将于明年量产，可满足70%生产需求-InfoQ](https://www.infoq.cn/article/yE1ktbgLAf2gSUXccCHN)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlEGNhCwJ)
