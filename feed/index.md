@@ -24,3 +24,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KlCJ9wqkt)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KlCZOdVMI)
+
+### [派早报：苹果将开放 15W MagSafe 认证、奥迪将停止生产燃油车等 - 少数派](https://sspai.com/post/67393)
+
+### [处理Java中的不稳定单元测试-InfoQ](https://www.infoq.cn/article/swJyT9U4VjCUGETtrHcZ)
+
+### [微服务架构下的静态数据通用缓存机制](https://www.infoq.cn/article/ddcab73f9655bbd4df8891d21)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlD7u1Sxb)
