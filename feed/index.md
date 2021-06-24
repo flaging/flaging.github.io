@@ -182,3 +182,13 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [用户激增，负载飙升，Pinterest如何平稳扩展K8s？-InfoQ](https://www.infoq.cn/article/hEvRuoJhXozAS57E8dUX)
 
 ### [AI虚拟人多模态交互落地难题如何破解？我们在乐享A.I.技术沙龙成都站找到了答案-InfoQ](https://www.infoq.cn/article/gcz68kyoTS2h8O4Oql9b)
+
+### [手腕救星还是烧钱摆件？聊聊人体工学键盘 - 少数派](https://sspai.com/post/67354)
+
+### [Get file names and file path using PyTorch dataloader : pytorch](https://www.reddit.com/r/pytorch/comments/o6wxug/get_file_names_and_file_path_using_pytorch/)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=952)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=937)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=955)
