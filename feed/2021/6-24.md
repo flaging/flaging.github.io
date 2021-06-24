@@ -308,3 +308,17 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [
 【Rust 日报】2021-06-24 rustc_codegen_gcc: 新的进展报告！ - Rust语言中文社区
 ](https://rustcc.cn/article?id=e67d2bca-b808-4539-97a2-ad3bd1cffd54)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1363)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1362)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1361)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1360)
+
+### [2021年6月24日新闻联播文字版](http://www.xwlb.net.cn/20370.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlIOlljOV)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlICDkZJD)
