@@ -192,3 +192,7 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=937)
 
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=955)
+
+### [迫于公司不给服务器，求个服务器配置预算 3000 - V2EX](https://www.v2ex.com/t/785493)
+
+### [和好朋友来青岛玩了，青岛好浪漫哦 - V2EX](https://www.v2ex.com/t/785433)
