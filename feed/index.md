@@ -282,3 +282,7 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [成都移动光猫超管密码被改了 - V2EX](https://www.v2ex.com/t/785435)
 
 ### [Sina Visitor System](https://weibo.com/5722964389/KlI1Cvdx6)
+
+### [我陪伴一起思否成长的日子　 |　思否的九周年 - SegmentFault 思否](https://segmentfault.com/a/1190000040235594)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlIdZkwVd)
