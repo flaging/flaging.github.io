@@ -32,3 +32,11 @@
 ### [微服务架构下的静态数据通用缓存机制](https://www.infoq.cn/article/ddcab73f9655bbd4df8891d21)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlD7u1Sxb)
+
+### [官方推销？联通干嘛老打电话过来让我开流量包！ - V2EX](https://www.v2ex.com/t/785334)
+
+### [一次性搞清Java中的类加载问题](https://www.infoq.cn/article/69cd110273068db615725b865)
+
+### [什么是OneData？阿里数据中台实施方法论解读](https://www.infoq.cn/article/ef6f4279812365b85d56498db)
+
+### [如何平衡兴趣与收入 —— 听尤雨溪访谈有感 - SegmentFault 思否](https://segmentfault.com/a/1190000040230988)
