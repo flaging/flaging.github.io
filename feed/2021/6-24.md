@@ -384,3 +384,9 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [Sina Visitor System](https://weibo.com/1402400261/KlKIAsvo4)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlKM76iL4)
+
+### [
+Google AI Blog: A Dataset for Studying Gender Bias in Translation
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/SqLDbUeZeYM/a-dataset-for-studying-gender-bias-in.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlKYwDhdi)
