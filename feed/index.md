@@ -208,3 +208,7 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [支持Transformer全流程训练加速，最高加速3倍！字节跳动LightSeq上新 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-13)
 
 ### [硬核观察|硬核观察 #312 苹果称第三方应用程序商店将使 iPhone 向骗子开放](https://linux.cn/article-13518-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/2816125940/KlGd4tEss)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KlGlFxGKF)
