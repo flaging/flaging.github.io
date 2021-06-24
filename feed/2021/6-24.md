@@ -114,3 +114,9 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KlEpK3HgR)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlEoWnThI)
+
+### [
+求教 如何从闭包中返回变量的引用 并且不产生悬垂指针 - Rust语言中文社区
+](https://rustcc.cn/article?id=578f4edf-cbe5-4b7f-8c71-c12c5acf1d61)
+
+### [信息安全与网络安全的关系](https://www.infoq.cn/article/1fce9a0462909bcf1604db9b0)
