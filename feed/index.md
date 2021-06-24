@@ -228,3 +228,5 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [Sina Visitor System](https://weibo.com/1402400261/KlGw9jUfn)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlGqKcspR)
+
+### [新玩意 068｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/67402)
