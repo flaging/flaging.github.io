@@ -152,3 +152,5 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KlF4ZeU2u)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlF5puvmx)
+
+### [容器技术的未来发展道路-InfoQ](https://www.infoq.cn/article/2UdxVa0j2JvpKyI7Ibfg)
