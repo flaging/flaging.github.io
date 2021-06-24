@@ -88,3 +88,17 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KlEc7idHn)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlE7k0eZW)
+
+### [Macbook pro 刚买半年，左下角被手磨掉漆了，这正常吗？ - V2EX](https://www.v2ex.com/t/785286)
+
+### [我们做了一个 CEO 写东西的地方 - V2EX](https://www.v2ex.com/t/785284)
+
+### [软件开发|Cube.js：试试这个新的数据分析开源工具](https://linux.cn/article-13517-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+想实现个wordcount 累加器 但这个生命周期怎么都绕不开啊 - Rust语言中文社区
+](https://rustcc.cn/article?id=6a90a0c0-c7d2-4426-bb1f-edd1ebc9035e)
+
+### [如何基于MindSpore实现万亿级参数模型算法？](https://www.infoq.cn/article/eeb006f60071cf845a0fc64b6)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlEiChXeo)
