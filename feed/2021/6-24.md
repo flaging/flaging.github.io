@@ -258,3 +258,11 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [Sina Visitor System](https://weibo.com/1715118170/KlHxdeMls)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlHrxmbi2)
+
+### [XS Max 暴力换电池 - V2EX](https://www.v2ex.com/t/785517)
+
+### [AI算法，又整新活！](https://cuijiahua.com/blog/2021/06/ai-18.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlHH1nbKB)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlHDhsMlg)
