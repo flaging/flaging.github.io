@@ -248,3 +248,9 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [Sina Visitor System](https://weibo.com/1746173800/KlH2KtMAq)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlH3b4wnA)
+
+### [How to read more research papers? Sharing my best tips and practical tools I use daily to simplify my life as a research scientist to be more efficient when looking for interesting research papers and reading them : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o6zsmk/how_to_read_more_research_papers_sharing_my_best/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlHl21xGo)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlHeVppoo)
