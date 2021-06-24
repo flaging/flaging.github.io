@@ -166,3 +166,19 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ](https://rustcc.cn/article?id=2a5348f7-329d-4732-81a4-b8c13fbb0a66)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KlFtleYSZ)
+
+### [程序员都有哪些可实操的副业 - V2EX](https://www.v2ex.com/t/785504)
+
+### [西安买的新房要交房了，如何处理比较好？ - V2EX](https://www.v2ex.com/t/785492)
+
+### [关于程序员如何精进细节的三个问题。 - V2EX](https://www.v2ex.com/t/785434)
+
+### [苹果的售后真的没有更高级别的人能管了吗？ - V2EX](https://www.v2ex.com/t/785347)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KlFFuoaek)
+
+### [降低系统复杂性，开发团队必知的一种简单方法-InfoQ](https://www.infoq.cn/article/yt4r2oICMd50BBv1sxUF)
+
+### [用户激增，负载飙升，Pinterest如何平稳扩展K8s？-InfoQ](https://www.infoq.cn/article/hEvRuoJhXozAS57E8dUX)
+
+### [AI虚拟人多模态交互落地难题如何破解？我们在乐享A.I.技术沙龙成都站找到了答案-InfoQ](https://www.infoq.cn/article/gcz68kyoTS2h8O4Oql9b)
