@@ -290,3 +290,21 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [内卷时代的筛选手段：面试考算法，你怎么看？ - V2EX](https://www.v2ex.com/t/785603)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlIpZnrbZ)
+
+### [My "Investment Mindset" - The Pragmatic Engineer](http://feedproxy.google.com/~r/ThePragmaticEngineer/~3/fgx421RYnSY/)
+
+### [
+美国各州曾经都认可丈夫有杀死奸夫的权力](http://jandan.net/p/109129)
+
+### [
+真·第七感 欧洲知更鸟拥有量子感知](http://jandan.net/p/109152)
+
+### [
+日本计划推出4天工作制](http://jandan.net/p/109136)
+
+### [
+今日好价：吉列剃须刀](http://jandan.net/p/109151)
+
+### [
+【Rust 日报】2021-06-24 rustc_codegen_gcc: 新的进展报告！ - Rust语言中文社区
+](https://rustcc.cn/article?id=e67d2bca-b808-4539-97a2-ad3bd1cffd54)
