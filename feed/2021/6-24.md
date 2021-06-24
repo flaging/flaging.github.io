@@ -42,3 +42,15 @@
 ### [如何平衡兴趣与收入 —— 听尤雨溪访谈有感 - SegmentFault 思否](https://segmentfault.com/a/1190000040230988)
 
 ### [6月24日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0624/135311.shtml)
+
+### [云成本，一个万亿美元的悖论 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-4)
+
+### [文远知行C轮融资超6亿美元，获雷诺-日产-三菱联盟基金和普罗资本等投资 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-3)
+
+### [一款儿童EV收获5万订单！哪吒V Co-kids魔童版背后是何来由？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-2)
+
+### [思谋科技完成B轮融资 领跑智能制造 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24)
+
+### [强化学习 | COMA](https://www.infoq.cn/article/2c350b15aac1b00185ce8f802)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlDvZ8c1Y)
