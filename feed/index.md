@@ -414,3 +414,7 @@ Google AI Blog: A Dataset for Studying Gender Bias in Translation
 ### [Sina Visitor System](https://weibo.com/1715118170/KlLmRn1ao)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlLyP7yRE)
+
+### [Google Colab Cuda RuntimeError : pytorch](https://www.reddit.com/r/pytorch/comments/o7bm61/google_colab_cuda_runtimeerror/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5905/)
