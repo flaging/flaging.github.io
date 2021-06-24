@@ -40,3 +40,5 @@
 ### [什么是OneData？阿里数据中台实施方法论解读](https://www.infoq.cn/article/ef6f4279812365b85d56498db)
 
 ### [如何平衡兴趣与收入 —— 听尤雨溪访谈有感 - SegmentFault 思否](https://segmentfault.com/a/1190000040230988)
+
+### [6月24日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0624/135311.shtml)
