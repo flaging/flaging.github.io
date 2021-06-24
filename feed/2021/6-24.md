@@ -62,3 +62,11 @@
 ### [有什么好的英语学习 app 吗？ - V2EX](https://www.v2ex.com/t/785278)
 
 ### [Java的函数式接口](https://www.infoq.cn/article/23f78e90246d799e8264d97ba)
+
+### [聚焦量子计算  玻色量子完成数千万人民币天使轮融资，点亮伯恩领投 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-6)
+
+### [一文带你彻底了解 TCP 连接的本质](https://www.infoq.cn/article/5d3416c3bf7c735fb3d4a880d)
+
+### [使用 VideoToolbox 探索低延迟视频编码 | WWDC 演讲实录](https://www.infoq.cn/article/3d8b8a2110a2a3bd91e0cf90e)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlDUd2XLA)
