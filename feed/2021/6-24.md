@@ -286,3 +286,7 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [我陪伴一起思否成长的日子　 |　思否的九周年 - SegmentFault 思否](https://segmentfault.com/a/1190000040235594)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlIdZkwVd)
+
+### [内卷时代的筛选手段：面试考算法，你怎么看？ - V2EX](https://www.v2ex.com/t/785603)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlIpZnrbZ)
