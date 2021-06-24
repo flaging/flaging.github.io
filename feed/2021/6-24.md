@@ -128,3 +128,11 @@
 ### [国产14nm芯片将于明年量产，可满足70%生产需求-InfoQ](https://www.infoq.cn/article/yE1ktbgLAf2gSUXccCHN)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlEGNhCwJ)
+
+### [
+智能合约实习生招聘（远程办公 全职） - Rust语言中文社区
+](https://rustcc.cn/article?id=bd09e761-7ce0-4656-a903-e93a09d608ae)
+
+### [
+智能合约实习生招聘（远程办公 全职） - Rust语言中文社区
+](https://rustcc.cn/article?id=fcf78101-3440-40c3-b6a8-86f1953f31d5)
