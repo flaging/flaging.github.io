@@ -196,3 +196,15 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [迫于公司不给服务器，求个服务器配置预算 3000 - V2EX](https://www.v2ex.com/t/785493)
 
 ### [和好朋友来青岛玩了，青岛好浪漫哦 - V2EX](https://www.v2ex.com/t/785433)
+
+### [被判引渡回美国后，杀毒软件McAFee创始人狱中自裁 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-12)
+
+### [目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-11)
+
+### [千亿参数大模型时代，QQ浏览器团队十亿级小模型「摩天」登顶CLUE，极致压榨网络性能 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-10)
+
+### [大格局！第四范式要在一年内开源95%核心技术 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-9)
+
+### [支持Transformer全流程训练加速，最高加速3倍！字节跳动LightSeq上新 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-13)
+
+### [硬核观察|硬核观察 #312 苹果称第三方应用程序商店将使 iPhone 向骗子开放](https://linux.cn/article-13518-1.html?utm_source=rss&utm_medium=rss)
