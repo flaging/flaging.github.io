@@ -102,3 +102,15 @@
 ### [如何基于MindSpore实现万亿级参数模型算法？](https://www.infoq.cn/article/eeb006f60071cf845a0fc64b6)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlEiChXeo)
+
+### [“数字转型·城智未来” 2021第四届上海人工智能大会 聚焦数字化转型 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-7)
+
+### [面试官问我：如何减少客户对交付成果的质疑](https://www.infoq.cn/article/369f2da3fbf920ac2a7e8fd46)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlExUejav)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlExRAM7v)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlEpK3HgR)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlEoWnThI)
