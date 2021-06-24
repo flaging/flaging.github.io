@@ -154,3 +154,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KlF5puvmx)
 
 ### [容器技术的未来发展道路-InfoQ](https://www.infoq.cn/article/2UdxVa0j2JvpKyI7Ibfg)
+
+### [开放空间中的独立，老房子装修思考 - 少数派](https://sspai.com/post/66914)
+
+### [wallabag - 开源网络书签、稍后阅读工具：自托管、RSS、标注、本地保存、中文界面、多客户端、自动标签规则等 - 小众软件](https://www.appinn.com/wallabag/)
+
+### [Convolutional Autoencoder CIFAR10 PyTorch - RuntimeError : pytorch](https://www.reddit.com/r/pytorch/comments/o6w3zg/convolutional_autoencoder_cifar10_pytorch/)
+
+### [
+Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语言中文社区
+](https://rustcc.cn/article?id=2a5348f7-329d-4732-81a4-b8c13fbb0a66)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlFtleYSZ)
