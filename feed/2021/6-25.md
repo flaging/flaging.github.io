@@ -342,3 +342,6 @@ Google AI Blog: Achieving Precision in Quantum Material Simulations
 ### [Poorly Drawn Lines – Who We Are](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/aQbR_gJmnhA/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlSruEIaE)
+
+### [
+关于全球气候的最高机构的报告草案泄露](http://jandan.net/p/109158)
