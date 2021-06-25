@@ -128,3 +128,9 @@
 职业经理人多年来形成的直觉可能比分析工具更有效](http://jandan.net/p/109122)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlNSI1UkF)
+
+### [Rust 行业调研报告-InfoQ](https://www.infoq.cn/article/UMQBIGHCEOa81YIj7UYg)
+
+### [堵俊平：开放治理是开源社区的终极之路 | DEV. Together 2021 中国开发者生态峰会 - SegmentFault 思否](https://segmentfault.com/a/1190000040233513)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlO4u75Av)
