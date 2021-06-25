@@ -38,3 +38,17 @@
 ### [想要做好微服务化，这个核心对象要管好](https://www.infoq.cn/article/a30fc2decdcbe8275270e20f2)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlMxXDrnC)
+
+### [
+【全职远程-区块链】15k-40k/盈富金集团招【技术研发】【市场运营】相关岗位 - Rust语言中文社区
+](https://rustcc.cn/article?id=88311fc4-28c5-44e5-a2dd-782be855ff4c)
+
+### [分布式锁相关探索](https://www.infoq.cn/article/928fd8eb300e645eddc03396e)
+
+### [阿里腾讯面试梳理&个人成长经历分享 - SegmentFault 思否](https://segmentfault.com/a/1190000039771047)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlMQhwSN0)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlMLexZG9)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KlMQw0M2w)
