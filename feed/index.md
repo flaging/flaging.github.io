@@ -178,3 +178,9 @@ Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语�
 ### [
 aes加密和解密 - Rust语言中文社区
 ](https://rustcc.cn/article?id=3d5a59fd-81ef-4c30-97a5-bb4a5483df7b)
+
+### [硬核观察|硬核观察 #313 微软正式宣布推出 Windows 11 操作系统](https://linux.cn/article-13521-1.html?utm_source=rss&utm_medium=rss)
+
+### [麒麟软件孔金珠：投身操作系统20年，为什么看好openEuler?-InfoQ](https://www.infoq.cn/article/r6Ne26ys3FRodSzyLBJu)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlOUapTZu)
