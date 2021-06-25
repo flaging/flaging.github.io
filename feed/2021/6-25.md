@@ -60,3 +60,15 @@
 ### [破局团伙作案风险——图卷积神经网络（GCN）算法](https://www.infoq.cn/article/74264e8441595ac7730ec4fa3)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlMWiFRT5)
+
+### [M3U8下载器 - 在线下载流媒体视频，支持自动合并[Windows] - 小众软件](https://www.appinn.com/m3u8-downloader-for-windows/)
+
+### [不让用自己电脑开发，公司电脑不能带回去 - V2EX](https://www.v2ex.com/t/785585)
+
+### [生成器模式-代码的艺术系列（一） - V2EX](https://www.v2ex.com/t/785494)
+
+### [阿里达摩院发布万亿参数AI大模型M6，“神经元”达人类10倍，初具认知与创造能力-InfoQ](https://www.infoq.cn/article/xIX9lekuuLcXewc5iphF)
+
+### [阿里云中间件首席架构师李小平：企业为什么需要云原生？](https://www.infoq.cn/article/3c00cc05b9641e1d932471148)
+
+### [超清音质实时会议系统的背后 ，深入剖析 AliCloudDenoise 语音增强算法](https://www.infoq.cn/article/5e4bb999e43f4232bfa86d083)
