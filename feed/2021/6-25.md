@@ -52,3 +52,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KlMLexZG9)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KlMQw0M2w)
+
+### [6月25日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0625/135315.shtml)
+
+### [作为一名程序员，该如何开展副业呢？-InfoQ](https://www.infoq.cn/article/2zlo4cFVS8MkdglqHV4f)
+
+### [破局团伙作案风险——图卷积神经网络（GCN）算法](https://www.infoq.cn/article/74264e8441595ac7730ec4fa3)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlMWiFRT5)
