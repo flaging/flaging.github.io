@@ -298,3 +298,9 @@ aes加密和解密 - Rust语言中文社区
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1366)
 
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1364)
+
+### [二本大学，学信息安全好还是计算机好？ - V2EX](https://www.v2ex.com/t/785811)
+
+### [iQDNS - 一个纯净的像少女一般的 DNS 服务 - V2EX](https://www.v2ex.com/t/785666)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlRs8ccRO)
