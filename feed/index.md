@@ -184,3 +184,7 @@ aes加密和解密 - Rust语言中文社区
 ### [麒麟软件孔金珠：投身操作系统20年，为什么看好openEuler?-InfoQ](https://www.infoq.cn/article/r6Ne26ys3FRodSzyLBJu)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlOUapTZu)
+
+### [独居青年下厨指南 | 送给即将毕业的你 - 少数派](https://sspai.com/post/67012)
+
+### [公司不配电脑，也没有补贴 - V2EX](https://www.v2ex.com/t/785769)
