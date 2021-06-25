@@ -24,3 +24,17 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KlMfsgXRY)
 
 ### [科技爱好者周刊（第 164 期）：培训班 vs 大学，求职成功率比较 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html)
+
+### [派早报：微软正式公布 Windows 11、Intel XMP 3.0 即将支持 DDR5 等 - 少数派](https://sspai.com/post/67408)
+
+### [作为伟大的程序员, 大家的工作状态是怎样的 - V2EX](https://www.v2ex.com/t/785636)
+
+### [
+【活动】2020年开源操作系统夏令营 - Rust语言中文社区
+](https://rustcc.cn/article?id=32e597f5-61cd-45bd-affb-194ce7b406a5)
+
+### [ES6 中的 Symbol 是什么？](https://www.infoq.cn/article/ba042777e3a28ceaeeedc4eea)
+
+### [想要做好微服务化，这个核心对象要管好](https://www.infoq.cn/article/a30fc2decdcbe8275270e20f2)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlMxXDrnC)
