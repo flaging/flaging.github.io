@@ -393,3 +393,5 @@ Google AI Blog: Achieving Precision in Quantum Material Simulations
 ### [青年图摘0626！从入门到放弃](https://qingniantuzhai.com/qing-nian-tu-zhai-0626-4/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlUNyAkcI)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlUZjEzpU)
