@@ -72,3 +72,17 @@
 ### [阿里云中间件首席架构师李小平：企业为什么需要云原生？](https://www.infoq.cn/article/3c00cc05b9641e1d932471148)
 
 ### [超清音质实时会议系统的背后 ，深入剖析 AliCloudDenoise 语音增强算法](https://www.infoq.cn/article/5e4bb999e43f4232bfa86d083)
+
+### [观点|为什么在 2021 年我仍然推荐你使用 Linux](https://linux.cn/article-13519-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KlNkqdpVd)
+
+### [无埋点核心技术：iOS Hook在字节的实践经验-InfoQ](https://www.infoq.cn/article/DxyqiDEtHi8DId65q1df)
+
+### [与其摸鱼，不如来看：高性能消息中间件NSQ解析的整体介绍](https://www.infoq.cn/article/93a500418cadd992c157e8dc1)
+
+### [Windows 11 官宣，首次支持安卓 APP，全新应用商店机制抗衡苹果 - SegmentFault 思否](https://segmentfault.com/a/1190000040239339)
+
+### [中科院发布国产 RISC-V 处理器“香山”：已成功运行 Linux/Debian - SegmentFault 思否](https://segmentfault.com/a/1190000040237477)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlNkRmgfu)
