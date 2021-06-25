@@ -320,3 +320,17 @@ aes加密和解密 - Rust语言中文社区
 逆向思考：文明程度相近的地外文明处于何位置才能探测到地球](http://jandan.net/p/109150)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlS2ZxiHs)
+
+### [Stoping running training on Jupyter without running out of memory : pytorch](https://www.reddit.com/r/pytorch/comments/o7r1f0/stoping_running_training_on_jupyter_without/)
+
+### [DINO - Emerging Properties in Self-Supervised Vision Transformers | Implementation : pytorch](https://www.reddit.com/r/pytorch/comments/o7qvap/dino_emerging_properties_in_selfsupervised_vision/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5906/)
+
+### [顶级名校到底青睐怎样的人才——从哈佛和清华录取趋势说起 - FT中文网](http://www.ftchinese.com/story/001092956)
+
+### [中美技术对抗下的欧盟：左右为难还是左右逢源 - FT中文网](http://www.ftchinese.com/story/001092948)
+
+### [全球“流动性盛宴”面临终结 - FT中文网](http://www.ftchinese.com/story/001092942)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlSeQa9S2)
