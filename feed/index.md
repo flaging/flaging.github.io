@@ -156,3 +156,7 @@
 ### [Light 壁纸 - 由代码生成的无限数量壁纸应用[iPhone/iPad] - 小众软件](https://www.appinn.com/light-wallpaper-for-ios/)
 
 ### [Concatenating ResNet-50 predictions PyTorch : pytorch](https://www.reddit.com/r/pytorch/comments/o7i5g3/concatenating_resnet50_predictions_pytorch/)
+
+### [前端大佬们，移动端布局不用 REM 用什么？ - V2EX](https://www.v2ex.com/t/785701)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlOvJ7Vvg)
