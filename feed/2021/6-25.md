@@ -334,3 +334,11 @@ aes加密和解密 - Rust语言中文社区
 ### [全球“流动性盛宴”面临终结 - FT中文网](http://www.ftchinese.com/story/001092942)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlSeQa9S2)
+
+### [
+Google AI Blog: Achieving Precision in Quantum Material Simulations
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/lFnNMAnC5TY/achieving-precision-in-quantum-material.html)
+
+### [Poorly Drawn Lines – Who We Are](http://feedproxy.google.com/~r/PoorlyDrawnLines/~3/aQbR_gJmnhA/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlSruEIaE)
