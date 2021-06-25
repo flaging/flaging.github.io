@@ -160,3 +160,7 @@
 ### [前端大佬们，移动端布局不用 REM 用什么？ - V2EX](https://www.v2ex.com/t/785701)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlOvJ7Vvg)
+
+### [连夺十冠！百度CVPR 2021再突破，AI实力接受国际“检验” | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-10)
+
+### [用微软官方工具「电脑健康状况检查」来检测你的电脑是否符合 Windows 11 最低配置 - 小众软件](https://www.appinn.com/getpchealthcheckapp-for-windows-11/)
