@@ -282,3 +282,11 @@ aes加密和解密 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KlR3MjPiL)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlQRYkujz)
+
+### [
+使用硬编码密钥加密本地数据安全吗？会被反编译出来吗？ - Rust语言中文社区
+](https://rustcc.cn/article?id=18c3bd9b-2359-48ed-967d-17f0038cfad0)
+
+### [
+坐标深圳，招Rust实习生（非区块链方向） - Rust语言中文社区
+](https://rustcc.cn/article?id=26214867-9eb5-49dd-b3a8-dee1ea4b550a)
