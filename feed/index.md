@@ -164,3 +164,17 @@
 ### [连夺十冠！百度CVPR 2021再突破，AI实力接受国际“检验” | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-10)
 
 ### [用微软官方工具「电脑健康状况检查」来检测你的电脑是否符合 Windows 11 最低配置 - 小众软件](https://www.appinn.com/getpchealthcheckapp-for-windows-11/)
+
+### [Windows 11 要更新了，这些变化能让你心动吗？ - 少数派](https://sspai.com/post/67413)
+
+### [PyTorch implementation for metal-defect-detection : pytorch](https://www.reddit.com/r/pytorch/comments/o7iwcu/pytorch_implementation_for_metaldefectdetection/)
+
+### [假设 地球就只有一个国家，只有一种交流语言，只有一种编程语言，世界会变得如何？ - V2EX](https://www.v2ex.com/t/785709)
+
+### [
+Rust工程师招聘（远程办公 全职）35-40K（薪酬可谈） - Rust语言中文社区
+](https://rustcc.cn/article?id=d9404f11-ccfb-44df-804c-e542e5c89782)
+
+### [
+aes加密和解密 - Rust语言中文社区
+](https://rustcc.cn/article?id=3d5a59fd-81ef-4c30-97a5-bb4a5483df7b)
