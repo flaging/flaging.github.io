@@ -86,3 +86,7 @@
 ### [中科院发布国产 RISC-V 处理器“香山”：已成功运行 Linux/Debian - SegmentFault 思否](https://segmentfault.com/a/1190000040237477)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlNkRmgfu)
+
+### [仅用480块GPU跑出万亿参数！阿里达摩院发布全球首个“低碳版”巨模型M6 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-3)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KlNqbaHzY)
