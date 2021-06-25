@@ -369,3 +369,7 @@ Google AI Blog: Achieving Precision in Quantum Material Simulations
 ### [Sina Visitor System](https://weibo.com/1715118170/KlUcBFvl4)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlUmGlRtp)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlUuEsTJ2)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlUuSiW6x)
