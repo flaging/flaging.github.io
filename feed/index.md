@@ -310,3 +310,13 @@ aes加密和解密 - Rust语言中文社区
 ### [2021年6月25日新闻联播文字版](http://www.xwlb.net.cn/20468.html)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlRQubbrF)
+
+### [Meet TensorFlow community leads around the world  — The TensorFlow Blog](https://blog.tensorflow.org/2021/06/meet-tensorflow-community-leads-around-the-world.html)
+
+### [
+数学家严格证明：二维量子引力理论，真被物理学家“蒙”对了](http://jandan.net/p/109141)
+
+### [
+逆向思考：文明程度相近的地外文明处于何位置才能探测到地球](http://jandan.net/p/109150)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlS2ZxiHs)
