@@ -290,3 +290,11 @@ aes加密和解密 - Rust语言中文社区
 ### [
 坐标深圳，招Rust实习生（非区块链方向） - Rust语言中文社区
 ](https://rustcc.cn/article?id=26214867-9eb5-49dd-b3a8-dee1ea4b550a)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1368)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1367)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1366)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1364)
