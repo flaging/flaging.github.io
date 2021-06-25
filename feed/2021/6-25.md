@@ -345,3 +345,19 @@ Google AI Blog: Achieving Precision in Quantum Material Simulations
 
 ### [
 关于全球气候的最高机构的报告草案泄露](http://jandan.net/p/109158)
+
+### [搞笑乐翻天《欢乐好声音2》预告来了！ - 新片场](https://www.vmovier.com/62381)
+
+### [经历3次拍摄，在水下泡了26个小时，我终于拍出了1600多年历史的水下飞天！！ - 新片场](https://www.vmovier.com/62371)
+
+### [游戏世界里《你爹是谁不重要》 - 新片场](https://www.vmovier.com/62355)
+
+### [油管热播1.6亿！《贪吃蛇环游世界》 - 新片场](https://www.vmovier.com/62377)
+
+### [超可爱移轴摄影《迷你小镇》 - 新片场](https://www.vmovier.com/62317)
+
+### [MJ 4K 修复版演出《Dangerous》 - 新片场](https://www.vmovier.com/62369)
+
+### [不容错过！《2021最IN五大拍照技巧》 - 新片场](https://www.vmovier.com/62374)
+
+### [戏精版阿卡贝拉演唱《愤怒的小鸟》 - 新片场](https://www.vmovier.com/62370)
