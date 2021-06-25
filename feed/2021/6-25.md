@@ -90,3 +90,33 @@
 ### [仅用480块GPU跑出万亿参数！阿里达摩院发布全球首个“低碳版”巨模型M6 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-3)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KlNqbaHzY)
+
+### [显存不够，框架来凑：两行代码显存翻倍，2080Ti也能当V100来用  | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-6)
+
+### [快手宣布全链路支持HDR视频，赋能HDR视频创作与消费 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-5)
+
+### [瞎玩菌的游戏周报：「显卡战争」、Xbox 扩展发布会、天价法拍等 - 少数派](https://sspai.com/post/67385)
+
+### [不要更新😭 Google Authenticator 3.2.0 又坑了我一遍😭 - V2EX](https://www.v2ex.com/t/785645)
+
+### [个人感觉 hexo 要比 hugo 更香。你们说呢？这两个里面你们选的啥？ - V2EX](https://www.v2ex.com/t/785625)
+
+### [装个桌面版 Linux 能不能实现 IDEA 进行语言开发以及基于 docker 环境配置 - V2EX](https://www.v2ex.com/t/785541)
+
+### [容器与云|用 Forklift 将虚拟机迁移到 Kubernetes 上](https://linux.cn/article-13520-1.html?utm_source=rss&utm_medium=rss)
+
+### [一个测试工程师走进一家酒吧……-InfoQ](https://www.infoq.cn/article/41RePKDbjxIFXkDGzCUy)
+
+### [使用 Java 编写 Apache APISIX 插件](https://www.infoq.cn/article/b89a15937ed3fbff7ef855a75)
+
+### [你会选做通才还是专才？](https://www.infoq.cn/article/fef42a1ead566804d5b2b3829)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlNGRFxer)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlNF4gAbb)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlNBeogwN)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlNzJmMVO)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlNITezSB)
