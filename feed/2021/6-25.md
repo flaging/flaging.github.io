@@ -192,3 +192,7 @@ aes加密和解密 - Rust语言中文社区
 ### [小公司都是怎么部署代码到生产环境服务器的？ - V2EX](https://www.v2ex.com/t/785777)
 
 ### [供应链消息，新款 16 寸将于 9 月发布， M2 芯片 - V2EX](https://www.v2ex.com/t/785749)
+
+### [国务院关于印发全民科学素质行动规划纲要（2021—2035年）的通知（国发〔2021〕9号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/25/content_5620813.htm)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlQ4U0LwM)
