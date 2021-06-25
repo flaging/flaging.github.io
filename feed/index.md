@@ -196,3 +196,19 @@ aes加密和解密 - Rust语言中文社区
 ### [国务院关于印发全民科学素质行动规划纲要（2021—2035年）的通知（国发〔2021〕9号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-06/25/content_5620813.htm)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KlQ4U0LwM)
+
+### [数据驱动核保风控，AI促进健康管理，健康险市场迎来万亿蓝海 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-13)
+
+### [造车新势力第一中概股回归，小鹏汽车港股最高发行价为180港元/股 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-12)
+
+### [滴滴更新招股书：IPO定价区间为每股13-14美元 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-11)
+
+### [本周看什么丨最近值得一看的 8 部作品 - 少数派](https://sspai.com/post/67421)
+
+### [系统运维|用于调度任务的 systemd 定时器](https://linux.cn/article-13522-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlQk2twZV)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlQiAAn9a)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlQgPfvBQ)
