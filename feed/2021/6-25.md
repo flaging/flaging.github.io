@@ -142,3 +142,17 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KlO5y47bq)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlO7k0D9V)
+
+### [参加这场大佬云集的开发者大会，还能抽RTX3060，请叫我「良心之心」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-9)
+
+### [英伟达企业型AI服务升级：AI LaunchPad计划开放软硬件即时访问，Fleet Command平台助力边缘AI管理 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-8)
+
+### [打开电脑刷抖音：Win 11原生支持安卓，商店零佣金，秋季免费开始升级 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-4)
+
+### [CVPR2021 | 视觉推理解释框架VRX：用结构化视觉概念作为解释网络推理逻辑的「语言」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-2)
+
+### [年轻的LeCun、吴恩达长啥样？升级版StyleGAN告诉你 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-25-7)
+
+### [Light 壁纸 - 由代码生成的无限数量壁纸应用[iPhone/iPad] - 小众软件](https://www.appinn.com/light-wallpaper-for-ios/)
+
+### [Concatenating ResNet-50 predictions PyTorch : pytorch](https://www.reddit.com/r/pytorch/comments/o7i5g3/concatenating_resnet50_predictions_pytorch/)
