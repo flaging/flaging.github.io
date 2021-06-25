@@ -134,3 +134,11 @@
 ### [堵俊平：开放治理是开源社区的终极之路 | DEV. Together 2021 中国开发者生态峰会 - SegmentFault 思否](https://segmentfault.com/a/1190000040233513)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlO4u75Av)
+
+### [喜报:正式进入社会大学！ - V2EX](https://www.v2ex.com/t/785630)
+
+### [快手取消大小周，双休 ， double 薪资，快来简历 - V2EX](https://www.v2ex.com/t/785611)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlO5y47bq)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlO7k0D9V)
