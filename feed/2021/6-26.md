@@ -185,3 +185,7 @@
 
 ### [
 真假?WHO和CDC建议，若气温超35℃，没有空调则宁可挺着也别用风扇](http://jandan.net/p/109161)
+
+### [用 apple tv 看了一下午的 netflix，体验真心好 - V2EX](https://www.v2ex.com/t/785984)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km1Fl1cHL)
