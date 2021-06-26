@@ -30,3 +30,13 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KlWmyw30W)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlWmDcxHy)
+
+### [轻舟智航斩获CVPR 2021 Argoverse运动预测挑战赛冠军  致力打造自动驾驶超级工厂 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-26)
+
+### [Pie & AI: Bangalore - Getting started with PyTorch Lightning : pytorch](https://www.reddit.com/r/pytorch/comments/o82vuc/pie_ai_bangalore_getting_started_with_pytorch/)
+
+### [官翻的 Macmini，选 256 还是 512G? - V2EX](https://www.v2ex.com/t/785806)
+
+### [都说 go 挺好使的，准备用 go 写几个接口 - V2EX](https://www.v2ex.com/t/785787)
+
+### [办公党，需要用 xmind，滴答清单， Excel 之类的效率软件。非程序员岗，请问有什么推荐的 iPad 吗？ - V2EX](https://www.v2ex.com/t/785737)
