@@ -24,3 +24,5 @@
 ### [R和Python可以兼得吗？-InfoQ](https://www.infoq.cn/article/bQuMN74EUwtLiXs4etRQ)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KlVZKz9qL)
+
+### [每个月需要多少流量能够 99%完全满足你所有设备的需求，甚至不用宽带？ - V2EX](https://www.v2ex.com/t/785780)
