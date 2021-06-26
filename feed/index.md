@@ -84,3 +84,5 @@
 ### [抖音电脑版的设计越来越像 Youtube - V2EX](https://www.v2ex.com/t/785875)
 
 ### [Mac OS 多任务切换程序 终极选择 Alt-Tab - V2EX](https://www.v2ex.com/t/785807)
+
+### [钉住那只「咸猪手」：写给非专业人士的狭小空间迷惑行为防范指南 - 少数派](https://sspai.com/post/67317)
