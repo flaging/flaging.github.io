@@ -62,3 +62,11 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KlXvw5Zz7)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlXqXAld2)
+
+### [选择成电还是北邮的计算机？ - V2EX](https://www.v2ex.com/t/785907)
+
+### [最近 Win11 很火，体验了一把 - V2EX](https://www.v2ex.com/t/785901)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlXzlEi4P)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlXxVkp3t)
