@@ -40,3 +40,7 @@
 ### [都说 go 挺好使的，准备用 go 写几个接口 - V2EX](https://www.v2ex.com/t/785787)
 
 ### [办公党，需要用 xmind，滴答清单， Excel 之类的效率软件。非程序员岗，请问有什么推荐的 iPad 吗？ - V2EX](https://www.v2ex.com/t/785737)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KlWKV4t8W)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlWLkdCIX)
