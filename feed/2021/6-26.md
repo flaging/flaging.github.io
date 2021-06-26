@@ -54,3 +54,7 @@
 
 ### [
 今日好价：AirPods Max](http://jandan.net/p/109159)
+
+### [技术|使用 QEMU 尝鲜 Windows 11](https://linux.cn/article-13523-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlX9pflvO)
