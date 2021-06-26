@@ -44,3 +44,13 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KlWKV4t8W)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlWLkdCIX)
+
+### [用 Notion 梳理桌面、EDC 和日常生活 - 少数派](https://sspai.com/post/67371)
+
+### [不晓得这个问题该不该问.......... - V2EX](https://www.v2ex.com/t/785837)
+
+### [
+定量研究 科学家发现压力造成的白发是可恢复的](http://jandan.net/p/109156)
+
+### [
+今日好价：AirPods Max](http://jandan.net/p/109159)
