@@ -74,3 +74,9 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KlXJLg9cO)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KlXGg9qun)
+
+### [TikTok为什么在欧洲年轻人中受欢迎 - FT中文网](http://www.ftchinese.com/story/001092963)
+
+### [硬核观察|硬核观察 #314 Windows 11 将提供 Windows Subsystem for Android](https://linux.cn/article-13524-1.html?utm_source=rss&utm_medium=rss)
+
+### [入门指南丨上手理解Deployment、Services和Ingress-InfoQ](https://www.infoq.cn/article/7UxAOePgI1ufz5t197Z0)
