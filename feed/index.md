@@ -162,3 +162,7 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Km0GRezCL)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km0SD4lUI)
+
+### [
+有用Surface Pro X编程的大佬么？ - Rust语言中文社区
+](https://rustcc.cn/article?id=65c87df7-bb7f-4937-ab65-a1887a4a5820)
