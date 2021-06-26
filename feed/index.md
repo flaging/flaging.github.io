@@ -166,3 +166,13 @@
 ### [
 有用Surface Pro X编程的大佬么？ - Rust语言中文社区
 ](https://rustcc.cn/article?id=65c87df7-bb7f-4937-ab65-a1887a4a5820)
+
+### [App Store 充值 9 折优惠又来了 (6/26-7/2) - V2EX](https://www.v2ex.com/t/785955)
+
+### [2021 年 6 月 M1 Mackbook Big Sur 11.4：最新版的 Firefox、Edge 浏览器都比 Safair 快得多 - V2EX](https://www.v2ex.com/t/785915)
+
+### [
+【Rust日报】2021-06-26 - Rust语言中文社区
+](https://rustcc.cn/article?id=dca7de0c-e8df-44b6-a27e-dbdfdf5c0010)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km15fAjXJ)
