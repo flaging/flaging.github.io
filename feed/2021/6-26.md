@@ -189,3 +189,9 @@
 ### [用 apple tv 看了一下午的 netflix，体验真心好 - V2EX](https://www.v2ex.com/t/785984)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km1Fl1cHL)
+
+### [Addition assignment operation "fails" when index is used twice : pytorch](https://www.reddit.com/r/pytorch/comments/o8ensd/addition_assignment_operation_fails_when_index_is/)
+
+### [月入 1800，周入 1800，日入 1800 啥感觉 - V2EX](https://www.v2ex.com/t/785996)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km1RRBrBf)
