@@ -230,3 +230,7 @@
 ### [从入门到上手：什么是K8S持久卷？-InfoQ](https://www.infoq.cn/article/uvc68XDb8ILyojs8GqYX)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km4dR8pq0)
+
+### [青年图摘0627！即将变身](https://qingniantuzhai.com/qing-nian-tu-zhai-0627-3/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km4pOtpuh)
