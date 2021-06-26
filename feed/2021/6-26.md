@@ -180,3 +180,8 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Km1gZ4qIf)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km1tqkzOa)
+
+### [2021年6月26日新闻联播文字版](http://www.xwlb.net.cn/20544.html)
+
+### [
+真假?WHO和CDC建议，若气温超35℃，没有空调则宁可挺着也别用风扇](http://jandan.net/p/109161)
