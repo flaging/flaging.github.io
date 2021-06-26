@@ -212,3 +212,21 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Km3PAqdsh)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km41svwNI)
+
+### [实际工作中数据库表设计会遵循范式吗？ - V2EX](https://www.v2ex.com/t/785947)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737523)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737481)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737486)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737494)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737492)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737476)
+
+### [从入门到上手：什么是K8S持久卷？-InfoQ](https://www.infoq.cn/article/uvc68XDb8ILyojs8GqYX)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km4dR8pq0)
