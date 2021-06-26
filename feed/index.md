@@ -102,3 +102,13 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KlYZpqznJ)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KlYWH5kkB)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5907/)
+
+### [调查：国内互联网公司是不是 两步验证 没有支持 三方身份验证器（GA）的？ - V2EX](https://www.v2ex.com/t/785848)
+
+### [千兆外网有多爽？ - V2EX](https://www.v2ex.com/t/785841)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KlZ8enWaP)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KlZ8YehKk)
