@@ -80,3 +80,7 @@
 ### [硬核观察|硬核观察 #314 Windows 11 将提供 Windows Subsystem for Android](https://linux.cn/article-13524-1.html?utm_source=rss&utm_medium=rss)
 
 ### [入门指南丨上手理解Deployment、Services和Ingress-InfoQ](https://www.infoq.cn/article/7UxAOePgI1ufz5t197Z0)
+
+### [抖音电脑版的设计越来越像 Youtube - V2EX](https://www.v2ex.com/t/785875)
+
+### [Mac OS 多任务切换程序 终极选择 Alt-Tab - V2EX](https://www.v2ex.com/t/785807)
