@@ -195,3 +195,6 @@
 ### [月入 1800，周入 1800，日入 1800 啥感觉 - V2EX](https://www.v2ex.com/t/785996)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km1RRBrBf)
+
+### [
+为夏日城市降温，从道路改造开始](http://jandan.net/p/109126)
