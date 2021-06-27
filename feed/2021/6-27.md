@@ -90,3 +90,11 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [微软解释 Windows 11 为何强制 TPM 2.0 硬件支持；华为 P50 标准版规格曝光 | 思否周刊 - SegmentFault 思否](https://segmentfault.com/a/1190000040247180)
 
 ### [关于 mac 外接显示器，有些问题想问下大家，搜了好多有点儿乱了，希望有经验的大佬能分享下 - V2EX](https://www.v2ex.com/t/786015)
+
+### [观点|如何维护关键的 Python 项目](https://linux.cn/article-13526-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+为 Rust+QT 编程搭建【伪】win32 开发环境 - Rust语言中文社区
+](https://rustcc.cn/article?id=96458b90-9e62-44fd-8155-afe9642d4170)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km6Yqu9rR)
