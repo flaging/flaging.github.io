@@ -156,3 +156,13 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/Km9Wx1U3n)
 
 ### [知名电商搜无人机都被屏蔽了，要搜什么才有？ - V2EX](https://www.v2ex.com/t/786069)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1376)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1375)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1374)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1373)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kma7deLDv)
