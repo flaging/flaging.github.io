@@ -46,3 +46,9 @@
 ### [作为后端开发者的思考：如何看待如今的前端架构](https://www.infoq.cn/article/4c09a05d1b9a68f812da8a714)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km5Nllhqg)
+
+### [观点|FCC 的频谱拍卖是对 5G 普及的长期助推](https://linux.cn/article-13525-1.html?utm_source=rss&utm_medium=rss)
+
+### [技术解密 ｜阿里云多媒体 AI 团队拿下 CVPR2021 5 冠 1 亚成绩的技术分享](https://www.infoq.cn/article/ec689ad67d322129db4c87447)
+
+### [基于朴素ML思想的协同过滤算法（十七）](https://www.infoq.cn/article/0dff50a168199ed6c6456abca)
