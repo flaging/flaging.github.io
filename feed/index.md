@@ -66,3 +66,19 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 
 ### [
 年度重大科学发现：听说过北京人，现在认识一下哈尔滨人吧](http://jandan.net/p/109162)
+
+### [首届「脑科学开放日」举行，张钹等专家论道：下一代AI创新要结合脑科学研究 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-27-2)
+
+### [有人从英伟达借了台DGX A100，让神经网络自己造了个GTA5自己玩 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-27)
+
+### [新玩具，华为小型万兆 USG 防火墙 - V2EX](https://www.v2ex.com/t/785957)
+
+### [[普天同庆] 国行 Apple Watch 准备原生支持 ECG 功能了！ - V2EX](https://www.v2ex.com/t/785931)
+
+### [
+一个简单的Tcp转发工具 - Rust语言中文社区
+](https://rustcc.cn/article?id=0994ebc4-de2f-4c2a-a13b-9439255bdf69)
+
+### [矩阵分解推荐算法(十八)](https://www.infoq.cn/article/a252a890327d984b6dce1c8a2)
+
+### [B 站游戏技术平台微服务通用网关实践](https://www.infoq.cn/article/95c80dcb18ebc2c26237868f3)
