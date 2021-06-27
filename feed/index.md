@@ -10,3 +10,13 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/Km4BPnmFY)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km4CtAHEm)
+
+### [从来没有想过生活中最大的糟心事竟然变成了催婚。 - V2EX](https://www.v2ex.com/t/785995)
+
+### [【得物技术】得物社区实践](https://www.infoq.cn/article/6eb8f283ebeea6daa4727e23d)
+
+### [一矢多穿：多目标排序在爱奇艺短视频推荐中的应用](https://www.infoq.cn/article/cd7c8957756f80db69226f16f)
+
+### [存储大师班：NFS 的诞生与成长](https://www.infoq.cn/article/0cca7d17457d9539697f99270)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km50EBsrG)
