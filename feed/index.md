@@ -122,3 +122,7 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [M1 早买早享受 - V2EX](https://www.v2ex.com/t/786045)
 
 ### [探讨一下微信海量 openid 的存储方法 - V2EX](https://www.v2ex.com/t/785963)
+
+### [硬核观察|硬核观察 #315 华为工程师向 Linux 内核提出一项“华为摘要列表”功能建议](https://linux.cn/article-13528-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/5722964389/Km8JGBcrW)
