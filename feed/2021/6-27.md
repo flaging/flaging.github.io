@@ -20,3 +20,11 @@
 ### [存储大师班：NFS 的诞生与成长](https://www.infoq.cn/article/0cca7d17457d9539697f99270)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km50EBsrG)
+
+### [嘿 Siri，唤醒电脑 - 少数派](https://sspai.com/post/67037)
+
+### [社群编码识别黑灰产攻击实践](https://www.infoq.cn/article/61e6990406dfb39da82de3c16)
+
+### [深度学习分类任务常用评估指标](https://www.infoq.cn/article/c2202c307dcbb091d32627fc3)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km5oXzOAR)
