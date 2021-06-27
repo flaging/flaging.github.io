@@ -118,3 +118,7 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1642628345/Km8cJfv9I)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Km8c5pfz9)
+
+### [M1 早买早享受 - V2EX](https://www.v2ex.com/t/786045)
+
+### [探讨一下微信海量 openid 的存储方法 - V2EX](https://www.v2ex.com/t/785963)
