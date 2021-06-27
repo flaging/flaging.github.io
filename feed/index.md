@@ -176,3 +176,6 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [2021年6月27日新闻联播文字版](http://www.xwlb.net.cn/20625.html)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmaU1kxX4)
+
+### [
+简单测试：看看你是心盲者还是开心眼的能力者](http://jandan.net/p/109153)
