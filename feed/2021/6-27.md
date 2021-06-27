@@ -104,3 +104,9 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [UHD630 带黑苹果 DP 输出 5K 能不能流畅使用？（双通道 32G 2666MHz 的内存） - V2EX](https://www.v2ex.com/t/785998)
 
 ### [Sina Visitor System](https://weibo.com/5722964389/Km7yDfTVq)
+
+### [2021 年，这些手机修图工具帮你留住更多美好瞬间 - 少数派](https://sspai.com/post/67433)
+
+### [3 KB 的博客首页，我是如何做到的？ - V2EX](https://www.v2ex.com/t/786028)
+
+### [盲测 Win11 的色彩管理还是一炮污 - V2EX](https://www.v2ex.com/t/786003)
