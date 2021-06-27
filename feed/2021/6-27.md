@@ -52,3 +52,11 @@
 ### [技术解密 ｜阿里云多媒体 AI 团队拿下 CVPR2021 5 冠 1 亚成绩的技术分享](https://www.infoq.cn/article/ec689ad67d322129db4c87447)
 
 ### [基于朴素ML思想的协同过滤算法（十七）](https://www.infoq.cn/article/0dff50a168199ed6c6456abca)
+
+### [
+async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
+](https://rustcc.cn/article?id=a8fb5f98-e6e4-495b-95f2-305a9bb89575)
+
+### [大白话彻底搞懂 HBase Rowkey 设计和实现方式](https://www.infoq.cn/article/3f8918d3ef064b7b6b2382e1b)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km6bNdNOA)
