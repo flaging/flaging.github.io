@@ -112,3 +112,9 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [盲测 Win11 的色彩管理还是一炮污 - V2EX](https://www.v2ex.com/t/786003)
 
 ### [In-shop clothes retrieval Fine Tuning : pytorch](https://www.reddit.com/r/pytorch/comments/o8t7di/inshop_clothes_retrieval_fine_tuning/)
+
+### [技术|13 个 Linux 5.13 中最值得关注的变化](https://linux.cn/article-13527-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Km8cJfv9I)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Km8c5pfz9)
