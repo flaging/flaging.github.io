@@ -82,3 +82,7 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [矩阵分解推荐算法(十八)](https://www.infoq.cn/article/a252a890327d984b6dce1c8a2)
 
 ### [B 站游戏技术平台微服务通用网关实践](https://www.infoq.cn/article/95c80dcb18ebc2c26237868f3)
+
+### [MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 - 小众软件](https://www.appinn.com/microsofthostspicker-python/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Km6A7c03Z)
