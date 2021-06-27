@@ -203,3 +203,7 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [爆笑韩国整蛊《别叫新人去买酒》 - 新片场](https://www.vmovier.com/62386)
 
 ### [超能老爸65天打造《兰博基尼》 - 新片场](https://www.vmovier.com/62385)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5908/)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kmd8MhTOD)
