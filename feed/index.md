@@ -28,3 +28,9 @@
 ### [深度学习分类任务常用评估指标](https://www.infoq.cn/article/c2202c307dcbb091d32627fc3)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km5oXzOAR)
+
+### [有没有字节工牌，Java并发安全的根本原因都得懂](https://www.infoq.cn/article/92dd49bf32f4be849d8937dda)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Km5Epis6z)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Km5CRz3tv)
