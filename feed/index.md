@@ -207,3 +207,9 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5908/)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kmd8MhTOD)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmdiE0mmw)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmdlRpnWN)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmdg2EQsv)
