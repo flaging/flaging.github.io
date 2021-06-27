@@ -189,3 +189,5 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [结婚和爱情有关系吗 - V2EX](https://www.v2ex.com/t/786038)
 
 ### [大家觉得公务员怎么样？ - V2EX](https://www.v2ex.com/t/786066)
+
+### [给产品起个好名字，被采纳 100 红包🧧。要求好记、关联业务、容易建立 IP - V2EX](https://www.v2ex.com/t/786085)
