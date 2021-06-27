@@ -86,3 +86,5 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 - 小众软件](https://www.appinn.com/microsofthostspicker-python/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km6A7c03Z)
+
+### [微软解释 Windows 11 为何强制 TPM 2.0 硬件支持；华为 P50 标准版规格曝光 | 思否周刊 - SegmentFault 思否](https://segmentfault.com/a/1190000040247180)
