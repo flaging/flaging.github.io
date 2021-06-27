@@ -60,3 +60,9 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [大白话彻底搞懂 HBase Rowkey 设计和实现方式](https://www.infoq.cn/article/3f8918d3ef064b7b6b2382e1b)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Km6bNdNOA)
+
+### [
+今日好价：BALLY男士单肩包](http://jandan.net/p/109163)
+
+### [
+年度重大科学发现：听说过北京人，现在认识一下哈尔滨人吧](http://jandan.net/p/109162)
