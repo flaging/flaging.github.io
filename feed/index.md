@@ -195,3 +195,11 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KmcRbAYHx)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmcREhZrl)
+
+### [李安的《色，戒》，如果盯着汤唯“假戏真做”，会漏掉很多细节 - 新片场](https://www.vmovier.com/62384)
+
+### [生活是一封从早到晚的《情书》 - 新片场](https://www.vmovier.com/62380)
+
+### [爆笑韩国整蛊《别叫新人去买酒》 - 新片场](https://www.vmovier.com/62386)
+
+### [超能老爸65天打造《兰博基尼》 - 新片场](https://www.vmovier.com/62385)
