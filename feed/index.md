@@ -130,3 +130,7 @@ async-std 的 TaskId 代码很奇怪? - Rust语言中文社区
 ### [电视盒子当贝 B3 Pro 使用体验 - V2EX](https://www.v2ex.com/t/786036)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Km8TuapjD)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Km95HdqoS)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Km94Fktme)
