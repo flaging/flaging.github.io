@@ -68,3 +68,9 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KmfmsbNCF)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/Kmft5afsb)
+
+### [WhyNotWin11 - 到底为什么不能安装 Windows 11？第三方检测工具告诉你还缺什么 - 小众软件](https://www.appinn.com/whynotwin11/)
+
+### [如何给岗位设计薪资结构？](https://www.infoq.cn/article/77174f1b15303bc8cf7ff9ae3)
+
+### [创业者需要知道的13种思维模型](https://www.infoq.cn/article/fe59258a53056e5f3b4109a5b)
