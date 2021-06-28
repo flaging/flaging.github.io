@@ -118,3 +118,11 @@
 ### [希捷开启2021 Datasphere线上峰会_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0625/135316.shtml)
 
 ### [Node Driver Registrar源码分析](https://www.infoq.cn/article/97d979471bf1116f362400b8d)
+
+### [抛硬币做决定时，其实你已经有答案 - 21财经](https://m.21jingji.com/article/20210628/herald/545e79e3ab95f84517f2338aab96f67a.html)
+
+### [项目延期半年，我被软件外包坑惨了！-InfoQ](https://www.infoq.cn/article/N1JmIBe9TS01tVMi1zqY)
+
+### [开发效率提升50%以上，爱奇艺官网主站的Nuxt实践-InfoQ](https://www.infoq.cn/article/CMgcL5Py9CXhq7gBPvTb)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmgoV1omW)
