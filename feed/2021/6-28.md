@@ -223,3 +223,5 @@
 ](https://rustcc.cn/article?id=5f1931b6-4100-48d1-8717-d93025dc8c7c)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KmiFpuXlM)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KmiKKdJUH)
