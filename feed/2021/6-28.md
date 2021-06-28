@@ -130,3 +130,9 @@
 ### [创业公司难以采用AI的三个关键因素-InfoQ](https://www.infoq.cn/article/jB5OjSHPPaGuQmXyQeCB)
 
 ### [让API好用的9个小技巧-InfoQ](https://www.infoq.cn/article/s25GISYvMGPlMH46a8Dz)
+
+### [超清音质实时会议系统的背后 ，深入剖析 AliCloudDenoise 语音增强算法 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-24-8)
+
+### [硬核观察|硬核观察 #316 使用 AI 给游戏配音，引来配音演员强烈不满](https://linux.cn/article-13531-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KmgMY3sij)
