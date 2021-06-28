@@ -138,3 +138,5 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KmgMY3sij)
 
 ### [没打游戏后，感觉舒服了好多 - V2EX](https://www.v2ex.com/t/786173)
+
+### [亲爱的，我想开启一场有关抑郁症的对话 - 少数派](https://sspai.com/post/67410)
