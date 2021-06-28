@@ -332,3 +332,7 @@ Google AI Blog: Take All Your Pictures to the Cleaners, with Google Photos Noise
 ### [Flutter IM跨端架构设计和实现-InfoQ](https://www.infoq.cn/article/LUzKR7UL7sD7eit5To8Q)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmn4EBHJO)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5909/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmngOdHl1)
