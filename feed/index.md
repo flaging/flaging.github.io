@@ -261,3 +261,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KmjxH8aqP)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmjJCtvzt)
+
+### [The sledgehammer and the nut](https://datagenetics.com/blog/june72021/index.html)
+
+### [2021年6月28日新闻联播文字版](http://www.xwlb.net.cn/20692.html)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmk7YtzvM)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmjW1kGcA)
