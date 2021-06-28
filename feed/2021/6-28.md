@@ -269,3 +269,8 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmk7YtzvM)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmjW1kGcA)
+
+### [
+超越基因：现代人类停止进化了？错，现代人加速进化了！](http://jandan.net/p/109135)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmkkilyM0)
