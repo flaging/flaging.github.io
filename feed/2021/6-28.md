@@ -136,3 +136,5 @@
 ### [硬核观察|硬核观察 #316 使用 AI 给游戏配音，引来配音演员强烈不满](https://linux.cn/article-13531-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KmgMY3sij)
+
+### [没打游戏后，感觉舒服了好多 - V2EX](https://www.v2ex.com/t/786173)
