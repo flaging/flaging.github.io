@@ -104,3 +104,13 @@
 ### [带你认识Flink容错机制的两大方面：作业执行和守护进程](https://www.infoq.cn/article/7df1c34cf93e4adb74f29cb7d)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmg0tnc5a)
+
+### [[P] Swin Transformer TensorFlow Implementation : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o9dp0t/p_swin_transformer_tensorflow_implementation/)
+
+### [分享|KTorrent：KDE 上的一个非常有用的 BitTorrent 应用](https://linux.cn/article-13530-1.html?utm_source=rss&utm_medium=rss)
+
+### [嵌入方法在推荐系统中的应用(二十)](https://www.infoq.cn/article/32a4de142764925a0025715a2)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmgbBq2x5)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmgaZzuzL)
