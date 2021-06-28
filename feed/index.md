@@ -292,3 +292,5 @@ Google AI Blog: Take All Your Pictures to the Cleaners, with Google Photos Noise
 ### [一个 Hybrid SDK 设计与实现 - SegmentFault 思否](https://segmentfault.com/a/1190000040250804)
 
 ### [我与思否的故事，转眼就过了三年。| 思否 9 周年 - SegmentFault 思否](https://segmentfault.com/a/1190000040243069)
+
+### [有没有软件能让硬盘灯随机闪烁 - V2EX](https://www.v2ex.com/t/786278)
