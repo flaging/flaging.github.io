@@ -98,3 +98,9 @@
 ### [华为自研PB级分布式时序数据库揭秘第一期：初识GaussDB(for Influx)](https://www.infoq.cn/article/9ee30d58f1099c2b953d83222)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KmfLsEAVy)
+
+### [中国互联网超爱读错的单词：极客词典 - 少数派](https://sspai.com/post/67375)
+
+### [带你认识Flink容错机制的两大方面：作业执行和守护进程](https://www.infoq.cn/article/7df1c34cf93e4adb74f29cb7d)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmg0tnc5a)
