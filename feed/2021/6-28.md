@@ -26,3 +26,21 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmera5fnV)
 
 ### [程序员的酒后真言 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html)
+
+### [派早报：Apple Watch 心电图功能在大陆获批、三星折叠屏手机新品参数曝光等 - 少数派](https://sspai.com/post/67447)
+
+### [要跑路了，不放心把项目交给别人， xdm 也会有这样的想法吗？ - V2EX](https://www.v2ex.com/t/786146)
+
+### [一站式数字技术学习平台极客邦科技获7000万元融资，数字化红利一浪接过一浪-InfoQ](https://www.infoq.cn/article/Zf4P3m8JPWGjARRQaP5P)
+
+### [对话极狐(GitLab)公司CEO陈冉：从GitLab落地中国透视国产开源大势-InfoQ](https://www.infoq.cn/article/3bRpbqgJzB51lfsfepf7)
+
+### [硬刚Presto | Presto原理&调优&面试&实战全面升级版](https://www.infoq.cn/article/a07e17a2ca14d4a391e9cc17e)
+
+### [SpringCloud Gateway 路由断言](https://www.infoq.cn/article/acd9463cfbc6f0858396b6740)
+
+### [华为云官网前端的技术演进与低代码实践](https://www.infoq.cn/article/c0db036cfbd2e4dc7139d7573)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmf1blwV7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmePsqSl2)
