@@ -140,3 +140,7 @@
 ### [没打游戏后，感觉舒服了好多 - V2EX](https://www.v2ex.com/t/786173)
 
 ### [亲爱的，我想开启一场有关抑郁症的对话 - 少数派](https://sspai.com/post/67410)
+
+### [如何利用AI识别口罩下的人脸？-InfoQ](https://www.infoq.cn/article/N2iBl84VjXBRJsCIAVJk)
+
+### [揭晓Windows 11如何做到原生支持安卓应用-InfoQ](https://www.infoq.cn/article/NIEd0pjOjuzEHjVUhJ0R)
