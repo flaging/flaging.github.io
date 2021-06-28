@@ -308,3 +308,9 @@ Google AI Blog: Take All Your Pictures to the Cleaners, with Google Photos Noise
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmmu6gPX5)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmmGq6CGl)
+
+### [University of Colorado Boulder is hiring cluster and storage administrators : HPC](https://www.reddit.com/r/HPC/comments/o9uwkl/university_of_colorado_boulder_is_hiring_cluster/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmmSsfOJC)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmmMlEMZd)
