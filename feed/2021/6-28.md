@@ -239,3 +239,11 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmj2ZyoQr)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmiWUyQ5I)
+
+### [
+现在的低代码越来越疯狂了 - Rust语言中文社区
+](https://rustcc.cn/article?id=65c391dd-fe2c-4f16-a3fe-b4b8f080ea6c)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kmj95vAY1)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmj9pjypu)
