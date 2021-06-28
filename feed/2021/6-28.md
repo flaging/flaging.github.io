@@ -126,3 +126,7 @@
 ### [开发效率提升50%以上，爱奇艺官网主站的Nuxt实践-InfoQ](https://www.infoq.cn/article/CMgcL5Py9CXhq7gBPvTb)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmgoV1omW)
+
+### [创业公司难以采用AI的三个关键因素-InfoQ](https://www.infoq.cn/article/jB5OjSHPPaGuQmXyQeCB)
+
+### [让API好用的9个小技巧-InfoQ](https://www.infoq.cn/article/s25GISYvMGPlMH46a8Dz)
