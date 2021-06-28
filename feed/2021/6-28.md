@@ -280,3 +280,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KmkJkuf95)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmkwkpfpJ)
+
+### [
+Google AI Blog: Take All Your Pictures to the Cleaners, with Google Photos Noise and Blur Reduction
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/YzrGZK_H1dE/take-all-your-pictures-to-cleaners-with.html)
+
+### [[D] Paper digest: Alias-Free GAN" by Tero Karras et al. explained in 10 minutes! : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/o9otto/d_paper_digest_aliasfree_gan_by_tero_karras_et_al/)
+
+### [2021 Request for Proposals: Faculty awards to support machine learning courses, diversity, and inclusion — The TensorFlow Blog](https://blog.tensorflow.org/2021/06/2021-request-for-proposals-ml-faculty-awards.html)
+
+### [一个 Hybrid SDK 设计与实现 - SegmentFault 思否](https://segmentfault.com/a/1190000040250804)
+
+### [我与思否的故事，转眼就过了三年。| 思否 9 周年 - SegmentFault 思否](https://segmentfault.com/a/1190000040243069)
