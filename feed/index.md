@@ -74,3 +74,9 @@
 ### [如何给岗位设计薪资结构？](https://www.infoq.cn/article/77174f1b15303bc8cf7ff9ae3)
 
 ### [创业者需要知道的13种思维模型](https://www.infoq.cn/article/fe59258a53056e5f3b4109a5b)
+
+### [软件开发|七个改变我生活的 Git 小技巧](https://linux.cn/article-13529-1.html?utm_source=rss&utm_medium=rss)
+
+### [确保数据监控解决方案有效的十个步骤-InfoQ](https://www.infoq.cn/article/UK2dZLEX9okc4ppaVpwe)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmfJarfQ3)
