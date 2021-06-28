@@ -114,3 +114,7 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KmgbBq2x5)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KmgaZzuzL)
+
+### [希捷开启2021 Datasphere线上峰会_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0625/135316.shtml)
+
+### [Node Driver Registrar源码分析](https://www.infoq.cn/article/97d979471bf1116f362400b8d)
