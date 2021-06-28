@@ -150,3 +150,11 @@
 ### [感觉 NAS 也是一个很奢侈的东西 - V2EX](https://www.v2ex.com/t/786204)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kmhnvk3w6)
+
+### [3Sigma Bootcamp 报名倒计时！寻找梦想打破范式的前沿科技创业者 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-28-5)
+
+### [限时福利｜学好这门课，不再为保险花冤枉钱 - 少数派](https://sspai.com/post/67404)
+
+### [Windows 11 发布，支持原生 Android 应用-InfoQ](https://www.infoq.cn/article/iCoeeYNp3aqMdpuDrHN6)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KmhyznySX)
