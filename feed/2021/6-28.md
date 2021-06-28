@@ -186,3 +186,11 @@
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=968)
 
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=950)
+
+### [派评 | 近期值得关注的 App - 少数派](https://sspai.com/post/67454)
+
+### [Everything You Need To Know About Torchvision’s SSDlite Implementation : pytorch](https://www.reddit.com/r/pytorch/comments/o9he6a/everything_you_need_to_know_about_torchvisions/)
+
+### [微信的 Mac 居然还没有适配 M1？我看腾讯会议都已经适配了。。 - V2EX](https://www.v2ex.com/t/786182)
+
+### [钉钉大面积扑街？ - V2EX](https://www.v2ex.com/t/786171)
