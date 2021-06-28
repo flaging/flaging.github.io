@@ -306,3 +306,5 @@ Google AI Blog: Take All Your Pictures to the Cleaners, with Google Photos Noise
 ### [Sina Visitor System](https://weibo.com/1402400261/KmmnLvYkP)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmmu6gPX5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmmGq6CGl)
