@@ -44,3 +44,15 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmf1blwV7)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmePsqSl2)
+
+### [「AI×科研」每日要闻汇总｜6月25日 ​ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-28-3)
+
+### [百度人机交互荣获“中国专利金奖” | 机器之心](https://www.jiqizhixin.com/articles/2021-06-28-2)
+
+### [AI助力高性能钢设计：断裂强度、断裂寿命得到准确预测 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-28)
+
+### [6月28日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0628/135323.shtml)
+
+### [如何做好技术选型和分析决策](https://www.infoq.cn/article/bf2eeedbfb58acc8ef9c27b20)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmfdEn3wD)
