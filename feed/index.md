@@ -144,3 +144,9 @@
 ### [如何利用AI识别口罩下的人脸？-InfoQ](https://www.infoq.cn/article/N2iBl84VjXBRJsCIAVJk)
 
 ### [揭晓Windows 11如何做到原生支持安卓应用-InfoQ](https://www.infoq.cn/article/NIEd0pjOjuzEHjVUhJ0R)
+
+### [千寻位置冯绍军：时空网为智慧出行注入新动能 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-28-4)
+
+### [感觉 NAS 也是一个很奢侈的东西 - V2EX](https://www.v2ex.com/t/786204)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kmhnvk3w6)
