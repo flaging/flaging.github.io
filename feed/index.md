@@ -158,3 +158,7 @@
 ### [Windows 11 发布，支持原生 Android 应用-InfoQ](https://www.infoq.cn/article/iCoeeYNp3aqMdpuDrHN6)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KmhyznySX)
+
+### [阿里斩获16项CVPR冠军，三项研究帮助盲人“看见”世界 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-28-7)
+
+### [用AI为商业地产建模，变施工图为数字孪生 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-28-6)
