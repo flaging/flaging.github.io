@@ -296,3 +296,7 @@ Google AI Blog: Take All Your Pictures to the Cleaners, with Google Photos Noise
 ### [有没有软件能让硬盘灯随机闪烁 - V2EX](https://www.v2ex.com/t/786278)
 
 ### [技术|在 Linux 上用 dust 代替 du](https://linux.cn/article-13532-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kmmlb7eZF)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmmiH6Q2P)
