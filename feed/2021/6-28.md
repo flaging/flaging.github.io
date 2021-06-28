@@ -56,3 +56,15 @@
 ### [如何做好技术选型和分析决策](https://www.infoq.cn/article/bf2eeedbfb58acc8ef9c27b20)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmfdEn3wD)
+
+### [Spring事件发布与监听机制](https://www.infoq.cn/article/fb906f9c54a771ae66a0f1472)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kmfjlb5Nz)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kmfdyd1Af)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmfmFtuWp)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmfmsbNCF)
+
+### [Sina Visitor System](https://weibo.com/1642628345/Kmft5afsb)
