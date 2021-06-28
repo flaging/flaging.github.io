@@ -80,3 +80,21 @@
 ### [确保数据监控解决方案有效的十个步骤-InfoQ](https://www.infoq.cn/article/UK2dZLEX9okc4ppaVpwe)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KmfJarfQ3)
+
+### [人生第一次用 iPhone ，用了一周不到，来吐槽了 - V2EX](https://www.v2ex.com/t/786181)
+
+### [下雨天，打工人们怎么才能不迟到？ - V2EX](https://www.v2ex.com/t/786152)
+
+### [
+今日好价：三和源龟苓膏](http://jandan.net/p/109165)
+
+### [
+国外微婚礼的趋势](http://jandan.net/p/109085)
+
+### [微进程：微服务中后台作业的一种新架构设计模式-InfoQ](https://www.infoq.cn/article/X0vQph4JU4wsoEgiQhPM)
+
+### [基于机器学习的自动化测试弹窗处理实践](https://www.infoq.cn/article/856b3c477492f2b6961e2a3f9)
+
+### [华为自研PB级分布式时序数据库揭秘第一期：初识GaussDB(for Influx)](https://www.infoq.cn/article/9ee30d58f1099c2b953d83222)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmfLsEAVy)
