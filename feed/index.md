@@ -215,3 +215,11 @@
 
 ### [
 修复神经元：在小鼠大脑中发现了两种新的胶质细胞](http://jandan.net/p/109114)
+
+### [陪了我 8 年的背包终于退休了，大佬们都用什么背笔记本上班的？求推荐。 - V2EX](https://www.v2ex.com/t/786246)
+
+### [
+【Rust日报】2021-06-28 `<<Rust In Action>>` 正式发售了 - Rust语言中文社区
+](https://rustcc.cn/article?id=5f1931b6-4100-48d1-8717-d93025dc8c7c)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmiFpuXlM)
