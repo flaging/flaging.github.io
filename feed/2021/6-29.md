@@ -316,3 +316,15 @@ _中国政府网](http://www.gov.cn/zhengce/2021-06/29/content_5621512.htm)
 ### [Sina Visitor System](https://weibo.com/1715118170/KmtytCd2K)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmtKSsivu)
+
+### [Back | Veit's Blog](https://blog.veitheller.de/Back.html)
+
+### [
+震撼宇宙：首次探测到黑洞与中子星的合并](http://jandan.net/p/109173)
+
+### [
+“傻瓜的黄金”原来包含真金](http://jandan.net/p/109167)
+
+### [
+【Rust日报】2021-06-29 - Rust语言中文社区
+](https://rustcc.cn/article?id=f238275d-c384-494a-b7ec-62bbfbf5710d)
