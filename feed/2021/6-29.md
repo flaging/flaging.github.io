@@ -162,3 +162,7 @@ cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)
 ### [Sina Visitor System](https://weibo.com/1746173800/KmqeP9vpe)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmqdIjzr2)
+
+### [手中的 Bose 还想留着，但它已经没那么香了：WF-1000XM4 上手体验 - 少数派](https://sspai.com/post/67466)
+
+### [diy nas 和商品 nas 大家怎么选 - V2EX](https://www.v2ex.com/t/786377)
