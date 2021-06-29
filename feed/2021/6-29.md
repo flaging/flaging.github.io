@@ -168,3 +168,9 @@ cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)
 ### [diy nas 和商品 nas 大家怎么选 - V2EX](https://www.v2ex.com/t/786377)
 
 ### [创新成果再获认可，优必选科技获中国专利奖 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-6)
+
+### [CVPR新规严禁审稿期间公开宣传论文，可发arXiv，LeCun：疯了吧！ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-8)
+
+### [大模型、RISC-V、边缘计算，这场大咖云集的开发者盛会全日程公布（别忘了抽显卡） | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-7)
+
+### [Sina Visitor System](https://weibo.com/1642628345/KmqAsjkif)
