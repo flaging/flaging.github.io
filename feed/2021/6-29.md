@@ -259,3 +259,7 @@ _中国政府网](http://www.gov.cn/zhengce/2021-06/29/content_5621469.htm)
 ### [
 The Rust Rand Book：Rand 库之书中文版出炉 - Rust语言中文社区
 ](https://rustcc.cn/article?id=99c0b92c-5723-4a35-8b87-dc2add240999)
+
+### [刷 KPI or 真实贡献？如何客观评价华为对 Linux kernel 的贡献情况？ - SegmentFault 思否](https://segmentfault.com/a/1190000040261462)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmsbEq2i1)
