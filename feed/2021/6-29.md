@@ -158,3 +158,7 @@ cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)
 ### [Sina Visitor System](https://weibo.com/1715118170/KmpPr4n2L)
 
 ### [中芯国际“下血本”！为留顶尖芯片人才，授市值2400万股票-InfoQ](https://www.infoq.cn/article/ZLIzu24aECwqLVbjWktS)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KmqeP9vpe)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmqdIjzr2)
