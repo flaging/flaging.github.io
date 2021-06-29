@@ -92,3 +92,5 @@ cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)
 ### [Sina Visitor System](https://weibo.com/1402400261/Kmp3eqHEB)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmp2PBmqr)
+
+### [Windows 11 第一个开发者预览版初体验 - 小众软件](https://www.appinn.com/windows-11-insider-preview-10-0-22000-51/)
