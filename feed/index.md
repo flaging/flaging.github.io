@@ -289,3 +289,11 @@ The Rust Rand Book：Rand 库之书中文版出炉 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1746173800/KmsXWFoD2)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmsYchUlJ)
+
+### [2021年6月29日新闻联播文字版](http://www.xwlb.net.cn/20770.html)
+
+### [
+RustDesk寻创业伙伴（融资进行中，形式乐观，头部机构洽谈中） - Rust语言中文社区
+](https://rustcc.cn/article?id=a5d4b88a-247e-467e-a478-0b52be60cb2d)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmta7mKjo)
