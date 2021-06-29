@@ -186,3 +186,7 @@ cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)
 ### [
 rust的范型语法，求解答！ - Rust语言中文社区
 ](https://rustcc.cn/article?id=eee0ffc3-6ebb-45ea-a667-b13d9f4264fb)
+
+### [
+cargo build如何给gcc加入编译参数 - Rust语言中文社区
+](https://rustcc.cn/article?id=c816fbae-3ead-45d9-9cb0-662c4694fdc5)
