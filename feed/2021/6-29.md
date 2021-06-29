@@ -364,3 +364,5 @@ Google AI Blog: Quickly Training Game-Playing Agents with Machine Learning
 ### [我为什么看好香港的发展前景？ - FT中文网](http://www.ftchinese.com/story/001092978)
 
 ### [高校“青椒”围城：细观“非升即走”政策 - FT中文网](http://www.ftchinese.com/story/001092976)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmvDL8mKp)
