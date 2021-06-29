@@ -190,3 +190,5 @@ rust的范型语法，求解答！ - Rust语言中文社区
 ### [
 cargo build如何给gcc加入编译参数 - Rust语言中文社区
 ](https://rustcc.cn/article?id=c816fbae-3ead-45d9-9cb0-662c4694fdc5)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kmr0aypK9)
