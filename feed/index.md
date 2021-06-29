@@ -285,3 +285,7 @@ The Rust Rand Book：Rand 库之书中文版出炉 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KmsJow7zE)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmsLLoRTK)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KmsXWFoD2)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmsYchUlJ)
