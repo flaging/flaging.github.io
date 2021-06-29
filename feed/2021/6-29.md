@@ -174,3 +174,15 @@ cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)
 ### [大模型、RISC-V、边缘计算，这场大咖云集的开发者盛会全日程公布（别忘了抽显卡） | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-7)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KmqAsjkif)
+
+### [机器学习时代，神经科学家如何阅读和解码人类的思想 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-10)
+
+### [508人决战，北大占绝对优势：我们围观了一下2021阿里全球数学竞赛决赛真题 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-9)
+
+### [强大和易用并存的时间记录应用：Timemator ｜ 少数派会员  π+Prime](https://sspai.com/post/66354)
+
+### [Picture View - 7.9MB 轻量级 macOS 看图软件，非常有特色的瀑布流式看图模式 - 小众软件](https://www.appinn.com/picture-view-for-macos/)
+
+### [
+rust的范型语法，求解答！ - Rust语言中文社区
+](https://rustcc.cn/article?id=eee0ffc3-6ebb-45ea-a667-b13d9f4264fb)
