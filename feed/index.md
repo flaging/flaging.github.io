@@ -342,3 +342,13 @@ _中国政府网](http://www.gov.cn/zhengce/2021-06/29/content_5621512.htm)
 ### [Manjaro 个人感觉是最好用的 Linux 系统 - V2EX](https://www.v2ex.com/t/786502)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmtWPgidd)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1078)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1077)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1076)
+
+### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1075)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmu9qddWL)
