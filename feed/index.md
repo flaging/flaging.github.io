@@ -263,3 +263,11 @@ The Rust Rand Book：Rand 库之书中文版出炉 - Rust语言中文社区
 ### [刷 KPI or 真实贡献？如何客观评价华为对 Linux kernel 的贡献情况？ - SegmentFault 思否](https://segmentfault.com/a/1190000040261462)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmsbEq2i1)
+
+### [广东省2021年汽车以旧换新补贴政策发布：最高补贴1万元 - 21财经](https://m.21jingji.com/article/20210629/herald/69022401967b2bf5bf3c05855e1bf526.html)
+
+### [想学一门后端语言，哪个比较用的多，写起来比较爽 - V2EX](https://www.v2ex.com/t/786345)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmstuuW2B)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmsnpoNa5)
