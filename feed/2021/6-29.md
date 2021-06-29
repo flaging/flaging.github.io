@@ -126,3 +126,25 @@ cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)
 ### [Sina Visitor System](https://weibo.com/1402400261/KmppyxXRy)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmpra7Te5)
+
+### [什么电池才能配得上电动飞行汽车？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-5)
+
+### [「AI×科研」每日要闻汇总｜6月29日 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-4)
+
+### [机器学习改进基因组发现，谷歌健康在GitHub发布模型训练代码及详细文档 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-3)
+
+### [年轻党员的朋友圈，太6了！ - 21财经](https://m.21jingji.com/article/20210629/herald/f49667cb154c02b1b6dc4c28605cbe62.html)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5910/)
+
+### [咨询下已经买房的小伙伴，都是怎么存够首付的啊？ - V2EX](https://www.v2ex.com/t/786398)
+
+### [如何使用 Distroless 让你的容器更加安全 - SegmentFault 思否](https://segmentfault.com/a/1190000040255793)
+
+### [超级任天堂模拟器 bsnes 开发者自杀，曾遭受网络欺凌 - SegmentFault 思否](https://segmentfault.com/a/1190000040258072)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmpEZl8Si)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmpBKnW42)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmpxkpkDO)
