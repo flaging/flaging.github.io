@@ -148,3 +148,5 @@ cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)
 ### [Sina Visitor System](https://weibo.com/1402400261/KmpBKnW42)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KmpxkpkDO)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmpJrhej9)
