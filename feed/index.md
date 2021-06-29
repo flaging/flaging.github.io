@@ -84,3 +84,11 @@ cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)
 ### [Sina Visitor System](https://weibo.com/1715118170/KmoS8ywZ7)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmoOa7dj1)
+
+### [Sina Visitor System](https://weibo.com/5722964389/Kmp2p1Y4v)
+
+### [AI论文解读：基于Transformer的多目标跟踪方法TrackFormer](https://www.infoq.cn/article/6963edfb79b57e4091c9314e7)
+
+### [Sina Visitor System](https://weibo.com/1402400261/Kmp3eqHEB)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmp2PBmqr)
