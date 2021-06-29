@@ -192,3 +192,5 @@ cargo build如何给gcc加入编译参数 - Rust语言中文社区
 ](https://rustcc.cn/article?id=c816fbae-3ead-45d9-9cb0-662c4694fdc5)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/Kmr0aypK9)
+
+### [老显卡也能拥有的新体验：AMD FSR 实测 - 少数派](https://sspai.com/post/67469)
