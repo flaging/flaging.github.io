@@ -328,3 +328,17 @@ _中国政府网](http://www.gov.cn/zhengce/2021-06/29/content_5621512.htm)
 ### [
 【Rust日报】2021-06-29 - Rust语言中文社区
 ](https://rustcc.cn/article?id=f238275d-c384-494a-b7ec-62bbfbf5710d)
+
+### [Switching Pytorch installation version to save memory : pytorch](https://www.reddit.com/r/pytorch/comments/oabnde/switching_pytorch_installation_version_to_save/)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1384)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1383)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1382)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1381)
+
+### [Manjaro 个人感觉是最好用的 Linux 系统 - V2EX](https://www.v2ex.com/t/786502)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmtWPgidd)
