@@ -410,3 +410,5 @@ Google AI Blog: Quickly Training Game-Playing Agents with Machine Learning
 ### [Sina Visitor System](https://weibo.com/1715118170/KmwvqC5xx)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmwHj4K8q)
+
+### [硬核观察|硬核观察 #318 微软推出 AI “结对编程”](https://linux.cn/article-13537-1.html?utm_source=rss&utm_medium=rss)
