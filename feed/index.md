@@ -248,3 +248,14 @@ cargo build如何给gcc加入编译参数 - Rust语言中文社区
 ### [详解Redis主从复制 - SegmentFault 思否](https://segmentfault.com/a/1190000040248346)
 
 ### [聊聊 Feign 的实现原理 - SegmentFault 思否](https://segmentfault.com/a/1190000040247544)
+
+### [
+中共中央关于授予“七一勋章”的决定
+
+_
+中央有关文件
+_中国政府网](http://www.gov.cn/zhengce/2021-06/29/content_5621469.htm)
+
+### [
+The Rust Rand Book：Rand 库之书中文版出炉 - Rust语言中文社区
+](https://rustcc.cn/article?id=99c0b92c-5723-4a35-8b87-dc2add240999)
