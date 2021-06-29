@@ -297,3 +297,7 @@ RustDesk寻创业伙伴（融资进行中，形式乐观，头部机构洽谈中
 ](https://rustcc.cn/article?id=a5d4b88a-247e-467e-a478-0b52be60cb2d)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmta7mKjo)
+
+### [观点|为什么要为你的家庭自动化项目选择开源](https://linux.cn/article-13535-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmtmGw6fz)
