@@ -66,3 +66,21 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KmoE3mLG6)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmoElDFHK)
+
+### [博世蒋京芳入职禾多科技，禾多自动驾驶量产落地获实质性突破 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-2)
+
+### [Sina Visitor System](https://weibo.com/2816125940/KmoMr6UNW)
+
+### [硬核观察|硬核观察 #317 DuckDuckGo 成为美国、加拿大、澳大利亚的第二大移动搜索引擎](https://linux.cn/article-13534-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+cargo run运行的时候经常会出现Caused by:   拒绝访问。 (os error 5)错误 - Rust语言中文社区
+](https://rustcc.cn/article?id=e2cd2d2b-6fd5-4060-8b52-9fab8f797a2f)
+
+### [可视化搭建的一些思考和实践](https://www.infoq.cn/article/21508f572b40cfff92decc142)
+
+### [带你认识9种常用卷积神经网络](https://www.infoq.cn/article/5fb1f23960c21195992a3eb15)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmoS8ywZ7)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmoOa7dj1)
