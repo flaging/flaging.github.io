@@ -301,3 +301,16 @@ RustDesk寻创业伙伴（融资进行中，形式乐观，头部机构洽谈中
 ### [观点|为什么要为你的家庭自动化项目选择开源](https://linux.cn/article-13535-1.html?utm_source=rss&utm_medium=rss)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmtmGw6fz)
+
+### [2021年6月29日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1887936.shtml)
+
+### [
+中共中央关于表彰全国优秀共产党员、全国优秀党务工作者和全国先进基层党组织的决定
+
+_
+中央有关文件
+_中国政府网](http://www.gov.cn/zhengce/2021-06/29/content_5621512.htm)
+
+### [技术|Fedora Linux 中的 Python 3.10 测试版](https://linux.cn/article-13536-1.html?utm_source=rss&utm_medium=rss)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmtytCd2K)
