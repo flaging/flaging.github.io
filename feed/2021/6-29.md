@@ -48,3 +48,7 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmog6vQVU)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmnRvsI2j)
+
+### [2021小库新品发布：多维延展，智启共生 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29)
+
+### [使用SpringCloud的openFeign组件踩坑纪实](https://www.infoq.cn/article/71dc2fcd5f0a5360b0f017c8a)
