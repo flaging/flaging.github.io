@@ -352,3 +352,7 @@ _中国政府网](http://www.gov.cn/zhengce/2021-06/29/content_5621512.htm)
 ### [Telegram: Contact @computer_science_and_programming](https://t.me/computer_science_and_programming/1075)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmu9qddWL)
+
+### [
+Google AI Blog: Quickly Training Game-Playing Agents with Machine Learning
+](http://feedproxy.google.com/~r/blogspot/gJZg/~3/NH30BgHCkCw/quickly-training-game-playing-agents.html)
