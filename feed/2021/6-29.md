@@ -220,3 +220,9 @@ cargo build如何给gcc加入编译参数 - Rust语言中文社区
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=957)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/Kmrk0639r)
+
+### [长城科技节开场要点：魏建军的「唯一机会」、华为与高德的「减法思考」，以及李克强提出的「发展束缚」  | 机器之心](https://www.jiqizhixin.com/articles/2021-06-29-11)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KmroFkVQJ)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmrsXhwwc)
