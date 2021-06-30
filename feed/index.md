@@ -324,3 +324,7 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [AI 的算法和数据结构中的算法一样吗， AI 的模型和数学建模一样吗？ - V2EX](https://www.v2ex.com/t/786596)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmDzUb2lm)
+
+### [
+请问 &Vec<T> 和 &[T] 作为参数的区别是什么 - Rust语言中文社区
+](https://rustcc.cn/article?id=4d161a63-671b-47dc-955c-a8e8101e2d2f)
