@@ -85,3 +85,9 @@
 ### [手写Spring，定义标记类型Aware接口，实现感知容器对象](https://www.infoq.cn/article/a6f48c60c5de352ab0f5816ce)
 
 ### [GitHub 携手 OpenAI 推出代码补全利器 Copilot，嵌入 VS Code 编辑器，支持多种语言 - SegmentFault 思否](https://segmentfault.com/a/1190000040264043)
+
+### [一大早来公司就犯困，你们有没有这样的感觉 - V2EX](https://www.v2ex.com/t/786593)
+
+### [GitHub 官方发布了 AI 代码补全功能 - V2EX](https://www.v2ex.com/t/786567)
+
+### [Go语言实战流媒体视频网站](https://www.infoq.cn/article/3beb725656531a8cf0295f771)
