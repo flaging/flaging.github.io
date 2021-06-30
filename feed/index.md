@@ -210,3 +210,23 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [话题王者第三季，舍我其谁~](https://www.infoq.cn/article/9ab329b4be6c12824aac42be5)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmACQl60Y)
+
+### [1亿个行为数据，知乎、清华大学开放国内最大个性化推荐实际交互数据集ZhihuRec | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-12)
+
+### [大量西数硬盘被格式化，原因或是黑客互相攻击：还有新漏洞 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-11)
+
+### [「AI×科研」每日要闻汇总｜6月30日 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-10)
+
+### [数十亿行代码训练，GitHub原生AI代码生成工具上线，网友：要终结编程？ | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-9)
+
+### [百度拿下CVPR自动驾驶智能交通领域六项世界冠军 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-8)
+
+### [怎么选择下一份工作？希望大哥们给点建议，感激不尽 - V2EX](https://www.v2ex.com/t/786660)
+
+### [把房子挂出去卖，发现陷入死循环 - V2EX](https://www.v2ex.com/t/786601)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KmAP0qNan)
+
+### [1年将超过15PB数据迁移到谷歌BigQuery，PayPal的经验有哪些可借鉴之处？-InfoQ](https://www.infoq.cn/article/rVz7JOHeDKYP2dNca2bZ)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmANjhmRt)
