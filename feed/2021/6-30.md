@@ -270,3 +270,17 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1746173800/KmC04AVAK)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmC0p3Pw5)
+
+### [北约最高军事官员称中国军力发展速度“惊人” - FT中文网](http://www.ftchinese.com/story/001092988)
+
+### [每周时事分析：朝鲜手里牌已不多 - FT中文网](http://www.ftchinese.com/story/001092979)
+
+### [国内还有什么 APP 能正常使用 callkit 呢？ - V2EX](https://www.v2ex.com/t/786643)
+
+### [2021年6月30日新闻联播文字版](http://www.xwlb.net.cn/20851.html)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmCej34XG)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmCdGyFFo)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmCcgbvpx)
