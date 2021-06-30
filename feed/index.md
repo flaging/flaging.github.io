@@ -140,3 +140,13 @@
 ### [腾讯博通内容理解团队3篇论文入选NLP顶会ACL | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-2)
 
 ### [Swift 前沿技术 WWDC 技术沙龙落地快手总部，探讨移动端开发优化 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30)
+
+### [快乐飞旅行报告 05：两天的贵阳都是吃 - 少数派](https://sspai.com/post/66510)
+
+### [电信充 50 送 120，数量有限 - V2EX](https://www.v2ex.com/t/786670)
+
+### [Docker严重错误导致企业数据被黑客擦除，已存在七年之久-InfoQ](https://www.infoq.cn/article/QQYuiOLc8xR2zzvdQowb)
+
+### [32 条关于软件开发的建议和教训-InfoQ](https://www.infoq.cn/article/5zlPVRg0I5QVqpJbeS68)
+
+### [Sina Visitor System](https://weibo.com/1746173800/KmzJwABPR)
