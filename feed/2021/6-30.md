@@ -152,3 +152,11 @@
 ### [Sina Visitor System](https://weibo.com/1746173800/KmzJwABPR)
 
 ### [31 张 4K 分辨率 Windows 11 默认壁纸下载 - 小众软件](https://www.appinn.com/windows-11-default-wallpaper-download/)
+
+### [Pepper 停产，自推出仅生产2.7万台，软银机器人战略生变 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-3)
+
+### [说到辛苦程度,很多职业都很辛苦,比如做苦力的,奶茶店,餐饮业,各种服务行业。为什么这些薪资水平都不高呢。 - V2EX](https://www.v2ex.com/t/786671)
+
+### [
+rust aes和des  加密和解密的处理 - Rust语言中文社区
+](https://rustcc.cn/article?id=b92a3e9e-db49-4fa3-87f6-5bf721b05fea)
