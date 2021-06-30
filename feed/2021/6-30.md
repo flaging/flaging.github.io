@@ -230,3 +230,5 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [1年将超过15PB数据迁移到谷歌BigQuery，PayPal的经验有哪些可借鉴之处？-InfoQ](https://www.infoq.cn/article/rVz7JOHeDKYP2dNca2bZ)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KmANjhmRt)
+
+### [企业快速创新公式——用友YonBIP-InfoQ](https://www.infoq.cn/article/Y3ieEZLzZXRrHdWtxrit)
