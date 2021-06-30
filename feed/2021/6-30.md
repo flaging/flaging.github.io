@@ -136,3 +136,7 @@
 ### [bios 硬盘加密是不是很危险？ - V2EX](https://www.v2ex.com/t/786589)
 
 ### [关于技术资讯写作的零散经验分享 - SegmentFault 思否](https://segmentfault.com/a/1190000040264898)
+
+### [腾讯博通内容理解团队3篇论文入选NLP顶会ACL | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-2)
+
+### [Swift 前沿技术 WWDC 技术沙龙落地快手总部，探讨移动端开发优化 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30)
