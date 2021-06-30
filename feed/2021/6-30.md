@@ -338,3 +338,7 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KmF9lfA6N)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmFl5BAlj)
+
+### [发现谷歌中文搜索越来越不如必应中文 - V2EX](https://www.v2ex.com/t/786717)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmFxv6BxM)
