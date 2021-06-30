@@ -71,3 +71,13 @@
 ### [深度学习在推荐系统中的应用(二十一)](https://www.infoq.cn/article/0f4b04e2a192d43f9452a020a)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmxUgu3W1)
+
+### [6月30日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0630/135329.shtml)
+
+### [解放生产力，自动化生成Vue组件文档](https://www.infoq.cn/article/67f970a523f3c30d50c31a777)
+
+### [Sina Visitor System](https://weibo.com/1746173800/Kmy4xB5Iu)
+
+### [没登录网页也能个性化推荐？一文详解浏览器指纹 - SegmentFault 思否](https://segmentfault.com/a/1190000040263652)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmy4QedqL)
