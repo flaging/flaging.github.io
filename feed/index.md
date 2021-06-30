@@ -160,3 +160,11 @@
 ### [
 rust aes和des  加密和解密的处理 - Rust语言中文社区
 ](https://rustcc.cn/article?id=b92a3e9e-db49-4fa3-87f6-5bf721b05fea)
+
+### [百事可乐：消费者并不知道自己想喝什么，但AI可能知道 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-4)
+
+### [医院做的这些「拍片」检查，你可以多了解一点 - 少数派](https://sspai.com/post/67474)
+
+### [桌面应用|如何在 Linux 上设置雷蛇设备的灯光效果和其他配置](https://linux.cn/article-13538-1.html?utm_source=rss&utm_medium=rss)
+
+### [京东618实时数据大屏核心技术解密-InfoQ](https://www.infoq.cn/article/Va3y2wXWEq1q3LiJPmIi)
