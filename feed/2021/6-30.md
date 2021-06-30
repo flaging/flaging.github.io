@@ -116,3 +116,5 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KmyOD1QaK)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmyRFelj7)
+
+### [站在AI和IoT的十字路口，如何唤醒万物？-InfoQ](https://www.infoq.cn/article/IHEk9akslVvhhsjgYt4H)
