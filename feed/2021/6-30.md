@@ -132,3 +132,7 @@
 ### [MySQL进阶垫脚石：线程长时间处于killed状态怎么破？-InfoQ](https://www.infoq.cn/article/rYFQdgYLP7zudcAU8ahI)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmzg1w0q1)
+
+### [bios 硬盘加密是不是很危险？ - V2EX](https://www.v2ex.com/t/786589)
+
+### [关于技术资讯写作的零散经验分享 - SegmentFault 思否](https://segmentfault.com/a/1190000040264898)
