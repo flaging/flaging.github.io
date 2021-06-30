@@ -288,3 +288,13 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1746173800/KmCoqyNCh)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmCoT0pCc)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1388)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1387)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1386)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1385)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmCACdMRs)
