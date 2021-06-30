@@ -81,3 +81,7 @@
 ### [没登录网页也能个性化推荐？一文详解浏览器指纹 - SegmentFault 思否](https://segmentfault.com/a/1190000040263652)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/Kmy4QedqL)
+
+### [手写Spring，定义标记类型Aware接口，实现感知容器对象](https://www.infoq.cn/article/a6f48c60c5de352ab0f5816ce)
+
+### [GitHub 携手 OpenAI 推出代码补全利器 Copilot，嵌入 VS Code 编辑器，支持多种语言 - SegmentFault 思否](https://segmentfault.com/a/1190000040264043)
