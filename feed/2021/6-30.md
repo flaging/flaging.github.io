@@ -150,3 +150,5 @@
 ### [32 条关于软件开发的建议和教训-InfoQ](https://www.infoq.cn/article/5zlPVRg0I5QVqpJbeS68)
 
 ### [Sina Visitor System](https://weibo.com/1746173800/KmzJwABPR)
+
+### [31 张 4K 分辨率 Windows 11 默认壁纸下载 - 小众软件](https://www.appinn.com/windows-11-default-wallpaper-download/)
