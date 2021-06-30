@@ -106,3 +106,13 @@
 ### [如何优雅的设计DWS层？](https://www.infoq.cn/article/2de0d5bde8f28c032fa5e4b26)
 
 ### [新常态下的CMDB系统规划与落地](https://www.infoq.cn/article/fd0c15d7b21e3d4e20d618317)
+
+### [PUA 从面试开始 - V2EX](https://www.v2ex.com/t/786576)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmySUnT3v)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmyQnqb2j)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmyOD1QaK)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmyRFelj7)
