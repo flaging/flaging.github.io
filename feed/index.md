@@ -168,3 +168,45 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [桌面应用|如何在 Linux 上设置雷蛇设备的灯光效果和其他配置](https://linux.cn/article-13538-1.html?utm_source=rss&utm_medium=rss)
 
 ### [京东618实时数据大屏核心技术解密-InfoQ](https://www.infoq.cn/article/Va3y2wXWEq1q3LiJPmIi)
+
+### [长城科技节 | 魏建军的「危机感」，以及华为和高德的「减法思考」 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-7)
+
+### [独家 | 前福特电动车COO朱江已加入集度汽车 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-6)
+
+### [隐藏于药物研发过程中的合成生物学 | 机器之心](https://www.jiqizhixin.com/articles/2021-06-30-5)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=991)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=792)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=803)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=756)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=652)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1014)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1010)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=786)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=942)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1013)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=993)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=1012)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=965)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=690)
+
+### [AI编程工具来了！GitHub Copilot 可对整行或全部代码给出AI分析建议-InfoQ](https://www.infoq.cn/article/hl4FRdhs0YCuAuLc6FxR)
+
+### [京东实时计算架构演进之路-InfoQ](https://www.infoq.cn/article/EVpSlhiSE8wzNTGb8Cwc)
+
+### [话题王者第三季，舍我其谁~](https://www.infoq.cn/article/9ab329b4be6c12824aac42be5)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmACQl60Y)
