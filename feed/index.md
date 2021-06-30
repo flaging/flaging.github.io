@@ -236,3 +236,7 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [如何高效实现图片搜索？Dropbox的核心方法和架构优化实践-InfoQ](https://www.infoq.cn/article/m8ykkXKQ647XAejWkuhz)
 
 ### [减少传统数据湖带来的混乱，Intuit如何构建数据网格策略？-InfoQ](https://www.infoq.cn/article/vZjTqXU9KL219P9edwFy)
+
+### [2021年6月30日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1888347.shtml)
+
+### [Sina Visitor System](https://weibo.com/1402400261/KmBcldXJL)
