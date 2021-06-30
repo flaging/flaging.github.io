@@ -318,3 +318,9 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1715118170/KmDbtusZW)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmDnk58Uh)
+
+### [Google demonstrates leading performance in latest MLPerf Benchmarks — The TensorFlow Blog](https://blog.tensorflow.org/2021/06/google-demonstrates-leading-performance-in-latest-MLPerf-benchmarks.html)
+
+### [AI 的算法和数据结构中的算法一样吗， AI 的模型和数学建模一样吗？ - V2EX](https://www.v2ex.com/t/786596)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmDzUb2lm)
