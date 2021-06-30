@@ -342,3 +342,7 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [发现谷歌中文搜索越来越不如必应中文 - V2EX](https://www.v2ex.com/t/786717)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmFxv6BxM)
+
+### [How do I export a model that I trained to use in other programs : pytorch](https://www.reddit.com/r/pytorch/comments/ob84jr/how_do_i_export_a_model_that_i_trained_to_use_in/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmFJrymOA)
