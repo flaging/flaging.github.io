@@ -97,3 +97,12 @@
 ### [数字化的三大本质](https://www.infoq.cn/article/d3485d9a03e60b6b13a8cc0f4)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmytindAr)
+
+### [macOS 如何限制进程 CPU 占用 - 少数派](https://sspai.com/post/67331)
+
+### [
+今日好价：上海机械表](http://jandan.net/p/109174)
+
+### [如何优雅的设计DWS层？](https://www.infoq.cn/article/2de0d5bde8f28c032fa5e4b26)
+
+### [新常态下的CMDB系统规划与落地](https://www.infoq.cn/article/fd0c15d7b21e3d4e20d618317)
