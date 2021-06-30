@@ -346,3 +346,19 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [How do I export a model that I trained to use in other programs : pytorch](https://www.reddit.com/r/pytorch/comments/ob84jr/how_do_i_export_a_model_that_i_trained_to_use_in/)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmFJrymOA)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737623)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737627)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737618)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737601)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737608)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9737633)
+
+### [青年图摘0701！此地无银三百两](https://qingniantuzhai.com/qing-nian-tu-zhai-0701-4/)
+
+### [金融资管领域知识图谱的构建和应用-InfoQ](https://www.infoq.cn/article/IxKZRAOsT6L6mvYrtuwr)
