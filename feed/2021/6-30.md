@@ -260,3 +260,7 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KmBIW57SN)
 
 ### [Sina Visitor System](https://weibo.com/1715118170/KmBBW2GdV)
+
+### [My AI Monthly Top 3 — June 2021. Covering the 3 most interesting AI papers of June 2021 with video demos, short articles, code, and paper reference for each. : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/oaw3ok/my_ai_monthly_top_3_june_2021_covering_the_3_most/)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmBNUj7OU)
