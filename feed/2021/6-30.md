@@ -128,3 +128,7 @@
 ### [Sina Visitor System](https://weibo.com/1402400261/KmyXvfd5R)
 
 ### [Sina Visitor System](https://weibo.com/1402400261/KmyXtb825)
+
+### [MySQL进阶垫脚石：线程长时间处于killed状态怎么破？-InfoQ](https://www.infoq.cn/article/rYFQdgYLP7zudcAU8ahI)
+
+### [Sina Visitor System](https://weibo.com/1715118170/Kmzg1w0q1)
