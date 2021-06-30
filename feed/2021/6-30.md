@@ -51,3 +51,23 @@
 ### [Sina Visitor System](https://weibo.com/1642628345/KmxEGv8Qr)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KmxEwxQLG)
+
+### [群晖 NAS 操作系统 DiskStation Manager 7.0（DSM 7.0）正式发布 - 小众软件](https://www.appinn.com/diskstation-manager-7-0/)
+
+### [我想问一下阿里的花名还能起到有意义的名字吗？ 各种神兽、小说名字基本被占光了，我能想到的都没了。。我自己苦思冥想很久的一个名字还被推荐给别人了。。。各位大佬有没有好的花名。。。提前感谢了 - V2EX](https://www.v2ex.com/t/786614)
+
+### [Google Maps API 被 Google 停用，理由是中国在 Prohibited Territories 清单上 - V2EX](https://www.v2ex.com/t/786548)
+
+### [研发用笔记本推荐，价位 8k-1w - V2EX](https://www.v2ex.com/t/786500)
+
+### [数据湖 VS  数据仓库，哪个更好用？-InfoQ](https://www.infoq.cn/article/R6pushmxbe3I56UL2lkf)
+
+### [2021年，就业市场增速放缓的数据科学行业，还有多少“钱“景？-InfoQ](https://www.infoq.cn/article/YGpAlZ7DkN2ueyDYj8zM)
+
+### [一位10年Java工作经验的架构师聊Java和工作经验](https://www.infoq.cn/article/ad2b0a9b6d08802feabfb831a)
+
+### [基于K8S构建Zeppelin大数据可视化分析工具](https://www.infoq.cn/article/fadae78720f4e91ca75378e8d)
+
+### [深度学习在推荐系统中的应用(二十一)](https://www.infoq.cn/article/0f4b04e2a192d43f9452a020a)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmxUgu3W1)
