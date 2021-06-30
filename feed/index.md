@@ -232,3 +232,7 @@ rust aes和des  加密和解密的处理 - Rust语言中文社区
 ### [Sina Visitor System](https://weibo.com/1402400261/KmANjhmRt)
 
 ### [企业快速创新公式——用友YonBIP-InfoQ](https://www.infoq.cn/article/Y3ieEZLzZXRrHdWtxrit)
+
+### [如何高效实现图片搜索？Dropbox的核心方法和架构优化实践-InfoQ](https://www.infoq.cn/article/m8ykkXKQ647XAejWkuhz)
+
+### [减少传统数据湖带来的混乱，Intuit如何构建数据网格策略？-InfoQ](https://www.infoq.cn/article/vZjTqXU9KL219P9edwFy)
