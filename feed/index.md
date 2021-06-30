@@ -91,3 +91,9 @@
 ### [GitHub 官方发布了 AI 代码补全功能 - V2EX](https://www.v2ex.com/t/786567)
 
 ### [Go语言实战流媒体视频网站](https://www.infoq.cn/article/3beb725656531a8cf0295f771)
+
+### [Sina Visitor System](https://weibo.com/5722964389/KmysSDwdM)
+
+### [数字化的三大本质](https://www.infoq.cn/article/d3485d9a03e60b6b13a8cc0f4)
+
+### [Sina Visitor System](https://weibo.com/1715118170/KmytindAr)
