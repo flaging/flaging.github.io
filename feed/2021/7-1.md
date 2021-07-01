@@ -58,3 +58,13 @@
 ### [7月1日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0701/135333.shtml)
 
 ### [基于 BDD 理论的 Nebula 集成测试框架重构（下篇）](https://www.infoq.cn/article/59f714cebc88cbc5dc9ca91a4)
+
+### [如何关闭maven-default-http-blocker？ - Robert的博客](https://www.robberphex.com/how-to-disable-maven-default-http-blocker/)
+
+### [硬核观察|硬核观察 #319 美国议员呼吁给加密货币留“后门”](https://linux.cn/article-13540-1.html?utm_source=rss&utm_medium=rss)
+
+### [技术|使用开源工具创建私有的虚拟专用网络](https://linux.cn/article-13539-1.html?utm_source=rss&utm_medium=rss)
+
+### [我有一个大胆的想法！](https://cuijiahua.com/blog/2021/07/ai-19.html)
+
+### [【中奖名单】SegmentFault 思否 9 周年征文活动圆满结束啦！快来领取你的福利吧~ - SegmentFault 思否](https://segmentfault.com/a/1190000040270107)
