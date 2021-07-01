@@ -213,3 +213,5 @@
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1389)
 
 ### [应届生期望的程序员工作 V.S. 实际的程序员工作 - V2EX](https://www.v2ex.com/t/786821)
+
+### [青年图摘0702!我TM怎么就问不出这样的问题？？](https://qingniantuzhai.com/qing-nian-tu-zhai-0702-4/)
