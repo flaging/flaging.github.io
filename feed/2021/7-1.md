@@ -147,3 +147,25 @@
 ### [探讨下日间行车灯 - V2EX](https://www.v2ex.com/t/786760)
 
 ### [面试完一般多久给反馈？ - V2EX](https://www.v2ex.com/t/786729)
+
+### [【大会公告】倒计时10天，2021世界人工智能大会公众报名注册指南 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-18)
+
+### [大模型、RISC-边缘计算，这场大咖云集的开发者盛会全日程公布（别忘了抽显卡） | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-17)
+
+### [聚焦AI开发者、智慧出行、隐私计算，机器之心多场盛会亮相2021世界人工智能大会  | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-14)
+
+### [在灾难面前，机器人能不能拉你一把？ | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-13)
+
+### [SaaS落地，走对第一步很关键 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-12)
+
+### [打造智能化交流及合作平台 长城汽车智能化技术论坛成功举办  | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-11)
+
+### [同济教授朱西产：ADAS已毫无价值，L2+宣传过于夸大 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-10)
+
+### [招募 | 这一次，我们要把智能驾驶聊通聊透 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-9)
+
+### [升级 Windows 11 碰壁了？送你一份尝鲜指南 - 少数派](https://sspai.com/post/67498)
+
+### [你有这样的同事吗？如何一起工作？ - V2EX](https://www.v2ex.com/t/786874)
+
+### [你愿意花多少钱，为 20 秒的业务优化买单？ - SegmentFault 思否](https://segmentfault.com/a/1190000039881253)
