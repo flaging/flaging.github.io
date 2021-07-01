@@ -191,3 +191,5 @@
 ### [万亿GDP城市人均消费“洗牌”：南京力压京沪高居首位，泉州、青岛、福州进入前十名 - 21财经](https://m.21jingji.com/article/20210701/herald/3869d6c68e5da7db8d505869eded290d.html)
 
 ### [2021年7月1日新闻联播文字版](http://www.xwlb.net.cn/20923.html)
+
+### [分享一篇陆奇在百度内部的文章-除了好代码，工程师怎样才算优秀 - V2EX](https://www.v2ex.com/t/786797)
