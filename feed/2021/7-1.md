@@ -169,3 +169,15 @@
 ### [你有这样的同事吗？如何一起工作？ - V2EX](https://www.v2ex.com/t/786874)
 
 ### [你愿意花多少钱，为 20 秒的业务优化买单？ - SegmentFault 思否](https://segmentfault.com/a/1190000039881253)
+
+### [【会前探营】零距离感受蓬勃发展的AI产业！新闻媒体赴上海鲲鹏生态创新中心和壁仞科技开展集体采访 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-20)
+
+### [新玩意 069｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/67510)
+
+### [Having a hard time understanding Torch serve, any help would be appreciated : pytorch](https://www.reddit.com/r/pytorch/comments/obin5x/having_a_hard_time_understanding_torch_serve_any/)
+
+### [
+发霉啦：今天，2个月来自杀念头一直在我脑海中萦绕，于是我拨通了自杀热线的电话](http://jandan.net/p/109178)
+
+### [
+孩子，你怕的是黑，而非床下的怪物](http://jandan.net/p/109128)
