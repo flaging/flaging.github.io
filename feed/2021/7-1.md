@@ -50,3 +50,11 @@
 ](https://rustcc.cn/article?id=6939e11a-27b4-4fc4-9101-d79abea94d78)
 
 ### [区块链技术如何赋能医学成像？](https://www.infoq.cn/article/10ec22e99d146e72c63bc9a80)
+
+### [我该不该换工作呢? - V2EX](https://www.v2ex.com/t/786826)
+
+### [换了城市,200%的工资使我的生活水平明显下降了 - V2EX](https://www.v2ex.com/t/786814)
+
+### [7月1日新闻茶泡Fan_新闻_电脑爱好者](https://www.cfan.com.cn/2021/0701/135333.shtml)
+
+### [基于 BDD 理论的 Nebula 集成测试框架重构（下篇）](https://www.infoq.cn/article/59f714cebc88cbc5dc9ca91a4)
