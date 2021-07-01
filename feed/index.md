@@ -44,3 +44,9 @@
 ### [Sina Visitor System](https://weibo.com/1715118170/KmH5wFTBP)
 
 ### [Sina Visitor System](https://weibo.com/1642628345/KmH8GAB73)
+
+### [
+[北京中关村/远程][TensorBase][开源数据仓库]等一群人，做一件事 - Rust语言中文社区
+](https://rustcc.cn/article?id=6939e11a-27b4-4fc4-9101-d79abea94d78)
+
+### [区块链技术如何赋能医学成像？](https://www.infoq.cn/article/10ec22e99d146e72c63bc9a80)
