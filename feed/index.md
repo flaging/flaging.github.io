@@ -203,3 +203,13 @@
 ### [ Go chennel VS Java BlockingQueue | crossoverJie's Blog ](http://crossoverjie.top/2021/07/02/go/go%20channel%20vs%20java%20BlockingQueue/)
 
 ### [有什么办法让 adb 命令能从电脑给国产手机装 apk 吗？ - V2EX](https://www.v2ex.com/t/786924)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1392)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1391)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1390)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1389)
+
+### [应届生期望的程序员工作 V.S. 实际的程序员工作 - V2EX](https://www.v2ex.com/t/786821)
