@@ -193,3 +193,9 @@
 ### [2021年7月1日新闻联播文字版](http://www.xwlb.net.cn/20923.html)
 
 ### [分享一篇陆奇在百度内部的文章-除了好代码，工程师怎样才算优秀 - V2EX](https://www.v2ex.com/t/786797)
+
+### [[D] New SOTA StyleGAN2 inversion paper explained in 5 minutes: Pivotal Tuning for Latent-based Editing of Real Images (PTI) by Daniel Roich et al. : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/obokk9/d_new_sota_stylegan2_inversion_paper_explained_in/)
+
+### [
+【Rust 日报】2021-07-01 - Rust语言中文社区
+](https://rustcc.cn/article?id=45ec385d-2ce0-4ebc-bee0-ff9e83947d59)
