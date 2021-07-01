@@ -199,3 +199,7 @@
 ### [
 【Rust 日报】2021-07-01 - Rust语言中文社区
 ](https://rustcc.cn/article?id=45ec385d-2ce0-4ebc-bee0-ff9e83947d59)
+
+### [ Go chennel VS Java BlockingQueue | crossoverJie's Blog ](http://crossoverjie.top/2021/07/02/go/go%20channel%20vs%20java%20BlockingQueue/)
+
+### [有什么办法让 adb 命令能从电脑给国产手机装 apk 吗？ - V2EX](https://www.v2ex.com/t/786924)
