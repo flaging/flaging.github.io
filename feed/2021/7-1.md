@@ -187,3 +187,7 @@
 ### [2021年7月1日外交部发言人汪文斌主持例行记者会 — 中华人民共和国外交部](https://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1888785.shtml)
 
 ### [ի--ͼ20210701ѵմ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157964)
+
+### [万亿GDP城市人均消费“洗牌”：南京力压京沪高居首位，泉州、青岛、福州进入前十名 - 21财经](https://m.21jingji.com/article/20210701/herald/3869d6c68e5da7db8d505869eded290d.html)
+
+### [2021年7月1日新闻联播文字版](http://www.xwlb.net.cn/20923.html)
