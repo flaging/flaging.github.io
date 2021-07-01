@@ -102,3 +102,19 @@
 ### [5 个绝不能犯的《产品摄影错误》 - 新片场](https://www.vmovier.com/62405)
 
 ### [TFLite equivalent in Pytorch? : pytorch](https://www.reddit.com/r/pytorch/comments/obf99j/tflite_equivalent_in_pytorch/)
+
+### [苹果M1更适合强化学习？相比V100性能提升200%，价格低90%，功耗减88% | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-5)
+
+### [56比特！潘建伟团队「祖冲之号」展示量子计算优越性，超越谷歌 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-4)
+
+### [聚焦AI开发者、智慧出行、隐私计算，机器之心多场盛会亮相2021世界人工智能大会 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-2)
+
+### [机器之心CVPR线下论文分享会干货集锦，同时邀你报名ACL 2021论文分享会 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01)
+
+### [最新调查：等这一波COBOL程序员退休，很多关键岗位就后继无人了 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-3)
+
+### [现在很多人看源码似乎都是为了面试，纯粹的程序员应该在思考啥？ - V2EX](https://www.v2ex.com/t/786840)
+
+### [你们办公室吵吗？ 怎么解决这个问题？ - V2EX](https://www.v2ex.com/t/786833)
+
+### [失眠如何解决？ - V2EX](https://www.v2ex.com/t/786716)
