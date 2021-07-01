@@ -84,3 +84,21 @@
 ### [
 请问那个rust开源操作系统夏令营的邀请已经发出了吗 - Rust语言中文社区
 ](https://rustcc.cn/article?id=e9754a51-a975-4a55-a48c-170d7e7f2588)
+
+### [百年风华 - 百位摄影师联袂巨献中国共产党成立100周年 - 新片场](https://www.vmovier.com/62414)
+
+### [超燃混剪微视频：奋进中国 - 新片场](https://www.vmovier.com/62395)
+
+### [戛纳获奖日本魔性广告《投资爸爸》 - 新片场](https://www.vmovier.com/62407)
+
+### [惊艳！3D 视角下的《矿物之美》 - 新片场](https://www.vmovier.com/62402)
+
+### [戛纳获奖！手机观感更佳《翻转》 - 新片场](https://www.vmovier.com/62406)
+
+### [经典混剪《卡梅隆的影像世界》 - 新片场](https://www.vmovier.com/62400)
+
+### [如果《鬼怪》是一部治愈系动画 - 新片场](https://www.vmovier.com/62397)
+
+### [5 个绝不能犯的《产品摄影错误》 - 新片场](https://www.vmovier.com/62405)
+
+### [TFLite equivalent in Pytorch? : pytorch](https://www.reddit.com/r/pytorch/comments/obf99j/tflite_equivalent_in_pytorch/)
