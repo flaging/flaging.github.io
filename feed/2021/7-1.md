@@ -137,3 +137,13 @@
 ### [
 有方法可以屏蔽结构体中部分trait的实现么？ - Rust语言中文社区
 ](https://rustcc.cn/article?id=e44cb39a-c3db-4564-8183-71fdd8d3e8d0)
+
+### [「AI×科研」每日要闻汇总｜7月1日 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-8)
+
+### [NISQ时代，我们依然可以有可靠的量子计算 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-7)
+
+### [机器学习算力基准MLPerf新一期榜单发布：Graphcore效率领先 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-01-6)
+
+### [探讨下日间行车灯 - V2EX](https://www.v2ex.com/t/786760)
+
+### [面试完一般多久给反馈？ - V2EX](https://www.v2ex.com/t/786729)
