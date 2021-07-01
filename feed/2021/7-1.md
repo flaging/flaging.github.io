@@ -118,3 +118,22 @@
 ### [你们办公室吵吗？ 怎么解决这个问题？ - V2EX](https://www.v2ex.com/t/786833)
 
 ### [失眠如何解决？ - V2EX](https://www.v2ex.com/t/786716)
+
+### [极简主义下，简历也能断舍离 - 少数派](https://sspai.com/post/66893)
+
+### [你们都是怎么整理「那个」文件夹的？TagExplorer - 小众软件](https://www.appinn.com/tagexplorer-for-windows/)
+
+### [半年开发了一个 Vuejs+serverless 的伪进销存系统，三天跑了 7 个付费客户 - V2EX](https://www.v2ex.com/t/786829)
+
+### [不懂就问： github 里面 release 部分下载的各个系统上直接可以用的软件包， win 的 exe、mac 的 dmg、 Linux 的二进制文件或者 appimage、安卓的 apk 这些，有没有可能是“伪开源”？ - V2EX](https://www.v2ex.com/t/786805)
+
+### [
+死斗：蝎子和蜘蛛谁更厉害？](http://jandan.net/p/109176)
+
+### [
+& 可以转成 &mut 嘛？ - Rust语言中文社区
+](https://rustcc.cn/article?id=d4da830c-4954-439d-8386-093d3c5ee9ef)
+
+### [
+有方法可以屏蔽结构体中部分trait的实现么？ - Rust语言中文社区
+](https://rustcc.cn/article?id=e44cb39a-c3db-4564-8183-71fdd8d3e8d0)
