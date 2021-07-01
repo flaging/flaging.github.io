@@ -68,3 +68,19 @@
 ### [我有一个大胆的想法！](https://cuijiahua.com/blog/2021/07/ai-19.html)
 
 ### [【中奖名单】SegmentFault 思否 9 周年征文活动圆满结束啦！快来领取你的福利吧~ - SegmentFault 思否](https://segmentfault.com/a/1190000040270107)
+
+### [Refresh 周报 #13：Windows 11 ❤️ Android - 少数派](https://sspai.com/post/67496)
+
+### [孩子转学考试， 40 个孩子只收了 2 个 - V2EX](https://www.v2ex.com/t/786845)
+
+### [你们会数数吗？ - V2EX](https://www.v2ex.com/t/786698)
+
+### [
+今日好价：海底捞自热火锅](http://jandan.net/p/109175)
+
+### [
+史前人类就会保留逝者的物品以寄托相思](http://jandan.net/p/109144)
+
+### [
+请问那个rust开源操作系统夏令营的邀请已经发出了吗 - Rust语言中文社区
+](https://rustcc.cn/article?id=e9754a51-a975-4a55-a48c-170d7e7f2588)
