@@ -53,3 +53,11 @@
 
 ### [
 研究发现：因在家工作，猫咪变得更亲人了](http://jandan.net/p/109179)
+
+### [海贝音乐 - 专为 HiFi 设计，支持从百度网盘、OneDrive 直接播放的无损音乐播放器[iOS/Android] - 小众软件](https://www.appinn.com/hiby-music-player/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5911/)
+
+### [屏幕裂了，我也幵了 - V2EX](https://www.v2ex.com/t/787042)
+
+### [软件开发|使用 Python 来解决慈善机构的业务问题](https://linux.cn/article-13542-1.html?utm_source=rss&utm_medium=rss)
