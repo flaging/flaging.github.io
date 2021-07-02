@@ -61,3 +61,23 @@
 ### [屏幕裂了，我也幵了 - V2EX](https://www.v2ex.com/t/787042)
 
 ### [软件开发|使用 Python 来解决慈善机构的业务问题](https://linux.cn/article-13542-1.html?utm_source=rss&utm_medium=rss)
+
+### [50年后，MIT等首次证实霍金面积定理，黑洞总视界面积达36.7万km² | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-6)
+
+### [挖掘机技术哪家强？百度无人驾驶挖掘机来了，附论文讲解视频 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-5)
+
+### [Hinton、Bengio、LeCun三巨头联手长文：深度学习从兴起到未来 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-4)
+
+### [无人车的眼睛、UP主的生产力工具，都藏在百度CVPR的这十个冠军里 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-3)
+
+### [作为一名技术主管，其他部门同事遇到技术问题直接跳过自己问下属或者其他人是什么心理？ - V2EX](https://www.v2ex.com/t/787072)
+
+### [笔记本推荐一下，预算 9k，已有 MBP 和 3090 PC - V2EX](https://www.v2ex.com/t/787034)
+
+### [
+今日好价：蕉下自动伞](http://jandan.net/p/109181)
+
+### [
+关键分子：为何有人会有心碎综合征](http://jandan.net/p/109137)
+
+### [Webpack 原理系列八：产物转译打包逻辑 - SegmentFault 思否](https://segmentfault.com/a/1190000040278327)
