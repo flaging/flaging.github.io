@@ -24,3 +24,25 @@
 ### [大佬们，能帮忙指导下简历吗，快 2 年的前端~ - V2EX](https://www.v2ex.com/t/786938)
 
 ### [为什么没有基于工作量证明机制的防火墙应用？ - V2EX](https://www.v2ex.com/t/786865)
+
+### [百度全新无人挖掘机作业系统登上国际权威期刊《Science Robotics》 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-2)
+
+### [熟悉的听感、又略有不同，千元级无线降噪音乐耳机：Beats Studio Buds 体验 - 少数派](https://sspai.com/post/67512)
+
+### [建党百年重磅微视频《路》 - 新片场](https://www.vmovier.com/62421)
+
+### [超燃混剪！1921~2021年党的光辉历程爆燃剪辑（建国前篇）！泪崩了！ - 新片场](https://www.vmovier.com/62394)
+
+### [致2021上半年的你《努力真的很酷》 - 新片场](https://www.vmovier.com/62416)
+
+### [真·机械舞！机器狗版《千手观音》 - 新片场](https://www.vmovier.com/62420)
+
+### [戛纳金狮奖！职场女性《永久怀孕》 - 新片场](https://www.vmovier.com/62415)
+
+### [硬核视效质感大片《梦幻微观世界》 - 新片场](https://www.vmovier.com/62401)
+
+### [200人大合唱《You Raise Me Up》 - 新片场](https://www.vmovier.com/62417)
+
+### [聚会尴尬时刻《这是我的酒杯吗》 - 新片场](https://www.vmovier.com/62365)
+
+### [软件开发|CI/CD 管道是什么？](https://linux.cn/article-13541-1.html?utm_source=rss&utm_medium=rss)
