@@ -81,3 +81,23 @@
 关键分子：为何有人会有心碎综合征](http://jandan.net/p/109137)
 
 ### [Webpack 原理系列八：产物转译打包逻辑 - SegmentFault 思否](https://segmentfault.com/a/1190000040278327)
+
+### [霍尼韦尔中国推出智慧能源管理解决方案HiEMS | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-12)
+
+### [机器之心&机器之能「百大数字化转型案例」征集活动开启 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-11)
+
+### [庆祝建党百年里的AI力量: 爱奇艺、影谱科技、B站up主等助力红色传播 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-10)
+
+### [Model S Plaid的半幅方向盘能保证安全吗？ | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-9)
+
+### [「AI×科研」每日要汇总｜7月2日闻 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-8)
+
+### [国内大神成功给手机装上了Win11，支持一加、小米 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-7)
+
+### [iOS / iPadOS 15 公测版来了：新系统升降级指南 & 注意事项 - 少数派](https://sspai.com/post/67514)
+
+### [【“十三五”易地扶贫搬迁：伟大成就与实践经验】-国家发展和改革委员会 ](https://www.ndrc.gov.cn/xwdt/xwfb/202106/t20210630_1285081.html)
+
+### [我说一句群晖相册用于家庭共享很辣鸡，应该没人反对吧？ - V2EX](https://www.v2ex.com/t/787103)
+
+### [硬核观察|硬核观察 #320 谷歌和微软决定结束和平，重启诉讼大战](https://linux.cn/article-13543-1.html?utm_source=rss&utm_medium=rss)
