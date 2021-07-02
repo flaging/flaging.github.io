@@ -113,3 +113,15 @@
 ### [本周看什么丨最近值得一看的 6 部作品 - 少数派](https://sspai.com/post/67534)
 
 ### [国务院办公厅关于加快发展保障性租赁住房的意见（国办发〔2021〕22号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2021-07/02/content_5622027.htm)
+
+### [从58名到9514.8万名！奋斗百年，中国共产党员是怎样一群人？](https://app.21jingji.com/html/20210702zggcd/index.html)
+
+### [172个小城人口“图谱”：13市10年增速突破20%，珠海拉萨三亚位列前三 - 21财经](https://m.21jingji.com/article/20210702/herald/d1ccc6c41dc04861c6757e51cf0ce028.html)
+
+### [这是我的简历 刚毕业 有什么建议吗 合适的公司可以推荐下 谢谢 - V2EX](https://www.v2ex.com/t/787102)
+
+### [ի--ͼ20210702ҳ壬ⲻܽ](https://www.dapenti.com/blog/more.asp?name=xilei&id=157982)
+
+### [
+【Rust 日报】2021-07-02  Facebook 从 Java 到 Rust | Buck 的未来 - Rust语言中文社区
+](https://rustcc.cn/article?id=942a3120-d78d-4199-bced-8df50b152762)
