@@ -101,3 +101,5 @@
 ### [我说一句群晖相册用于家庭共享很辣鸡，应该没人反对吧？ - V2EX](https://www.v2ex.com/t/787103)
 
 ### [硬核观察|硬核观察 #320 谷歌和微软决定结束和平，重启诉讼大战](https://linux.cn/article-13543-1.html?utm_source=rss&utm_medium=rss)
+
+### [瞎玩菌的游戏周报：Xbox 云游戏、Steam 夏促等 - 少数派](https://sspai.com/post/67484)
