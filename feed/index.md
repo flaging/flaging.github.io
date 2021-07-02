@@ -138,3 +138,5 @@
 
 ### [
 解决本无法解决的问题：直接用观测数据证实了霍金的黑洞面积定律](http://jandan.net/p/109182)
+
+### [Weekly highlights by DLU (W1 July 2021) : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/ocdsma/weekly_highlights_by_dlu_w1_july_2021/)
