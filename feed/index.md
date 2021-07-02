@@ -103,3 +103,9 @@
 ### [硬核观察|硬核观察 #320 谷歌和微软决定结束和平，重启诉讼大战](https://linux.cn/article-13543-1.html?utm_source=rss&utm_medium=rss)
 
 ### [瞎玩菌的游戏周报：Xbox 云游戏、Steam 夏促等 - 少数派](https://sspai.com/post/67484)
+
+### [招募｜助力人工智能行业发展，惠普发起人工智能合作伙伴招募 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-02-13)
+
+### [iOS / iPadOS 15 公测版来了，哪些新功能值得尝鲜？ - 少数派](https://sspai.com/post/67520)
+
+### [如果当年爱因斯坦有一台最新版的苹果 M1，是不是可以改变世界？ - V2EX](https://www.v2ex.com/t/787123)
