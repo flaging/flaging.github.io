@@ -125,3 +125,5 @@
 ### [
 【Rust 日报】2021-07-02  Facebook 从 Java 到 Rust | Buck 的未来 - Rust语言中文社区
 ](https://rustcc.cn/article?id=942a3120-d78d-4199-bced-8df50b152762)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=924)
