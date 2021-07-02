@@ -150,3 +150,23 @@
 ### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1393)
 
 ### [macOS 的窗口切换逻辑就是不合理的 - V2EX](https://www.v2ex.com/t/787124)
+
+### [人民日报建党100周年献礼片-《在场》 - 新片场](https://www.vmovier.com/62431)
+
+### [焕彩灯火  庆祝中国共产党成立100周年 - 新片场](https://www.vmovier.com/62430)
+
+### [泰国爆笑脑洞广告《懒人与猿》 - 新片场](https://www.vmovier.com/62403)
+
+### [视觉系！艺术大牛的《油画初体验》 - 新片场](https://www.vmovier.com/62429)
+
+### [BBC 预热东京奥运短片《狂热》 - 新片场](https://www.vmovier.com/62425)
+
+### [穿越到未来的AR上海是一种什么样的体验 - 新片场](https://www.vmovier.com/62351)
+
+### [夏日甜品大作战！《香甜芒果派》 - 新片场](https://www.vmovier.com/62424)
+
+### [人类神奇脑洞图鉴《你不对劲》 - 新片场](https://www.vmovier.com/62419)
+
+### [100%种草！《Insta360 GO 2 拇指防抖相机测评》 - 新片场](https://www.vmovier.com/62423)
+
+### [大佬们， offer 怎么选，微软、b 站、阿里 - V2EX](https://www.v2ex.com/t/787201)
