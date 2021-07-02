@@ -46,3 +46,10 @@
 ### [聚会尴尬时刻《这是我的酒杯吗》 - 新片场](https://www.vmovier.com/62365)
 
 ### [软件开发|CI/CD 管道是什么？](https://linux.cn/article-13541-1.html?utm_source=rss&utm_medium=rss)
+
+### [锂电上游关键材料价格大幅走高 产业链核心公司名单速览 - 21财经](https://m.21jingji.com/article/20210702/herald/b403381eb9b767d67c9897dc3b613fd0.html)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5912/)
+
+### [
+研究发现：因在家工作，猫咪变得更亲人了](http://jandan.net/p/109179)
