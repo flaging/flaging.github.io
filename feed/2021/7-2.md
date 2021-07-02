@@ -170,3 +170,5 @@
 ### [100%种草！《Insta360 GO 2 拇指防抖相机测评》 - 新片场](https://www.vmovier.com/62423)
 
 ### [大佬们， offer 怎么选，微软、b 站、阿里 - V2EX](https://www.v2ex.com/t/787201)
+
+### [青年图摘0703！考古新发现](https://qingniantuzhai.com/qing-nian-tu-zhai-0703-3/)
