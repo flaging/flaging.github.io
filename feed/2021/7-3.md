@@ -48,3 +48,13 @@
 ### [沙画H5丨广州，百年巨变](https://app.21jingji.com/html/20210702shahua/index.html?v=102)
 
 ### [坐标「郑州」，作为一个 7 年产品我又叒出来创业了！简单分享前几次创业失败的原因，与君共勉。 - V2EX](https://www.v2ex.com/t/787263)
+
+### [如何真实描绘 iPad 的现状？聊聊我的使用场景和思考 - 少数派](https://sspai.com/post/67439)
+
+### [Mind Maps Pro 限免，专业思维导图工具，原价 144 元[Windows] - 小众软件](https://www.appinn.com/mind-maps-pro-for-windows/)
+
+### [ի--ͼ20210703ܴ̫ãʱĵؿ](https://www.dapenti.com/blog/more.asp?name=xilei&id=158000)
+
+### [技术|在 WSL 上忘记了 Linux 密码？下面是如何轻松重设的方法](https://linux.cn/article-13545-1.html?utm_source=rss&utm_medium=rss)
+
+### [观点|《Bash it out》书评：用这本谜题书学习 Bash](https://linux.cn/article-13544-1.html?utm_source=rss&utm_medium=rss)
