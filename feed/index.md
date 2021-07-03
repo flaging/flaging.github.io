@@ -68,3 +68,11 @@
 ### [一线城市八成Z世代买基金！主要从第三方互联网平台购买 - 21财经](https://m.21jingji.com/article/20210703/herald/50389e6f179ba227498679a154847f92.html)
 
 ### [阿里云盘仅仅是个网盘，并不是同步盘 - V2EX](https://www.v2ex.com/t/787258)
+
+### [没人觉得 Golang 很垃圾吗 - V2EX](https://www.v2ex.com/t/787343)
+
+### [罗技的 flow 真的好用 - V2EX](https://www.v2ex.com/t/787272)
+
+### [
+【Rust日报】2021-07-03 Rust 实现光线追踪器，深入了解 Rust 中的 Async & Futures - Rust语言中文社区
+](https://rustcc.cn/article?id=5eb115a4-dcc4-43a1-9864-9b8aeb21fc44)
