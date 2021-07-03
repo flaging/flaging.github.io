@@ -92,3 +92,9 @@
 
 ### [
 真·蝴蝶效应：撒哈拉以南非洲降雨，欧洲蝴蝶变多](http://jandan.net/p/109149)
+
+### [Thoughts on J. Carmack's tweet on "GPU utilization" as a performance metric? : HPC](https://www.reddit.com/r/HPC/comments/oczy72/thoughts_on_j_carmacks_tweet_on_gpu_utilization/)
+
+### [被阿里实习工资恶心到了 - V2EX](https://www.v2ex.com/t/787351)
+
+### [最近宽带质量好差，网管都做不下去了 - V2EX](https://www.v2ex.com/t/787299)
