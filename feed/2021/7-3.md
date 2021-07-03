@@ -60,3 +60,5 @@
 ### [观点|《Bash it out》书评：用这本谜题书学习 Bash](https://linux.cn/article-13544-1.html?utm_source=rss&utm_medium=rss)
 
 ### [硬核观察|硬核观察 #321 谷歌要用新的安卓软件包格式取代 APK](https://linux.cn/article-13546-1.html?utm_source=rss&utm_medium=rss)
+
+### [已工作的前辈们，工作后考研真的很难吗？（对比应届考研） - V2EX](https://www.v2ex.com/t/787236)
