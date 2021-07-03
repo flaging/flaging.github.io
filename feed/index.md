@@ -112,3 +112,5 @@
 ### [极限电竞视觉短片《WATCH》 - 新片场](https://www.vmovier.com/62418)
 
 ### [免费送 77 张免单券（单个额度 600 元） - V2EX](https://www.v2ex.com/t/787329)
+
+### [Setting up a TPU and Ubuntu VM instance for use with Pytorch on Google Cloud : pytorch](https://www.reddit.com/r/pytorch/comments/od7qln/setting_up_a_tpu_and_ubuntu_vm_instance_for_use/)
