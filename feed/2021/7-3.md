@@ -28,3 +28,7 @@
 ### [打造一套客户端功能最全的 APM 监控系统 - SegmentFault 思否](https://segmentfault.com/a/1190000040277799)
 
 ### [Vite 的好与坏 - SegmentFault 思否](https://segmentfault.com/a/1190000040278828)
+
+### [给期权的公司究竟要不要待下去 - V2EX](https://www.v2ex.com/t/787259)
+
+### [Firefox 染山霞主题 - V2EX](https://www.v2ex.com/t/787228)
