@@ -20,3 +20,11 @@
 ### [同村同学在湖南养湖羊 没钱想我入股 - V2EX](https://www.v2ex.com/t/787073)
 
 ### [迫于搬家，提前打听下自如合租可以自己装宽带么？ - V2EX](https://www.v2ex.com/t/787116)
+
+### [把大学同学删了之后感觉很糟糕 - V2EX](https://www.v2ex.com/t/787210)
+
+### [中国平安跌倒 62.2 了 是不是能抄底了 - V2EX](https://www.v2ex.com/t/787150)
+
+### [打造一套客户端功能最全的 APM 监控系统 - SegmentFault 思否](https://segmentfault.com/a/1190000040277799)
+
+### [Vite 的好与坏 - SegmentFault 思否](https://segmentfault.com/a/1190000040278828)
