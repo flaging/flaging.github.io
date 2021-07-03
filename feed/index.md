@@ -76,3 +76,19 @@
 ### [
 【Rust日报】2021-07-03 Rust 实现光线追踪器，深入了解 Rust 中的 Async & Futures - Rust语言中文社区
 ](https://rustcc.cn/article?id=5eb115a4-dcc4-43a1-9864-9b8aeb21fc44)
+
+### [作为一名产品研发总监，销售部门提的意见，每次拒绝，他们就反馈到老板那里去了，老板就认为我们不配合！怎么破？ - V2EX](https://www.v2ex.com/t/787251)
+
+### [2021年7月3日新闻联播文字版](http://www.xwlb.net.cn/21068.html)
+
+### [
+每日5分钟的吸气肌力训练(IMST)带来瞩目的健康收益](http://jandan.net/p/109180)
+
+### [
+食品加工的超简史](http://jandan.net/p/109170)
+
+### [
+今日好价：猛士三代6X6军卡](http://jandan.net/p/109184)
+
+### [
+真·蝴蝶效应：撒哈拉以南非洲降雨，欧洲蝴蝶变多](http://jandan.net/p/109149)
