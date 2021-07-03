@@ -32,3 +32,7 @@
 ### [给期权的公司究竟要不要待下去 - V2EX](https://www.v2ex.com/t/787259)
 
 ### [Firefox 染山霞主题 - V2EX](https://www.v2ex.com/t/787228)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5913/)
+
+### [Copilot 侵犯隐私、抄袭代码、无视许可证…… 这届 GitHub 变了？ - SegmentFault 思否](https://segmentfault.com/a/1190000040282640)
