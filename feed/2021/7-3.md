@@ -62,3 +62,9 @@
 ### [硬核观察|硬核观察 #321 谷歌要用新的安卓软件包格式取代 APK](https://linux.cn/article-13546-1.html?utm_source=rss&utm_medium=rss)
 
 ### [已工作的前辈们，工作后考研真的很难吗？（对比应届考研） - V2EX](https://www.v2ex.com/t/787236)
+
+### [CVPR 2021 Best Paper Award: GIRAFFE - Controllable Image Generation : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/ocwo34/cvpr_2021_best_paper_award_giraffe_controllable/)
+
+### [一线城市八成Z世代买基金！主要从第三方互联网平台购买 - 21财经](https://m.21jingji.com/article/20210703/herald/50389e6f179ba227498679a154847f92.html)
+
+### [阿里云盘仅仅是个网盘，并不是同步盘 - V2EX](https://www.v2ex.com/t/787258)
