@@ -58,3 +58,5 @@
 ### [技术|在 WSL 上忘记了 Linux 密码？下面是如何轻松重设的方法](https://linux.cn/article-13545-1.html?utm_source=rss&utm_medium=rss)
 
 ### [观点|《Bash it out》书评：用这本谜题书学习 Bash](https://linux.cn/article-13544-1.html?utm_source=rss&utm_medium=rss)
+
+### [硬核观察|硬核观察 #321 谷歌要用新的安卓软件包格式取代 APK](https://linux.cn/article-13546-1.html?utm_source=rss&utm_medium=rss)
