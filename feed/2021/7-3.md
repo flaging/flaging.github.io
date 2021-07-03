@@ -100,3 +100,5 @@
 ### [最近宽带质量好差，网管都做不下去了 - V2EX](https://www.v2ex.com/t/787299)
 
 ### [有推荐的阅读 APP 吗？ - V2EX](https://www.v2ex.com/t/787310)
+
+### [Research paper ideas in deep learning : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/od3y91/research_paper_ideas_in_deep_learning/)
