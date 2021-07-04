@@ -42,3 +42,9 @@
 ### [微前端解决方案 - SegmentFault 思否](https://segmentfault.com/a/1190000040275586)
 
 ### [Weather Spark - 天气预报服务：一年中的最佳旅游时间段 - 小众软件](https://www.appinn.com/weather-spark/)
+
+### [watchOS 8 推出首个公测版，这些新功能值得尝鲜体验 - 少数派](https://sspai.com/post/67499)
+
+### [Memcached的存储原理解析 - codedump的网络日志](https://www.codedump.info/post/20210701-memcached/)
+
+### [用现有冰箱做以旧换新更换冰箱， 618 下单至今未收到货 - V2EX](https://www.v2ex.com/t/787399)
