@@ -75,3 +75,11 @@
 ### [
 【Rust 日报】2021-07-04 如何在面试中确定 Rust 程序员水平？ - Rust语言中文社区
 ](https://rustcc.cn/article?id=198319f8-0630-4684-97ab-7168e20d0ecc)
+
+### [高毅、景林、淡水泉…！千亿私募巨头们，是怎样炼成的？ - 21财经](https://m.21jingji.com/article/20210704/herald/aeb126e7c376f3ef340ba2541b9fb4a2.html)
+
+### [中报行情来了？最高增长81808%！周期股业绩大面积预喜 - 21财经](https://m.21jingji.com/article/20210704/herald/39d0b77fc1afb6cf4ca76e38e6473bd7.html)
+
+### [该不该离职？ - V2EX](https://www.v2ex.com/t/787457)
+
+### [ի--ͼ20210704ǵҥֱ](https://www.dapenti.com/blog/more.asp?name=xilei&id=158024)
