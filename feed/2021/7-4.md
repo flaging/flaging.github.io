@@ -83,3 +83,5 @@
 ### [该不该离职？ - V2EX](https://www.v2ex.com/t/787457)
 
 ### [ի--ͼ20210704ǵҥֱ](https://www.dapenti.com/blog/more.asp?name=xilei&id=158024)
+
+### [2021年7月4日新闻联播文字版](http://www.xwlb.net.cn/21131.html)
