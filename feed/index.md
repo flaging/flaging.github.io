@@ -67,3 +67,11 @@
 ### [技术|在 Linux 和 FreeDOS 之间复制文件](https://linux.cn/article-13548-1.html?utm_source=rss&utm_medium=rss)
 
 ### [观点|“MAGFest 先生”专访：用 Python 和 Linux 进行音乐创作](https://linux.cn/article-13547-1.html?utm_source=rss&utm_medium=rss)
+
+### [Win10 下最好用的看图软件是？ - V2EX](https://www.v2ex.com/t/787453)
+
+### [硬核观察|硬核观察 #322 Bitcoin.org 败诉，需支付“中本聪” 35,000 英镑](https://linux.cn/article-13549-1.html?utm_source=rss&utm_medium=rss)
+
+### [
+【Rust 日报】2021-07-04 如何在面试中确定 Rust 程序员水平？ - Rust语言中文社区
+](https://rustcc.cn/article?id=198319f8-0630-4684-97ab-7168e20d0ecc)
