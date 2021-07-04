@@ -40,3 +40,5 @@
 ### [aliyun 服务器本地磁盘损坏导致数据丢失问题 - V2EX](https://www.v2ex.com/t/787328)
 
 ### [微前端解决方案 - SegmentFault 思否](https://segmentfault.com/a/1190000040275586)
+
+### [Weather Spark - 天气预报服务：一年中的最佳旅游时间段 - 小众软件](https://www.appinn.com/weather-spark/)
