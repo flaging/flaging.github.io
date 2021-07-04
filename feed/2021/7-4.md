@@ -53,3 +53,17 @@
 
 ### [
 罕见病例：脸部看似细微的伤口却是异物进入颅内的通途](http://jandan.net/p/109168)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5914/)
+
+### [来欣赏下知乎盐选付费内容的推广标题，不能再恶心了 - V2EX](https://www.v2ex.com/t/787416)
+
+### [2020 intel mbp 还是回到 catalina 舒适 - V2EX](https://www.v2ex.com/t/787412)
+
+### [求推荐声音比较清脆的机械键盘 - V2EX](https://www.v2ex.com/t/787400)
+
+### [请问 Mac 有没有什么常驻观察网速的工具 - V2EX](https://www.v2ex.com/t/787391)
+
+### [技术|在 Linux 和 FreeDOS 之间复制文件](https://linux.cn/article-13548-1.html?utm_source=rss&utm_medium=rss)
+
+### [观点|“MAGFest 先生”专访：用 Python 和 Linux 进行音乐创作](https://linux.cn/article-13547-1.html?utm_source=rss&utm_medium=rss)
