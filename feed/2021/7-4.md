@@ -48,3 +48,8 @@
 ### [Memcached的存储原理解析 - codedump的网络日志](https://www.codedump.info/post/20210701-memcached/)
 
 ### [用现有冰箱做以旧换新更换冰箱， 618 下单至今未收到货 - V2EX](https://www.v2ex.com/t/787399)
+
+### [逃离办公室以后，我们去哪？ ｜ 少数派会员  π+Prime](https://sspai.com/post/66353)
+
+### [
+罕见病例：脸部看似细微的伤口却是异物进入颅内的通途](http://jandan.net/p/109168)
