@@ -102,3 +102,5 @@
 ### [突然发现淘宝开 app 广告没了 - V2EX](https://www.v2ex.com/t/787460)
 
 ### [what type of network should i use? : pytorch](https://www.reddit.com/r/pytorch/comments/odqpll/what_type_of_network_should_i_use/)
+
+### [青年图摘0705！有炮吗？](https://qingniantuzhai.com/qing-nian-tu-zhai-0705-3/)
