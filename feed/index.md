@@ -32,3 +32,11 @@
 ### [抖音是不是很多人发评论都会出现别人看不到的情况？ - V2EX](https://www.v2ex.com/t/787325)
 
 ### [再次安利开源作品 V File Name，新增一个好用的理由 - V2EX](https://www.v2ex.com/t/787280)
+
+### [收录180篇文献，上海交大推出深度学习图像合成领域首篇综述 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-04-3)
+
+### [快乐飞旅行报告 06：自驾在海南最美公路 - 少数派](https://sspai.com/post/66745)
+
+### [aliyun 服务器本地磁盘损坏导致数据丢失问题 - V2EX](https://www.v2ex.com/t/787328)
+
+### [微前端解决方案 - SegmentFault 思否](https://segmentfault.com/a/1190000040275586)
