@@ -87,3 +87,14 @@
 ### [2021年7月4日新闻联播文字版](http://www.xwlb.net.cn/21131.html)
 
 ### [一直都比较浮躁，感觉生活很单调、无聊，大家进来聊聊吧 - V2EX](https://www.v2ex.com/t/787428)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1400)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1399)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1398)
+
+### [Telegram: Contact @tgchinanews](https://t.me/tgchinanews/1397)
+
+### [
+想过这个问题没有：一只铅笔在耗尽之前可以写出多少字？](http://jandan.net/p/109183)
