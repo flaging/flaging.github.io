@@ -145,3 +145,9 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ### [小白摄影进阶之路《手机拍出美食大片》 - 新片场](https://www.vmovier.com/62428)
 
 ### [Deep Learned Art : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/oehsb6/deep_learned_art/)
+
+### [电影质感情侣旅拍《西西里岛》 - 新片场](https://www.vmovier.com/62440)
+
+### [[D] NeRF GAN paper explained in 5 minutes - GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis by Katja Schwarz et al. : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/oeibrd/d_nerf_gan_paper_explained_in_5_minutes_graf/)
+
+### [青年图摘0706！超越物理外挂的生物外挂](https://qingniantuzhai.com/qing-nian-tu-zhai-0706-4/)
