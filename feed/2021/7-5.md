@@ -113,3 +113,9 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 
 ### [
 好了，科学家重新发现了黄色细胞](http://jandan.net/p/109195)
+
+### [​​AudioCLIP: Extending CLIP to Image, Text and Audio : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/oearlk/audioclip_extending_clip_to_image_text_and_audio/)
+
+### [Extending kerv2d to kerv3d in https://github.com/wang-chen/kervolution/blob/unfold/kervolution.py : pytorch](https://www.reddit.com/r/pytorch/comments/oeah5n/extending_kerv2d_to_kerv3d_in/)
+
+### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5915/)
