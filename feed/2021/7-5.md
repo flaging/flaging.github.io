@@ -69,3 +69,20 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ### [在国内环境下，用 iPhone 好还是安卓好，是不是可以盖棺了？ - V2EX](https://www.v2ex.com/t/787565)
 
 ### [硬核观察|硬核观察 #323 REvil：有史以来最大的一次全球勒索软件攻击](https://linux.cn/article-13552-1.html?utm_source=rss&utm_medium=rss)
+
+### [诺奖再遭质疑，科研人要「疯」了：每年一万多篇文章的 XPS 数据可能都是错的吗？ | 机器之心](https://www.jiqizhixin.com/articles/2021-07-05-4)
+
+### [除了 TypingClub，还有这几款打字网站值得推荐 - 少数派](https://sspai.com/post/67535)
+
+### [UZIP - 支持密码本，多密码自动解压缩加密文件[Windows] - 小众软件](https://www.appinn.com/uzip-7zip-for-windows/)
+
+### [有没有人觉得电脑端的输入法都很难用? - V2EX](https://www.v2ex.com/t/787592)
+
+### [
+阿联酋火星任务拍下人裸眼看不到的火星欧若拉](http://jandan.net/p/109194)
+
+### [
+纳米线网络使系统处于混沌边缘](http://jandan.net/p/109192)
+
+### [
+[日本]社交孤立越来越普遍](http://jandan.net/p/109193)
