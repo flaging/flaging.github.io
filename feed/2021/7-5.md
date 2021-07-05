@@ -106,3 +106,5 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ### [真相了！这个国产品牌的互联网汽车车主可以和特斯拉一决高下！ | 机器之心](https://www.jiqizhixin.com/articles/2021-07-05-6)
 
 ### [ի--ͼ20210705ʩвκθɮܵ˺](https://www.dapenti.com/blog/more.asp?name=xilei&id=158044)
+
+### [求推荐一个城市独居工作生活（国内国外都行） - V2EX](https://www.v2ex.com/t/787601)
