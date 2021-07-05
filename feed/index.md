@@ -86,3 +86,5 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 
 ### [
 [日本]社交孤立越来越普遍](http://jandan.net/p/109193)
+
+### [Nacos配置中心交互模型是 push 还是 pull ？你应该这么回答 - SegmentFault 思否](https://segmentfault.com/a/1190000040290887)
