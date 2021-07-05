@@ -102,3 +102,7 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ### [
 【Rust日报】2021-07-05 Rust 在前端中的使用 - Rust语言中文社区
 ](https://rustcc.cn/article?id=37a63ea1-b97d-4055-8be8-75f3a9b3ec06)
+
+### [真相了！这个国产品牌的互联网汽车车主可以和特斯拉一决高下！ | 机器之心](https://www.jiqizhixin.com/articles/2021-07-05-6)
+
+### [ի--ͼ20210705ʩвκθɮܵ˺](https://www.dapenti.com/blog/more.asp?name=xilei&id=158044)
