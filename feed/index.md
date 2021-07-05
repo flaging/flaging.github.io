@@ -119,3 +119,11 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ### [Extending kerv2d to kerv3d in https://github.com/wang-chen/kervolution/blob/unfold/kervolution.py : pytorch](https://www.reddit.com/r/pytorch/comments/oeah5n/extending_kerv2d_to_kerv3d_in/)
 
 ### [Cyanide & Happiness (Explosm.net)](http://www.explosm.net/comics/5915/)
+
+### [马云、蔡崇信质押阿里巴巴股份获取贷款 - FT中文网](http://www.ftchinese.com/story/001093071)
+
+### [中国人如何理解英国乡村之美？ - FT中文网](http://www.ftchinese.com/story/001093061)
+
+### [从A股股民的错误中能学到哪些教训？ - FT中文网](http://www.ftchinese.com/story/001093065)
+
+### [为什么中国改革没有结束时间表？ - FT中文网](http://www.ftchinese.com/story/001093048)
