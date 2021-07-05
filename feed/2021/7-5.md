@@ -34,3 +34,22 @@
 ### [18 岁开源贡献者自杀，开发者的心理健康问题谁来关注？ - SegmentFault 思否](https://segmentfault.com/a/1190000040290416)
 
 ### [85%的公司尚未完全采用Kubernetes和云原生；Google Play将启用AAB格式应用 | 思否周刊 - SegmentFault 思否](https://segmentfault.com/a/1190000040285821)
+
+### [用 Scrivener 写小说 - 少数派](https://sspai.com/post/67363)
+
+### [仅剩 3 小时！Setapp 一年订阅 4.6 折，比家庭版开车还便宜 - 小众软件](https://www.appinn.com/setapp-stacksocial-summer20/)
+
+### [芯片短缺波及终端市场：流通协会预计7月汽车销量环比下滑5% - 21财经](https://m.21jingji.com/article/20210705/herald/91d0671a9c51ab58f622d5f30355ffff.html)
+
+### [最新中国公司市值500强：13家破万亿！宁德时代、招行挺进前十，还有哪些入围？（名单） - 21财经](https://m.21jingji.com/article/20210705/herald/f8da47afeec1b70f62a4776340205567.html)
+
+### [吐槽罗技售后，所有产品过保一律不保修 - V2EX](https://www.v2ex.com/t/787561)
+
+### [招行莫名其妙给我寄了两张信用卡 - V2EX](https://www.v2ex.com/t/787551)
+
+### [同事口臭、自言自语，有时候还手足舞蹈，各位支支招 - V2EX](https://www.v2ex.com/t/787532)
+
+### [
+今日好价：爱肯拿猫粮](http://jandan.net/p/109191)
+
+### [软件开发|使用 Python 解析配置文件](https://linux.cn/article-13551-1.html?utm_source=rss&utm_medium=rss)
