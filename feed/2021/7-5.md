@@ -61,3 +61,11 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ](https://rustcc.cn/article?id=636a9d4c-85ad-4ccf-b387-45841b1454e8)
 
 ### [知乎大家觉得多久死？现在感觉已经彻底烂透了。 - V2EX](https://www.v2ex.com/t/787570)
+
+### [再次刷新单模型纪录！快手登顶多模态理解权威榜单VCR | 机器之心](https://www.jiqizhixin.com/articles/2021-07-05-2)
+
+### [macOS Monterey 推出公开测试版，收好这份尝鲜升降级指南 - 少数派](https://sspai.com/post/67519)
+
+### [在国内环境下，用 iPhone 好还是安卓好，是不是可以盖棺了？ - V2EX](https://www.v2ex.com/t/787565)
+
+### [硬核观察|硬核观察 #323 REvil：有史以来最大的一次全球勒索软件攻击](https://linux.cn/article-13552-1.html?utm_source=rss&utm_medium=rss)
