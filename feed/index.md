@@ -127,3 +127,7 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ### [从A股股民的错误中能学到哪些教训？ - FT中文网](http://www.ftchinese.com/story/001093065)
 
 ### [为什么中国改革没有结束时间表？ - FT中文网](http://www.ftchinese.com/story/001093048)
+
+### [Windows Terminal 的性能有多烂 - V2EX](https://www.v2ex.com/t/787595)
+
+### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=589)
