@@ -59,3 +59,5 @@
 ### [
 Rust工程师招聘(30-60K) - Rust语言中文社区
 ](https://rustcc.cn/article?id=636a9d4c-85ad-4ccf-b387-45841b1454e8)
+
+### [知乎大家觉得多久死？现在感觉已经彻底烂透了。 - V2EX](https://www.v2ex.com/t/787570)
