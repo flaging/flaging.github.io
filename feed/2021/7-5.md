@@ -94,3 +94,11 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ### [
 	PipeCAD Standard Components - eryar - C++博客
 ](http://www.cppblog.com/eryar/archive/2021/07/05/pipecad_standards.html)
+
+### [“期中考”成绩出炉！上汽乘用车上半年累计销量超41万，同比劲增62%，海外再夺冠 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-05-5)
+
+### [2021年7月5日新闻联播文字版](http://www.xwlb.net.cn/21219.html)
+
+### [
+【Rust日报】2021-07-05 Rust 在前端中的使用 - Rust语言中文社区
+](https://rustcc.cn/article?id=37a63ea1-b97d-4055-8be8-75f3a9b3ec06)
