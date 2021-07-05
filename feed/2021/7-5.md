@@ -131,3 +131,15 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ### [Windows Terminal 的性能有多烂 - V2EX](https://www.v2ex.com/t/787595)
 
 ### [项目信息详情|上交所科创板股票审核](http://kcb.sse.com.cn//renewal/xmxq/index.shtml?auditId=589)
+
+### [戛纳获奖反思动画《壁垒》 - 新片场](https://www.vmovier.com/62437)
+
+### [泰国沙雕广告《花臂大哥秒变嘤嘤怪》 - 新片场](https://www.vmovier.com/62436)
+
+### [「毕业季」陪伴我整个夏天的歌，都是周杰伦唱的！——致敬周董《七里香》 - 新片场](https://www.vmovier.com/62441)
+
+### [万物皆有灵《哑巴狗的心酸往事》 - 新片场](https://www.vmovier.com/62432)
+
+### [英国超市创意广告《餐桌如此酷炫》 - 新片场](https://www.vmovier.com/62404)
+
+### [小白摄影进阶之路《手机拍出美食大片》 - 新片场](https://www.vmovier.com/62428)
