@@ -88,3 +88,9 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 [日本]社交孤立越来越普遍](http://jandan.net/p/109193)
 
 ### [Nacos配置中心交互模型是 push 还是 pull ？你应该这么回答 - SegmentFault 思否](https://segmentfault.com/a/1190000040290887)
+
+### [派评 | 近期值得关注的 App - 少数派](https://sspai.com/post/67562)
+
+### [
+	PipeCAD Standard Components - eryar - C++博客
+](http://www.cppblog.com/eryar/archive/2021/07/05/pipecad_standards.html)
