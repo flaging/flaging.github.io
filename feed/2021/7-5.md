@@ -22,3 +22,15 @@
 ### [js 都有 worker 线程，什么时候 Python 也能增强一下线程？ - V2EX](https://www.v2ex.com/t/787433)
 
 ### [聊聊TypeScript类型声明那些最佳实践 - SegmentFault 思否](https://segmentfault.com/a/1190000040288228)
+
+### [《Pattern Recognition Letters》特刊通知 | 机器之心](https://www.jiqizhixin.com/articles/2021-07-05)
+
+### [小菜鸡开发的实时公交位置小程序，各位大佬请欣赏。 - V2EX](https://www.v2ex.com/t/787522)
+
+### [突然非常厌烦开发，极度不想上班，怎么办 - V2EX](https://www.v2ex.com/t/787520)
+
+### [软件开发|使用 GDB 查看程序的栈空间](https://linux.cn/article-13550-1.html?utm_source=rss&utm_medium=rss)
+
+### [18 岁开源贡献者自杀，开发者的心理健康问题谁来关注？ - SegmentFault 思否](https://segmentfault.com/a/1190000040290416)
+
+### [85%的公司尚未完全采用Kubernetes和云原生；Google Play将启用AAB格式应用 | 思否周刊 - SegmentFault 思否](https://segmentfault.com/a/1190000040285821)
