@@ -53,3 +53,9 @@
 今日好价：爱肯拿猫粮](http://jandan.net/p/109191)
 
 ### [软件开发|使用 Python 解析配置文件](https://linux.cn/article-13551-1.html?utm_source=rss&utm_medium=rss)
+
+### [这 postman 启动速度比 IDE 还慢 - V2EX](https://www.v2ex.com/t/787560)
+
+### [
+Rust工程师招聘(30-60K) - Rust语言中文社区
+](https://rustcc.cn/article?id=636a9d4c-85ad-4ccf-b387-45841b1454e8)
