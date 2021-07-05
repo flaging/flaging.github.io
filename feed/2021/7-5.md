@@ -143,3 +143,5 @@ Rust工程师招聘(30-60K) - Rust语言中文社区
 ### [英国超市创意广告《餐桌如此酷炫》 - 新片场](https://www.vmovier.com/62404)
 
 ### [小白摄影进阶之路《手机拍出美食大片》 - 新片场](https://www.vmovier.com/62428)
+
+### [Deep Learned Art : DeepLearningPapers](https://www.reddit.com/r/DeepLearningPapers/comments/oehsb6/deep_learned_art/)
