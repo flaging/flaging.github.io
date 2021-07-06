@@ -9257,3 +9257,5 @@ necessary) and shallow (instantiate only top-level type variables, not
 variables that appear after explicit arguments).
 
     
+
+### [<title>Custom Booster of XGBoost (e.g. NN model) - XGBoost</title>](https://discuss.xgboost.ai/t/custom-booster-of-xgboost-e-g-nn-model/2356/1)
