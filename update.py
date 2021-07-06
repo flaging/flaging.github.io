@@ -40,9 +40,12 @@ def parse_url(str1,file, folder):
         soup = BeautifulSoup(raw_soup,'lxml')
         try:
           article_title = str("### [" +str(soup.title.get_text())+"]("+url+")")
+          abstract = soup.find('blockquote', class_='abstract mathjax')
+          abstract.span.extract()
         except:
           article_title = str("### [" +str(soup.title)+"]("+url+")")
         file.writelines('\n\n'+article_title)
+        file.writelines('\n\n'+abstract.text)
       if len(article_title) > 0:
         exe1 = 'INSERT INTO bookmark VALUES(null,1,"'+url+'","'+article_title.replace('"',' ')+'", (strftime("%Y-%m-%d %H:%M:%f","now", "localtime")))'
         print(exe1)
