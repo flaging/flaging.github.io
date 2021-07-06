@@ -9259,3 +9259,5 @@ variables that appear after explicit arguments).
     
 
 ### [<title>Custom Booster of XGBoost (e.g. NN model) - XGBoost</title>](https://discuss.xgboost.ai/t/custom-booster-of-xgboost-e-g-nn-model/2356/1)
+
+### [<title>XGBoost C++ Prediction Example? - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-c-prediction-example/2358/1)
