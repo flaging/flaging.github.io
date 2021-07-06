@@ -10,3 +10,7 @@
 ### [派早报：Wi-Fi 漏洞可彻底禁用 iPhone Wi-Fi 功能、三星或在八月举办发布会等 - 少数派](https://sspai.com/post/67567)
 
 ### [为什么有些开源项目选择在 gitee 开源而不是 github？ - V2EX](https://www.v2ex.com/t/787745)
+
+### [Can you subdivide slurm allocation blocks in a dynamic way?` : HPC](https://www.reddit.com/r/HPC/comments/oeminp/can_you_subdivide_slurm_allocation_blocks_in_a/)
+
+### [SolidJS硬气的说：我比React还react - SegmentFault 思否](https://segmentfault.com/a/1190000040275257)
