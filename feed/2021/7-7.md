@@ -4380,3 +4380,5 @@ expressiveness, limitations, and properties.
 lambda calculus with $\delta$-reduction and an elaboration algorithm.
 
     
+
+### [<title>Is there any unnecessary or debugging files in the XGBoost model to remove and make the model size smaller? - XGBoost</title>](https://discuss.xgboost.ai/t/is-there-any-unnecessary-or-debugging-files-in-the-xgboost-model-to-remove-and-make-the-model-size-smaller/2360/3)
