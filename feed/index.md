@@ -3951,3 +3951,5 @@ case, among others. Witnesses now additionally carry a value from the semiring,
 and our interpretation-preserving collapse functor extends to this setting.
 
     
+
+### [<title>Write good examples by starting with real code</title>](https://jvns.ca/blog/2021/07/08/writing-great-examples/)
