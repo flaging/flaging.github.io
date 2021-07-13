@@ -5899,3 +5899,13 @@ and the instantiations of Gillian, a multi-language symbolic analysis platform.
 ### [<title>Retrieve feature_names from pickled model - XGBoost</title>](https://discuss.xgboost.ai/t/retrieve-feature-names-from-pickled-model/2366/1)
 
 ### [<title>比容器更轻量、更安全的虚拟机 - DockOne.io</title>](http://dockone.io/question/629754)
+
+### [<title>Retrieve feature_names from pickled model - XGBoost</title>](https://discuss.xgboost.ai/t/retrieve-feature-names-from-pickled-model/2366/7)
+
+### [<title>Custom Objectives - XGBoost</title>](https://discuss.xgboost.ai/t/custom-objectives/1777/9)
+
+### [<title>Custom Objectives - XGBoost</title>](https://discuss.xgboost.ai/t/custom-objectives/1777/8)
+
+### [<title>Retrieve feature_names from pickled model - XGBoost</title>](https://discuss.xgboost.ai/t/retrieve-feature-names-from-pickled-model/2366/6)
+
+### [<title>Retrieve feature_names from pickled model - XGBoost</title>](https://discuss.xgboost.ai/t/retrieve-feature-names-from-pickled-model/2366/5)
