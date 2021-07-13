@@ -5887,3 +5887,15 @@ automata-theoretic decision procedure for a KAT.
 and the instantiations of Gillian, a multi-language symbolic analysis platform.
 
     
+
+### [<title>Retrieve feature_names from pickled model - XGBoost</title>](https://discuss.xgboost.ai/t/retrieve-feature-names-from-pickled-model/2366/4)
+
+### [<title>Custom Objectives - XGBoost</title>](https://discuss.xgboost.ai/t/custom-objectives/1777/7)
+
+### [<title>Retrieve feature_names from pickled model - XGBoost</title>](https://discuss.xgboost.ai/t/retrieve-feature-names-from-pickled-model/2366/3)
+
+### [<title>Retrieve feature_names from pickled model - XGBoost</title>](https://discuss.xgboost.ai/t/retrieve-feature-names-from-pickled-model/2366/2)
+
+### [<title>Retrieve feature_names from pickled model - XGBoost</title>](https://discuss.xgboost.ai/t/retrieve-feature-names-from-pickled-model/2366/1)
+
+### [<title>比容器更轻量、更安全的虚拟机 - DockOne.io</title>](http://dockone.io/question/629754)
