@@ -3704,3 +3704,5 @@ application domain.
     
 
 ### [<title>AUC metric doesn't start with 0.5 in iteration 0 - XGBoost</title>](https://discuss.xgboost.ai/t/auc-metric-doesnt-start-with-0-5-in-iteration-0/2371/1)
+
+### [<title>AUC metric doesn't start with 0.5 in iteration 0 - XGBoost</title>](https://discuss.xgboost.ai/t/auc-metric-doesnt-start-with-0-5-in-iteration-0/2371/2)
