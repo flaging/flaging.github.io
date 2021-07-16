@@ -4756,3 +4756,5 @@ can smoothly navigate the tradeoff between human effort and run-time overhead
 to reduce the number of reported false positives.
 
     
+
+### [<title>Incremental training of xgboost with fewer classes present - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/incremental-training-of-xgboost-with-fewer-classes-present/2374/1)
