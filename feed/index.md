@@ -3028,3 +3028,5 @@ contributions and improvement.
     
 
 ### [<title>【内推】阿里云 云原生团队 2022 届秋招 - DockOne.io</title>](http://dockone.io/question/679178)
+
+### [<title>What does margin means? - XGBoost</title>](https://discuss.xgboost.ai/t/what-does-margin-means/2379/1)
