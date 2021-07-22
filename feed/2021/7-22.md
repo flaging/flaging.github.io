@@ -3326,3 +3326,5 @@ through a second round of refereeing and selection for the formal proceedings.
     
 
 ### [<title>What does margin means? - XGBoost</title>](https://discuss.xgboost.ai/t/what-does-margin-means/2379/2)
+
+### [<title>Limit or constraints of data - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/limit-or-constraints-of-data/2381/1)
