@@ -3192,3 +3192,5 @@ handling nulls in language integration, and sketch extensions of normalization
 and conservativity results.
 
     
+
+### [<title>CPP API XGBoosterPredict cost too much time! - XGBoost</title>](https://discuss.xgboost.ai/t/cpp-api-xgboosterpredict-cost-too-much-time/97/8)
