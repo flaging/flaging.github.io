@@ -5930,3 +5930,13 @@ one from the SyGuS competition and one of our own creation.
 ### [<title>Re: XGBoost 1.5 Ubuntu 20.04 - XGBoost</title>](https://discuss.xgboost.ai/t/re-xgboost-1-5-ubuntu-20-04/2387/2)
 
 ### [<title>Re: XGBoost 1.5 Ubuntu 20.04 - XGBoost</title>](https://discuss.xgboost.ai/t/re-xgboost-1-5-ubuntu-20-04/2387/1)
+
+### [<title>Specifying Grouping in XGBoost R package - XGBoost</title>](https://discuss.xgboost.ai/t/specifying-grouping-in-xgboost-r-package/2389/3)
+
+### [<title>CPP API XGBoosterPredict cost too much time! - XGBoost</title>](https://discuss.xgboost.ai/t/cpp-api-xgboosterpredict-cost-too-much-time/97/9)
+
+### [<title>Scaling xgboost on multiple-GPUs - XGBoost</title>](https://discuss.xgboost.ai/t/scaling-xgboost-on-multiple-gpus/2383/2)
+
+### [<title>Specifying Grouping in XGBoost R package - XGBoost</title>](https://discuss.xgboost.ai/t/specifying-grouping-in-xgboost-r-package/2389/2)
+
+### [<title>Specifying Grouping in XGBoost R package - XGBoost</title>](https://discuss.xgboost.ai/t/specifying-grouping-in-xgboost-r-package/2389/1)
