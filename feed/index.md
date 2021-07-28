@@ -4167,3 +4167,5 @@ polynomial complexity of our m-CFA and remark upon scalability results using
 Soufflé.
 
     
+
+### [<title>How is XGBRFRegressor intended to work with early stopping? - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/how-is-xgbrfregressor-intended-to-work-with-early-stopping/2391/1)
