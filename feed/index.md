@@ -3651,3 +3651,11 @@ these and other enhancements are discussed in details. In addition, real life
 examples from LHC analyses are presented together with a user manual.
 
     
+
+### [<title>Run Python Xgboost on Docker Windows - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/run-python-xgboost-on-docker-windows/2073/2)
+
+### [<title>Building from source with multi-node multi-gpu support: CMake succeeds in writing build files but make command fails - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/building-from-source-with-multi-node-multi-gpu-support-cmake-succeeds-in-writing-build-files-but-make-command-fails/2393/2)
+
+### [<title>Building from source with multi-node multi-gpu support: CMake succeeds in writing build files but make command fails - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/building-from-source-with-multi-node-multi-gpu-support-cmake-succeeds-in-writing-build-files-but-make-command-fails/2393/1)
+
+### [<title>How is XGBRFRegressor intended to work with early stopping? - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/how-is-xgbrfregressor-intended-to-work-with-early-stopping/2391/2)
