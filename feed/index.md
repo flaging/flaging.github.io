@@ -3125,3 +3125,5 @@ than the predictions of state-of-the-art tools by more than an order of
 magnitude.
 
     
+
+### [<title>CPP API XGBoosterPredict cost too much time! - XGBoost</title>](https://discuss.xgboost.ai/t/cpp-api-xgboosterpredict-cost-too-much-time/97/12)
