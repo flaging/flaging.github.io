@@ -5870,3 +5870,7 @@ extraction...
     
 
 ### [<title>GPU enabled xgboost.dll - XGBoost</title>](https://discuss.xgboost.ai/t/gpu-enabled-xgboost-dll/2408/1)
+
+### [<title>GPU enabled xgboost.dll - XGBoost</title>](https://discuss.xgboost.ai/t/gpu-enabled-xgboost-dll/2408/2)
+
+### [<title>XGBoost 4J spark giving XGBoostError: std::bad_alloc on databricks - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-4j-spark-giving-xgboosterror-std-bad-alloc-on-databricks/2410/1)
