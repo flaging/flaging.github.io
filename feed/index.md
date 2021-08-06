@@ -3533,3 +3533,5 @@ decrease in the size of the code that developers must write, coupled with an
 increase of reliability by enforcing the specified patterns of interaction.
 
     
+
+### [<title>ValueError: DataFrame.dtypes for data must be int, float, bool or categorical. When categorical type is supplied, DMatrix parameter `enable_categorical` must be set to `True` - XGBoost</title>](https://discuss.xgboost.ai/t/valueerror-dataframe-dtypes-for-data-must-be-int-float-bool-or-categorical-when-categorical-type-is-supplied-dmatrix-parameter-enable-categorical-must-be-set-to-true/2417/1)
