@@ -2810,3 +2810,5 @@ applicability of our approach to examples of probabilistic programs from the
 literature.
 
     
+
+### [<title>Random forest on classification - XGBoost</title>](https://discuss.xgboost.ai/t/random-forest-on-classification/2418/1)
