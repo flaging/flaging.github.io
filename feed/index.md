@@ -2879,3 +2879,7 @@ computation of interval bounds for the relative value functions and the exact
 implementation of the first-policy improvement step.
 
     
+
+### [<title>I installed XGBoost using "conda install -c anaconda py-xgboost", it is missing OpenMP runtime, but I installed that too! What's going on? - XGBoost</title>](https://discuss.xgboost.ai/t/i-installed-xgboost-using-conda-install-c-anaconda-py-xgboost-it-is-missing-openmp-runtime-but-i-installed-that-too-whats-going-on/2212/9)
+
+### [<title>I installed XGBoost using "conda install -c anaconda py-xgboost", it is missing OpenMP runtime, but I installed that too! What's going on? - XGBoost</title>](https://discuss.xgboost.ai/t/i-installed-xgboost-using-conda-install-c-anaconda-py-xgboost-it-is-missing-openmp-runtime-but-i-installed-that-too-whats-going-on/2212/8)
