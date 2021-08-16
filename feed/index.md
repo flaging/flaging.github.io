@@ -2483,3 +2483,11 @@ interactive provers, but are much simpler to develop than custom automatic
 verifiers.
 
     
+
+### [<title>Negative labels in XGBRanker w/ listwise objective - XGBoost</title>](https://discuss.xgboost.ai/t/negative-labels-in-xgbranker-w-listwise-objective/1655/4)
+
+### [<title>[Cpp] Non-Usable interface of xgboost/predictor.h - XGBoost</title>](https://discuss.xgboost.ai/t/cpp-non-usable-interface-of-xgboost-predictor-h/2421/7)
+
+### [<title>Negative labels in XGBRanker w/ listwise objective - XGBoost</title>](https://discuss.xgboost.ai/t/negative-labels-in-xgbranker-w-listwise-objective/1655/3)
+
+### [<title>[Cpp] Non-Usable interface of xgboost/predictor.h - XGBoost</title>](https://discuss.xgboost.ai/t/cpp-non-usable-interface-of-xgboost-predictor-h/2421/6)
