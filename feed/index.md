@@ -2491,3 +2491,43 @@ verifiers.
 ### [<title>Negative labels in XGBRanker w/ listwise objective - XGBoost</title>](https://discuss.xgboost.ai/t/negative-labels-in-xgbranker-w-listwise-objective/1655/3)
 
 ### [<title>[Cpp] Non-Usable interface of xgboost/predictor.h - XGBoost</title>](https://discuss.xgboost.ai/t/cpp-non-usable-interface-of-xgboost-predictor-h/2421/6)
+
+### [<title>分享)杭州哪里能开具住宿电子发票-杭州本地宝 - DockOne.io</title>](http://dockone.io/question/898745)
+
+### [<title>专注于)广州哪里可以开具真实饭店餐饮费发票-广州本地宝 - DockOne.io</title>](http://dockone.io/question/898744)
+
+### [<title>分享)成都哪里能开具住宿电子发票-成都本地宝 - DockOne.io</title>](http://dockone.io/question/898742)
+
+### [<title>关注于福州哪里能开电子版发票-福州本地宝 - DockOne.io</title>](http://dockone.io/question/898743)
+
+### [<title>专注于)广州哪里可以开具实体店餐饮费发票-广州本地宝 - DockOne.io</title>](http://dockone.io/question/898741)
+
+### [<title>关注于惠州哪里能开电子版发票-惠州本地宝 - DockOne.io</title>](http://dockone.io/question/898740)
+
+### [<title>分享)广州哪里能开具住宿电子发票-广州本地宝 - DockOne.io</title>](http://dockone.io/question/898739)
+
+### [<title>关注于佛山哪里能开电子版发票-佛山本地宝 - DockOne.io</title>](http://dockone.io/question/898738)
+
+### [<title>专注于)广州哪里可以开具真实餐饮店发票-广州本地宝 - DockOne.io</title>](http://dockone.io/question/898737)
+
+### [<title>分享)深圳哪里能开具住宿电子发票-深圳本地宝 - DockOne.io</title>](http://dockone.io/question/898736)
+
+### [<title>专注于)广州哪里可以开具实体餐饮店发票-广州本地宝 - DockOne.io</title>](http://dockone.io/question/898735)
+
+### [<title>关注于东莞哪里能开电子版发票-东莞本地宝 - DockOne.io</title>](http://dockone.io/question/898734)
+
+### [<title>分享)北京哪里能开具住宿电子发票-北京本地宝 - DockOne.io</title>](http://dockone.io/question/898733)
+
+### [<title>专注于)广州哪里可以开具真实饭店发票-广州本地宝 - DockOne.io</title>](http://dockone.io/question/898732)
+
+### [<title>专注于)广州哪里可以开具实体饭店发票-广州本地宝 - DockOne.io</title>](http://dockone.io/question/898731)
+
+### [<title>关注于青岛哪里能开电子版发票-青岛本地宝 - DockOne.io</title>](http://dockone.io/question/898730)
+
+### [<title>关注于南宁哪里能开电子版发票-南宁本地宝 - DockOne.io</title>](http://dockone.io/question/898729)
+
+### [<title>分享)上海哪里能开具住宿电子发票-上海本地宝 - DockOne.io</title>](http://dockone.io/question/898728)
+
+### [<title>分享)哪里能开具住宿电子发票-ZOL问答本地宝 - DockOne.io</title>](http://dockone.io/question/898727)
+
+### [<title>关注于厦门哪里能开电子版发票-厦门本地宝 - DockOne.io</title>](http://dockone.io/question/898726)
