@@ -5413,3 +5413,5 @@ time, making this a compelling approach for quantum program optimization at
 application scale.
 
     
+
+### [<title>XGBoost Error: must have exactly ngroup * nrow gpairs - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-error-must-have-exactly-ngroup-nrow-gpairs/2438/1)
