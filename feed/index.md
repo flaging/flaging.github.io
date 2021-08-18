@@ -2883,3 +2883,5 @@ supports Prolog natively, as well as other languages by semantic transformation
 into Horn clauses. This paper is under consideration for acceptance in TPLP.
 
     
+
+### [<title>How are cached DMatrix are used in a Booster? - XGBoost</title>](https://discuss.xgboost.ai/t/how-are-cached-dmatrix-are-used-in-a-booster/28/4)
