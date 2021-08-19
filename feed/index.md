@@ -3023,3 +3023,5 @@ sound resource bound in the original program, and we give an algorithm for
 selecting a reasonable decomposition.
 
     
+
+### [<title>Case distinction: proposed_split == fvalue versus proposed_split != fvalue - XGBoost</title>](https://discuss.xgboost.ai/t/case-distinction-proposed-split-fvalue-versus-proposed-split-fvalue/2441/1)
