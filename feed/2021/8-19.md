@@ -3027,3 +3027,9 @@ selecting a reasonable decomposition.
 ### [<title>Case distinction: proposed_split == fvalue versus proposed_split != fvalue - XGBoost</title>](https://discuss.xgboost.ai/t/case-distinction-proposed-split-fvalue-versus-proposed-split-fvalue/2441/1)
 
 ### [<title>Kernel crashes with no error message when I train on my 100GB dataset - XGBoost</title>](https://discuss.xgboost.ai/t/kernel-crashes-with-no-error-message-when-i-train-on-my-100gb-dataset/2194/8)
+
+### [<title>Case distinction: proposed_split == fvalue versus proposed_split != fvalue - XGBoost</title>](https://discuss.xgboost.ai/t/case-distinction-proposed-split-fvalue-versus-proposed-split-fvalue/2441/3)
+
+### [<title>Case distinction: proposed_split == fvalue versus proposed_split != fvalue - XGBoost</title>](https://discuss.xgboost.ai/t/case-distinction-proposed-split-fvalue-versus-proposed-split-fvalue/2441/2)
+
+### [<title>Patterns in confusing explanations</title>](https://jvns.ca/blog/confusing-explanations/)
