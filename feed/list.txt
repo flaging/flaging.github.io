@@ -4,6 +4,7 @@ http://dockone.io/feed
 https://floooh.github.io/feed.xml
 https://jvns.ca/atom.xml
 https://www.codeguru.com/rss/cpp/
+http://rsshub.app/zhihu/zhuanlan/paperweekly
 http://arxiv.org/rss/cs.NI
 http://arxiv.org/rss/cs.LG
 http://arxiv.org/rss/cs.AR
