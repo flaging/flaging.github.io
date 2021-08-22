@@ -4,3 +4,8 @@ description: 倒了又立，立了又倒，这才是福来鸽的本质。
 locale: zh
 
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+title: 每天一个福来鸽
+description: Welcome to my blog
+author: Flaging
