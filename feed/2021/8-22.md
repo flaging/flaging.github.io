@@ -24,3 +24,7 @@
 ### [<title data-react-helmet="true">最新综述：自动驾驶中的多模态三维目标检测 - 知乎</title>](https://zhuanlan.zhihu.com/p/387875053)
 
 ### [<title data-react-helmet="true">推翻Hinton NeurIPS论文结论！审稿人评价：该文章在标签平滑和知识蒸馏的关系上取得了重大突破！ - 知乎</title>](https://zhuanlan.zhihu.com/p/387164549)
+
+### [<title>[dask] Is distributed training globally "data parallel" and locally "feature parallel"? - XGBoost</title>](https://discuss.xgboost.ai/t/dask-is-distributed-training-globally-data-parallel-and-locally-feature-parallel/1929/9)
+
+### [<title>[dask] Is distributed training globally "data parallel" and locally "feature parallel"? - XGBoost</title>](https://discuss.xgboost.ai/t/dask-is-distributed-training-globally-data-parallel-and-locally-feature-parallel/1929/8)
