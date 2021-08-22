@@ -48,7 +48,7 @@ jobs:
       - name: update mark readme
         run: |
           if [ -f 'mark/'$(date "+%Y/%-m-%-d.md") ];then
-            cat 'mark/'$(date "+%Y/%-m-%-d.md") > mark/index.md
+            cat 'mark/'$(date "+%Y/%-m-%-d.md") > mark/bookmark.md
           fi
           git add .
       - name: git commit mark
@@ -64,7 +64,7 @@ jobs:
       - name: update feed readme
         run: |
           if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then
-            cat 'feed/'$(date "+%Y/%-m-%-d.md") > feed/index.md
+            cat 'feed/'$(date "+%Y/%-m-%-d.md") > feed/bookmark.md
           fi
           git add .
       - name: git commit feed
