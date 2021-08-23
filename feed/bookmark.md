@@ -2702,3 +2702,5 @@ for detecting multiclass anomalies in the GI field.
 ### [<title data-react-helmet="true">CIFAR-10数据集应用：快速入门数据增强方法Mixup，显著提升图像识别准确度 - 知乎</title>](https://zhuanlan.zhihu.com/p/402387963)
 
 ### [<title data-react-helmet="true">论文笔记及思考：Human Pose Regression with Residual Log-likelihood Estimation(ICCV 2021 Oral) - 知乎</title>](https://zhuanlan.zhihu.com/p/395521994)
+
+### [<title>[dask] Is distributed training globally "data parallel" and locally "feature parallel"? - XGBoost</title>](https://discuss.xgboost.ai/t/dask-is-distributed-training-globally-data-parallel-and-locally-feature-parallel/1929/13)
