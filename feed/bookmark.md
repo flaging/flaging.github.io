@@ -2692,3 +2692,9 @@ compared with published works. The suggested approach is a competitive option
 for detecting multiclass anomalies in the GI field.
 
     
+
+### [<title>[dask] Is distributed training globally "data parallel" and locally "feature parallel"? - XGBoost</title>](https://discuss.xgboost.ai/t/dask-is-distributed-training-globally-data-parallel-and-locally-feature-parallel/1929/12)
+
+### [<title>[dask] Is distributed training globally "data parallel" and locally "feature parallel"? - XGBoost</title>](https://discuss.xgboost.ai/t/dask-is-distributed-training-globally-data-parallel-and-locally-feature-parallel/1929/11)
+
+### [<title>[dask] Is distributed training globally "data parallel" and locally "feature parallel"? - XGBoost</title>](https://discuss.xgboost.ai/t/dask-is-distributed-training-globally-data-parallel-and-locally-feature-parallel/1929/10)
