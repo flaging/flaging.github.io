@@ -4611,3 +4611,5 @@ results from the fields of modal logic and modal type theory to that of
 algebraic effects.
 
     
+
+### [<title>Can't turn off the validation messages during training - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/cant-turn-off-the-validation-messages-during-training/2445/1)
