@@ -3348,3 +3348,9 @@ of a program instead of computation within the information flow.
     
 
 ### [<title>How are cached DMatrix are used in a Booster? - XGBoost</title>](https://discuss.xgboost.ai/t/how-are-cached-dmatrix-are-used-in-a-booster/28/5)
+
+### [<title>How are cached DMatrix are used in a Booster? - XGBoost</title>](https://discuss.xgboost.ai/t/how-are-cached-dmatrix-are-used-in-a-booster/28/6)
+
+### [<title>[Cpp] Non-Usable interface of xgboost/predictor.h - XGBoost</title>](https://discuss.xgboost.ai/t/cpp-non-usable-interface-of-xgboost-predictor-h/2421/8)
+
+### [<title>Can't turn off the validation messages during training - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/cant-turn-off-the-validation-messages-during-training/2445/3)
