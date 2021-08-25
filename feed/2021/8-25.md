@@ -3346,3 +3346,5 @@ call-by-need evaluation, which shares the computation within the control flow
 of a program instead of computation within the information flow.
 
     
+
+### [<title>How are cached DMatrix are used in a Booster? - XGBoost</title>](https://discuss.xgboost.ai/t/how-are-cached-dmatrix-are-used-in-a-booster/28/5)
