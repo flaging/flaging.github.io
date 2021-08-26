@@ -2391,3 +2391,9 @@ Tool developers can use this information to refine their matching patterns and
 prevent similar verification errors, or to fix a detected unsoundness.
 
     
+
+### [<title>How are cached DMatrix are used in a Booster? - XGBoost</title>](https://discuss.xgboost.ai/t/how-are-cached-dmatrix-are-used-in-a-booster/28/8)
+
+### [<title>How are cached DMatrix are used in a Booster? - XGBoost</title>](https://discuss.xgboost.ai/t/how-are-cached-dmatrix-are-used-in-a-booster/28/7)
+
+### [<title>[Cpp] Non-Usable interface of xgboost/predictor.h - XGBoost</title>](https://discuss.xgboost.ai/t/cpp-non-usable-interface-of-xgboost-predictor-h/2421/9)
