@@ -2892,3 +2892,5 @@ proof cases. We present the first certified program for choreography
 compilation for a nontrivial choreographic language supporting recursion.
 
     
+
+### [<title>Denoising Auto Encoder + XGBoost - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/denoising-auto-encoder-xgboost/2451/1)
