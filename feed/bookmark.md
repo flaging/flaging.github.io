@@ -5089,3 +5089,5 @@ present a new tool DarkSea, the first tool capable of verifying reachability,
 termination, and LTL of lifted binaries.
 
     
+
+### [<title>Will old XGB GPU build work for new RTX 3080? - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/will-old-xgb-gpu-build-work-for-new-rtx-3080/2452/1)
