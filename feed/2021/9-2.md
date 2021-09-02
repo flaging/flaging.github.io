@@ -2141,3 +2141,5 @@ aids, they tend be to hard-coded into specific applications or libraries, or
 require programmer effort.
 
     
+
+### [<title data-react-helmet="true">Lottery Ticket Hypothesis在CV,NLP,OOD上的应用 - 知乎</title>](https://zhuanlan.zhihu.com/p/404139792)
