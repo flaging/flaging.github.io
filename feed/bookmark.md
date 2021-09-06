@@ -2441,3 +2441,7 @@ differences with functional programming, deductive databases, and model
 checking.
 
     
+
+### [<title>XGBoost4J (with Spark) 0.9 unable to train with udt column? - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost4j-with-spark-0-9-unable-to-train-with-udt-column/1319/22)
+
+### [<title>Save and Load model in XGBoost4j with Databricks DBFS - XGBoost</title>](https://discuss.xgboost.ai/t/save-and-load-model-in-xgboost4j-with-databricks-dbfs/1643/15)
