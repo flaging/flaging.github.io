@@ -4854,3 +4854,5 @@ partitioning is often much coarser than the standard Shasha-Snir partitioning
 for TSO/PSO, which yields a significant speedup in the model checking task.
 
     
+
+### [<title>[XGBoost4J-Spark] Model training stuck at `foreachPartition at XGBoost.scala:565` - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost4j-spark-model-training-stuck-at-foreachpartition-at-xgboost-scala-565/2458/1)
