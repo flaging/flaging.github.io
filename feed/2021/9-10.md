@@ -4845,3 +4845,5 @@ and verifying strong correctness guarantees for real-world contracts.
 ### [<title>Xgboost on apple m1? - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-on-apple-m1/2004/13)
 
 ### [<title>Xgboost on apple m1? - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-on-apple-m1/2004/12)
+
+### [<title>Quadratic algorithms are slow (and hashmaps are fast)</title>](https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/)
