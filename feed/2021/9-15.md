@@ -4206,3 +4206,5 @@ scenarios.
     
 
 ### [<title data-react-helmet="true">MECT——基于多元数据的中文NER涨点神器 - 知乎</title>](https://zhuanlan.zhihu.com/p/410326937)
+
+### [<title>Monotone_constraints does not work - XGBoost</title>](https://discuss.xgboost.ai/t/monotone-constraints-does-not-work/2464/1)
