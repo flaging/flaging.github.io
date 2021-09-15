@@ -4204,3 +4204,5 @@ limited cooperation). Also, we examine the effect of finite file size in above
 scenarios.
 
     
+
+### [<title data-react-helmet="true">MECT——基于多元数据的中文NER涨点神器 - 知乎</title>](https://zhuanlan.zhihu.com/p/410326937)
