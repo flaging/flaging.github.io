@@ -4128,3 +4128,79 @@ show how to implement the baseline JIT compiler with minimal changes on top of
 RPython.
 
     
+
+### [[2109.06267] Are Group Acknowledgements Worth Anything in IEEE 802.15.4 DSME: A Comparative Analysis](http://arxiv.org/abs/2109.06267)
+
+
+  For data collection scenarios in the Industrial Internet of Things, wireless
+communication provides a cost-effective and easy-to-deploy alternative to wired
+networks. The main focus lies on energy efficiency and reliability, as many
+devices are battery operated. IEEE 802.15.4 DSME enhances reliability by
+acknowledging each packet individually, imposing an overhead for each
+transmitted packet, and increasing energy consumption. In networks with little
+interference, it may be beneficial to aggregate the acknowledgments for
+multiple nodes and broadcast them in a compressed format to all nodes in the
+neighborhood. The IEEE 802.15.4 2012 standard describes such a group
+acknowledgment scheme which, however, disappears in later iterations of the
+standard. This paper compares different group acknowledgment schemes and
+proposes a novel group acknowledgment scheme with the goal to examine whether
+group acknowledgments constitute a viable alternative to regular
+acknowledgments in reliable data-collection scenarios. Our analysis suggests
+that apart from a few cases, GACKs do not constitute a valid alternative to the
+direct acknowledgement of data packets.
+
+    
+
+### [[2109.06855] Timely Status Updating Over Erasure Channels Using an Energy Harvesting Sensor: Single and Multiple Sources](http://arxiv.org/abs/2109.06855)
+
+
+  A status updating system is considered in which data from multiple sources
+are sampled by an energy harvesting sensor and transmitted to a remote
+destination through an erasure channel. The goal is to deliver status updates
+of all sources in a timely manner, such that the cumulative long-term average
+age-of-information (AoI) is minimized. The AoI for each source is defined as
+the time elapsed since the generation time of the latest successful status
+update received at the destination from that source. Transmissions are subject
+to energy availability, which arrives in units according to a Poisson process,
+with each energy unit capable of carrying out one transmission from only one
+source. The sensor is equipped with a unit-sized battery to save the incoming
+energy. A scheduling policy is designed in order to determine which source is
+sampled using the available energy. The problem is studied in two main
+settings: no erasure status feedback, and perfect instantaneous feedback.
+
+    
+
+### [[2109.06858] CyberBunker 2.0 -- A Domain and Traffic Perspective on a Bulletproof Hoster](http://arxiv.org/abs/2109.06858)
+
+
+  In September 2019, 600 armed German cops seized the physical premise of a
+Bulletproof Hoster (BPH) referred to as CyberBunker 2.0. The hoster resided in
+a decommissioned NATO bunker and advertised to host everything but child porn
+and anything related to terrorism while keeping servers online no matter what.
+While the anatomy, economics and interconnection-level characteristics of BPHs
+are studied, their traffic characteristics are unknown. In this poster, we
+present the first analysis of domains, web pages, and traffic captured at a
+major tier-1 ISP and a large IXP at the time when the CyberBunker was in
+operation. Our study sheds light on traffic characteristics of a BPH in
+operation. We show that a traditional BGP-based BPH identification approach
+cannot detect the CyberBunker, but find characteristics from a domain and
+traffic perspective that can add to future identification approaches.
+
+    
+
+### [[2109.06867] On Decentralized Multi-Transmitter Coded Caching](http://arxiv.org/abs/2109.06867)
+
+
+  This paper investigates a setup consisting of multiple transmitters serving
+multiple cache-enabled clients through a linear network, which covers both
+wired and wireless transmission situations. We investigate decentralized coded
+caching scenarios in which there is either no cooperation or limited
+cooperation between the clients at the cache content placement phase. For the
+fully decentralized caching case (i.e., no cooperation) we analyze the
+performance of the system in terms of the Coding Delay metric. Furthermore, we
+investigate a hybrid cache content placement scenario in which there are two
+groups of users with different cache content placement situations (i.e.,
+limited cooperation). Also, we examine the effect of finite file size in above
+scenarios.
+
+    
