@@ -3460,3 +3460,5 @@ are inserted automatically. We provide a variety of examples to demonstrate the
 expressivity of the language.
 
     
+
+### [<title>Teaching by filling in knowledge gaps</title>](https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/)
