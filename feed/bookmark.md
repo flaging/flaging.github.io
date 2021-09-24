@@ -3553,3 +3553,5 @@ improve the usability of ownership.
     
 
 ### [<title>New tool: an nginx playground</title>](https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/)
+
+### [<title>[XGBoost4J-Spark] Model training stuck at `foreachPartition at XGBoost.scala:565` - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost4j-spark-model-training-stuck-at-foreachpartition-at-xgboost-scala-565/2458/2)
