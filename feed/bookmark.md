@@ -3709,3 +3709,5 @@ deadlock-freedom as well. We shall also describe how modular protocols can be
 captured and handled by our approach.
 
     
+
+### [<title>ValueError: Input contains NaN, infinity or a value too large for dtype('float32') - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/valueerror-input-contains-nan-infinity-or-a-value-too-large-for-dtype-float32/1095/6)
