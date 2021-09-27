@@ -3711,3 +3711,5 @@ captured and handled by our approach.
     
 
 ### [<title>ValueError: Input contains NaN, infinity or a value too large for dtype('float32') - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/valueerror-input-contains-nan-infinity-or-a-value-too-large-for-dtype-float32/1095/6)
+
+### [<title>Implement reg:gamma through custom objective function - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/implement-reg-gamma-through-custom-objective-function/2475/1)
