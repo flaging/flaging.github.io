@@ -5308,3 +5308,5 @@ This work informs and paves the way towards the development of malleable proof
 assistants and dependently-typed programming languages.
 
     
+
+### [<title>XGBoost support for Windows 11? - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-support-for-windows-11/2477/1)
