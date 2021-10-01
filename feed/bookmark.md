@@ -4296,3 +4296,25 @@ the language.
     
 
 ### [<title>XGBoost GPU Support for Macbook - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-gpu-support-for-macbook/2479/1)
+
+### [[2109.14883] Process discovery on deviant traces and other stranger things](http://arxiv.org/abs/2109.14883)
+
+
+  As the need to understand and formalise business processes into a model has
+grown over the last years, the process discovery research field has gained more
+and more importance, developing two different classes of approaches to model
+representation: procedural and declarative. Orthogonally to this
+classification, the vast majority of works envisage the discovery task as a
+one-class supervised learning process guided by the traces that are recorded
+into an input log. In this work instead, we focus on declarative processes and
+embrace the less-popular view of process discovery as a binary supervised
+learning task, where the input log reports both examples of the normal system
+execution, and traces representing "stranger" behaviours according to the
+domain semantics. We therefore deepen how the valuable information brought by
+both these two sets can be extracted and formalised into a model that is
+"optimal" according to user-defined goals. Our approach, namely NegDis, is
+evaluated w.r.t. other relevant works in this field, and shows promising
+results as regards both the performance and the quality of the obtained
+solution.
+
+    
