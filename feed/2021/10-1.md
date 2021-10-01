@@ -4294,3 +4294,5 @@ aforementioned methods and does not overly constrain the expressive power of
 the language.
 
     
+
+### [<title>XGBoost GPU Support for Macbook - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-gpu-support-for-macbook/2479/1)
