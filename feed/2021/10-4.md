@@ -3610,3 +3610,5 @@ procedure.
     
 
 ### [<title>Error in cox-regression while evaluating - XGBoost</title>](https://discuss.xgboost.ai/t/error-in-cox-regression-while-evaluating/2241/3)
+
+### [<title>Lack of reproducibility despite using the same seed - XGBoost</title>](https://discuss.xgboost.ai/t/lack-of-reproducibility-despite-using-the-same-seed/2485/1)
