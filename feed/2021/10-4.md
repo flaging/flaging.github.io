@@ -3587,3 +3587,24 @@ realize computation. And the use of standard metaprogramming techniques lowers
 the development effort significantly.
 
     
+
+### [[2110.00476] ResNet strikes back: An improved training procedure in timm](http://arxiv.org/abs/2110.00476)
+
+
+  The influential Residual Networks designed by He et al. remain the
+gold-standard architecture in numerous scientific publications. They typically
+serve as the default architecture in studies, or as baselines when new
+architectures are proposed. Yet there has been significant progress on best
+practices for training neural networks since the inception of the ResNet
+architecture in 2015. Novel optimization & data-augmentation have increased the
+effectiveness of the training recipes. In this paper, we re-evaluate the
+performance of the vanilla ResNet-50 when trained with a procedure that
+integrates such advances. We share competitive training settings and
+pre-trained models in the timm open-source library, with the hope that they
+will serve as better baselines for future work. For instance, with our more
+demanding training setting, a vanilla ResNet-50 reaches 80.4% top-1 accuracy at
+resolution 224x224 on ImageNet-val without extra data or distillation. We also
+report the performance achieved with popular models with our training
+procedure.
+
+    
