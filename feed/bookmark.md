@@ -3608,3 +3608,5 @@ report the performance achieved with popular models with our training
 procedure.
 
     
+
+### [<title>Error in cox-regression while evaluating - XGBoost</title>](https://discuss.xgboost.ai/t/error-in-cox-regression-while-evaluating/2241/3)
