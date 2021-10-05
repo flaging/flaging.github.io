@@ -5043,3 +5043,7 @@ that users faced when using Rust.
     
 
 ### [<title>When will GPU pre-built be available for R on Win 64? - XGBoost</title>](https://discuss.xgboost.ai/t/when-will-gpu-pre-built-be-available-for-r-on-win-64/2463/5)
+
+### [<title>Error during installation R GPU win64: 'R' is not recognized as an internal or external command, operable program or batch file - XGBoost</title>](https://discuss.xgboost.ai/t/error-during-installation-r-gpu-win64-r-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/2487/1)
+
+### [<title>Tools to explore BGP</title>](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
