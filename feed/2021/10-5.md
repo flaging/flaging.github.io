@@ -5041,3 +5041,5 @@ that ownership, borrowing, and lifetimes were primary causes of the challenges
 that users faced when using Rust.
 
     
+
+### [<title>When will GPU pre-built be available for R on Win 64? - XGBoost</title>](https://discuss.xgboost.ai/t/when-will-gpu-pre-built-be-available-for-r-on-win-64/2463/5)
