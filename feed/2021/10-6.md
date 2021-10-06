@@ -4279,3 +4279,5 @@ with underspecification. The case study used is highly underspecified and
 cannot be verified with existing tools for C.
 
     
+
+### [<title>Error during installation R GPU win64: 'R' is not recognized as an internal or external command, operable program or batch file - XGBoost</title>](https://discuss.xgboost.ai/t/error-during-installation-r-gpu-win64-r-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/2487/3)
