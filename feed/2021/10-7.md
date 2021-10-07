@@ -5166,3 +5166,7 @@ interface properties mathematically capture Jayanti's original intuitions that
 have previously been given only informally.
 
     
+
+### [<title>Error during installation R GPU win64: 'R' is not recognized as an internal or external command, operable program or batch file - XGBoost</title>](https://discuss.xgboost.ai/t/error-during-installation-r-gpu-win64-r-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/2487/6)
+
+### [<title>Error during installation R GPU win64: 'R' is not recognized as an internal or external command, operable program or batch file - XGBoost</title>](https://discuss.xgboost.ai/t/error-during-installation-r-gpu-win64-r-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/2487/5)
