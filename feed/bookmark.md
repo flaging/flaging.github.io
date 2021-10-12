@@ -5384,3 +5384,22 @@ a Taylor approximation.
     
 
 ### [<title>Error during installation R GPU win64: 'R' is not recognized as an internal or external command, operable program or batch file - XGBoost</title>](https://discuss.xgboost.ai/t/error-during-installation-r-gpu-win64-r-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/2487/8)
+
+### [<title>Lack of reproducibility despite using the same seed - XGBoost</title>](https://discuss.xgboost.ai/t/lack-of-reproducibility-despite-using-the-same-seed/2485/2)
+
+### [[2110.04432] Group-matching algorithms for subjects and items](http://arxiv.org/abs/2110.04432)
+
+
+  We consider the problem of constructing matched groups such that the
+resulting groups are statistically similar with respect to their average values
+for multiple covariates. This group-matching problem arises in many cases,
+including quasi-experimental and observational studies in which subjects or
+items are sampled from pre-existing groups, scenarios in which traditional
+pair-matching approaches may be inappropriate. We consider the case in which
+one is provided with an existing sample and iteratively eliminates samples so
+that the groups "match" according to arbitrary statistically-defined criteria.
+This problem is NP-hard. However, using artificial and real-world data sets, we
+show that heuristics implemented by the ldamatch package produce high-quality
+matches.
+
+    
