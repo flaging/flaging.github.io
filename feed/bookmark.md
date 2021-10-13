@@ -5180,3 +5180,7 @@ backend.
 ### [<title>Lack of reproducibility despite using the same seed - XGBoost</title>](https://discuss.xgboost.ai/t/lack-of-reproducibility-despite-using-the-same-seed/2485/4)
 
 ### [<title>NaN values with early stopping - XGBoost</title>](https://discuss.xgboost.ai/t/nan-values-with-early-stopping/2494/1)
+
+### [<title>NaN values with early stopping - XGBoost</title>](https://discuss.xgboost.ai/t/nan-values-with-early-stopping/2494/2)
+
+### [<title>Lack of reproducibility despite using the same seed - XGBoost</title>](https://discuss.xgboost.ai/t/lack-of-reproducibility-despite-using-the-same-seed/2485/5)
