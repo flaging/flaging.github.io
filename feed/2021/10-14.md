@@ -4806,3 +4806,5 @@ the library level: findall, cut, branch-and-bound optimisation, probabilistic
 programming, . . .
 
     
+
+### [<title>XGBoost iteration_range defined differently in sklearn API and docs - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-iteration-range-defined-differently-in-sklearn-api-and-docs/2495/1)
