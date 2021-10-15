@@ -4211,3 +4211,5 @@ such an embedding in Haskell, demonstrate its expressiveness on case studies,
 and prove that our type-based enforcement of differential privacy is sound.
 
     
+
+### [<title>Parameter tuning with Cross Validation and early stopping - XGBoost</title>](https://discuss.xgboost.ai/t/parameter-tuning-with-cross-validation-and-early-stopping/2497/1)
