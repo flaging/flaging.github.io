@@ -3968,3 +3968,5 @@ Challenge.
     
 
 ### [<title>Huge AUC drop when upgrading from XGBoost4J-Spark 0.90 - XGBoost</title>](https://discuss.xgboost.ai/t/huge-auc-drop-when-upgrading-from-xgboost4j-spark-0-90/2500/1)
+
+### [<title data-react-helmet="true">时空数据挖掘中的自适应图学习 - 知乎</title>](https://zhuanlan.zhihu.com/p/419129923)
