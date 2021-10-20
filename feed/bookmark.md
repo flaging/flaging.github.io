@@ -4250,3 +4250,7 @@ our strong normalization result, which we develop via a novel logical relations
 argument.
 
     
+
+### [<title>XDBoost in openembedded? - XGBoost</title>](https://discuss.xgboost.ai/t/xdboost-in-openembedded/2506/1)
+
+### [<title>How to debug slow training - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/how-to-debug-slow-training/2504/1)
