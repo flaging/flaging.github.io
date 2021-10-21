@@ -18,3 +18,5 @@
 ### [<title>XDBoost in openembedded? - XGBoost</title>](https://discuss.xgboost.ai/t/xdboost-in-openembedded/2506/2)
 
 ### [<title>Huge AUC drop when upgrading from XGBoost4J-Spark 0.90 - XGBoost</title>](https://discuss.xgboost.ai/t/huge-auc-drop-when-upgrading-from-xgboost4j-spark-0-90/2500/2)
+
+### [<title>Huge AUC drop when upgrading from XGBoost4J-Spark 0.90 - XGBoost</title>](https://discuss.xgboost.ai/t/huge-auc-drop-when-upgrading-from-xgboost4j-spark-0-90/2500/3)
