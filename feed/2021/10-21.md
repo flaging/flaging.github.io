@@ -20,3 +20,5 @@
 ### [<title>Huge AUC drop when upgrading from XGBoost4J-Spark 0.90 - XGBoost</title>](https://discuss.xgboost.ai/t/huge-auc-drop-when-upgrading-from-xgboost4j-spark-0-90/2500/2)
 
 ### [<title>Huge AUC drop when upgrading from XGBoost4J-Spark 0.90 - XGBoost</title>](https://discuss.xgboost.ai/t/huge-auc-drop-when-upgrading-from-xgboost4j-spark-0-90/2500/3)
+
+### [<title>How can I train use grow_gpu_hist but predict on cpu? - XGBoost</title>](https://discuss.xgboost.ai/t/how-can-i-train-use-grow-gpu-hist-but-predict-on-cpu/2509/1)
