@@ -5300,3 +5300,5 @@ researchers will be able to use as the basis for work on Rust.
     
 
 ### [<title>How can I train use grow_gpu_hist but predict on cpu? - XGBoost</title>](https://discuss.xgboost.ai/t/how-can-i-train-use-grow-gpu-hist-but-predict-on-cpu/2509/2)
+
+### [<title>Docker image doesn't run with XGBoost version 1.5.0 - XGBoost</title>](https://discuss.xgboost.ai/t/docker-image-doesnt-run-with-xgboost-version-1-5-0/2513/1)
