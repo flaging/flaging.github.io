@@ -5298,3 +5298,5 @@ including recent features such as non-lexical lifetimes - that we hope
 researchers will be able to use as the basis for work on Rust.
 
     
+
+### [<title>How can I train use grow_gpu_hist but predict on cpu? - XGBoost</title>](https://discuss.xgboost.ai/t/how-can-i-train-use-grow-gpu-hist-but-predict-on-cpu/2509/2)
