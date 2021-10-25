@@ -4208,3 +4208,5 @@ extensive set of new and existing examples. Hobbit can prove many classical
 equivalences including all Meyer and Sieber examples.
 
     
+
+### [<title>NaN values with early stopping - XGBoost</title>](https://discuss.xgboost.ai/t/nan-values-with-early-stopping/2494/6)
