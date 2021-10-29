@@ -6060,3 +6060,5 @@ calculus will be enhanced with polymorphic locations and a type-based slicing
 compilation.)
 
     
+
+### [<title>Xgboost Booster vs future for DaskXGBRegressor.predict() - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-booster-vs-future-for-daskxgbregressor-predict/2516/1)
