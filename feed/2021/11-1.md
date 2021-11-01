@@ -4027,3 +4027,5 @@ programs that use floating-point arithmetics.
     
 
 ### [<title data-react-helmet="true">NeurIPS 2021有哪些值得读的NLP论文？ - 知乎</title>](https://zhuanlan.zhihu.com/p/428057558)
+
+### [<title>SIGSEGV errors and python crashing - XGBoost</title>](https://discuss.xgboost.ai/t/sigsegv-errors-and-python-crashing/2519/2)
