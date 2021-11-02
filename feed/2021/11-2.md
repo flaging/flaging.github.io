@@ -5706,3 +5706,5 @@ reachability. These results provide a firm theoretical foundation for the
 benefits of how PDR tackles forward reachability.
 
     
+
+### [<title data-react-helmet="true">Prompt Pre-training：迈向更强大的Parameter-Efficient Prompt Tuning - 知乎</title>](https://zhuanlan.zhihu.com/p/428512183)
