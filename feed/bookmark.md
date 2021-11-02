@@ -5708,3 +5708,7 @@ benefits of how PDR tackles forward reachability.
     
 
 ### [<title data-react-helmet="true">Prompt Pre-training：迈向更强大的Parameter-Efficient Prompt Tuning - 知乎</title>](https://zhuanlan.zhihu.com/p/428512183)
+
+### [<title>How can I train use grow_gpu_hist but predict on cpu? - XGBoost</title>](https://discuss.xgboost.ai/t/how-can-i-train-use-grow-gpu-hist-but-predict-on-cpu/2509/4)
+
+### [<title>How can I train use grow_gpu_hist but predict on cpu? - XGBoost</title>](https://discuss.xgboost.ai/t/how-can-i-train-use-grow-gpu-hist-but-predict-on-cpu/2509/3)
