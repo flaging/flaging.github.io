@@ -4189,3 +4189,55 @@ traces to be fair, and we study the effects of permutation on fair traces.
 ### [<title data-react-helmet="true">麻省理工Hadi Salman新作：ViT架构可以有效抵御图像补丁攻击 - 知乎</title>](https://zhuanlan.zhihu.com/p/428886652)
 
 ### [<title data-react-helmet="true">CIKM 2021 | DISENKGAT：知识图谱解耦表征学习 - 知乎</title>](https://zhuanlan.zhihu.com/p/428860159)
+
+### [<title>Will old XGB GPU build work for new RTX 3080? - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/will-old-xgb-gpu-build-work-for-new-rtx-3080/2452/3)
+
+### [<title>ValueError: Input contains NaN, infinity or a value too large for dtype('float32') - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/valueerror-input-contains-nan-infinity-or-a-value-too-large-for-dtype-float32/1095/7)
+
+### [<title>How are cached DMatrix are used in a Booster? - XGBoost</title>](https://discuss.xgboost.ai/t/how-are-cached-dmatrix-are-used-in-a-booster/28/9)
+
+### [<title>Will old XGB GPU build work for new RTX 3080? - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/will-old-xgb-gpu-build-work-for-new-rtx-3080/2452/2)
+
+### [<title>How to reduce the model randomness? or stabilize the model - XGBoost</title>](https://discuss.xgboost.ai/t/how-to-reduce-the-model-randomness-or-stabilize-the-model/394/6)
+
+### [<title>Xgboost Booster vs future for DaskXGBRegressor.predict() - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-booster-vs-future-for-daskxgbregressor-predict/2516/2)
+
+### [<title>[医学分享]泉州开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571266)
+
+### [<title>[医学分享]黄山开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571265)
+
+### [<title>〖今日发布〗武汉开医院诊断证明(代开医院休假证明 - DockOne.io</title>](http://dockone.io/question/1571264)
+
+### [<title>[医学分享]池州开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571263)
+
+### [<title>[医学分享]宣城开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571262)
+
+### [<title>〖今日发布〗杭州开医院诊断证明(代开医院休假证明 - DockOne.io</title>](http://dockone.io/question/1571261)
+
+### [<title>〖今日发布〗成都开医院诊断证明(代开医院休假证明 - DockOne.io</title>](http://dockone.io/question/1571260)
+
+### [<title>[医学分享]铜陵开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571259)
+
+### [<title>〖今日发布〗深圳开医院诊断证明(代开医院休假证明 - DockOne.io</title>](http://dockone.io/question/1571258)
+
+### [<title>[医学分享]芜湖开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571257)
+
+### [<title>〖今日发布〗广州开医院诊断证明(代开医院休假证明 - DockOne.io</title>](http://dockone.io/question/1571256)
+
+### [<title>[医学分享]安庆开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571255)
+
+### [<title>〖今日发布〗上海开医院诊断证明(代开医院休假证明 - DockOne.io</title>](http://dockone.io/question/1571254)
+
+### [<title>〖今日发布〗北京开医院诊断证明(代开医院休假证明 - DockOne.io</title>](http://dockone.io/question/1571253)
+
+### [<title>[医学分享]马鞍山开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571252)
+
+### [<title>[医学分享]六安开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571251)
+
+### [<title>〖今日发布〗临夏开医院诊断证明(代开医院免体免测证明 - DockOne.io</title>](http://dockone.io/question/1571250)
+
+### [<title>[医学分享]滁州开医院病历证明(病例本 - DockOne.io</title>](http://dockone.io/question/1571249)
+
+### [<title>〖今日发布〗吐鲁番开医院诊断证明(代开医院免体免测证明 - DockOne.io</title>](http://dockone.io/question/1571248)
+
+### [<title>〖今日发布〗山南开医院诊断证明(代开医院免体免测证明 - DockOne.io</title>](http://dockone.io/question/1571247)
