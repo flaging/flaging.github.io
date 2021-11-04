@@ -3838,3 +3838,5 @@ simple solver and Monte Carlo tree search.
 ### [<title>Distributed XGBoost training on multi-node and multi-GPU cluster - XGBoost</title>](https://discuss.xgboost.ai/t/distributed-xgboost-training-on-multi-node-and-multi-gpu-cluster/2523/2)
 
 ### [<title>Xgboost Booster vs future for DaskXGBRegressor.predict() - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-booster-vs-future-for-daskxgbregressor-predict/2516/3)
+
+### [<title>How do you tell if a problem is caused by DNS?</title>](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
