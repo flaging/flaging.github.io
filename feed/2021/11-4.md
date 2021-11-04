@@ -3836,3 +3836,5 @@ simple solver and Monte Carlo tree search.
 ### [<title data-react-helmet="true">速收！来自港中文、港科大、杜克等高校的全奖PhD招生，你不试试吗？ - 知乎</title>](https://zhuanlan.zhihu.com/p/429313927)
 
 ### [<title>Distributed XGBoost training on multi-node and multi-GPU cluster - XGBoost</title>](https://discuss.xgboost.ai/t/distributed-xgboost-training-on-multi-node-and-multi-gpu-cluster/2523/2)
+
+### [<title>Xgboost Booster vs future for DaskXGBRegressor.predict() - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-booster-vs-future-for-daskxgbregressor-predict/2516/3)
