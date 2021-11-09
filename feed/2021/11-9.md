@@ -4993,3 +4993,9 @@ efficiency.
     
 
 ### [<title data-react-helmet="true">读 What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? - 知乎</title>](https://zhuanlan.zhihu.com/p/430849602)
+
+### [<title>Scikit-Learn wrapper - XGBoost</title>](https://discuss.xgboost.ai/t/scikit-learn-wrapper/2527/3)
+
+### [<title>Scikit-Learn wrapper - XGBoost</title>](https://discuss.xgboost.ai/t/scikit-learn-wrapper/2527/2)
+
+### [<title>Xgboost Booster vs future for DaskXGBRegressor.predict() - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-booster-vs-future-for-daskxgbregressor-predict/2516/4)
