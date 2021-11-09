@@ -4991,3 +4991,5 @@ approach, drastically improving the existing methods in both precision and
 efficiency.
 
     
+
+### [<title data-react-helmet="true">读 What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? - 知乎</title>](https://zhuanlan.zhihu.com/p/430849602)
