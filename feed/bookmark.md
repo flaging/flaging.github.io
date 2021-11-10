@@ -3923,3 +3923,5 @@ speedup.
     
 
 ### [<title>Wrong results after conversion to CoreML - XGBoost</title>](https://discuss.xgboost.ai/t/wrong-results-after-conversion-to-coreml/1387/5)
+
+### [<title>Xgboost Booster vs future for DaskXGBRegressor.predict() - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-booster-vs-future-for-daskxgbregressor-predict/2516/5)
