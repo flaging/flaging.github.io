@@ -2758,3 +2758,5 @@ reachability (PDR) and reveals a surprising connection to an efficient solver
 of games over infinite graphs that was not regarded as a kind of PDR.
 
     
+
+### [<title data-react-helmet="true">全网首个OpenPrompt尝鲜报告：Prompt研究者必备实验利器 - 知乎</title>](https://zhuanlan.zhihu.com/p/432016893)
