@@ -2762,3 +2762,5 @@ of games over infinite graphs that was not regarded as a kind of PDR.
 ### [<title data-react-helmet="true">全网首个OpenPrompt尝鲜报告：Prompt研究者必备实验利器 - 知乎</title>](https://zhuanlan.zhihu.com/p/432016893)
 
 ### [<title>Extrapolation of a known function - XGBoost</title>](https://discuss.xgboost.ai/t/extrapolation-of-a-known-function/2536/1)
+
+### [<title>XGBoost4j - sparse vector prediction - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost4j-sparse-vector-prediction/2534/2)
