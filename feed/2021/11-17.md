@@ -4745,3 +4745,5 @@ non-ASCII strings and even faster on ASCII strings.
     
 
 ### [<title>Prometheus中创建记录规则 - DockOne.io</title>](http://dockone.io/question/1593251)
+
+### [<title>Debugging a weird 'file not found' error</title>](https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/)
