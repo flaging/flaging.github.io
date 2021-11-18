@@ -3430,3 +3430,5 @@ development effort of reimplementing these contracts with SigVM is small, i.e.,
 we modified on average 2.6% of the contract code.
 
     
+
+### [<title>ValueError: Input contains NaN, infinity or a value too large for dtype('float32') - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/valueerror-input-contains-nan-infinity-or-a-value-too-large-for-dtype-float32/1095/8)
