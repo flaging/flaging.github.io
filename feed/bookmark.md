@@ -2895,3 +2895,11 @@ graphics, parallel-computing extensions, and symbolic differentiation. The CPL
 coding software is available for free download at this http URL .
 
     
+
+### [<title>XGBoost single node Multi GPU DaskDeviceQuantileDMatrix Freezes - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-single-node-multi-gpu-daskdevicequantiledmatrix-freezes/2547/3)
+
+### [<title>AWS Developer Needed - XGBoost</title>](https://discuss.xgboost.ai/t/aws-developer-needed/2549/1)
+
+### [<title>XGBoost single node Multi GPU DaskDeviceQuantileDMatrix Freezes - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-single-node-multi-gpu-daskdevicequantiledmatrix-freezes/2547/2)
+
+### [<title>XGBoost single node Multi GPU DaskDeviceQuantileDMatrix Freezes - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-single-node-multi-gpu-daskdevicequantiledmatrix-freezes/2547/1)
