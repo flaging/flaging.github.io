@@ -4745,3 +4745,9 @@ explained via numerical experiments to solve the all-multiterminal network
 reliability problems.
 
     
+
+### [<title>Xgb.shap.data not found - XGBoost</title>](https://discuss.xgboost.ai/t/xgb-shap-data-not-found/2557/6)
+
+### [<title>Xgb.shap.data not found - XGBoost</title>](https://discuss.xgboost.ai/t/xgb-shap-data-not-found/2557/5)
+
+### [<title>Xgb.shap.data not found - XGBoost</title>](https://discuss.xgboost.ai/t/xgb-shap-data-not-found/2557/4)
