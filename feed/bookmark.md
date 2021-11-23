@@ -4715,3 +4715,33 @@ QAOA and VQE. To the best of our knowledge, this is the first implementation of
 these algorithms that has been achieved in a type-safe framework.
 
     
+
+### [<title>Xgb.shap.data not found - XGBoost</title>](https://discuss.xgboost.ai/t/xgb-shap-data-not-found/2557/3)
+
+### [<title>Xgb.shap.data not found - XGBoost</title>](https://discuss.xgboost.ai/t/xgb-shap-data-not-found/2557/2)
+
+### [<title>What are the tradeoffs associated with the various XGBoost interfaces? - XGBoost</title>](https://discuss.xgboost.ai/t/what-are-the-tradeoffs-associated-with-the-various-xgboost-interfaces/2555/2)
+
+### [[2111.10818] New Binary-Addition Tree Algorithm for the All-Multiterminal Binary-State Network Reliability Problem](http://arxiv.org/abs/2111.10818)
+
+
+  Various real-life applications, for example, Internet of Things, wireless
+sensor networks, smart grids, transportation networks, communication networks,
+social networks, and computer grid systems, are always modeled as network
+structures. The binary-state network composed of binary-state (e.g.,
+functioning or failed) components (arcs and/or nodes) is one of the most
+popular network structures. The two-terminal network reliability is a success
+probability that the network is still functioning and can be calculated by
+verifying the connectivity between two specific nodes, and is an effective and
+popular technique for evaluating the performance of all types of networks. To
+obtain complete information for a making better decisions, a multi-terminal
+network reliability extends the two specific nodes to a specific node subset in
+which all nodes are connected. In this study, a new algorithm called the
+all-multiterminal BAT is proposed by revising the binary-addition-tree
+algorithm (BAT) and the layered-search algorithm (LSA) to calculate all
+multi-terminal reliabilities. The efficiency and effectiveness of the proposed
+all-multiterminal BAT are analyzed from the perspective of time complexity and
+explained via numerical experiments to solve the all-multiterminal network
+reliability problems.
+
+    
