@@ -3206,3 +3206,5 @@ mitigation tools, and we identify several open problems in this area to guide
 future work on grounded software defenses.
 
     
+
+### [<title>How to read xgboost binary buffer file - XGBoost</title>](https://discuss.xgboost.ai/t/how-to-read-xgboost-binary-buffer-file/2562/1)
