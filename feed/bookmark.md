@@ -5432,3 +5432,5 @@ of the client.
     
 
 ### [<title>Max_detla_step params does not work - XGBoost</title>](https://discuss.xgboost.ai/t/max-detla-step-params-does-not-work/2566/1)
+
+### [<title>XGBoost Regression slightly off the expected value - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-regression-slightly-off-the-expected-value/2567/1)
