@@ -4462,3 +4462,5 @@ applicability of our approach, both for loop acceleration and for proving
 non-termination.
 
     
+
+### [<title>XGBoost scala vs spark different performance - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-scala-vs-spark-different-performance/2571/1)
