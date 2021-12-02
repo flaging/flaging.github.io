@@ -4406,3 +4406,7 @@ programs sequential. Finally, work towards a type system appropriate for such a
 reversible, declarative model of computation is presented.
 
     
+
+### [<title>Survival Analysis with Accelerated Failure Time - XGBoost</title>](https://discuss.xgboost.ai/t/survival-analysis-with-accelerated-failure-time/2572/2)
+
+### [<title>Survival Analysis with Accelerated Failure Time - XGBoost</title>](https://discuss.xgboost.ai/t/survival-analysis-with-accelerated-failure-time/2572/1)
