@@ -4410,3 +4410,5 @@ reversible, declarative model of computation is presented.
 ### [<title>Survival Analysis with Accelerated Failure Time - XGBoost</title>](https://discuss.xgboost.ai/t/survival-analysis-with-accelerated-failure-time/2572/2)
 
 ### [<title>Survival Analysis with Accelerated Failure Time - XGBoost</title>](https://discuss.xgboost.ai/t/survival-analysis-with-accelerated-failure-time/2572/1)
+
+### [<title>Random forest on classification - XGBoost</title>](https://discuss.xgboost.ai/t/random-forest-on-classification/2418/3)
