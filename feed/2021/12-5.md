@@ -80,3 +80,5 @@
 ### [<title>【央视新闻】淄博如何代开具医院体检表(病危通知书《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1640190)
 
 ### [<title>【央视新闻】深圳代开具住宿发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1640189)
+
+### [<title>怎样在Kubernetes中实现CI/CD的发布流程，大家都贡献出来一下吧！ - DockOne.io</title>](http://dockone.io/question/4056)
