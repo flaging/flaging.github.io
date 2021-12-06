@@ -3945,3 +3945,7 @@ it elegantly treats unrestricted resources in \lamrfailunres as client-server
 session behaviors in \spi.
 
     
+
+### [<title>Speed of random forests in XGBoost on multiclass classification - XGBoost</title>](https://discuss.xgboost.ai/t/speed-of-random-forests-in-xgboost-on-multiclass-classification/2577/1)
+
+### [<title>Getting into way too much detail with the Z80 netlist simulation</title>](https://floooh.github.io/2021/12/06/z80-instruction-timing.html)
