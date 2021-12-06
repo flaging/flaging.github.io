@@ -3949,3 +3949,7 @@ session behaviors in \spi.
 ### [<title>Speed of random forests in XGBoost on multiclass classification - XGBoost</title>](https://discuss.xgboost.ai/t/speed-of-random-forests-in-xgboost-on-multiclass-classification/2577/1)
 
 ### [<title>Getting into way too much detail with the Z80 netlist simulation</title>](https://floooh.github.io/2021/12/06/z80-instruction-timing.html)
+
+### [<title>I installed XGBoost using "conda install -c anaconda py-xgboost", it is missing OpenMP runtime, but I installed that too! What's going on? - XGBoost</title>](https://discuss.xgboost.ai/t/i-installed-xgboost-using-conda-install-c-anaconda-py-xgboost-it-is-missing-openmp-runtime-but-i-installed-that-too-whats-going-on/2212/11)
+
+### [<title>DNS doesn't "propagate"</title>](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
