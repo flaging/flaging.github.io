@@ -4722,3 +4722,44 @@ calculus for heterogeneous queries mixing set and multiset semantics.
 ### [<title>「央视新闻」桐乡开医院疾病诊断证明「代开具医院病历《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1661165)
 
 ### [<title>【央视新闻】西安如何开具餐饮费发票_西安【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661164)
+
+### [<title>【央视新闻】广州如何可以开具税务局查询发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1715007)
+
+### [<title>「今日爆料」淮北开三甲医院诊断证明「休假病例单[长津湖」 - DockOne.io</title>](http://dockone.io/question/1715006)
+
+### [<title>「今日发布」南宁如何可以开具税务局查询发票「手机腾讯网」 - DockOne.io</title>](http://dockone.io/question/1715005)
+
+### [<title>「央视新闻」张掖开医院疾病诊断证明「医院休假单《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1715004)
+
+### [<title>「今日爆料」宿州开三甲医院诊断证明「休假病例单[长津湖」 - DockOne.io</title>](http://dockone.io/question/1715003)
+
+### [<title>【央视新闻】深圳如何可以开具税务局查询发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1715002)
+
+### [<title>「今日发布」广西如何可以开具税务局查询发票「手机腾讯网」 - DockOne.io</title>](http://dockone.io/question/1715001)
+
+### [<title>「央视新闻」酒泉开医院疾病诊断证明「医院休假单《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1715000)
+
+### [<title>【央视新闻】广东如何可以开具税务局查询发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1714999)
+
+### [<title>「今日爆料」
+合肥开三甲医院诊断证明「休假病例单[长津湖」 - DockOne.io</title>](http://dockone.io/question/1714998)
+
+### [<title>「今日爆料」重庆开三甲医院诊断证明「休假病例单[长津湖」 - DockOne.io</title>](http://dockone.io/question/1714997)
+
+### [<title>「央视新闻」白银开医院疾病诊断证明「医院休假单《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1714996)
+
+### [<title>「今日发布」福州如何可以开具税务局查询发票「手机腾讯网」 - DockOne.io</title>](http://dockone.io/question/1714995)
+
+### [<title>「央视新闻」金昌开医院疾病诊断证明「医院休假单《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1714994)
+
+### [<title>【央视新闻】北京如何可以开具税务局查询发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1714993)
+
+### [<title>「今日爆料」天津开三甲医院诊断证明「休假病例单[长津湖」 - DockOne.io</title>](http://dockone.io/question/1714992)
+
+### [<title>「今日发布」厦门如何可以开具税务局查询发票「手机腾讯网」 - DockOne.io</title>](http://dockone.io/question/1714991)
+
+### [<title>【央视新闻】上海如何可以开具税务局查询发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1714990)
+
+### [<title>「央视新闻」嘉峪关开医院疾病诊断证明「医院休假单《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1714989)
+
+### [<title>「今日爆料」上海开三甲医院诊断证明「休假病例单[长津湖」 - DockOne.io</title>](http://dockone.io/question/1714988)
