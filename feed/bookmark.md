@@ -4682,3 +4682,43 @@ rewrites. We also show how to extend the proof to a recently-introduced
 calculus for heterogeneous queries mixing set and multiset semantics.
 
     
+
+### [<title>「央视新闻」江山开医院疾病诊断证明「代开具医院病历《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1661183)
+
+### [<title>【央视新闻】上海如何代开具专用住宿费发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661182)
+
+### [<title>【央视新闻】杭州如何代开具住宿费发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661181)
+
+### [<title>【央视新闻】杭州如何代开具住宿费增值税发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661180)
+
+### [<title>「今日爆料」平湖开三甲医院诊断证明「代开具医院病历[长津湖」 - DockOne.io</title>](http://dockone.io/question/1661179)
+
+### [<title>【央视新闻】北京如何代开具住宿费发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661178)
+
+### [<title>【央视新闻】北京如何代开具住宿费增值税发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661177)
+
+### [<title>【央视新闻】上海如何代开具住宿费发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661176)
+
+### [<title>【央视新闻】上海如何代开具住宿费增值税发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661175)
+
+### [<title>【央视新闻】杭州如何代开具专用住宿费发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661174)
+
+### [<title>「今日爆料」奉化开三甲医院诊断证明「代开具医院病历[长津湖」 - DockOne.io</title>](http://dockone.io/question/1661173)
+
+### [<title>「央视新闻」嵊州开医院疾病诊断证明「代开具医院病历《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1661172)
+
+### [<title>「央视新闻」诸暨开医院疾病诊断证明「代开具医院病历《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1661171)
+
+### [<title>【央视新闻】太原如何开具餐饮费发票_太原【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661170)
+
+### [<title>【央视新闻】北京如何代开具专用住宿费发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661169)
+
+### [<title>【央视新闻】合肥如何开具餐饮费发票_合肥【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661168)
+
+### [<title>【央视新闻】上海如何代开具专用住宿费发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661167)
+
+### [<title>「今日爆料」余姚开三甲医院诊断证明「代开具医院病历[长津湖」 - DockOne.io</title>](http://dockone.io/question/1661166)
+
+### [<title>「央视新闻」桐乡开医院疾病诊断证明「代开具医院病历《手机搜狐网》 - DockOne.io</title>](http://dockone.io/question/1661165)
+
+### [<title>【央视新闻】西安如何开具餐饮费发票_西安【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1661164)
