@@ -4270,3 +4270,9 @@ choice thus has important consequences for how we can program with, and reason
 about, these advanced data types.
 
     
+
+### [<title>XG Boost with Missing Values - XGBoost</title>](https://discuss.xgboost.ai/t/xg-boost-with-missing-values/2582/1)
+
+### [<title>How to read xgboost binary buffer file - XGBoost</title>](https://discuss.xgboost.ai/t/how-to-read-xgboost-binary-buffer-file/2562/5)
+
+### [<title>Is additional validation set affect training result? - XGBoost</title>](https://discuss.xgboost.ai/t/is-additional-validation-set-affect-training-result/2580/1)
