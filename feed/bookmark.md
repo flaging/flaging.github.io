@@ -4276,3 +4276,5 @@ about, these advanced data types.
 ### [<title>How to read xgboost binary buffer file - XGBoost</title>](https://discuss.xgboost.ai/t/how-to-read-xgboost-binary-buffer-file/2562/5)
 
 ### [<title>Is additional validation set affect training result? - XGBoost</title>](https://discuss.xgboost.ai/t/is-additional-validation-set-affect-training-result/2580/1)
+
+### [<title>GridSearch and optional parameters - XGBoost</title>](https://discuss.xgboost.ai/t/gridsearch-and-optional-parameters/1429/2)
