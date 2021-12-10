@@ -3476,3 +3476,7 @@ type, function composition, and reduction steps. Code and data are publicly
 available at this https URL.
 
     
+
+### [<title>Survival with time-dependent covariates - XGBoost</title>](https://discuss.xgboost.ai/t/survival-with-time-dependent-covariates/2587/1)
+
+### [<title>Jupyter kernel dies when upgrading xgboost v90 to &gt; v1.0 - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/jupyter-kernel-dies-when-upgrading-xgboost-v90-to-v1-0/2586/1)
