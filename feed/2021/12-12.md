@@ -42,3 +42,11 @@
 ### [<title>【央视新闻】贵阳如何可以开具钢材发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1811964)
 
 ### [<title>C API make install - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/c-api-make-install/2589/3)
+
+### [<title>Inverse xgboost for estimation - XGBoost</title>](https://discuss.xgboost.ai/t/inverse-xgboost-for-estimation/2596/1)
+
+### [<title>Load old sklearn api version of xgboost - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/load-old-sklearn-api-version-of-xgboost/2595/1)
+
+### [<title>C API make install - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/c-api-make-install/2589/5)
+
+### [<title>C API make install - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/c-api-make-install/2589/4)
