@@ -40,3 +40,5 @@
 ### [<title>【央视新闻】福建如何可以开具钢材发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1811965)
 
 ### [<title>【央视新闻】贵阳如何可以开具钢材发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1811964)
+
+### [<title>C API make install - RFC - XGBoost</title>](https://discuss.xgboost.ai/t/c-api-make-install/2589/3)
