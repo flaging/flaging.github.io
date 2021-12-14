@@ -4692,3 +4692,9 @@ kernel.
     
 
 ### [<title>Parameters: { scale_post_weight } might not be used - XGBoost</title>](https://discuss.xgboost.ai/t/parameters-scale-post-weight-might-not-be-used/2597/3)
+
+### [<title>Ordinal non-binary categorical variable with missing values - XGBoost</title>](https://discuss.xgboost.ai/t/ordinal-non-binary-categorical-variable-with-missing-values/2599/1)
+
+### [<title>Xgboost on apple m1? - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-on-apple-m1/2004/16)
+
+### [<title>Xgboost on apple m1? - XGBoost</title>](https://discuss.xgboost.ai/t/xgboost-on-apple-m1/2004/15)
