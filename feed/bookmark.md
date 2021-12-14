@@ -4690,3 +4690,5 @@ Linux kernel's algorithm. Our tnum multiplication is now merged in the Linux
 kernel.
 
     
+
+### [<title>Parameters: { scale_post_weight } might not be used - XGBoost</title>](https://discuss.xgboost.ai/t/parameters-scale-post-weight-might-not-be-used/2597/3)
