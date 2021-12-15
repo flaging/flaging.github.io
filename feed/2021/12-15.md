@@ -4064,3 +4064,5 @@ compatibility, using size inference as a replacement for syntactic checking is
 wildly impractical in terms of performance.
 
     
+
+### [<title>Full path to source file is used instead of relative path in verbose message for default build - XGBoost</title>](https://discuss.xgboost.ai/t/full-path-to-source-file-is-used-instead-of-relative-path-in-verbose-message-for-default-build/2601/1)
