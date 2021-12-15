@@ -4066,3 +4066,51 @@ wildly impractical in terms of performance.
     
 
 ### [<title>Full path to source file is used instead of relative path in verbose message for default build - XGBoost</title>](https://discuss.xgboost.ai/t/full-path-to-source-file-is-used-instead-of-relative-path-in-verbose-message-for-default-build/2601/1)
+
+### [<title>Full path to source file is used instead of relative path in verbose message for default build - XGBoost</title>](https://discuss.xgboost.ai/t/full-path-to-source-file-is-used-instead-of-relative-path-in-verbose-message-for-default-build/2601/2)
+
+### [<title>Meaning of negative/positive instances for scale_pos_weight - XGBoost</title>](https://discuss.xgboost.ai/t/meaning-of-negative-positive-instances-for-scale-pos-weight/2603/2)
+
+### [<title>Meaning of negative/positive instances for scale_pos_weight - XGBoost</title>](https://discuss.xgboost.ai/t/meaning-of-negative-positive-instances-for-scale-pos-weight/2603/1)
+
+### [<title>【央视新闻】深圳市代开具住宿手撕发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867009)
+
+### [<title>「今日发布」北京如何开具汽车配件发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867010)
+
+### [<title>【央视新闻】北京市代开具住宿手撕发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867007)
+
+### [<title>「今日发布」上海如何开具汽车配件发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867008)
+
+### [<title>【央视新闻】上海市代开具住宿手撕发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867006)
+
+### [<title>「今日发布」武汉如何开具建筑工程发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867005)
+
+### [<title>「今日发布」南京如何开具建筑工程发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867004)
+
+### [<title>【央视新闻】哪里能代开具住宿手撕发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867003)
+
+### [<title>【央视新闻】呼和浩特市代开具餐饮手撕发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867002)
+
+### [<title>「今日发布」苏州如何开具建筑工程发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867001)
+
+### [<title>【央视新闻】温州市代开具餐饮手撕发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1867000)
+
+### [<title>「今日发布」宁波如何开具建筑工程发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1866999)
+
+### [<title>【央视新闻】昆明市代开具餐饮手撕发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1866998)
+
+### [<title>「今日发布」郑州如何开具建筑工程发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1866997)
+
+### [<title>「今日发布」重庆如何开具建筑工程发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1866996)
+
+### [<title>【央视新闻】南昌市代开具餐饮手撕发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1866995)
+
+### [<title>【央视新闻】福州市代开具餐饮手撕发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1866994)
+
+### [<title>「今日发布」天津如何开具建筑工程发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1866993)
+
+### [<title>「今日发布」杭州如何开具建筑工程发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1866992)
+
+### [<title>「今日发布」成都如何开具建筑工程发票【手机搜狐网】 - DockOne.io</title>](http://dockone.io/question/1866991)
+
+### [<title>New tool: Mess with DNS!</title>](https://jvns.ca/blog/2021/12/15/mess-with-dns/)
