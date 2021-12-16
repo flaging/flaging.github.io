@@ -3788,3 +3788,5 @@ normalization, which gives a positive answer to a question known as
 intersection} to retrieve some well-known results on infinitary terms.
 
     
+
+### [<title>Does one need to build from source for multi-GPU support? - XGBoost</title>](https://discuss.xgboost.ai/t/does-one-need-to-build-from-source-for-multi-gpu-support/2606/1)
