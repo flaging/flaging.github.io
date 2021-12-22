@@ -3468,3 +3468,5 @@ explicit one and is well suited to be automated in Coq, as demonstrated with
 some typical examples.
 
     
+
+### [<title>Training stuck for no apparent reason - XGBoost</title>](https://discuss.xgboost.ai/t/training-stuck-for-no-apparent-reason/2614/1)
