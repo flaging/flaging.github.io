@@ -2910,3 +2910,5 @@ new algorithm and benchmark it against kmc and a binary session subtyping
 algorithm. We find they are exponentially slower than Rumpsteak's.
 
     
+
+### [<title>How could I properly subclass XGBRegressor? - XGBoost</title>](https://discuss.xgboost.ai/t/how-could-i-properly-subclass-xgbregressor/2616/1)
