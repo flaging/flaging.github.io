@@ -6,10 +6,10 @@
 
 福来鸽整理的一些基础知识，主要用于回顾和便于日后查阅，以C++和数据结构为主。
 
-* [数据结构和算法基础](./data_struct_and_algo.md)
-* [C/C++ 基础](./cpp_basics.md)
-* [LeetCode 每日一题](./leetcode-everyday.md)
-* 日常工具：[vim](./vim.md)
+* [数据结构和算法基础](https://flaging.github.io/basics/data_struct_and_algo.html)
+* [C/C++ 基础](https://flaging.github.io/basics/cpp_basics.html)
+* [LeetCode 每日一题](https://flaging.github.io/basics/leetcode-everyday.html)
+* 日常工具：[vim](https://flaging.github.io/basics/vim.html)
 
 ### [tech news](https://flaging.github.io/tech-news/)
 
